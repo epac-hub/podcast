@@ -7,6 +7,11 @@
     {% if config.subtitle %}<p class="subtitle">{{ config.subtitle }}</p>{% endif %}
     <p class="description">{{ config.description }}</p>
     {% if config.author %}<p class="byline">Hosted by {{ config.author }}</p>{% endif %}
+    <p class="listen-row">
+      {% if config.spotify_url %}<a class="listen-btn" href="{{ config.spotify_url }}">Listen on Spotify</a>{% endif %}
+      {% if config.apple_url %}<a class="listen-btn" href="{{ config.apple_url }}">Apple Podcasts</a>{% endif %}
+      <a class="listen-btn" href="{{ root }}feed.xml">RSS</a>
+    </p>
   </div>
 </section>
 
