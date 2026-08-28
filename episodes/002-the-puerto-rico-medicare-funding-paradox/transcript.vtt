@@ -1,0 +1,1328 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.720
+Welcome to the deep dive today. We are opening up this
+
+00:00:04.320 --> 00:00:11.360
+This massive stack of federal data. It's it's specifically centered around this interactive dashboard called the CMS console
+
+00:00:11.360 --> 00:00:13.920
+Yeah, and it is a massive data set. Oh, it's huge
+
+00:00:13.920 --> 00:00:20.640
+And we're gonna go through it basically tab by tab looking at the realities of the Medicare Advantage Market in Puerto Rico
+
+00:00:20.640 --> 00:00:26.080
+Yeah, because the mission for us today is to unravel this this really specific
+
+00:00:26.640 --> 00:00:31.880
+Kind of strange mystery. It really is. Yeah, we're looking at how a health care system
+
+00:00:32.480 --> 00:00:36.420
+Manages to get straight A's on every single federal test like
+
+00:00:37.000 --> 00:00:40.360
+Providing the absolute highest quality care with the most efficiency
+
+00:00:40.680 --> 00:00:45.000
+Only to receive basically the absolute lowest federal funding of anyone in the class, right?
+
+00:00:45.000 --> 00:00:49.160
+Which is actually before we get into the heavy math of it all I can want to frame this for the listeners
+
+00:00:49.160 --> 00:00:52.280
+Mm-hmm. I want you to imagine your own workplace for a second
+
+00:00:52.280 --> 00:00:57.080
+So let's say you have a performance review system, right? And you are absolutely crushing it
+
+00:00:57.080 --> 00:01:03.240
+You're the most efficient your quality of work is totally unmatched. You are literally the top performer in the entire company
+
+00:01:03.240 --> 00:01:07.440
+You're doing everything right exactly everything right and then bonus season rolls around
+
+00:01:08.280 --> 00:01:13.280
+Management calls you in they look at your flawless record pat you on the back and then hand you a paycheck
+
+00:01:13.280 --> 00:01:19.640
+That is like roughly half of what the guy in the next cubicle is making. Wow. Yeah a guy who by the way
+
+00:01:19.640 --> 00:01:21.640
+Is a completely average performer. Yeah
+
+00:01:21.640 --> 00:01:28.360
+I mean, it's the kind of scenario that would cause a mass walkout and literally any normal industry because you know
+
+00:01:28.360 --> 00:01:33.260
+We operate under this assumption that performance metrics and compensation are fundamentally linked, right?
+
+00:01:33.260 --> 00:01:37.940
+Like if you hit the government's targets, you get the commensurate resources to keep going. Yeah, that's basic logic
+
+00:01:38.200 --> 00:01:39.020
+exactly
+
+00:01:39.020 --> 00:01:41.020
+but what the data in this
+
+00:01:41.120 --> 00:01:47.200
+The CMS console reveals is that once you step into the world of federal health care financing
+
+00:01:47.720 --> 00:01:54.160
+Specifically the algorithms that are driving Medicare Advantage that logical link just completely disintegrates
+
+00:01:54.600 --> 00:01:57.680
+Okay, let's unpack this because we need to start by establishing
+
+00:01:58.920 --> 00:02:07.920
+Just the baseline reality on the island before we start diagnosing like the bureaucratic disease here for people who aren't steeped in health policy
+
+00:02:08.680 --> 00:02:12.720
+What is actually happening on the ground in Puerto Rico with Medicare Advantage?
+
+00:02:13.240 --> 00:02:19.280
+Because looking at the sources it it looks like a totally different planet compared to the mainland. Oh, it really is
+
+00:02:20.280 --> 00:02:22.680
+To understand the Puerto Rican health care market
+
+00:02:22.680 --> 00:02:27.440
+You have to realize that Medicare Advantage isn't just like a popular insurance option
+
+00:02:27.440 --> 00:02:33.720
+It effectively is the health care system for seniors down there. Okay, so let me just break down the difference real quick
+
+00:02:34.680 --> 00:02:37.120
+Traditional Medicare is a fee-for-service model, right?
+
+00:02:37.120 --> 00:02:40.960
+You go to the doctor the doctor sends a bill to the government and the government pays the doctor
+
+00:02:40.960 --> 00:02:42.440
+Pretty straightforward, right?
+
+00:02:42.440 --> 00:02:45.840
+But Medicare Advantage on the other hand is when the government pays a
+
+00:02:46.520 --> 00:02:52.000
+Fixed monthly budget to a private insurance plan and then that private plan manages all of your care
+
+00:02:52.240 --> 00:02:58.520
+So on the US mainland about I think it's sixty three point four percent of Medicare beneficiaries
+
+00:02:58.520 --> 00:03:03.680
+Choose these advantage plans, but in Puerto Rico that penetration rate is a staggering
+
+00:03:04.320 --> 00:03:10.320
+95.8 percent wait 95.8 percent up almost everybody so basically if you're a senior living in Puerto Rico
+
+00:03:10.400 --> 00:03:17.000
+You're in a Medicare Advantage plan. There's there's virtually nobody left in the traditional government-run system almost nobody, right?
+
+00:03:17.000 --> 00:03:21.360
+Yeah, and what's really remarkable is the quality they're delivering at that incredible scale, right?
+
+00:03:21.360 --> 00:03:28.800
+Because you know the federal government uses a star rating system to measure the quality of these plans from from one to five stars and
+
+00:03:29.280 --> 00:03:37.000
+Three of the island's four largest contracts hold five star ratings for 2026. Wow if you look at the entire island
+
+00:03:37.800 --> 00:03:44.160
+99.1% of all Puerto Rico's Medicare Advantage enrollees are in plans rated 4.5 stars or higher
+
+00:03:44.160 --> 00:03:45.040
+That is yeah
+
+00:03:45.040 --> 00:03:48.240
+I was looking at star ratings tab in the console and that just the sheer
+
+00:03:48.640 --> 00:03:54.360
+Concentration of excellence kind of blew my mind because we aren't talking about like a boutique plan with a few thousand people
+
+00:03:54.360 --> 00:04:02.080
+No, not at all. There's this company called MCS classic air that operates the single largest five-star Medicare Advantage contract in the entire
+
+00:04:02.160 --> 00:04:04.580
+United States, right like they have over
+
+00:04:05.520 --> 00:04:13.040
+330,000 members in one five-star plan. Yeah, the the national map of excellence just heavily tilts toward the island
+
+00:04:13.040 --> 00:04:21.040
+I think the government awarded five stars to 18 contracts nationwide for 2026 and three of those are in Puerto Rico
+
+00:04:21.480 --> 00:04:24.640
+Okay, but because of that massive scale you just mentioned
+
+00:04:25.240 --> 00:04:30.320
+66.7% of all five-star enrollees nationwide live in Puerto Rico
+
+00:04:30.320 --> 00:04:38.640
+Two-thirds of the whole country's five-star patients. Yes, that's more than half a million people getting top tier like gold standard care
+
+00:04:39.360 --> 00:04:45.880
+Puerto Rico literally holds twice the five-star membership of the other 15 contracts in the US combined. That's wild
+
+00:04:45.880 --> 00:04:50.960
+Yeah, I mean California, Florida, New York, none of them even come close Puerto Rico is the national standard
+
+00:04:50.960 --> 00:04:58.440
+Which okay, that brings us back to that workplace analogy from earlier because the federal government they created the Medicare Advantage program specifically to encourage
+
+00:04:58.840 --> 00:05:05.680
+High-quality private plan participation right to move people away from the traditional fee-for-service model. Exactly. That was the whole goal
+
+00:05:05.680 --> 00:05:10.280
+So Puerto Rico took that assignment checked every single box and basically became the valedictorian
+
+00:05:10.280 --> 00:05:13.320
+So what is the financial reward for being the best in the country?
+
+00:05:13.440 --> 00:05:19.120
+Well, the reward is the absolute lowest payment rate in the entire federal program unbelievable
+
+00:05:19.120 --> 00:05:22.160
+Yeah, so the government sets this thing called a benchmark, right?
+
+00:05:22.160 --> 00:05:27.880
+Which is just the base amount they pay per member per month to the health plan to cover a patient
+
+00:05:28.560 --> 00:05:32.800
+And for calendar year 2027 Puerto Rico's average benchmark is just
+
+00:05:33.480 --> 00:05:37.080
+$778. I'm just trying to contextualize $778
+
+00:05:37.800 --> 00:05:42.560
+What's the US mainland average just for comparison? The mainland average is
+
+00:05:44.280 --> 00:05:49.760
+$1,313 per month. Are you kidding? Nope. They are getting like 59 cents on the dollar compared to the mainland
+
+00:05:50.160 --> 00:05:55.640
+How does how does the government justify paying half price to the best performing market?
+
+00:05:55.640 --> 00:05:58.680
+I mean, let me guess is it is it tied to the cost of living or something?
+
+00:05:58.680 --> 00:06:03.960
+Well, see the cost of living argument falls apart immediately when you look at their closest neighbor. Oh, really? Yeah
+
+00:06:04.360 --> 00:06:08.800
+If you compare Puerto Rico to the US Virgin Islands
+
+00:06:09.240 --> 00:06:16.640
+Which you know is an adjacent territory operating under the exact same federal Medicare statutes with very similar economic profiles
+
+00:06:17.080 --> 00:06:19.080
+The Virgin Islands gets
+
+00:06:19.600 --> 00:06:21.840
+$967 per member per month
+
+00:06:22.320 --> 00:06:30.360
+Okay, so even comparing territory to territory Puerto Rico is getting roughly what 80% of what their immediate neighbor gets exactly
+
+00:06:30.360 --> 00:06:34.880
+I just don't understand the math here because if the star readings are supposed to be a meritocracy
+
+00:06:35.400 --> 00:06:37.560
+This is like winning the gold medal at the Olympics
+
+00:06:37.560 --> 00:06:41.160
+But being handed the prize money for like the participation ribbon, right?
+
+00:06:41.280 --> 00:06:46.480
+How is it mathematically possible for a federal agency to certify a plan is the best in America and
+
+00:06:47.080 --> 00:06:49.120
+Simultaneously pay it these rock bottom rates
+
+00:06:49.400 --> 00:06:52.740
+So to answer that we really have to look under the hood of the algorithms
+
+00:06:53.440 --> 00:06:59.040
+The formulas that dictate these payments are fundamentally blind to the reality on the ground in Puerto Rico
+
+00:06:59.040 --> 00:07:04.160
+Okay, because it's not it isn't like a malicious bureaucrat in a back room trying to punish the island, you know
+
+00:07:04.160 --> 00:07:09.880
+It's a systemic methodological artifact that's driven by these massive beta blind spot. Yeah
+
+00:07:09.880 --> 00:07:14.640
+So let's look at the first major blind spot from the consuls demographic tabs
+
+00:07:14.960 --> 00:07:20.160
+It's what we call the invisible duals. Okay, I've heard this term thrown around in the sources a bunch
+
+00:07:20.160 --> 00:07:27.760
+But I need you to break it down. Yeah, can you define a dual eligible for someone who you know doesn't work in a hospital building department?
+
+00:07:27.760 --> 00:07:34.080
+Yeah, absolutely a dual eligible is a patient who is poor enough and sick enough to qualify for both
+
+00:07:34.440 --> 00:07:39.040
+Medicare which is for seniors and Medicaid which is for low-income individuals
+
+00:07:39.040 --> 00:07:39.380
+Okay
+
+00:07:39.380 --> 00:07:44.440
+So dual meaning both programs right and these are the most vulnerable patients in the entire healthcare system
+
+00:07:44.640 --> 00:07:48.260
+So because they require so much more care the federal government
+
+00:07:48.260 --> 00:07:53.340
+Calibrates a huge portion of its payments and its risk adjustments around how many dual
+
+00:07:53.480 --> 00:07:56.360
+Eligibles a plan treats that makes total sense, right?
+
+00:07:56.360 --> 00:08:04.240
+If your population has a lot of duals the algorithm recognizes that your costs are going to be higher and it adjusts your funding upward to compensate
+
+00:08:04.240 --> 00:08:04.720
+Okay
+
+00:08:04.720 --> 00:08:11.600
+So looking at Puerto Rico with a poverty rate hovering around what 40% they mean they must have a massive number of duals down there
+
+00:08:11.600 --> 00:08:17.140
+What do the official numbers actually say? Well, that depends entirely on which federal spreadsheet you open
+
+00:08:17.140 --> 00:08:24.800
+Oh, yeah, if you open the government's official Medicare demographic tables for 2026 the computer system claims Puerto Rico has exactly
+
+00:08:26.400 --> 00:08:31.540
+5581 duals wait what yeah, that is 1.7% of their Medicare population
+
+00:08:31.920 --> 00:08:36.320
+Which puts them dead last in the United States 1.7% there is no way
+
+00:08:36.320 --> 00:08:40.760
+I mean if the poverty rate is 40% how can only 1.7% of the seniors beyond Medicaid?
+
+00:08:40.760 --> 00:08:42.920
+That has to be a typo. It's not a typo
+
+00:08:42.920 --> 00:08:46.920
+It's a blind spot and we know it's wrong because the government actually has another set of file
+
+00:08:46.920 --> 00:08:52.720
+Of course, they do right they track enrollment in something called special needs plans or DSNPs and
+
+00:08:53.120 --> 00:08:59.640
+To be legally allowed to enroll in a DSMP. You must be a verified dual eligible, okay in those files
+
+00:08:59.640 --> 00:09:03.920
+The government confirms there are 307,571 dual
+
+00:09:04.080 --> 00:09:09.160
+Eligibles enrolled in Puerto Rico. Hold on just hold on the government's own Medicaid side data shows over
+
+00:09:09.520 --> 00:09:14.120
+300,000 duals, but their Medicare side algorithms only see 5,000. Yeah, I don't get it
+
+00:09:14.120 --> 00:09:18.640
+They are the Centers for Medicare A&D Medicaid services like it's the same agency
+
+00:09:18.680 --> 00:09:26.680
+Why can't the Medicare computer just I don't know look at the Medicaid computers spreadsheet because federal statutes rarely run on common sense
+
+00:09:26.680 --> 00:09:31.800
+Fair enough the mechanism that makes a dual patient visible to the Medicare payment formula
+
+00:09:31.800 --> 00:09:35.920
+Isn't just checking a box that says poor. It requires a very specific
+
+00:09:36.880 --> 00:09:43.080
+Federal data flag. Okay, what kind of flag well in the 50 states that flag is generated when the state government
+
+00:09:43.440 --> 00:09:47.400
+Reports the patient through a specific channel called the Medicare savings program
+
+00:09:47.640 --> 00:09:50.240
+But the catch is that Puerto Rico is
+
+00:09:50.640 --> 00:09:53.440
+Statutorily exempt from operating the Medicare savings program
+
+00:09:53.440 --> 00:10:00.400
+So because they don't have this one specific reporting channel the computer system just never generates the flag for the algorithm
+
+00:10:00.400 --> 00:10:04.960
+Exactly. No program. No flag. No flag. No duals in the Medicare accounting system
+
+00:10:04.960 --> 00:10:09.440
+Wow, it creates an undercount of roughly 55 times the actual population
+
+00:10:09.440 --> 00:10:12.200
+I mean if you use the real number over 300,000
+
+00:10:12.760 --> 00:10:17.000
+Puerto Rico's dual eligible share is about 39.5 percent, which is huge
+
+00:10:17.120 --> 00:10:21.320
+Yeah, that would rank them number one in the nation for trading vulnerable patients
+
+00:10:21.720 --> 00:10:27.440
+Even above Washington DC, but the formula just happily chugs along thinking they're at 1.7 percent
+
+00:10:27.440 --> 00:10:33.640
+So this means that a jurisdiction whose poorest sickest 39.5 percent is recorded as 1.7 percent
+
+00:10:33.920 --> 00:10:41.000
+They enter every single calculation looking significantly healthier wealthier and just cheaper to serve than they actually are
+
+00:10:41.480 --> 00:10:45.520
+Precisely. The algorithm basically thinks they're treating a bunch of wealthy healthy retirees
+
+00:10:45.520 --> 00:10:52.360
+And it artificially depresses their risk scores and all their socioeconomic adjustments which instantly compounds the payment gap
+
+00:10:52.880 --> 00:10:56.600
+But believe it or not the invisible duals are really only half the problem
+
+00:10:56.640 --> 00:11:01.600
+Oh, great. There's more. Yeah, the console data reveals a second massive artifact
+
+00:11:01.600 --> 00:11:08.480
+Which is the fee-for-service remnant and this is arguably the fatal flaw in the entire system the fee-for-service remnant
+
+00:11:08.480 --> 00:11:13.400
+Okay, earlier you mentioned that traditional fee-for-service Medicare is where the government pays the doctor directly
+
+00:11:13.400 --> 00:11:16.160
+Yeah, how does that factor into the Advantage Plan budgets?
+
+00:11:16.160 --> 00:11:24.680
+Well by federal law Medicare Advantage benchmarks are mechanically tied to the local cost of treating people in traditional fee-for-service Medicare
+
+00:11:25.120 --> 00:11:30.120
+So the government looks at how much traditional Medicare costs in a specific county and
+
+00:11:30.480 --> 00:11:35.600
+Uses that exact baseline to set the budget for the private Advantage Plans in that same county
+
+00:11:35.600 --> 00:11:41.840
+Okay, that sort of makes sense on the mainland it works reasonably well because you have a huge pool of people in traditional Medicare
+
+00:11:41.840 --> 00:11:47.080
+So you get a statistically valid sample like an average mainland County has about
+
+00:11:48.120 --> 00:11:51.240
+9400 fee-for-service beneficiaries to measure wait wait
+
+00:11:51.240 --> 00:11:57.400
+I'm putting the pieces together here if 95.8% of people in Puerto Rico are in Medicare Advantage Plans
+
+00:11:57.800 --> 00:12:01.080
+There is almost nobody left in the traditional system bingo
+
+00:12:01.080 --> 00:12:03.880
+So who is the algorithm even measuring to get the benchmark?
+
+00:12:03.880 --> 00:12:11.240
+It's measuring a ghost town the fee-for-service measurement base in Puerto Rico has just completely collapsed the entire island has only about
+
+00:12:11.520 --> 00:12:19.080
+27,275 people left in traditional Medicare with both part a and part b hold on let's pause there part a part b
+
+00:12:19.240 --> 00:12:23.480
+Can you walk me through what does actually mean in plain English before we completely lose the plot?
+
+00:12:23.480 --> 00:12:28.040
+Yeah, of course. So broadly speaking part a covers hospital stays, okay?
+
+00:12:28.160 --> 00:12:32.360
+When you turn 65 you generally get part a automatically part b
+
+00:12:32.360 --> 00:12:35.080
+however covers doctor visits and outpatient care and
+
+00:12:35.440 --> 00:12:42.560
+You have to actively pay a premium for part b. That's a so to get a complete picture of a patient's health care costs
+
+00:12:42.560 --> 00:12:46.520
+The algorithm needs to look at patients who have both part a and part b
+
+00:12:46.600 --> 00:12:49.560
+Okay, so the algorithm needs a complete picture and in Puerto Rico
+
+00:12:49.560 --> 00:12:55.560
+It's only looking at a tiny sliver of about 27,000 people. Yeah, and it gets so much worse. Oh boy
+
+00:12:55.720 --> 00:13:00.600
+Puerto Rico is divided into 78 municipalities which act like counties for this formula
+
+00:13:00.760 --> 00:13:05.320
+So when you take those 27,000 people and divide them up the average municipality has only
+
+00:13:06.360 --> 00:13:08.840
+376 fee-for-service beneficiaries left to measure
+
+00:13:09.800 --> 00:13:10.440
+376 people
+
+00:13:10.440 --> 00:13:15.320
+Yep, so they're using the health care costs of a sample size of 376 people
+
+00:13:15.720 --> 00:13:21.560
+To dictate the multimillion dollar budget for tens of thousands of people and the Medicare Advantage plans right next door
+
+00:13:21.880 --> 00:13:24.440
+That is exactly the law the benchmark for roughly
+
+00:13:25.720 --> 00:13:30.200
+674,000 advantage enrollees is dictated by a four percent sliver of the population
+
+00:13:30.680 --> 00:13:34.840
+But here is the real kicker that four percent is highly atypical
+
+00:13:35.720 --> 00:13:39.800
+Unlike on the mainland where you're automatically enrolled in part b in Puerto Rico
+
+00:13:39.800 --> 00:13:46.840
+You actually have to proactively opt in because of that roughly 73% of the people in that tiny fee-for-service remnant
+
+00:13:46.920 --> 00:13:52.360
+Don't even have part b coverage. So they don't have an outpatient coverage. Right. They don't go to doctors in the traditional system
+
+00:13:52.440 --> 00:13:58.040
+Therefore they mechanically contribute zero dollars in part b spending to the data pool
+
+00:13:58.360 --> 00:14:01.080
+Okay, so the algorithm looks at a tiny sample size
+
+00:14:01.480 --> 00:14:06.600
+Sees a massive pile of zeros because these people don't even have the coverage to begin with and the computer just concludes
+
+00:14:06.920 --> 00:14:09.560
+Wow health care in Puerto Rico is incredibly cheap
+
+00:14:09.720 --> 00:14:16.040
+Exactly it concludes that costs are virtually non-existent. So it sets the Medicare Advantage benchmark at the absolute floor
+
+00:14:16.520 --> 00:14:23.080
+It essentially mistakes an empty waiting room in the traditional Medicare system for a fundamentally cheap health care economy
+
+00:14:23.400 --> 00:14:27.240
+While completely ignoring the packed waiting rooms in the Medicare Advantage system
+
+00:14:27.560 --> 00:14:34.200
+Okay, I have to play devil's advocate here for a second because I can hear someone at like a think tank arguing
+
+00:14:35.000 --> 00:14:39.640
+You know, look Puerto Rico is just a lower cost environment. The cost of living is lower wages are lower
+
+00:14:39.720 --> 00:14:43.960
+So maybe the hospitals are just cheaper to run. Sure people say that right like
+
+00:14:44.760 --> 00:14:48.040
+Are we sure Puerto Rican hospitals aren't just horribly mismanaged?
+
+00:14:48.440 --> 00:14:52.760
+How do we actually know it's the formula starving them and not just local economics?
+
+00:14:52.840 --> 00:14:56.840
+Well, we know it's the formula by looking at unit prices versus volume
+
+00:14:57.880 --> 00:15:05.480
+If Puerto Rico were simply getting a discount on health care, you would expect Medicare to pay significantly less for individual basic services, right?
+
+00:15:06.120 --> 00:15:13.320
+But cms's own claims files show that for common doctor visits the government pays Puerto Rico physicians almost exactly the national rate
+
+00:15:13.560 --> 00:15:17.240
+Really like just a standard physical cost the same very close. Yeah
+
+00:15:18.120 --> 00:15:22.200
+The medical billing world uses these things called evaluation and management codes
+
+00:15:22.280 --> 00:15:25.800
+So think of a mid-level office visit, which is code 99213
+
+00:15:26.440 --> 00:15:31.880
+On the mainland the government pays a doctor about $59 and 32 cents for that visit in Puerto Rico
+
+00:15:31.960 --> 00:15:38.520
+They pay $57 and 25 cents. Oh, wow that is close. Yeah, and for a slightly more complex visit
+
+00:15:38.760 --> 00:15:44.280
+It's $83 and 75 cents nationally and $83 and 50 cents in Puerto Rico
+
+00:15:44.440 --> 00:15:46.440
+So a 25 cent difference. Exactly
+
+00:15:47.160 --> 00:15:48.680
+The unit price
+
+00:15:48.680 --> 00:15:54.680
+The cost of the actual interaction isn't deeply discounted at all. What collapsed wasn't the cost of care
+
+00:15:54.760 --> 00:16:02.440
+What collapsed was the volume of visible fee for service claims because everybody moved to advantage, right between 2009 and 2024
+
+00:16:02.840 --> 00:16:06.200
+Traditional part b payments in Puerto Rico fell by 76
+
+00:16:07.160 --> 00:16:10.760
+Not because things got cheaper, but because everyone moved to advantage plans
+
+00:16:11.080 --> 00:16:15.960
+The algorithm is literally punishing them for doing exactly what the government wanted them to do
+
+00:16:16.120 --> 00:16:20.760
+Man, so if the data is fundamentally flawed and the budgets are artificially crushed
+
+00:16:21.000 --> 00:16:24.680
+What does this actually look like in the real world because we aren't just talking about spreadsheets here
+
+00:16:24.760 --> 00:16:28.520
+This has to be causing a chain reaction on the ground for hospitals and patients
+
+00:16:28.600 --> 00:16:30.760
+Oh, it creates a severe economic trap
+
+00:16:31.160 --> 00:16:35.320
+Um, let's walk through how this manifests starting with how the government calculates salaries
+
+00:16:35.320 --> 00:16:39.000
+Which is known as the wage index because the benchmark funding is so low
+
+00:16:39.480 --> 00:16:44.840
+Government payers like Medicare and Medicaid which dominates 61.5 of the Puerto Rican market
+
+00:16:45.320 --> 00:16:53.240
+They're paying hospitals absolute minimums, right now on the mainland hospitals can charge private commercial insurance higher rates to kind of make up for government
+
+00:16:53.320 --> 00:16:57.720
+Shortfalls, but Puerto Rico doesn't have a large enough commercial market to cross subsidize
+
+00:16:58.040 --> 00:17:01.480
+So the hospitals are just absorbing the losses then massive losses
+
+00:17:01.800 --> 00:17:07.400
+The data shows Puerto Rico hospitals operate at a negative 7.9 margin on patient care
+
+00:17:07.960 --> 00:17:13.960
+They are essentially losing nearly eight cents on every single dollar of care they provide. That's unsustainable
+
+00:17:14.200 --> 00:17:18.280
+It is and when hospitals bleed money like that, they cannot pay competitive wages
+
+00:17:18.840 --> 00:17:24.600
+Hospital staff and Puerto Rico average an annual salary of about 33,792
+
+00:17:25.160 --> 00:17:29.320
+Okay, and what's the mainland average the mainland average is $89,002
+
+00:17:29.640 --> 00:17:34.040
+Oh my god, and if you can't pay doctors and nurses, I mean, they're just going to get on a plane to Miami or New York
+
+00:17:34.200 --> 00:17:37.320
+They leave or they age out without being replaced
+
+00:17:37.880 --> 00:17:43.160
+We are currently looking at a massive physician retirement cliff down there nearly half
+
+00:17:43.720 --> 00:17:49.800
+Uh, 47.3 to be exact of doctors in Puerto Rico are over the age of 60
+
+00:17:49.880 --> 00:17:50.520
+Wow
+
+00:17:50.520 --> 00:17:56.520
+The financial pipeline to attract young talent is just broken and when nearly half the workforce is nearing retirement
+
+00:17:56.600 --> 00:18:03.320
+The impact on specialized medicine is terrifying. I can imagine we aren't just talking about longer wait times for a check up
+
+00:18:03.400 --> 00:18:09.240
+You know the shortage is classified as extreme for specialties like pediatric critical care and neurology
+
+00:18:09.720 --> 00:18:12.440
+I mean imagine having a child with complex seizures
+
+00:18:12.680 --> 00:18:17.080
+And knowing there is only a handful of specialists on an island of three million people
+
+00:18:17.480 --> 00:18:19.160
+And they are all booked out for months
+
+00:18:19.160 --> 00:18:24.120
+That's a nightmare and because of how the algorithm works. This creates a closed loop, doesn't it? Yes
+
+00:18:24.200 --> 00:18:29.400
+Here's where it gets really interesting because it's like basing next year's grocery budget entirely on what you spent last year
+
+00:18:29.400 --> 00:18:30.840
+When you were starving and bankrupt
+
+00:18:30.840 --> 00:18:31.240
+Yeah
+
+00:18:31.240 --> 00:18:37.000
+It mechanically guarantees you'll be starving again next year because how does the government calculate next year's wage index
+
+00:18:37.240 --> 00:18:42.840
+They look at the remaining suppressed hospital salaries in Puerto Rico those artificially low salaries
+
+00:18:43.240 --> 00:18:50.840
+Mechanically guarantee that the next computed wage index stays at the absolute bottom. It's a self-fulfilling prophecy. It's a self reinforcing loop
+
+00:18:51.000 --> 00:18:54.600
+Yeah, a methodology trap not a natural market outcome
+
+00:18:55.000 --> 00:18:56.280
+Okay, so
+
+00:18:56.280 --> 00:19:01.320
+If the formula is this rigid right and just this immune to common sense
+
+00:19:02.360 --> 00:19:04.920
+Are there places where this exact same rigidity?
+
+00:19:05.880 --> 00:19:08.680
+Accidentally makes hospitals filthy rich
+
+00:19:09.320 --> 00:19:13.400
+Because rules are rules, right? This is exactly where the story takes an almost surreal turn
+
+00:19:13.960 --> 00:19:14.600
+um
+
+00:19:14.600 --> 00:19:18.280
+The geography of this rigidity creates absurd disparities
+
+00:19:18.600 --> 00:19:24.520
+If we look at the data from a different angle, we find this fascinating case study and how arbitrary these geographic rules really are
+
+00:19:24.680 --> 00:19:26.680
+We need to talk about the tale of two islands
+
+00:19:27.000 --> 00:19:32.920
+Nantucket and vx. Okay Nantucket, Massachusetts like the island where billionaires vacation and buy mega yachts
+
+00:19:33.160 --> 00:19:35.800
+What does nantucket have to do with federal Medicare formula?
+
+00:19:35.880 --> 00:19:40.360
+Everything actually because of a well intention rule established back in 1997 called the rural floor
+
+00:19:41.240 --> 00:19:46.120
+The rule states that no urban hospital in a given state can be paid a wage index
+
+00:19:46.360 --> 00:19:49.160
+Lower than the rural hospitals in that same state
+
+00:19:49.560 --> 00:19:58.280
+The whole idea was to protect small rural hospitals in America from being drastically underfunded compared to their big city counterparts
+
+00:19:58.840 --> 00:20:02.440
+Okay, I mean on paper that sounds like a decent protection for rural health care
+
+00:20:02.680 --> 00:20:05.880
+It is until you look at how the algorithm actually applies it
+
+00:20:06.280 --> 00:20:10.920
+So in 2008 nantucket cottage hospital, which is the only hospital on the island
+
+00:20:11.320 --> 00:20:14.280
+Converted its status to become an ordinary medicare hospital
+
+00:20:14.440 --> 00:20:19.560
+Okay, and because nantucket is an island geographically located outside of a metropolitan area
+
+00:20:19.880 --> 00:20:24.280
+It officially became the only rural hospital in the entire state of massachusetts
+
+00:20:24.520 --> 00:20:28.760
+Wait, so billionaires on nantucket are setting the baseline for the whole state of massachusetts
+
+00:20:28.920 --> 00:20:35.000
+Yes, because the cost of living in nantucket is astronomical the average hospital wage there is extremely high
+
+00:20:35.160 --> 00:20:39.160
+Currently it's calculated at 78.99 an hour by law
+
+00:20:39.560 --> 00:20:45.160
+That 78.99 an hour instantly became the rural floor wage index for the entire state
+
+00:20:45.720 --> 00:20:50.280
+This meant that every single urban hospital in massachusetts including all those massive
+
+00:20:51.000 --> 00:20:59.000
+multi-billion dollar research hospitals in boston was suddenly legally mandated to receive a wage index at or above nantucket's level
+
+00:20:59.000 --> 00:21:05.400
+You've got to be kidding me one tiny island of immense wealth artificially inflated the medicare payments for the entire state
+
+00:21:05.480 --> 00:21:12.360
+Oh, yeah, it lifted the state's rural floor so high that massachusetts hospitals are paid roughly 30 above the national average
+
+00:21:12.520 --> 00:21:17.640
+That's wild. It's estimated that this one formula quirk transfers roughly 256 to
+
+00:21:18.520 --> 00:21:21.720
+367 million dollars per year to massachusetts hospitals
+
+00:21:22.360 --> 00:21:24.680
+And because the federal budget must remain neutral, you know
+
+00:21:24.760 --> 00:21:29.880
+That windfall is paid for by slight reductions to every other hospital in the country and it is perfectly legal
+
+00:21:29.960 --> 00:21:35.960
+That is the literal definition of algorithmic certainty. So how does this nantucket loophole connect back to portorico?
+
+00:21:35.960 --> 00:21:40.680
+It connects through viec viex is a tiny rural island municipality off the coast of portorico
+
+00:21:40.760 --> 00:21:47.240
+And it currently has no hospital actually the old one was destroyed by hurricane maria in 2017 right terrible tragedy
+
+00:21:47.400 --> 00:21:51.880
+Yeah, so they're in the process of building a new 85 million dollar facility
+
+00:21:52.280 --> 00:21:56.920
+But right now it is awaiting formal licensure as a hospital
+
+00:21:57.160 --> 00:22:02.440
+Okay, I think I see where this is going if viex gets this new facility licenses a hospital
+
+00:22:03.160 --> 00:22:04.840
+What happens to the algorithm?
+
+00:22:04.840 --> 00:22:12.360
+Well, if viex licenses that facility and gets it medicare certified it automatically becomes a rural hospital by geographic definition
+
+00:22:12.760 --> 00:22:19.880
+Just like nantucket. Okay, and the exact same law that has transferred hundreds of millions of dollars to massachusetts for 15 years
+
+00:22:20.200 --> 00:22:23.720
+Would instantly trigger for portorico viex real wages
+
+00:22:23.800 --> 00:22:29.320
+Which are actually higher than the suppressed mainland wages because it's expensive to get staff to a small island
+
+00:22:29.480 --> 00:22:31.480
+Right hazard pay basically exactly
+
+00:22:31.800 --> 00:22:37.800
+Those wages would instantly raise the wage index floor for every single hospital on the main island of portorico
+
+00:22:37.880 --> 00:22:42.360
+So to be clear portorico isn't begging for a special handout or some newly invented loophole
+
+00:22:42.920 --> 00:22:46.600
+They are literally just waiting for a building to be licensed so they can apply the exact
+
+00:22:47.240 --> 00:22:51.720
+Same federal law that massachusetts has been capitalizing on for a decade and a half
+
+00:22:52.200 --> 00:22:59.720
+Exactly that no petitions no acts of congress needed. Just a licensure decision triggers the algorithm in their favor
+
+00:22:59.880 --> 00:23:01.400
+I have to imagine though
+
+00:23:01.400 --> 00:23:06.600
+The economic realities of nantucket and viex are a bit different entire universe is apart
+
+00:23:07.160 --> 00:23:11.800
+The poverty rate in viex is 19.8 times higher than in nantucket
+
+00:23:12.520 --> 00:23:18.920
+Nantucket's median household income is nearly seven times higher unbelievable yet because of these geographic formulas
+
+00:23:19.320 --> 00:23:25.800
+Medicare advantage pays one thousand four hundred and twenty three dollars per member per month in nantucket and only
+
+00:23:26.840 --> 00:23:28.680
+$840 in viex
+
+00:23:28.680 --> 00:23:35.000
+The poorest island gets the smaller check simply because of an arbitrary geographic construct. It's infuriating
+
+00:23:35.400 --> 00:23:39.000
+But i want to pivot here because despite these massive financial headwinds
+
+00:23:39.240 --> 00:23:43.400
+Despite the missing duels the wage index traps and the geographic absurdities
+
+00:23:43.880 --> 00:23:46.920
+I really want to look at what portorico is actually delivering to patients
+
+00:23:47.560 --> 00:23:52.520
+Especially regarding prescription drugs because if you're listening to this and you've recently picked up a prescription state side
+
+00:23:52.920 --> 00:23:56.120
+Think about how much it cost. Let's look at the pharmacy tab in the console
+
+00:23:56.760 --> 00:23:59.800
+How is portorico handling medication on such a starved budget?
+
+00:24:00.040 --> 00:24:04.680
+So this is what we call the pharmacy paradox and it is a real testament to their operational excellence
+
+00:24:05.240 --> 00:24:07.400
+Despite having the lowest benchmarks in the nation
+
+00:24:07.800 --> 00:24:13.480
+portorico's medicare advantage members fill about 19 percent more prescriptions per year than the national average
+
+00:24:13.480 --> 00:24:18.280
+Wait 19 percent more so they are actually getting more medication into the hands of their patients. Yes
+
+00:24:18.520 --> 00:24:24.440
+They average 68.4 prescription fills per enrollee compared to 57.4 nationally
+
+00:24:24.600 --> 00:24:26.600
+But here is the truly astonishing part
+
+00:24:26.920 --> 00:24:31.320
+They do this at a roughly 15 lower gross drug costs per enrollee wait
+
+00:24:31.640 --> 00:24:34.360
+They are providing 19 percent more medication
+
+00:24:34.600 --> 00:24:39.000
+But spending 15 less money per person the math is hurting my head today
+
+00:24:39.000 --> 00:24:43.800
+How is that even possible because their cost per prescription is roughly 63 dollars nationally?
+
+00:24:43.800 --> 00:24:49.000
+It's about 89 dollars portorico is dispensing medication at 71 cents on the national dollar
+
+00:24:49.320 --> 00:24:57.160
+If you rank all 56 u.s states and territories portorico is number one in prescriptions filled per person and number one for the lowest cost per prescription
+
+00:24:57.480 --> 00:24:59.480
+That is insane efficiency
+
+00:24:59.560 --> 00:25:03.560
+But i have to ask are they achieving that efficiency just by denying people
+
+00:25:04.440 --> 00:25:06.440
+expensive life-saving treatments
+
+00:25:06.600 --> 00:25:09.880
+Like are they just saying no to cancer drugs?
+
+00:25:10.200 --> 00:25:16.520
+No, it's not that it's driven by phenomenal chronic disease management and really aggressive generic utilization
+
+00:25:16.680 --> 00:25:17.480
+Oh, right
+
+00:25:17.480 --> 00:25:23.800
+If you look at the data 11 of the top 12 drugs prescribed in portorico are low-cost chronic disease generics
+
+00:25:23.960 --> 00:25:25.960
+We're talking about thyroid medications
+
+00:25:26.200 --> 00:25:27.800
+statins for cholesterol
+
+00:25:27.800 --> 00:25:29.800
+anti-hypertensives for blood pressure
+
+00:25:30.200 --> 00:25:34.440
+Diabetes meds the basics right it is the pharmacology of adherence
+
+00:25:34.920 --> 00:25:42.120
+They're keeping their population out of the expensive hospital beds by making absolutely sure they take their daily maintenance medications
+
+00:25:42.120 --> 00:25:45.720
+Which is exactly what we want the health care system to do like preventative care
+
+00:25:46.040 --> 00:25:54.440
+Managing chronic conditions efficiently before they become catastrophic emergencies precisely the limited funds in portorico are genuinely converting into patient care
+
+00:25:54.520 --> 00:25:59.240
+And medication adherence the dollars go to the pharmacy counter not to administrative bloat
+
+00:25:59.560 --> 00:26:00.600
+That's incredible
+
+00:26:00.680 --> 00:26:04.760
+But this success is completely overshadowed by another statutory injustice
+
+00:26:05.320 --> 00:26:11.720
+If you look at the pharmacy data, you'll see a glaring anomaly called the zero dollar column the zero dollar column
+
+00:26:11.800 --> 00:26:14.680
+Yeah, I was reading through the part d rules on this in the sources
+
+00:26:14.920 --> 00:26:19.000
+And I I kept looking for a footnote or a typo because I assumed I was misreading the law
+
+00:26:19.320 --> 00:26:23.640
+Doesn't the law actually say what I think it says it does in the medicare part d program
+
+00:26:23.720 --> 00:26:31.640
+There is a federal low income subsidy known as lis and it is specifically designed to help poor seniors afford their medication copays
+
+00:26:31.800 --> 00:26:37.240
+Okay, nationally about 90 of medicare plan rows show some level of lis funding
+
+00:26:37.560 --> 00:26:40.280
+But if you look at the federal payment files for portorico
+
+00:26:40.920 --> 00:26:47.960
+70 out of 85 plan rows show exactly zero dollars and zero cents for the part d low income subsidy zero dollars
+
+00:26:48.200 --> 00:26:50.680
+For the jurisdiction with a 40 percent poverty rate
+
+00:26:50.760 --> 00:26:53.400
+Yes, and again, it's a statutory blind spot
+
+00:26:53.560 --> 00:26:58.680
+The law literally reads that the subsidy applies to a resident of the 50 states or the district of columbia
+
+00:26:59.080 --> 00:27:01.080
+It explicitly stops at the water's edge
+
+00:27:01.640 --> 00:27:06.920
+Puerto Rico is statutorily excluded from receiving it. I am genuinely bewildered by this
+
+00:27:07.640 --> 00:27:12.360
+We have a population with immense poverty. They have the highest medication usage in the system
+
+00:27:12.440 --> 00:27:14.600
+They're delivering it with the best efficiency in the country
+
+00:27:15.160 --> 00:27:21.880
+And they are legally banned from receiving the primary federal subsidy meant to help poor people afford medicine
+
+00:27:22.040 --> 00:27:27.160
+Yeah, it means the system is surviving entirely on the extreme efficiency of the local health plans
+
+00:27:27.560 --> 00:27:30.440
+And the financial sacrifice of the local doctors and hospitals
+
+00:27:30.920 --> 00:27:37.160
+They're basically stretching every penny to make up for a massive legislated hole in the federal safety net
+
+00:27:37.320 --> 00:27:43.080
+Okay, so we've outlined a deeply broken algorithm today a system that punishes efficiency
+
+00:27:43.240 --> 00:27:49.480
+ignores hundreds of thousands of vulnerable patients and traps an entire island's health care economy in a slow motion collapse
+
+00:27:49.960 --> 00:27:51.320
+Is there a way to fix it?
+
+00:27:51.320 --> 00:27:55.000
+And please tell me it doesn't require waiting for a deadlocked congress to pass a new law
+
+00:27:55.320 --> 00:27:58.520
+There is a way to fix it actually and it does not require an act of congress
+
+00:27:58.600 --> 00:28:02.120
+Thank goodness the tool to fix this is already sitting in the federal toolkit
+
+00:28:02.440 --> 00:28:09.400
+The policy ask from puerto Rico is highly specific. It's called territory stabilization at a point seven zero cost index
+
+00:28:09.720 --> 00:28:11.720
+territory stabilization at point
+
+00:28:11.880 --> 00:28:18.280
+Seven zero. Okay. Let's slow down and translate that. What does a point seven zero cost index actually mean in practice?
+
+00:28:18.440 --> 00:28:21.720
+It means puerto rico isn't asking to be paid mainland rates
+
+00:28:22.120 --> 00:28:25.240
+They aren't asking for the $1,300 a month that florida gets
+
+00:28:25.640 --> 00:28:30.840
+They are simply asking for parity with the u.s. Virgin islands because virgin islands is at a point seven zero
+
+00:28:31.000 --> 00:28:35.560
+Right the u.s. Virgin islands already sits at a cost index of roughly point seven zero
+
+00:28:35.880 --> 00:28:40.120
+puerto rico just wants the federal government to apply that same administrative index to them
+
+00:28:40.600 --> 00:28:43.960
+Why the virgin islands though is that a fair comparison mathematically?
+
+00:28:44.280 --> 00:28:50.680
+It is the most logical comparison in the system puerto rico and the u.s. Virgin islands share identical medicare statutes
+
+00:28:50.920 --> 00:28:57.720
+They are adjacent geographically in the caribbean and critically their raw unadjusted per capita health care costs are nearly identical
+
+00:28:57.800 --> 00:29:02.360
+Wait, if their raw health care costs are identical, why is there a 24 payment gap between them?
+
+00:29:02.520 --> 00:29:07.640
+Why is puerto rico stuck down at a point five zero index? Well, the virgin islands is at point seven zero
+
+00:29:07.880 --> 00:29:10.280
+This gets into the deepest weeds of the formula
+
+00:29:10.840 --> 00:29:14.040
+Specifically a step called standardizing the risk scores
+
+00:29:14.520 --> 00:29:19.880
+Which is driven by a piece of the algorithm called engine a let me try to explain it simply whoa back up
+
+00:29:20.440 --> 00:29:24.600
+Engine a the division step. What is that actually doing in plain english?
+
+00:29:24.760 --> 00:29:27.960
+Okay, think of it like grading on a curve, but the curve is broken
+
+00:29:28.120 --> 00:29:28.600
+Okay
+
+00:29:28.600 --> 00:29:35.800
+The algorithm tries to standardize costs by dividing the raw cost of care by the health risk score of the fee for service population
+
+00:29:36.520 --> 00:29:41.000
+Because the u.s. Virgin islands has a tiny fee for service population that is likely undercoded
+
+00:29:41.320 --> 00:29:48.280
+Their risk score looks very low around point seven two right if you divide a raw cost by a small decimal like point seven two
+
+00:29:48.600 --> 00:29:54.360
+It mathematically inflates the final answer that inflation pushes their cost index up to around point seven zero
+
+00:29:54.600 --> 00:29:59.720
+Puerto rico on the other hand has a slightly more accurately coded but still tiny fee for service population
+
+00:29:59.960 --> 00:30:02.120
+With a higher risk score of about point nine six
+
+00:30:02.280 --> 00:30:07.880
+Uh, I see when you divide by that larger decimal it keeps their final index depressed at around point five zero
+
+00:30:08.120 --> 00:30:14.200
+So the entire 24 payment gap which represents hundreds of millions of dollars in real world health care funding
+
+00:30:14.600 --> 00:30:20.040
+Is manufactured by a quirk in the division step of an obscure standardization formula
+
+00:30:20.200 --> 00:30:24.760
+Exactly engine a manufactures the gap and there is another algorithm engine c
+
+00:30:24.920 --> 00:30:30.600
+Which is a complicated cap that protects the virgin islands and guam from having their rates dropped too fast
+
+00:30:31.240 --> 00:30:35.800
+Puerto Rico doesn't benefit from that protection either naturally. So the proposed fix is simple
+
+00:30:36.360 --> 00:30:42.200
+The government just needs to acknowledge that the fee for service data in Puerto Rico is statistically meaningless
+
+00:30:42.680 --> 00:30:45.240
+And use the u.s. Virgin islands as a proxy
+
+00:30:45.480 --> 00:30:49.240
+But does the federal agency actually have the legal authority to just say, you know
+
+00:30:49.640 --> 00:30:53.640
+This data is bad. We are going to swap in a proxy rate. Can they just do that on their own?
+
+00:30:53.800 --> 00:30:59.080
+They absolutely have the authority under the social security act specifically section 1876 a
+
+00:30:59.560 --> 00:31:03.480
+The secretary has the explicit authority to estimate per capita costs
+
+00:31:03.960 --> 00:31:09.240
+Using data from a similar area when local data is inadequate. Okay similar area, right?
+
+00:31:09.320 --> 00:31:13.160
+The law literally gives them the exact tool for this exact scenario
+
+00:31:13.800 --> 00:31:19.480
+And what's frustrating is that the agency has utilized administrative discretion for Puerto Rico before really?
+
+00:31:19.880 --> 00:31:22.360
+They've stepped in to fix bad data in the past. Yes
+
+00:31:22.840 --> 00:31:27.080
+In 2017 they implemented something called the zero claims adjustment
+
+00:31:27.720 --> 00:31:32.760
+They realized that an unusually high number of Puerto Rican fee for service beneficiaries
+
+00:31:33.080 --> 00:31:37.960
+Had zero claims on their record, which was artificially dragging down the average costs
+
+00:31:37.960 --> 00:31:39.000
+That makes sense
+
+00:31:39.000 --> 00:31:46.120
+So the agency used its discretion to mathematically adjust the Puerto Rico data to match the national proportion of zero claimants
+
+00:31:46.520 --> 00:31:52.280
+They also changed the methodology to only look at beneficiaries who actually had both part a and part b
+
+00:31:52.840 --> 00:31:56.200
+They have a proven documented track record of adjusting the data
+
+00:31:56.760 --> 00:32:01.640
+Administratively when they recognize the algorithm is producing an absurd result. So let me get this straight
+
+00:32:01.720 --> 00:32:03.800
+The agency has the steering wheel in their hands
+
+00:32:04.280 --> 00:32:07.240
+They've used it before to swerve around potholes in the data
+
+00:32:07.720 --> 00:32:11.480
+But right now they're throwing their hands up and saying the car is driving itself
+
+00:32:11.800 --> 00:32:20.200
+If a bipartisan group of congress members the local governor the entire healthcare community are all asking for this 0.70 fix
+
+00:32:21.160 --> 00:32:26.600
+What is the agency's stated reason for refusing to use the similar area clause?
+
+00:32:27.080 --> 00:32:31.720
+This is where the bureaucratic doublespeak gets intense over the last 12 rate cycles
+
+00:32:31.800 --> 00:32:37.400
+Their reasoning has constantly shifted at first. They said the Puerto Rico data was sufficient despite the tiny sample size
+
+00:32:37.560 --> 00:32:39.960
+376 people sufficient right
+
+00:32:40.600 --> 00:32:46.600
+Then they started citing a limited discretion to incorporate targeted adjustments or exceptions such as applying floors
+
+00:32:46.760 --> 00:32:51.000
+Wait limited discretion, but you just said they used their discretion for the zero claims adjustment
+
+00:32:51.080 --> 00:32:54.040
+That's the paradox when the agency wants to adjust the data
+
+00:32:54.120 --> 00:32:59.000
+They call it a necessary exercise in discretion when they want to say no to fixing the benchmark
+
+00:32:59.080 --> 00:33:03.080
+They claim limited discretion and critically in all these years of refusing the fix
+
+00:33:03.320 --> 00:33:09.880
+The agency has never once directly answered or interpreted the similar area clause of section 1876 a4
+
+00:33:09.960 --> 00:33:12.440
+They just ignore it. They just ignore it in their responses
+
+00:33:12.680 --> 00:33:16.040
+The advocates argue that the fix shouldn't be drafted as a floor
+
+00:33:16.440 --> 00:33:18.440
+Which courts have historically struck down
+
+00:33:19.000 --> 00:33:23.720
+But as an estimation methodology, which is firmly within the agency's legal power
+
+00:33:23.800 --> 00:33:29.800
+And just to put fiscal conservatives at ease if the government were to enact this 0.70 fix
+
+00:33:30.200 --> 00:33:37.080
+It wouldn't suddenly cause payments to skyrocket uncontrollably to mainland levels right not at all the statute self-polices
+
+00:33:37.480 --> 00:33:41.640
+Any fix is mathematically capped by a separate rule called the pre aca limit
+
+00:33:42.200 --> 00:33:44.680
+This ceiling acts as an absolute guardrail
+
+00:33:45.080 --> 00:33:50.200
+Ensuring that the benchmark could strictly only rise to usvi parity and not a single dollar more
+
+00:33:50.520 --> 00:33:56.280
+It is a completely bounded fiscally constrained correction. Okay, we've gone incredibly deep into the weeds today
+
+00:33:56.520 --> 00:34:03.400
+We've talked about algorithmic blind spots missing duels fee-for-service ghosts wage index traps and geographic loopholes
+
+00:34:03.960 --> 00:34:08.920
+Pulling back from the console data. How should we ultimately understand the Puerto Rican Medicare Advantage Market?
+
+00:34:09.160 --> 00:34:11.880
+The core takeaway is really a reframing of the narrative
+
+00:34:12.280 --> 00:34:17.400
+Puerto Rico is not a distressed failing market needing a federal bailout the data proves
+
+00:34:17.480 --> 00:34:24.600
+It is actually the strongest real world demonstration of high quality high efficiency Medicare advantage in the entire country
+
+00:34:24.840 --> 00:34:27.480
+Right, they have achieved near universal participation
+
+00:34:27.800 --> 00:34:34.280
+They dominate the five star quality ratings nationally and they deliver more medication at a lower unit cost than anyone else
+
+00:34:34.600 --> 00:34:38.120
+But they cannot survive indefinitely on 59 cents on the dollar
+
+00:34:38.440 --> 00:34:45.320
+The mathematical compression of their benchmarks is slowly eroding the financial foundation necessary to sustain that elite performance
+
+00:34:45.560 --> 00:34:51.080
+You can only run a hospital in a negative 8 margin for so long before the walls start to crack
+
+00:34:51.480 --> 00:34:55.160
+It really is a profound cautionary tale about algorithmic governance
+
+00:34:55.640 --> 00:34:59.640
+Whether you work in healthcare in tech in finance or just in a corporate office
+
+00:35:00.040 --> 00:35:04.680
+This deep dive proves that perfectly executed formulas can yield entirely irrational
+
+00:35:05.160 --> 00:35:08.680
+punitive real world results if the baseline data is corrupted
+
+00:35:08.840 --> 00:35:12.600
+Yeah, if your inputs are blind to reality your outputs will punish success
+
+00:35:13.000 --> 00:35:17.880
+It's a reminder that we cannot put a critical systems on autopilot and trust that the math is always objective
+
+00:35:18.600 --> 00:35:22.360
+The math is only as good as the assumptions and the data flags programmed into it
+
+00:35:23.000 --> 00:35:25.000
+It leaves me with this final thought
+
+00:35:25.320 --> 00:35:29.480
+If these massive federal algorithms can legally and methodically erase
+
+00:35:29.880 --> 00:35:32.360
+300,000 vulnerable patients in Puerto Rico
+
+00:35:32.840 --> 00:35:37.800
+And if they can force the absolute best hospitals in the country to operate on the lowest rates
+
+00:35:38.120 --> 00:35:41.080
+While transferring hundreds of millions to a billionaires island
+
+00:35:41.800 --> 00:35:48.440
+What other massive perfectly legal blind spots are operating completely unnoticed inside the mainland's health care algorithms right now
+
+00:35:49.000 --> 00:35:51.240
+What else is the machine getting entirely wrong?
+
+00:35:51.320 --> 00:35:57.160
+It's a question every single participant in the health care system should be asking something to mull over until next time
+
+00:35:57.400 --> 00:35:59.400
+Thanks for diving deep with us
+
