@@ -231,7 +231,7 @@ w2 = d.textlength(line2, font=big)
 d.ellipse([tx + w2 + 42, y2 + 200, tx + w2 + 88, y2 + 246], fill=AMBER)
 # whispered subtitle, inside the frame with clear margin
 sub = font("IBMPlexMono-Regular.ttf", 44)
-d.text((tx + 8, y2 + 300), "HOW THE MONEY REALLY MOVES IN PUERTO RICO",
+d.text((tx + 8, y2 + 300), "HOW TAXPAYER RESOURCES NAVIGATE THE SYSTEM",
        font=sub, fill=(150, 162, 186))
 
 # chart signature, tiny, upper-right inside frame
