@@ -13,5 +13,7 @@
   "copyright": "",
   "cover_image": "assets/cover.png",
   "audio_bitrate": "128k",
-  "loudness_normalize": true
+  "loudness_normalize": true,
+  "console_url": "https://epac-hub.github.io/CMS-Console/",
+  "console_label": "CMS Console"
 }

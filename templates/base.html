@@ -17,6 +17,7 @@
       <span>{{ config.title }}</span>
     </a>
     <nav>
+      {% if config.console_url %}<a class="feed-link" href="{{ config.console_url }}" title="{{ config.console_label or 'Console' }}">{{ config.console_label or 'Console' }}</a>{% endif %}
       <a class="feed-link" href="{{ root }}feed.xml" title="RSS feed">RSS&nbsp;Feed</a>
     </nav>
   </div>
@@ -27,7 +28,7 @@
 <footer class="site-footer">
   <div class="container">
     <p>&copy; {{ year }} {{ config.author or config.title }}{% if config.copyright %} &middot; {{ config.copyright }}{% endif %}</p>
-    <p><a href="{{ root }}feed.xml">Subscribe via RSS</a></p>
+    <p><a href="{{ root }}feed.xml">Subscribe via RSS</a>{% if config.console_url %} &middot; <a href="{{ config.console_url }}">Explore the data: {{ config.console_label or 'Console' }}</a>{% endif %}</p>
   </div>
 </footer>
 </body>

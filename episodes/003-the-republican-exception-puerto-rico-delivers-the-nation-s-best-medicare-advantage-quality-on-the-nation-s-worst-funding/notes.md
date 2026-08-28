@@ -32,3 +32,5 @@ The closing question: what other outdated algorithms are quietly running in
 the background of government — dictating funding for education,
 infrastructure, healthcare — detached from the people they're supposed to
 serve? Who calibrated the machine, and what is it actually measuring?
+
+The federal data behind this episode is browsable in the [CMS Console](https://epac-hub.github.io/CMS-Console/).
