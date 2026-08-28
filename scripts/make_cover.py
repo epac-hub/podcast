@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Hidden Plumbing — podcast cover, 3000x3000.
+"""The Healthcare Paradox — podcast cover, 3000x3000.
 
 Actuarial Cartography: a dark chart of hidden fiscal currents. A faint
 orthogonal lattice of conduits; one luminous amber route rising from a small
@@ -216,7 +216,7 @@ d.line([(jx, jy - 26), (jx, jy + 26)], fill=TEAL, width=5)
 
 # ------------------------------------------------------------- title block
 big = font("BigShoulders-Bold.ttf", 308)
-line1, line2 = "THE HIDDEN", "PLUMBING"
+line1, line2 = "THE HEALTHCARE", "PARADOX"
 tx = frame + 92
 ty = TITLE_TOP - 24
 d.line([(tx, ty - 34), (tx + d.textlength(line1, font=big), ty - 34)],
@@ -231,7 +231,7 @@ w2 = d.textlength(line2, font=big)
 d.ellipse([tx + w2 + 42, y2 + 200, tx + w2 + 88, y2 + 246], fill=AMBER)
 # whispered subtitle, inside the frame with clear margin
 sub = font("IBMPlexMono-Regular.ttf", 44)
-d.text((tx + 8, y2 + 300), "HOW HEALTHCARE MONEY REALLY MOVES",
+d.text((tx + 8, y2 + 300), "HOW THE MONEY REALLY MOVES IN PUERTO RICO",
        font=sub, fill=(150, 162, 186))
 
 # chart signature, tiny, upper-right inside frame
@@ -241,4 +241,4 @@ d.text((S - frame - d.textlength(label, font=sig) - 46, frame + 40),
        label, font=sig, fill=(120, 133, 160))
 
 img.save(str(__import__("pathlib").Path(__file__).resolve().parent.parent / "assets" / "cover.png"), "PNG")
-print("cover_v2.png written")
+print("assets/cover.png written")
