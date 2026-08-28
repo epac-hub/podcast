@@ -151,7 +151,7 @@ for rr, wd, al in ((66, 4, 220), (108, 3, 130)):
                fill=AMBER + (al,), width=wd)
     img = Image.alpha_composite(img.convert("RGBA"), ring).convert("RGB")
     d = ImageDraw.Draw(img)
-d.text((ax - 52, ay + 128), "0.3500", font=font("IBMPlexMono-Regular.ttf", 44),
+d.text((ax - 52, ay + 128), "$0.59", font=font("IBMPlexMono-Regular.ttf", 44),
        fill=AMBER)
 
 # ---------------------------------------------------------------- the dial
@@ -184,8 +184,8 @@ d.line([(dx, dy), (dx + (DIAL_R - 120) * math.cos(na),
                    dy + (DIAL_R - 120) * math.sin(na))], fill=AMBER, width=9)
 d.ellipse([dx - 20, dy - 20, dx + 20, dy + 20], fill=AMBER)
 uni = font("IBMPlexMono-Regular.ttf", 52)
-d.text((dx - d.textlength("1.0000", font=uni) / 2, dy + DIAL_R - 190),
-       "1.0000", font=uni, fill=CREAM)
+d.text((dx - d.textlength("$1.00", font=uni) / 2, dy + DIAL_R - 190),
+       "$1.00", font=uni, fill=CREAM)
 
 # ---------------------------------------------------------------- the route
 # one luminous orthogonal current: ringed island -> dial rim
@@ -236,7 +236,7 @@ d.text((tx + 8, y2 + 300), "HOW TAXPAYER RESOURCES NAVIGATE THE SYSTEM",
 
 # chart signature, tiny, upper-right inside frame
 sig = font("IBMPlexMono-Regular.ttf", 34)
-label = "CHART NO. 001 — WAGE INDEX SOUNDINGS"
+label = "CHART NO. 001 — FISCAL CURRENTS OF PUERTO RICO"
 d.text((S - frame - d.textlength(label, font=sig) - 46, frame + 40),
        label, font=sig, fill=(120, 133, 160))
 
