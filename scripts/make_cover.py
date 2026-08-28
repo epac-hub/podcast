@@ -23,7 +23,7 @@ AMBER = (232, 166, 66)      # the sounding current
 AMBER_HI = (255, 205, 120)
 TEAL = (77, 141, 137)       # secondary accent
 
-random.seed(41)
+random.seed(7)
 
 
 def font(name, size):
