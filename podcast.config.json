@@ -11,7 +11,7 @@
   "explicit": false,
   "site_url": "https://epac-hub.github.io/podcast",
   "copyright": "",
-  "cover_image": "assets/cover.png",
+  "cover_image": "assets/cover.jpg",
   "audio_bitrate": "128k",
   "loudness_normalize": true,
   "console_url": "https://epac-hub.github.io/CMS-Console/",
