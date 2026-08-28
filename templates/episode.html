@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}{{ ep.title }} — {{ config.title }}{% endblock %}
+{% block description %}{{ ep.description or ep.title }}{% endblock %}
+{% block content %}
+<article class="episode-page">
+  <p class="breadcrumb"><a href="{{ root }}">&larr; All episodes</a></p>
+  <div class="episode-meta">
+    <span class="episode-number">Episode {{ ep.number }}</span>
+    <time datetime="{{ ep.pubdate }}">{{ ep.date_display }}</time>
+    <span class="duration">{{ ep.duration_seconds | duration }}</span>
+  </div>
+  <h1>{{ ep.title }}</h1>
+  <audio controls preload="metadata" src="{{ root }}{{ ep.audio_url }}"></audio>
+  <p class="episode-links"><a href="{{ root }}{{ ep.audio_url }}">Download MP3</a></p>
+
+  {% if ep.notes_html %}
+  <section class="notes">
+    <h2>Show notes</h2>
+    {{ ep.notes_html | safe }}
+  </section>
+  {% elif ep.description %}
+  <section class="notes"><p>{{ ep.description }}</p></section>
+  {% endif %}
+
+  {% if ep.transcript_text %}
+  <section class="transcript" id="transcript">
+    <h2>Transcript</h2>
+    <details open>
+      <summary>Full transcript</summary>
+      <div class="transcript-body">
+        {% for line in ep.transcript_text.strip().split('\n') %}
+        <p>{{ line }}</p>
+        {% endfor %}
+      </div>
+    </details>
+  </section>
+  {% endif %}
+</article>
+{% endblock %}

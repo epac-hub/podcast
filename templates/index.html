@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <img class="hero-cover" src="{{ root }}assets/cover.png" alt="{{ config.title }} cover art">
+  <div class="hero-text">
+    <h1>{{ config.title }}</h1>
+    {% if config.subtitle %}<p class="subtitle">{{ config.subtitle }}</p>{% endif %}
+    <p class="description">{{ config.description }}</p>
+    {% if config.author %}<p class="byline">Hosted by {{ config.author }}</p>{% endif %}
+  </div>
+</section>
+
+<section class="episodes">
+  <h2>Episodes</h2>
+  {% if not episodes %}
+  <p class="empty">No episodes yet — stay tuned.</p>
+  {% endif %}
+  {% for ep in episodes %}
+  <article class="episode-card">
+    <div class="episode-meta">
+      <span class="episode-number">Episode {{ ep.number }}</span>
+      <time datetime="{{ ep.pubdate }}">{{ ep.date_display }}</time>
+      <span class="duration">{{ ep.duration_seconds | duration }}</span>
+    </div>
+    <h3><a href="{{ root }}{{ ep.page_url }}">{{ ep.title }}</a></h3>
+    {% if ep.description %}<p>{{ ep.description }}</p>{% endif %}
+    <audio controls preload="none" src="{{ root }}{{ ep.audio_url }}"></audio>
+    <p class="episode-links">
+      <a href="{{ root }}{{ ep.page_url }}">Show notes</a>
+      {% if ep.transcript %} &middot; <a href="{{ root }}{{ ep.page_url }}#transcript">Transcript</a>{% endif %}
+      &middot; <a href="{{ root }}{{ ep.audio_url }}">Download MP3</a>
+    </p>
+  </article>
+  {% endfor %}
+</section>
+{% endblock %}

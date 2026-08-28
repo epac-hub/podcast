@@ -1,0 +1,775 @@
+So imagine your entire city's grocery budget,
+like the funding that dictates
+whether the supermarkets stay open
+or shut down entirely.
+Imagine if that was decided by the receipts
+of just 30 vegans living in one very specific
+isolated neighborhood.
+Well, I mean, that would be catastrophic.
+The shelves would be empty
+for everybody else within a week.
+Right, you'd be looking at this tiny,
+incredibly specific sample size
+and using it to dictate how much a family
+of five across town can spend on milk and eggs.
+Yeah, it's a mathematical glitch
+that just defies common sense.
+Exactly.
+But today, in this deep dive into the source material,
+we are looking at how a statistical absurdity
+exactly like that is currently threatening
+the healthcare of about 676,000 American citizens
+in Puerto Rico.
+And it really all comes down to
+a hidden automated formula running
+deep inside the federal government.
+A formula that essentially dictates life or death
+for local hospitals, clinics, and pharmacies.
+I wanna get straight into the mechanics of this
+because when I was looking through our stack of material,
+we have these official 26 letters
+to the Department of Health and Human Services,
+or HHS specifically,
+to Secretary Robert F. Kennedy Jr.
+and to the Centers for Medicare and Medicaid Services,
+CMS, run by administrator Dr. Mehmet Oz.
+We've got internal strategy memos.
+We've got a massive push from local industry.
+And the core of the entire crisis,
+it boils down to what is essentially a broken thermometer.
+That is a perfect way to look at it
+because to understand why the thermometer is broken,
+we have to look at the patient it's trying to measure.
+In Puerto Rico, Medicare Advantage
+is not just a popular insurance option.
+It is the absolute backbone
+of the entire medical system there.
+Yeah, the numbers here are just wild.
+There are approximately 676,000 beneficiaries
+enrolled in Medicare Advantage plans on the island.
+Which is roughly 96%
+of the entire Medicare eligible population there.
+Just to contrast that with the mainland United States,
+here, Medicare Advantage penetration
+hovers around 50% give or take.
+Okay, so it's a choice here.
+Exactly.
+You have a choice between traditional,
+original Medicare or private Medicare Advantage plan.
+But in Puerto Rico, virtually everyone is an advantage.
+And a massive chunk of that population
+is incredibly vulnerable, right?
+Like over 305,000 of them are low income beneficiaries
+who are duly eligible for both Medicare and Medicaid.
+Yes, so you have this highly vulnerable,
+aging low income population
+relying on the single mechanism.
+And this is where the federal math problem,
+the broken thermometer comes into play.
+Okay.
+By law, the federal government has to figure out
+how much money to give a Medicare Advantage plan
+to take care of a patient in a specific county.
+They call this a benchmark.
+Okay, so like a base rate, how do they calculate it?
+Well, they base it on the local costs
+of traditional fee for service Medicare,
+original Medicare.
+The logic historically is pretty straightforward.
+CMS looks at how much it costs to treat a patient
+in the traditional government run system in a given area.
+And they use that data to set the payment benchmark
+for the private Medicare Advantage plans
+in that same area.
+Wait, hold on a second.
+You just said 96% of the island uses Medicare Advantage.
+I did.
+So how can you base a benchmark
+on traditional fee for service costs
+when there is virtually nobody
+using traditional fee for service?
+You've hit the exact nerve of the crisis.
+Really?
+Yeah, because almost everyone is in Medicare Advantage.
+There is hardly anyone left
+in the traditional fee for service pool.
+There are only about 29,000 beneficiaries remaining
+in original Medicare Parts A and B in Puerto Rico.
+That's the 30 vegans from my analogy.
+Exactly.
+You are legally basing a multi-billion dollar payout,
+the survival of over 600,000 people
+on the data of 29,000 people.
+I mean, how is that even statistically sound?
+It isn't.
+Wouldn't an actuary look at that
+and immediately flag it as an invalid sample size?
+They absolutely would, especially because
+it's not even a randomized representative sample.
+Right.
+Those remaining 29,000 people
+in Puerto Rico's traditional Medicare pool
+are fundamentally skewed.
+Well, they are disproportionately individuals
+who have alternative coverage arrangements.
+For example, a large number of them are veterans
+who primarily use the VA healthcare system
+for their actual care.
+Oh, I see.
+But technically, they are still enrolled
+in original Medicare.
+So they aren't generating claims.
+Exactly.
+They aren't going to the local civilian hospital
+and running up the kinds of bills
+a typical eight-year-old with a heart condition would.
+No, they aren't.
+Or you have populations
+that simply don't utilize care as frequently
+or there are issues with incomplete claims capture.
+Whatever the specific micro-reason, the macro-result...
+Right, I see where this is going.
+The federal algorithm looks at this tiny anomalous group
+of 29,000 people,
+sees that they aren't spending much money,
+and the computer just spits out the conclusion
+like, wow, healthcare in Puerto Rico must be dirt cheap.
+Basically, yeah.
+It says, let's set the Medicare Advantage benchmark
+super low for the other 676,000 people.
+Wow.
+That is exactly what happens.
+It's like reading the temperature of a freezer
+and applying it to the entire house.
+But the house isn't freezing.
+I mean, the real costs of running a hospital,
+paying for MRI machines, buying pharmaceuticals,
+paying doctors, none of that is actually cheaper, right?
+It's often more expensive
+because it's an island economy
+with massive supply chain and utility costs.
+Yet, because of this flawed formula,
+Puerto Rico operates at the lowest Medicare Advantage
+benchmark levels in the entire nation.
+How low?
+It is approximately 41% below the national average.
+41%.
+I just want to pause on that
+because it's hard to conceptualize a gap that massive.
+You cannot mandate that a hospital operate on 60 cents
+on the dollar for a decade and expect it to survive.
+You just can't.
+No, you can't.
+And it gets even more baffling
+when you look geographically next door.
+Puerto Rico's benchmark is 20% below the benchmarks
+in the U.S. Virgin Islands.
+Wait, really?
+But the Virgin Islands are right there.
+They face the exact same island economy constraints,
+shipping logistics, hurricane threats, power grid issues.
+Why is their benchmark so much higher?
+Well, that discrepancy is actually the core
+of the political and administrative fight
+happening right now.
+It leads directly to the massive pushback
+from the local government.
+Specifically, the letter sent on February 25th, 2026
+by Puerto Rico's governor, Jennifer Gonzalez-Colin.
+This is the letter to HHS Secretary Kennedy
+and CMS administrator, Dr. Oz.
+I was reading through it
+and she doesn't just lay out the grievance,
+she demands a very specific fix.
+Right, she points directly
+to the agency's existing administrative power.
+She requested the establishment
+of a national Medicare Advantage benchmark floor
+of no less than 0.70.
+Meaning 70% of the national average.
+Exactly.
+She's arguing that no jurisdiction in the United States,
+regardless of what the flawed fee for service
+formula spits out,
+should ever fall below 70% of the national average.
+But why 0.70?
+Is that just like a negotiation tactic?
+Like I'll ask for 70% hoping they give me 60%.
+It's not arbitrary at all.
+0.70 is highly strategic
+because it mirrors the current
+Medicare Advantage payment levels
+already utilized in the U.S. Virgin Islands.
+Oh, so the federal precedent already exists.
+Right, the federal government through CMS
+has already acknowledged that the baseline cost of care
+in the Caribbean territories
+shouldn't dip below a certain threshold.
+I get it.
+The governor is essentially saying
+to Dr. Oz and Secretary Kennedy,
+just apply your own established logic to us.
+And what's brilliant about that,
+at least from a strategic standpoint,
+is that she isn't asking Congress to pass a new law.
+Anyone who follows Washington
+knows that getting a massive multi-year
+legislative overhaul through Congress
+is nearly impossible right now.
+Oh, it's a bureaucratic nightmare.
+But an administrative rule change.
+CMS could theoretically tweak the formula
+in their next rulemaking cycle.
+They can just say, you know,
+the data is invalid, we are instituting a floor.
+But they haven't.
+And in the meantime,
+the reality on the ground is getting grim.
+If I'm a clinic administrator in San Juan
+and my revenue is artificially depressed by 41%,
+I'm purely in survival mode.
+Yeah, you are deferring maintenance.
+The sources highlight that providers
+face chronic existential underpayment.
+They cannot reliably invest in infrastructure.
+You can't repair aging equipment.
+You definitely struggle with workforce retention.
+Well, for sure.
+If you are a specialized nurse or a doctor
+and the local hospital can only pay you a fraction
+of what you'd make in Florida or Texas
+because their federal reimbursements are slashed,
+you leave.
+So you get massive brain drain.
+Massive brain drain.
+And that ultimately hits the patient.
+Beneficiaries face increasing pressure on benefits,
+narrower networks, and longer wait times for care.
+It's just snowballs.
+Yeah, there was even a moment recently,
+sort of a canary in the coal mine,
+where one significant Medicare Advantage plan
+pulled out of the Puerto Rico market entirely.
+Which is terrifying when 96% of your seniors
+rely on that specific market.
+That's a vicious cycle.
+But the governor wasn't fighting
+this Washington math alone, right?
+She needed the people actually delivering the care
+to back her up.
+Right.
+I mean, a politician's letter is one thing,
+but an entire industry unified
+behind a specific technical fix is another.
+This is where the health care coalition steps up.
+And we should clarify, the health care coalition
+is this massive shared commitment
+among public and private stakeholders on the island.
+Hospitals, doctors, pharmacies, you name it.
+And on May 18th, 2026,
+the health care coalition signed a formal memorandum
+of understanding and MOU,
+outlining their absolute top tier
+federal health care policy priorities.
+And right at the top of that,
+MOU was official industry wide backing
+for the 0.70 benchmark floor for the 2028 rate cycle.
+The entire local health care sector
+threw its weight behind the governor's proposal.
+But the MOU goes further,
+and this is where I actually got a little lost
+in the weeds of the policy.
+So I want you to walk me through this part.
+They don't just talk about the Medicare Advantage benchmark.
+They highlight a terrifying deadline,
+September 30th, 2027, the Medicaid funding cliff.
+How does Medicaid tie into the Medicare Advantage problem?
+They are deeply intertwined
+because you have over 305,000 people
+who are duly eligible for both programs.
+The health care coalition
+isn't just looking at a broken benchmark,
+they are looking at a perfect storm.
+Puerto Rico's Medicaid system operates
+under intense structural constraints
+that mainland states simply do not face.
+Okay, let's break that down.
+How is a Medicaid program in a territory
+different from a state like Ohio or Oregon?
+Well, there are two massive differences.
+First, Puerto Rico has a capped allotment.
+Meaning a hard ceiling on the money.
+Yes.
+The federal government says
+here is a specific block of money
+for your Medicaid program for the year.
+When it's gone, it's gone.
+Wow.
+In a state on the mainland,
+Medicaid is an open-ended entitlement.
+If a recession hits or a pandemic happens
+and suddenly thousands more people qualify for Medicaid,
+the federal funding scales up automatically
+to match the need.
+But in Puerto Rico,
+if there's a hurricane and a massive spike in need,
+the federal government just shrugs and points to the cap.
+Exactly.
+The local government has to somehow figure out
+how to stretch that capped amount.
+And the second major difference is the matching rate,
+the federal medical assistance percentage, or FMAP.
+The FMAP.
+Basically, how much the federal government chips in
+versus how much the local government has to pay?
+Right. For Puerto Rico,
+that match is restricted to 76%.
+Meanwhile, all other U.S. territories,
+Guam, American Samoa, the Virgin Islands,
+they received a permanent FMAPIX at 83%
+back in the Consolidated Appropriations Act of 2023.
+Wait, really?
+Yeah.
+So Puerto Rico is capped
+and D, they are getting a lower federal match rate
+than their territorial peers.
+That feels incredibly punitive.
+But even beyond the cap and the match rate,
+the MOU from the Health Care Coalition explicitly points out
+that Puerto Rico just outright lacks access
+to certain safety nets.
+They mentioned the Medicare Savings Program,
+the MSP, and long-term services and supports, LTSS.
+Which is staggering when you think about the demographics.
+Almost half of the Medicare Advantage beneficiaries
+on the island are these duly eligible,
+incredibly low-income seniors.
+On the mainland, the Medicare Savings Program
+is what helps cover their premiums,
+their deductibles, and their co-pays.
+Right.
+LTSS is what helps with nursing homes, assisted living,
+and home-based care for the elderly and disabled.
+And Puerto Rico doesn't have the funding for those.
+They don't have the funding to operate them
+at anything resembling the mainland standard
+because of the capped allotment and the lower FMAP.
+Well, no, I think this is the crucial context
+that makes the Health Care Coalition's MOU so powerful.
+They aren't asking for special treatment.
+It's exactly.
+When you really read what they're saying,
+they aren't asking for a handout.
+They are saying, we don't have the safety nets
+everyone else has.
+We don't have the MSP.
+We don't have LTSS.
+We have a capped Medicaid allotment
+that falls off a cliff in 2027.
+Yep.
+You cannot simultaneously starve
+our Medicare Advantage Program with a broken 3% formula.
+It is the only thing keeping the roof from caving in.
+That is the exact dynamic.
+Because Medicaid is chronically underfunded and capped,
+the Medicare Advantage Program is forced to compensate.
+It has to carry the weight.
+Right.
+The private MA plans and the local providers
+have to stretch their resources further
+covering these dual eligible patients
+without the traditional federal supports.
+Right.
+So when the MA benchmark itself is artificially
+slashed by 41% due to an invalid fee for service
+sample, I mean, the strain on the entire island's
+health care infrastructure becomes existential.
+OK, so the local government and the private sector
+health care coalition are perfectly aligned.
+They have the MAF.
+They have the 0.70 solution borrowed from the Virgin Islands.
+They have the terrifying context of the Medicaid cliff.
+But having a flawless logical argument in San Juan
+doesn't automatically change a federal algorithm in Washington,
+DC.
+Far from it.
+An airtight argument is just a piece of paper
+until it has political leverage.
+Which brings us to the internal strategy memo detailing
+the congressional campaign.
+Yes.
+And I love documents like this because it's
+the peak behind the curtain.
+We rarely get to see how a deeply technical, almost academic
+critique of a statistical sampling method
+gets transformed into actionable congressional pressure.
+It requires a massive translation effort.
+You have to take the complex data generated
+by the health care coalition and mold it
+into a politically viable request.
+And the memo lays out a two pronged attack.
+It starts on February 25, 2026.
+This is when Democratic Representative Pablo Jose
+Hernandez stepped up.
+He managed to get 17 other Democrats
+to sign on to a letter to CMS, urging them
+to address these specific disparities in the CY 2027
+advance notice.
+It was a very strong opening salvo.
+The letter laid out the exact arguments we just discussed,
+the flawed 3% formula, the lack of safety net programs
+like the MSP and LTSS, the impending Medicaid cliff.
+Having 18 members of Congress tell a federal agency
+that its math is fundamentally broken is significant.
+But it's not enough.
+No.
+The memo makes it clear that the strategic brilliance
+was recognizing that a purely partisan push wouldn't cut it.
+Exactly.
+They needed a Republican-led initiative
+to pair with the Democratic effort
+to show that this was a fundamental issue of fairness
+and efficiency that appealed across the entire aisle.
+And just to be clear, for everyone
+listening to this deep dive, we are maintaining
+strict neutrality here.
+Absolutely.
+We're just exploring the arguments presented
+in these source documents from both Democrats
+and Republicans.
+We're not endorsing any political side.
+Right, exactly.
+We're looking at the strategy.
+And orchestrating that kind of bipartisan maneuvering
+requires institutional leadership.
+You can't just have a bunch of hospital executives
+cold-calling members of Congress.
+Enter the Puerto Rico Federal Affairs Administration.
+Exactly.
+This strategy memo gives immense credit
+to the Puerto Rico Federal Affairs Administration
+for this phase of the campaign.
+OK.
+Specifically, two officials are highlighted
+for giving the effort its institutional direction,
+Gabriela Befeli, the executive director, and Natalia Gandia.
+What exactly did they do?
+I mean, I know what lobbyists do, but how does an administration
+office turn this into a congressional reality?
+They acted as the translators and the strategists.
+You have the private sector hospitals, pharmacies,
+and doctors in the Health Care Coalition
+generating this highly technical actuarial data.
+Right.
+Befeli and Gandia took that raw data
+and framed it in a way that Washington understands.
+Makes sense.
+The memo says, without the Puerto Rico Federal Affairs
+Administration supplying that sustained institutional
+leadership, this might have just
+remained a credible private sector
+recommendation circulating in the ether.
+They gave it a governmental center of gravity.
+Precisely.
+And they made a very specific strategic choice
+on how to frame the ask to these lawmakers,
+particularly to the Republicans they were courting.
+Right, because pitching a massive new funding
+program to fiscal conservatives is usually a non-starter.
+Exactly.
+Think about how hard it is to get a member of Congress
+to sign on to a letter asking for billions of dollars
+in new appropriations or asking to create
+a massive new federal entitlement program.
+Yeah, they'd run for the hills.
+Right.
+Members are inherently wary of the budget impact.
+But the Puerto Rico Federal Affairs Administration
+framed this not as a demand for new money,
+but as formula modernization.
+Like your algorithm is outdated, it's statistically invalid,
+and it's producing a bad output.
+Yes.
+They pitched it as an administrative remedy.
+They said to these lawmakers, we
+are asking you to write a new check or pass a new tax.
+We are asking you to tell the agency
+to use its existing authority to fix
+a mathematical error that relies on a tiny,
+unrepresentative sample of 29,000 people.
+That's smart.
+Because it was an administrative ask,
+Congress members could sign on safely.
+It's a low risk vehicle for them,
+but a potentially life-saving vehicle for Puerto Rico.
+That is incredibly savvy.
+So who did the Puerto Rico Federal Affairs Administration
+and the Health Care Coalition actually
+get to lead this charge on the Republican side?
+Let's look at the August 3, 2026 letter.
+This is a critical turning point in the timeline.
+14 GOP House members sent a formal letter
+to HHS Secretary RFK Jr. explicitly
+requesting the 0.70 benchmark floor for 2028.
+And the lead signer on this letter is vital.
+It's Representative Gregory F. Murphy,
+a Republican from North Carolina.
+Now, why him?
+I mean, North Carolina isn't exactly
+next door to Puerto Rico.
+Because of his clinical and political profile,
+Dr. Greg Murphy is a physician.
+More importantly, he is the co-chair
+of the House Republican Doctors Caucus.
+And as the sources note, he's not just
+some automatic rubber stamp for the insurance industry.
+Far from it.
+As a physician, he has actually supported
+closer scrutiny of Medicare Advantage practices
+that burden doctors or delay patient care,
+like prior authorization issues.
+OK, so he gets it.
+He looks at things through the lens of a provider.
+So when he steps up and says, we
+need to increase MA funding in Puerto Rico,
+it carries massive, undeniable credibility.
+He's not doing it to pad insurance profits.
+He's doing it because as a doctor,
+he looks at the math and says, this health care system
+is being starved.
+And his connection to the island is actually very direct,
+which I found fascinating in the internal memos.
+Dr. Greg Murphy has been invited by the Chamber
+of Commerce of Puerto Rico as a keynote speaker
+on the health care forum and is close to some leader
+in the health care coalition, including doctors, pharmacy
+owners, and hospital executive, among other.
+Yeah, that on the ground connection is invaluable.
+It's one thing to read a briefing paper provided
+by the Puerto Rico Federal Affairs Administration.
+It's another to have engaged directly
+with the people running the hospitals and the pharmacies
+on the island.
+He understands that the logistical and economic
+conditions in San Juan or Ponce differ fundamentally
+from his district in North Carolina.
+And he wasn't the only heavy hitter they brought in.
+The coalition of 14 Republicans
+was very carefully constructed.
+You had representatives from other territories
+like Amada Coleman-Raidwagon from American Samoa,
+who understands all too well how federal formulas often
+ignore the realities of island territories.
+You also had a strong showing from the Florida delegation.
+Carlos Jimenez, Maria Elvira Salazar, Mario Diaz-Balart.
+They have deep constituency connections to Puerto Rico.
+They know that when the island's health care system
+falters, it directly impacts their districts in Miami
+and beyond.
+And then there's another crucial medical voice
+on the letter.
+Representative Buddy Carter from Georgia,
+Buddy Carter is a pharmacist very close to Trump
+and was recently in Puerto Rico.
+Having a pharmacist on board, especially
+one with strong political ties and recent firsthand experience
+on the island, adds another vital layer
+of clinical and political credibility.
+Makes total sense.
+He understands the supply chain.
+He understands the cost of specialized drugs,
+the logistics of getting them to an island,
+and how chronic underpayment from Medicare Advantage
+affects a local pharmacy's ability
+to simply keep the lights on and stock
+life-saving medications.
+OK, I have to stop and play devil's advocate here.
+Because we have laid out a scenario where the math is
+objectively broken.
+The thermometer is reading the wrong temperature.
+We have the governor pleading for an administrative fix.
+We have the local health care coalition
+showing how this ties into a massive Medicaid cliff.
+We have progressive Democrats writing letters.
+We have conservative Republican doctors and pharmacists
+writing letters marshaled by the Puerto Rico Federal
+Affairs Administration.
+It is a unified front.
+Right.
+So if this formula is so obviously mathematically broken
+and you have bipartisan support spanning
+the entire political spectrum, why
+is it so hard for CMS or HHS to just flip a switch and fix it?
+That is.
+Why does it take this massive multi-year orchestration
+just to change a decimal point in a formula to 0.70?
+That is the multi-billion dollar question.
+And the answer is the terrifying power
+of bureaucratic inertia.
+Bureaucratic inertia, like a body at rest, stays at rest,
+especially if it's a federal agency.
+Exactly.
+Federal algorithms are deeply entrenched.
+They aren't just lines of code.
+They are codified in rule makings, federal registers,
+and policy manuals that have been built up over decades.
+Right.
+To change the formula, you are asking a massive bureaucracy
+to formally admit that its standard operating procedure,
+the way it has done business for years,
+is producing an invalid, harmful result
+for a specific population.
+Ouch.
+Yeah.
+That requires an agency head to take on institutional risk.
+But they have the legal power to do it, right?
+The letters from both the Democrats and the Republicans
+are very specific about this.
+They aren't asking for Congress to rewrite the law.
+Yes.
+And this is where the legal strategy pushed
+by the Puerto Rico Federal Affairs Administration
+is so sharp.
+The letters explicitly point to section 1876,
+a four of the Social Security Act.
+Section 1876, a four, what does that actually say?
+Broadly, it gives the Secretary of HHS
+the authority to adjust Medicare Advantage payments
+if the raw data doesn't accurately reflect
+the statutory intent of the program.
+Oh, wow.
+They are telling HHS and CMS, you already
+have the statutory authority to fix this.
+You have the legal right to look at that raw, flawed, fee
+for service data of 29,000 people
+and say, this is not statistically reliable.
+Therefore, we are using our authority
+to establish a national minimum floor of 0.70
+to ensure equitable care.
+So they don't need permission.
+They just have to have the political and bureaucratic will
+to actually execute the override.
+Precisely.
+And that's why this pressure campaign
+had to be so meticulously built.
+They are trying to generate enough
+bipartisan, logical, math-based pressure
+to overcome that innate bureaucratic inertia.
+They have to make it more painful and publicly
+embarrassing for the agency to ignore the problem
+than it is to fix it.
+Exactly.
+Let's zoom out for a second.
+Let's bring this back to the listener.
+Because I can imagine someone listening to this deep dive
+right now, in Ohio or Oregon or Nebraska, thinking,
+well, this is fascinating policy drama.
+The math is crazy.
+But why should I care?
+It's a Medicare formula for an island 1,000 miles away.
+What does this have to do with the American taxpayer
+on the mainland?
+It has everything to do with the American taxpayer
+on the mainland purely from an economic and systemic
+standpoint.
+Because of the medical migration.
+The sources mention this explicitly,
+and it's something I think most people completely overlook.
+Yes.
+The GOP letter led by Dr. Murphy
+laid this out very clearly.
+When Puerto Rican providers are chronically underpaid
+by 41% below the national average,
+the health care system strains to the breaking point.
+Networks weaken, wait times explode,
+provider shortages become acute because the doctors
+move to Texas or Florida to make a normal living.
+Naturally.
+And what happens when an American citizen living
+in Puerto Rico cannot get the specialty care they need,
+say cancer treatment or complex cardiology?
+Get on a plane.
+Exactly.
+They migrate to the US mainland.
+Both the beneficiary seeking care and the doctors and nurses
+seeking fair compensation leave the island.
+And here is the kicker.
+When a Medicare beneficiary moves from Puerto Rico
+to Florida or New York or Ohio,
+they are still in the Medicare system.
+But now their care is being paid for at the mainland rates.
+Exactly.
+The federal government hasn't saved a single dime.
+Wow.
+In fact, the sources extrapolate on this point.
+This migration actually increases
+overall Medicare expenditures for American taxpayers.
+Care on the mainland is generally
+more expensive to begin with.
+Right.
+If the federal government had just adequately funded
+the system in Puerto Rico with the 0.70 benchmark,
+they could have treated that patient closer
+to home in their own community for less money overall.
+It's the ultimate lesson in like an ounce of prevention
+is worth a pound of cure.
+Underfunding Puerto Rico doesn't save the federal government
+money, it just shifts a much higher cost
+to the mainland health care system.
+It is a massive false economy.
+A false economy that simultaneously destabilizes
+the territory of over 3 million American citizens.
+A strong Puerto Rican health care system
+is fundamentally a more cost-effective and resilient
+system for the entire federal government.
+So let's summarize where we are.
+We started with 676,000 US citizens relying
+on Medicare Advantage, effectively trapped
+by an outdated federal math problem, a broken thermometer.
+A formula that uses 3% of the population
+to dictate the survival of the other 97%,
+ignoring the fact that those 3% are primarily veterans
+and low utilizers.
+But we also saw a masterclass in how to fight back.
+We saw the coordinated, relentless push
+by the Puerto Rico Federal Affairs Administration
+aligning with the private sector realities of the Health Care
+Coalition.
+They took a deeply technical grievance,
+paired it with the terrifying reality
+of an impending Medicaid cliff, and translated it
+into a viable, bipartisan, administrative fix,
+the 0.70 benchmark floor.
+They bypassed the legislative gridlock.
+They brought in doctors like Rep Greg Murphy
+and pharmacists like Rep Luddy Carter
+to validate the clinical reality.
+And they pointed the administration
+directly to its own statutory authority
+to fix a glaring anomaly.
+It is a testament to what institutional coordination
+can achieve when the math is undeniably on your side.
+It really is.
+And before we close out this deep dive,
+I want to leave our listeners with something to mull over,
+because this story, as complex as it is,
+points to a much bigger, slightly unsettling reality
+about how our world works today.
+It does.
+This entire crisis stems from a well-intentioned federal
+formula that simply didn't account for the unique reality
+on the ground, and a bureaucracy terrified
+to manually override its own flawed code.
+It makes you wonder, what other outdated algorithms
+or statistical formulas are quietly
+running in the background of our government,
+dictating funding for education, infrastructure,
+or agriculture, completely detached
+from the reality of the people they're supposed to serve?
+Right.
+We assume the system is giving us
+a precise measurement, a clear picture.
+But sometimes you really have to stop and ask,
+who calibrated the machine, and what
+are they actually measuring?
+Food for thought.
