@@ -1,0 +1,1031 @@
+So in 2008, there was this tiny, incredibly wealthy resort
+island off the coast of Massachusetts, and they figured
+out this paperwork loophole.
+A massive loophole, yeah.
+And it legally siphoned hundreds of millions of
+healthcare dollars from the rest of the country.
+It was just this audacious piece of regulatory engineering.
+Truly.
+And today, we're looking at how a team of strategists
+is trying to use that exact same loophole, like step
+to save the medical system of Puerto Rico from just total
+collapse.
+Right, because it is, I mean, it's the ultimate example
+of fighting a war using administrative law.
+There are no television ads for this, no public debates.
+It's just a high stakes, multimillion dollar battle
+fought entirely in the hidden plumbing
+of the federal government.
+The hidden plumbing, exactly.
+And we get to look under the hood today for this
+deep dive because we got our hands on this fascinating
+stack of internal strategy documents.
+The war plan.
+Yeah.
+There's literally a memo in here called the FY 2028
+wage index campaign war plan.
+And alongside it, there are these official data packs
+and this highly detailed, just incredibly dense
+legal and actuarial analysis titled The Viex Rural Floor.
+Oh, it's dense.
+It is, but reading through this stuff,
+it doesn't feel like hospital administration.
+No.
+It feels like a heist movie.
+A bureaucratic heist.
+Right, where the vault is the US Treasury
+and the lock is literally just a geographic definition.
+Which is what makes these documents so compelling.
+We almost never get to see the unvarnished playbook
+for how a systemic crisis is managed behind closed doors.
+We are looking at a masterclass in how billions
+of taxpayer dollars are routed through the health care
+system based on these geographic legal fictions.
+Geographic legal fictions.
+I love that.
+So to understand the wild strategy these documents
+propose, we first need to understand the absolute panic
+that is driving it right now.
+The cliff.
+According to this war plan, on October 1st, 2027,
+Puerto Rico's health care system is going
+to drive off a physical cliff.
+And when I say cliff, I mean Medicare
+inpatient payments to Puerto Rico.
+52 hospitals are projected to fall by roughly 15.5%
+overnight.
+Yeah, a single day revenue cut of 15.5%
+for a hospital system that is already incredibly
+fragile.
+Wow.
+And the root of this impending disaster
+comes down to a single metric used by the federal government
+called the wage index.
+OK, so let's unpack that metric because it's basically
+the lynchpin for this entire campaign, right?
+Everything revolves around it.
+So what exactly is a wage index
+and why is it about to crater Puerto Rico's hospitals?
+Well, in the Medicare system, the federal government
+doesn't just pay a flat universal right
+for a medical procedure.
+They adjust the payment based on local labor costs.
+The underlying philosophy is that it costs significantly more
+to hire a registered nurse or an MRI technician in downtown
+Manhattan than it does in rural Oklahoma.
+Right, that makes sense, cost of living.
+Exactly.
+So Medicare takes the base payment for a procedure
+and multiplies the labor portion of it
+by a geographic wage index.
+An index of 1.0 means your area
+is exactly at the national average.
+So if you are at 1.2, you get a 20% bump
+because your city is expensive.
+Yes.
+And if you were at 0.8, you get a 20% haircut.
+Precisely.
+Now, right now, Puerto Rico is surviving
+on a temporary transitional payment
+index of about 0.5259.
+But that transition period officially
+dies at the start of fiscal year 2028,
+which is October 1st, 2027.
+Oh, boy.
+Yeah.
+When that transition lapses, their wage index
+collapses to the official raw data value for San Juan,
+which is 0.3500.
+0.35, meaning they would get
+paid 35% of the national average
+for the labor portion of their medical care.
+It is staggeringly low.
+I mean, to give you some context from the data pack,
+if you look at the entire mainland United States,
+the absolute lowest wage index area is rural Mississippi.
+OK.
+And what's theirs?
+Their index is 0.7112.
+Oh, wow.
+So San Juan is sitting at exactly half the rate
+of the cheapest rural area in the mainland US.
+Yes.
+It's not even close.
+Now, let me play devil's advocate for a second here.
+Sure.
+Because the federal government's logic
+is that things cost what they cost, right?
+Like if the cost of living in San Juan is genuinely lower
+and the hospitals are, in fact, paying their nurses $15
+an hour instead of the $40 an hour they make in Boston.
+Right.
+Isn't the mathematical formula technically
+working as intended?
+Like why should the federal government pay them
+Boston rates if they're actually
+paying Puerto Rico wages?
+That is the exact argument the federal government makes
+when defending the formula.
+On paper, it looks perfectly rational.
+OK.
+But in practice, it creates a systemic track.
+It's this vicious cycle that the hospitals simply
+cannot escape.
+It's like a gravity spiral.
+Think about the mechanics of it.
+Hospital labor isn't a free market in Puerto Rico.
+Medicare is so dominant there that it essentially
+is the market.
+So when the wage index is suppressed to 0.35,
+the hospitals receive drastically less Medicare
+funding overall.
+Because their total revenue is so low,
+they physically cannot afford to pay competitive wages.
+Right.
+And because they pay low wages, their required annual cost
+reports show low labor costs.
+The federal government takes those exact cost reports,
+feeds them back into the formula, and says,
+Lee, your wages are low.
+So your index stays at 0.35.
+It's like being in a descending airplane
+where the altimeter reading is actually hardwired
+to the engines.
+The lower your altitude, the more the engines
+throttle down, which just pulls you down faster.
+That's a perfect analogy.
+And the human cost of that math is massive brain drain.
+Because if I'm a bilingual nurse making $15 an hour in San
+Juan, and a hospital in Orlando is offering me
+a massive signing bonus and $45 an hour.
+They're leaving.
+I'm getting on a plane, yeah.
+And that brain drain just hollows out
+the medical infrastructure.
+Now, for a long time, there was
+a policy that artificially propped up Puerto Rico's
+number, essentially doubling it
+to keep the system afloat.
+OK.
+But the federal courts actually struck that down in a 2024 case
+called Bridgeport.
+Well, they struck it down.
+Yeah.
+So CMS, which is the agency that runs Medicare,
+instituted this temporary 0.52 transition just
+to soften the blow.
+But that's a Band-Aid.
+And the Band-Aid gets ripped off in 2027.
+Exactly.
+Which brings us to a piece of data
+in this strategy memo that genuinely shocked me.
+It, your is what the strategist
+called the mobilization gap.
+Yes.
+The comments.
+Because you would assume that with a 15.5% overnight revenue
+collapse staring them in the face,
+every hospital executive, doctor, and politician in Puerto
+Rico would be screaming from the rooftops.
+You'd think so.
+But the documents analyzed the federal comment period
+for the fiscal year 2027 rules.
+When CMS proposed these changes,
+they opened a public docket.
+And out of 982 public comments submitted
+to the federal government.
+Guess how many?
+Only six mentioned Puerto Rico.
+And of those six, only four were actually
+from Puerto Rican institutions.
+Four comments.
+Four comments out of 982.
+That's insane.
+The campaign strategist referred to this
+as the four of 982 embarrassment.
+How does that even happen?
+You have a multi-billion-dollar industry
+facing an existential threat and four people write a letter.
+It represents a complete breakdown
+of institutional mobilization.
+I mean, administrative law operates entirely
+on the written record.
+If the federal government proposes a rule
+and you do not submit a mountain of evidence data
+and legal arguments during that open comment period,
+the government can legally say, well,
+there is no evidence on the docket
+that this is a priority.
+Right. It's a legal shield for them.
+Exactly.
+There's no data to justify changing our rule.
+And you cannot sue them later and win
+if you didn't first build the administrative record.
+So they are paralyzed in this descending airplane.
+The ground is rapidly approaching in 2027.
+And nobody is even radioing the control tower.
+They're just bracing for impact.
+That is the baseline problem.
+Yeah.
+But the strategists who authored this war plan,
+they aren't just telling people
+to write angrier letters.
+They realize that asking the government nicely
+for a handout just won't fix the gravity spiral.
+To break the math,
+you basically have to find a loophole in the math
+that someone else has already stress-tested.
+You look for legal precedent.
+And in the bizarre, highly technical world
+of Medicare reimbursement law,
+there is really no precedent more famous
+or infamous, I should say, than the Nantucket strategy.
+Yeah.
+This is where the story shifts to Massachusetts.
+And the strategy documents spend pages
+just dissecting a maneuver executed
+by Nantucket Cottage Hospital back in 2008.
+It's a legendary maneuver.
+So take us back.
+How did a wealthy resort island
+break the Medicare wage index?
+Well, to understand the Massachusetts windfall,
+we have to look at a quirk in federal law.
+Specifically, section 4410
+of the Balanced Budget Act of 1997.
+Okay.
+This statute created something called the rural floor.
+The law dictates that any urban hospital in a given state
+cannot receive a Medicare wage index
+that is lower than the rural wage index
+of that same state.
+Oh, I see.
+So it establishes a basement.
+Like if the rural hospitals in your state
+are paying nurses an average of say $30 an hour,
+then the giant urban hospitals in the big cities
+can't be reimbursed at a rate lower than $30 an hour.
+Exactly.
+Even if their own internal data suggests they should be,
+Congress intended it as a protective measure.
+Sure.
+To ensure rural hospitals could compete for talent
+and to make sure urban hospitals didn't somehow fall
+behind rural ones in the same state.
+Okay, that sounds well-intentioned.
+It does.
+But then Nantucket Cottage Hospital saw an opportunity.
+Prior to 2008, Nantucket operated
+as a critical RACSES hospital.
+Wait, I need a translation there.
+What is critical access hospital and why does that matter?
+Right, so a critical access hospital, or CAH,
+is a special designation for small,
+highly isolated facilities.
+To keep them from going bankrupt,
+Medicare pays them based on their actual reasonable costs.
+Oh, so it's not the wage index formula at all.
+No, it's a very safe protective financial system.
+But importantly, because they are
+on the separate payment system,
+their wage data is not used to calculate
+the state's Medicare wage index.
+Okay, so they are completely walled off in the math.
+Right.
+But in 2008, Nantucket voluntarily gave up
+that safe CAH status.
+They converted to an IPPS hospital,
+which stands for inpatient perspective
+payment system hospital.
+IPPS.
+Yes, that is the standard classification
+for regular acute care hospitals.
+But why would they leave a safe,
+guaranteed cost system?
+That sounds risky.
+Because of the cost of living on Nantucket.
+As an island resort,
+it is astronomically expensive
+to hire doctors and nurses to live and work there.
+Nantucket had exceptionally high labor costs.
+By converting to an IPPS hospital,
+their massive payroll data was suddenly fed
+directly into the Massachusetts
+wage index calculation.
+Okay, I think I see where this is going.
+And here is the genius of the maneuver.
+Because of how the geographic boundaries
+were drawn in Massachusetts,
+Nantucket effectively became
+the only geographically rural hospital
+in the entire state contributing to that data pool.
+Oh wow, if they are the only rural hospital.
+Their single sky high island payroll
+dictated the rural index
+for the entire state of Massachusetts.
+And what does section 4410 say?
+The urban hospitals cannot be paid
+less than the rural floor.
+So a tiny island hospital
+effectively became the financial anchor
+for a massive urban healthcare system
+simply because of its geographic label.
+Nantucket's data became the mandatory
+minimum wage index for nearly every
+massive multi-billion dollar hospital system
+in Boston.
+That is wild.
+The math on this and the documents
+is just staggering.
+It says by 2012, Nantucket's data alone
+pushed the Massachusetts rural floor
+to a massive 1.28.
+Yeah, huge bump.
+And because the Medicare budget
+is a fixed pie nationally,
+like it's supposed to be budget-neutral, right?
+Horsesack!
+When Massachusetts takes a dramatically
+larger slice of the pie,
+every other hospital in the country
+gets a smaller slice.
+Yep.
+The documents estimate this single maneuver
+transferred between $256 million
+and $367 million per year
+from the rest of the country
+directly into Massachusetts.
+It was an absolute windfall.
+Just a master stroke of regulatory engineering.
+But the rest of the country
+had to be furious about that.
+Oh, they were furious.
+It triggered a civil war in the healthcare system.
+21 other states formed a coalition
+to fight Massachusetts in federal court.
+21 states.
+How does that even play out?
+Do the courts just look in and say,
+okay, clearly this is a manipulation of the system.
+You guys have to stop.
+You'd think so, right?
+But the states fighting against Massachusetts
+consistently lost.
+They lost.
+The federal judges looked at the statue
+and ruled based strictly on the text.
+They essentially said,
+the law says the urban index
+cannot be lower than the rural index.
+Nantucket is geographically rural.
+Their wages are their real wages.
+They said, we don't care
+about the downstream financial impact.
+The mechanism is working exactly as Congress wrote it.
+The letter of the law completely trumped
+the spirit of the law.
+Completely.
+Now, eventually the Department of Health
+and Human Services Inspector General
+aggressively audited Nantucket.
+Okay.
+And they clawed back about $133.6 million
+for a highly specific error
+in how they reported certain wage data.
+They got them on the technicality.
+Right.
+But the underlying legal mechanism,
+the actual Nantucket strategy itself
+survived judicial review.
+It became a proven battle-tested playbook
+for exploiting the rural floor.
+And this brings us back to the war room in Puerto Rico.
+The strategists see the Massachusetts windfall.
+They look at a map of Puerto Rico
+and they see an obvious parallel.
+They look at the island of VX.
+Exactly.
+The similarities are almost too perfect.
+VX is an island of municipality
+off the eastern coast of Puerto Rico.
+It is geographically isolated.
+It is definitively rural.
+Just like Nantucket.
+Right.
+So the obvious play,
+the one that probably gets pitched
+in every initial brainstorming meeting
+is just copy and paste the Massachusetts maneuver.
+Right.
+Just do what they did.
+Yeah.
+You make the hospital and VX the rural anchor.
+You use its data to set a high rural floor
+and suddenly all 52 hospitals in Puerto Rico
+are lifted out of their 0.3500 death spiral
+by the VX data.
+On paper, it is the most logically
+elegant solution imaginable.
+It perfectly mirrors a strategy
+that has already survived federal court.
+But this is where the strategy documents prove their worth
+because they reveal a massive hidden landmine.
+They explain precisely why the obvious move
+is actually a trap that would destroy
+the territory's entire medical system.
+Right.
+Because to run the Nantucket play,
+you need two distinct things.
+You need the rural geographic classification,
+which VX has,
+but you also need a fully licensed
+Medicare certified acute care hospital,
+an IPPS hospital that is paying incredibly high wages
+and submitting cost reports.
+Now what does VX actually have right now?
+The current facility there,
+hospital Susanna Centino is just a CDT.
+Right.
+A CDT is a diagnostic and treatment center.
+It's essentially an ambulatory emergency room.
+It is not an inpatient hospital.
+Okay.
+And that distinction is everything.
+A CDT does not submit the kind of rigorous
+Medicare cost reports that feed
+into the wage index calculations.
+Oh, so they don't even have the vehicle
+to deliver the data.
+Exactly.
+To make the strategy work,
+the Puerto Rican government would have to either
+build a new IPPS hospital from scratch
+or massively upgrade the existing facility.
+But the building is only half the problem.
+Just having the hospital exist isn't enough
+because the wages have to be extraordinarily high
+to move the needle.
+Because it's an average, right?
+Yes.
+The actuarial memo calculates that to push
+the Puerto Rico floor up to a meaningful level,
+this hypothetical new VX hospital
+would need to pay its staff about $36 an hour.
+Which, as we established earlier,
+is more than double the prevailing wage
+of about $15 an hour in Puerto Rico.
+Right.
+So the government would have to artificially
+subsidize those massive salaries.
+They would have to fund an annual payroll
+of $11 to $12 million entirely out of pocket.
+Man.
+And here is the kicker.
+Because of the built-in lag and federal data reporting,
+they would have to burn that $12 million a year
+for four to six years before the high-wage data ever actually
+affected the federal wage index.
+Four to six years, burning tens of millions of dollars
+just to generate the right paperwork, basically.
+A much.
+But here's the twist.
+The financial cost isn't even the real trap, is it?
+The real trap is what happens if they try to build the hospital,
+but they can't afford the $36 an hour salaries.
+This is the most critical piece of regulatory analysis
+in the entire memo.
+Because right now, Puerto Rico possesses
+a highly unique precarious status.
+Because the territory has no hospitals officially
+classified as rural that are submitting wage data,
+the federal government grants the entire island
+an imputed floor.
+An imputed floor.
+Okay, explain that.
+It is a statutory safety net created recently
+by the American Rescue Plan Act,
+specifically Section 9831.
+Because Puerto Rico is considered an all-urban system
+with no rural data,
+CMS artificially imputes a floor for them
+to prevent total collapse.
+I see.
+For fiscal year 2027, that imputed safety net
+is set at 0.3278.
+Okay, let me make sure I say this right.
+The safety net is 0.3278.
+It's obviously not great.
+It's lower than the temporary 0.5 to transition rate
+they're losing in 2027.
+But this is a hard basement.
+Like it stops the lowest wage hospitals in Puerto Rico
+from falling to 0.20 or 0.15.
+Correct, it is the absolute floor.
+But look closely at the legal trigger for that safety net.
+That 0.3278 only exists under Section 9831
+because Puerto Rico has no rural hospitals setting a rate.
+Oh, I see the trap.
+Yeah, if the Puerto Rican government goes ahead
+and opens a real IPPS hospital in VX,
+but they can't afford to subsidize those artificially
+high $36 an hour wages.
+Meaning they just pay normal Puerto Rican hospital wages
+of around $15 an hour.
+What happens?
+The federal computer system registers
+a new active rural hospital.
+Yes.
+And the condition for the safety net,
+having no rural hospitals just vanishes.
+It's like they are suspended on a scaffolding
+because there is no ground floor.
+The moment they build a ground floor,
+even a really weak sunken one,
+the government takes away the scaffolding
+and the whole system craches down to that new lower level.
+Wow.
+The memo calculates that a normal wage hospital in VX
+would generate a real rural wage index of approximately 0.25.
+That is horrifying.
+By trying to execute the Nantucket strategy
+without securing half a decade of massive funding
+to guarantee artificially high wages,
+they would accidentally destroy the 0.3278 imputed floor.
+And crash healthcare funding for the entire territory
+down to 0.25.
+It highlights the extreme danger
+of half measures in administrative law.
+Exactly.
+From a public health perspective,
+opening a modest normal wage hospital in VX is a massive win.
+The residents of that island desperately need inpatient care.
+Of course they do.
+But under the perverse rules of Medicare reimbursement,
+doing that without the payroll subsidies
+is a financial catastrophe for the rest of Puerto Rico.
+You can almost feel the anxiety of the lawyers
+radiating off the pages of this memo.
+They literally put a section in bold text
+called the trap the letter walks into.
+They're terrified.
+They are.
+They're terrified that a well-meaning politician
+is going to hold a press conference,
+announce a new rural hospital in VX for a quick PR win,
+and just unknowingly trigger a systemic financial collapse.
+So the strategists are completely stuck here.
+The 2027 cliff is arriving in exactly one year.
+Building a high-wage hospital in VX is too expensive.
+The four to six-year data lag is too slow,
+and the imputed floor trap is too dangerous.
+So they need a faster solution,
+one that avoids VX entirely for now.
+And this is where the campaign strategy
+pivots to something they call Nantucket Plus.
+Nantucket Plus.
+If you can't build a new high-wage rural hospital in time,
+how do you get high-wage data into the rural pool?
+Right.
+You use a completely different loophole,
+urban to rural reclassification.
+Okay, this revolves around a very specific
+federal regulation, 42 CFR for 12.103,
+the urban to rural loophole.
+How does this actually work?
+You're telling me an urban trauma center
+in the middle of San Juan can just identify
+as a rural facility?
+Surprisingly, yes.
+Regulation 412.103 allows hospitals
+that are physically located in urban areas
+to legally apply to be treated as rural
+for the purposes of the wage index.
+Oh, why?
+While it was originally designed to help
+certain urban hospitals that function more
+like rural facilities get better funding.
+But surely CMS looks at a map and says,
+you are a massive medical center
+and a capital city of two million people,
+request denied.
+You would think that common sense would prevail,
+but again, we are dealing with the rigid text
+of administrative law.
+After a series of intense lawsuits,
+most notably a 2022 case involving
+a hospital operator called Citrus HMA,
+federal courts forced CMS's hand.
+Really?
+The courts ruled that if an urban hospital
+meets the specific criteria to be reclassified
+as rural under this rule, CMS must accept it.
+Must accept it.
+And crucially, its wage data must be included
+in the calculation of the state's rural floor.
+So you don't need to build a hospital on a rural island.
+You just need to find an existing hospital
+with high wages and legally declare it rural.
+Exactly.
+And the strategy documents point out
+a massive tactical advantage Puerto Rico has here.
+What's that?
+The Puerto Rican government actually owns
+the exact wage data they need to pull this off.
+Oh.
+If you look at CMS's own official data tables
+for FY2027, the four highest paying hospitals
+on the entire island are all public facilities
+located in the Central Medical Complex
+right in the middle of San Juan.
+We are talking about the State Trauma Center,
+the Cardiovascular Center,
+the Comprehensive Cancer Center.
+Right.
+For example, ASEM, which is the State Trauma Center,
+pays an average hourly wage of $31.77.
+Wow.
+Okay.
+So the play is take these highly specialized
+high-wage urban hospitals sitting right in the capital city
+and file the paperwork under 412.103 to declare them rural.
+That is the maneuver.
+By directing its own state-run hospitals to reclassify,
+the government can instantly inject that $31 an hour data
+into the empty rural pool.
+Instant data.
+The actuaries calculate that this move
+would instantly create a new legitimate rural floor
+of approximately 0.4 to 0.50.
+Which completely changes the math
+because a floor of 0.42 or 0.50
+easily beats the 0.3278 safety net they currently have.
+Exactly.
+By making this move,
+they lift all 52 hospitals on the island simultaneously
+and they don't have to wait four years
+for a new building in VX to generate data.
+It's immediate.
+But wait, I still don't get how CMS
+actually approves the application.
+Like what criteria allows a San Juan Trauma Center
+to claim it's rural?
+There are a few pathways in the law,
+but the most iron-clad one relies on state sovereignty.
+Dude, sovereign.
+If the state legislature passes a law
+formally designating the hospital
+as a rural hospital under state law,
+CMS is bound by the federal regulation
+to accept the reclassification.
+You're kidding.
+So the Puerto Rican legislature just passes a law
+that says, hey, federal government,
+we declare this city hospital is rural
+and CMS legally has to agree.
+The federal courts have ruled that CMS
+does not have the authority
+to second-guess a state legislature's designation
+in this specific context.
+That is wild.
+That is why one of the hardest deadlines
+in their war plan is to get the Puerto Rican legislature
+to pass a rural designation law by November, 2026.
+It's literally a pure legal fiction
+designed entirely to manipulate a spreadsheet,
+but it is brilliant.
+It is incredibly elegant.
+However, the strategists identify
+one final terrifying hurdle in this plan,
+which they call the sequencing check.
+Okay, what's the sequencing check?
+It turns out if they just file
+the 412.103 paperwork to become rural,
+they run headfirst into the exact same scaffolding trap
+we discussed with VX.
+Wait, how?
+The moment those central medical hospitals
+officially become rural,
+the all-urban 0.3278 safety net vanishes.
+Okay, let me think through this.
+Okay.
+If the new floor they are creating is 0.42,
+why do they care if they lose the 0.32 safety net?
+42 is higher than 32.
+It's a net gain.
+Because the Medicare bureaucracy is agonizingly slow.
+And applications take months to process,
+and the calculations are updated
+in different federal cycles.
+If they lose the safety net
+before the new higher 0.42 floor is officially locked in,
+polished and validated by CMS,
+they could face a gap, period.
+Oh no.
+A gap where they have no safety net
+and the new floor hasn't taken effect.
+Their funding could collapse to 0.25
+for an entire fiscal year.
+So they need the new floor to activate
+at the exact millisecond the safety net drops.
+How do they guarantee that?
+The lawyers outline a highly specific,
+almost absurd sequence of filings.
+They have to file a dual reclassification.
+A dual reclassification.
+First, they apply to CMS for the four 12.103 rural status.
+I'm okay.
+But simultaneously, they file a different application
+with a completely separate board,
+the Medicare Geographic Classification Review Board.
+To do what?
+To reclassify back to their urban home
+for other payment purposes.
+My head is spinning.
+They fill out a form to reclassify from urban to rural
+and then immediately fill out another form
+to reclassify from rural back to urban.
+Yes.
+The memo calls it a California style
+dual reclassification sequence.
+California style.
+Because hospitals in California pioneered it
+to exploit different columns
+in the federal payment spreadsheet simultaneously.
+The legal argument here is that this dual sequence
+forces CMS to keep their high wage data
+in the rural floor calculation.
+But technically leaves the hospitals classified
+in a way that doesn't trigger the destruction
+of the 0.3278 imputed floor
+during the transition period.
+It is high wire legal acrobatics.
+You are balancing the healthcare funding
+of an entire territory
+on making sure the federal government processes
+two contradictory forms in the correct order.
+That's exactly what they're doing.
+The memo bluntly states that one miss sequence letter
+could cost the island its safety net.
+It is a massive risk.
+But given the 2027 cliff,
+it seems like it's the only viable play they have.
+It is.
+Okay, let's take a breath
+because I want to pivot entirely here.
+We have been so deep in the weeds
+of hospital funding, the wage index,
+the imputed floors, the reclassifications.
+Very deep.
+And this is all fundamentally about how much Medicare
+pays hospitals for inpatient care
+under what is called the traditional fee for service
+system.
+But here is the thing that really blew my mind
+reading this war plan.
+What's that?
+Why is this a half billion dollar war?
+Like, why does this deeply obscure hospital wage index
+matter to the average senior citizen living in Puerto Rico
+who might not even go to the hospital this year?
+Ah, yes.
+This is the most crucial part of the campaign.
+In Puerto Rico, the hospital fee for service rate
+is just the tip of the iceberg.
+Right.
+It is actually the hidden engine
+driving something much, much larger,
+the entire Medicare Advantage system.
+So most people in the mainland US
+are familiar with traditional Medicare.
+You go to the doctor, the government pays the doctor
+a fee, that's traditional fee for service.
+Right.
+But Medicare Advantage, or MA, is the privatized version.
+The government pays private insurance companies
+a flat monthly rate to manage a patient's total care.
+Exactly.
+And the landscape for Medicare Advantage in Puerto Rico
+is unlike anywhere else in the United States.
+The statistics in the data pack are astounding.
+In Puerto Rico, 95% of the eligible Medicare population
+is enrolled in a Medicare Advantage plan.
+95%.
+Yes, over 674,000 enrollees.
+It is by far the highest MA penetration rate in the nation.
+And the traditional fee for service system,
+the thing that the wage index actually directly pays for,
+only covers about 5% of the population,
+which is roughly 35,000 people.
+So wait.
+The hospitals are fighting a multimillion dollar war,
+hiring lawyers, passing state laws,
+and risking their safety net all to change a metric that only
+applies to 5% of the patients.
+Exactly.
+Because if we connect this to the broader
+actuarial mechanics of Medicare,
+we find the concept of repricing.
+Repricing.
+The federal government doesn't just
+guess how much to pay the private Medicare Advantage
+insurance companies.
+They calculate a specific benchmark rate
+for every single county, or in Puerto Rico's case,
+every municipio.
+And how do they calculate that benchmark?
+The actuaries at CMS look at the historical costs of care
+and the traditional fee for service system for that county.
+OK.
+And then they reprice those historical claims
+using the current wage index.
+Oh, the tailwags, the massive dog.
+It is like using the price of a hot dog at the local
+baseball stadium to mathematically determine the property
+taxes for the entire city.
+The wages paid in that tiny 5% fee for service hospital market
+serve as the mathematical foundation
+for the massive 95% Medicare Advantage market.
+That is the exact mechanism.
+The hospital wage index feeds into a metric
+called the Average Geographic Adjustment, or AGA.
+AGA.
+The actuaries use the AGA to set the MA benchmarks.
+So if the campaign fails and the hospital wage index
+crashes on October 1st, 2027, from 0.5 to down to 0.35.
+The hospital revenues drop 15.5%.
+Bad for the hospitals.
+It is.
+But the catastrophe is that two years later,
+when the actuaries reprised the claims
+to set the 2029 MA rates, they see those low hospital costs
+and they mathematically slash the Medicare Advantage
+payments for 674,000 senior citizens
+across the entire island.
+The whole system follows the wage index down.
+The MA plans would have to cut benefits, raise premiums,
+or pull out of the market entirely.
+But conversely, if the strategists execute the Nantucket Plus
+strategy.
+If they pull it off.
+Right.
+If they successfully reclassify Central Medical
+and push the rural floor up to 0.42 or 0.50,
+that gain cascades through the actuarial models
+and inflates the Medicare Advantage payments.
+And the campaign has quantified exactly what
+that inflation is worth.
+The documents state that a successful campaign
+to raise the hospital floor has an expected value
+of adding $15 per member per month, or PMPM,
+to the calendar year 2029 benchmark.
+$15 per member per month.
+When you multiply that by 674,000 members,
+that equates to an additional $119 million per year
+flowing into the Puerto Rican health care system.
+$119 million a year.
+Every single year.
+And that's just the baseline expectation.
+The documents outline an upside breakthrough scenario.
+If they can secure the dual reclassification now
+and then eventually get the VX hospital built
+and running at high wages in the future,
+or if they can force Congress to pass certain protective bills
+while the administration is distracted.
+That number jumps to an extra $500 to $820 million
+per year by the early 2030s.
+Half a billion to almost $1 billion.
+It's an incredible demonstration of systemic leverage.
+It really is.
+By deeply understanding the exact actuarial mechanics,
+like how a hospital's payroll data submitted
+on a technical cost report
+translates into a county level insurance benchmark,
+they can unlock hundreds of millions of dollars
+without ever having to ask Congress
+to appropriate new funds.
+So this entirely explains the intensity of the war plan.
+They aren't just reacting to a cut.
+They are orchestrating a highly sequenced
+multi-year mobilization to capture a massive windfall.
+Yes.
+Look at the calendar they laid out for this coalition
+because the deadlines are terrifyingly strict.
+They have to be strict
+because federal rulemaking waits for no one.
+If they miss one filing window,
+they lose an entire year of funding.
+Okay, so step one.
+As we mentioned, the first step is legislative.
+They have to draft and pass
+a Puerto Rico rural designation law by November 2026.
+Then they have to execute
+the complicated dual reclassification filings
+for the Central Medical Hospitals by December 2026.
+So a month later.
+And then comes the big public push
+because by June of 2027,
+they need to generate 150 plus highly substantive
+data-driven comments on the federal docket.
+They have to permanently fix
+that four of nine, eight, two embarrassment.
+They really do.
+They are organizing all 52 hospitals,
+the Medicare Advantage Insurance Plans,
+the medical societies,
+the mayors of the local municipalities
+and patient advocacy groups
+to all file coordinated legally sound comments
+based on this shared strategy.
+It is a massive island wide coalition building effort.
+And the messaging strategy they are using
+to unite all these disparate groups
+is explicitly stated in the documents.
+Sell the certainty, build the option.
+Right, sell the certainty, build the option.
+I love that phrasing.
+It's very smart.
+They are telling their coalition,
+we must mobilize right now
+to stop the 15% hospital cut in October 2027.
+That cut is a certainty.
+We have to defend the baseline we have.
+Right, that gets everyone to the table.
+But while everyone is focused
+on stopping the immediate hospital cut,
+the central strategists are quietly laying
+the complex administrative plumbing,
+the state laws, the dual reclassifications,
+the data engineering,
+to secure that half billion dollar
+Medicare Advantage payday in three years.
+They're playing a multi-dimensional game
+of chess against a federal bureaucracy
+that is inherently programmed
+to maintain the status quo.
+And every single move they make
+is informed by the historical precedent
+of what a tiny island in Massachusetts
+managed to pull off almost two decades ago.
+It is truly staggering when you step back
+and look at the whole narrative arc
+of what we've just discussed today.
+It really is.
+I mean, we started this deep dive
+looking at a looming fiscal cliff
+that was going to gut Puerto Rico's hospitals.
+We dug into the history
+of how Nantucket deliberately abandoned
+a safe payment system
+to exploit a rural floor loophole
+and siphon hundreds of millions of dollars
+from the rest of the country.
+We saw how attempting to simply copy
+that Nantucket strategy with the island of VX
+actually presented a lethal regulatory trap.
+The loss of the imputed floor scaffolding.
+Exactly, which could collapse
+the territory's funding even further.
+And we arrived at this audacious,
+highly engineered plan
+to use legal fictions
+to reclassify urban trauma centers as rural hospitals,
+just to manipulate an actuarial formula
+to fund a territory's Medicare Advantage program.
+It is a perfect example of why
+paying attention to the fine print matters.
+It really is.
+The difference between a thriving healthcare system
+and a collapsing one
+isn't always about the quality of medicine
+being practiced by the doctors and nurses.
+Sometimes it is entirely about understanding
+the complex hidden math of federal regulations.
+It forces us to ask a really important question
+about the system itself.
+What that?
+Well, we rely on these incredibly complex proxies
+like wage indices, geographic boundaries,
+and historical cost repricing
+to distribute vital, life-saving resources.
+But when the survival of a medical system
+depends entirely on mastering
+the loopholes of those proxies,
+you have to wonder what we're actually optimizing for.
+Are we optimizing for care or for compliance?
+Exactly.
+Consider this as a final thought
+and I'll end them all over for everyone listening.
+The health, the access to care,
+and the basic well-being of hundreds of thousands
+of elderly patients on an island in the Caribbean
+might ultimately depend entirely on the legal precedent
+set by a wealthy resort island in Massachusetts
+almost two decades ago.
+It's what?
+It begs the question,
+if our national healthcare funding
+is this dependent on finding geographic loopholes
+and executing California-style dual reclassifications,
+is the system a masterclass in local adaptation?
+Or is the foundational architecture
+of how we value human care fundamentally flawed?
