@@ -8,7 +8,7 @@ Spotify, and other directories is all it takes to distribute the show.
 
 ```
 podcast.config.json        show-level metadata (title, description, author, ...)
-assets/cover.png           cover art (3000x3000)
+assets/cover.jpg           cover art (2048x2048 JPEG, kept under 512 KB for Apple)
 episodes/NNN-slug/         one folder per episode
   episode.mp3              normalized audio
   metadata.json            title, date, duration, ...
@@ -50,8 +50,9 @@ python3 scripts/build.py
 
 Edit `podcast.config.json` (title, description, author, category, language,
 explicit flag, owner contact for directories). Regenerate placeholder cover art
-with `python3 scripts/make_cover.py`, or drop your own square 3000x3000 PNG/JPG
-at `assets/cover.png`.
+with `python3 scripts/make_cover.py`, or drop your own square 1400-3000px JPG
+at `assets/cover.jpg` — keep the file under 512 KB or Apple Podcasts will
+reject the feed's artwork.
 
 ## Submitting to directories
 
