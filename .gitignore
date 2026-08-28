@@ -1,0 +1,11 @@
+# build output is generated in CI
+docs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# raw uploads / scratch
+inbox/
+*.wav

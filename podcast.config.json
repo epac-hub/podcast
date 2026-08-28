@@ -1,0 +1,17 @@
+{
+  "title": "My Podcast",
+  "subtitle": "",
+  "description": "A podcast. Update this description in podcast.config.json.",
+  "author": "",
+  "owner_name": "",
+  "owner_email": "",
+  "language": "en-US",
+  "category": "Society & Culture",
+  "subcategory": "",
+  "explicit": false,
+  "site_url": "https://epac-hub.github.io/podcast",
+  "copyright": "",
+  "cover_image": "assets/cover.png",
+  "audio_bitrate": "128k",
+  "loudness_normalize": true
+}
