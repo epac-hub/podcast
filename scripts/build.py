@@ -87,6 +87,9 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
         ET.register_namespace(prefix, uri)
 
     site = config["site_url"].rstrip("/")
+    # OP3 (op3.dev) download-analytics prefix: redirects to the real file
+    # while counting the request; public stats per episode.
+    op3 = "https://op3.dev/e/" + site.removeprefix("https://")
     rss = ET.Element("rss", version="2.0")
     ch = ET.SubElement(rss, "channel")
 
@@ -139,7 +142,7 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
         el(item, "guid", page, isPermaLink="true")
         el(item, "description", meta.get("description") or meta["title"])
         el(item, "pubDate", email.utils.format_datetime(pub_datetime(meta)))
-        el(item, "enclosure", url=f"{site}/audio/{meta['dirname']}.mp3",
+        el(item, "enclosure", url=f"{op3}/audio/{meta['dirname']}.mp3",
            length=meta["bytes"], type="audio/mpeg")
         el(item, f"{{{ITUNES}}}duration", int(meta["duration_seconds"]))
         el(item, f"{{{ITUNES}}}episode", meta["number"])
@@ -166,10 +169,12 @@ def build_site(config: dict, episodes: list[dict]) -> None:
     env.filters["duration"] = fmt_duration
     env.filters["markdown"] = md_to_html
 
+    site = config["site_url"].rstrip("/")
+    op3 = "https://op3.dev/e/" + site.removeprefix("https://")
     view = []
     for meta in reversed(episodes):  # newest first
         v = dict(meta)
-        v["audio_url"] = f"audio/{meta['dirname']}.mp3"
+        v["audio_url"] = f"{op3}/audio/{meta['dirname']}.mp3"
         v["page_url"] = f"episodes/{meta['dirname']}/"
         v["notes_html"] = md_to_html(meta["notes_md"])
         v["date_display"] = datetime.date.fromisoformat(meta["pubdate"]).strftime("%B %-d, %Y")
