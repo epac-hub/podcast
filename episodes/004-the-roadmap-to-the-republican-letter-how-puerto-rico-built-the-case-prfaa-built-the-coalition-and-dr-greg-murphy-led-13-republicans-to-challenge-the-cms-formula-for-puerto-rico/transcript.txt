@@ -1,0 +1,822 @@
+So imagine running the single most successful
+hospital network in America.
+Like you are literally outperforming 99% of the country
+on well, basically every conceivable quality metric.
+Right, your readmissions are down,
+your chronic care is world-class.
+Exactly, patient satisfaction is just off the charts.
+And the federal government's reward
+for this unprecedented excellence
+is to just aggressively slash your funding
+by 40% compared to some mediocre hospital
+a few hundred miles away.
+Which sounds completely absurd.
+It sounds made up, right?
+But that isn't a hypothetical scenario.
+Right now in American healthcare,
+excellence is being actively penalized
+by this broken math equation.
+It really is a phenomenal contradiction.
+I mean, you're looking at a scenario
+where the statutory formula
+that's meant to sustain healthcare delivery
+is essentially cannibalizing the best performing market
+in the entire nation.
+And that is exactly what we were unpacking today.
+And you know, if you're listening to this
+and you live in Florida or Arizona or Texas,
+you might initially think,
+well, this is just an isolated territorial issue.
+Oh, but it is not.
+No, it is not.
+Just wait until you hear how this exact same
+mathematical trap is coming
+for your state's Medicare Advantage program.
+So today you are joining us for a deep dive
+into the strategy behind a really fascinating dossier.
+Yeah, the dossier is titled
+Puerto Rico Built the Case, PRFAA Built the Coalition.
+Right.
+We're looking at how this localized healthcare ecosystem
+built a highly sophisticated political machine
+to basically force Washington to fix a fatal flaw
+in its own operating logic.
+And we have some incredible source material here
+to guide us through this.
+We really do.
+We've got Governor Jennifer Gonzalez-Colin's
+February 2026 letter
+to HHS Secretary Robert F. Kennedy, Jr.,
+an official memorandum of understanding
+from the island's provider network,
+and this pivotal August 2026 letter
+from 13 House Republicans.
+And I think it's important to establish right up front,
+this isn't just a story about lobbying dollars
+or, you know, generic advocacy.
+Right.
+If we connect this to the bigger picture,
+it is a masterclass in institutional warfare.
+It's about leveraging a massive contradiction
+between the CMS star ratings.
+Which is the government's own quality assessment tool.
+Exactly, the government's own tool.
+And contrasting that with the flawed
+actuarial methodology that actually dictates the payments.
+Okay, let's unpack this
+and start right there with the quality data.
+Because if I'm a skeptical observer,
+my first thought is, okay,
+every state thinks their doctors are the best.
+Sure, everyone claims they have the best care.
+Right.
+But we aren't talking about anecdotal quality here.
+We are talking about hard CMS star ratings.
+And getting five stars
+on a Medicare Advantage prescription drug contract
+and MAPD contract is notoriously brutal.
+It is incredibly difficult.
+You miss a few decimal points on your HEDES measures
+or say your pharmacy adherence metrics
+and bam, you drop down to 4.5.
+It's unforgiving.
+Very.
+It requires a vertically integrated,
+highly coordinated care model.
+And the data from Puerto Rico is just staggering.
+I mean, 99% of their MA beneficiaries
+are enrolled in contracts rated 4.5 stars or higher.
+99%.
+99%.
+Which is already crazy.
+But the five star numbers are what really,
+like they just break the brain.
+81% of all Puerto Rico MA beneficiaries
+are in five star contracts.
+And to put that in perspective for the listener,
+when you look at the macro national landscape,
+there are roughly 820,000 members enrolled
+in five star MAPD contracts across the entire United States.
+Out of that national total,
+Puerto Rico accounts for 547,600 of them.
+Wait, that's two thirds.
+Two thirds.
+Puerto Rico represents 66.7% of all national enrollment
+in five star Medicare Advantage contracts.
+That is insane.
+It really is.
+Three of the 18 five star contracts
+in the entire nation are on this one island.
+Wow.
+Yeah.
+MCS contract H577, MMM H4003, and H4004.
+And that MCS contract is actually the single largest
+in America with over 332,000 members.
+So they hold over 40% of the national five star
+enrollment in just that one contract.
+Exactly.
+So they have completely objectively mastered
+the CMS quality parameters.
+They have.
+Which makes the benchmark reality so incredibly jarring.
+I mean, for 2026, the average benchmark for Puerto Rico
+is just $730 per member per month.
+Well, the national average is $1,246.
+Okay, stop right there.
+$730 versus $1,246.
+We are talking about a $500 monthly deficit per patient.
+Every single month.
+Over a year.
+That is $6,000 less per senior.
+I mean, how does a healthcare system
+absorb a six grand per patient hit
+and still deliver five star care?
+It requires immense strain on the local providers,
+which we'll get into.
+But wait, if I'm a CMS actuary
+looking at this spreadsheet,
+why isn't someone just hit a manual override?
+Like in statistical modeling,
+you can normalize for anomalies.
+You'd think so, yeah.
+Right, so why couldn't they just adjust the math
+instead of waiting for a massive political coalition
+to force their hand?
+Well, because CMS actuaries are bound by section 1853
+of the Social Security Act.
+The statute.
+Right, they can't just invent a new payment tier
+because they feel like it
+or because the data looks weird.
+They have to follow the statutory formula
+and that formula ties MA rates
+directly to fee-for-service or FFS per capita costs
+in that specific geographic area.
+Meaning they're legally forced
+to look at the traditional Medicare baseline.
+Exactly.
+But here is where the math completely detaches from reality.
+The dossier calls this the success paradox.
+The success paradox.
+Yeah, so Puerto Rico's MA market is incredibly dense.
+Over 670,000 seniors are in MA.
+Which is like what, 96% of the Medicare
+eligible population on the island?
+Yes, roughly 96%.
+Leaving a residual fee-for-service population
+of only about 29,000 people.
+So just 3%.
+Just 3% of beneficiaries.
+Okay, so let me see if I have this right.
+Imagine trying to figure out the average grocery budget
+for a town of 100,000 people.
+And 96% of the town shops
+at this hyper-efficient bulk discount Costco.
+But your federal formula mandates
+that you can only calculate the town's entire grocery budget
+by analyzing the spending habits
+of the 3% of people who exclusively buy their food
+at a gas station at 2 in the morning.
+That is actually a brilliant way to look at it.
+It's an inherently corrupted data pool.
+You are projecting the complex care costs
+of over 670,000 seniors
+based on a highly irregular 29,000-person sample size.
+And that sample size doesn't reflect the norm at all.
+Not at all.
+The composition of that 29,000-person sample
+is highly atypical.
+It disproportionately includes individuals
+with alternative coverage like veterans using the VA system
+or dual-eligible with highly-fractured claims data.
+So they aren't even using
+the fee-for-service system in a standard way.
+Exactly.
+Their FFS claims profile doesn't remotely resemble
+the actual morbidity or utilization rates
+of the broader senior population.
+So because the statutory formula relies
+on this corrupted low-utilization baseline,
+the FFS cost estimates systemically understate
+the true cost of delivering care.
+Which is why the MA benchmarks are 41%
+below the national average
+and frankly 20% below even the U.S. Virgin Islands.
+Wow.
+So they are getting punished literally
+because they were too successful
+at enrolling seniors into managed care.
+That's the paradox.
+The better MA performs, the more the FFS pool shrinks.
+And the more distorted the data gets.
+Right.
+And then the lower the benchmark drops.
+It is basically an actuarial death spiral.
+And this is why the dossier frames this
+as Puerto Rico as Medicare's future.
+Yes.
+What's fascinating here is that the mainland
+is trending exactly in this direction.
+Right.
+If you are sitting in a highly saturated MA market
+right now like parts of Florida
+or Southern California or Arizona,
+your fee for service pool is shrinking
+every single open enrollment period.
+It is.
+Eventually, those states are gonna hit
+the exact same mathematical singularity Puerto Rico
+just hit where the FFS sample size becomes way too small
+to generate a statistically valid benchmark.
+Puerto Rico is the canary in the coal mine.
+They just hit the extreme end of the curve
+a decade before the mainland.
+But recognizing that you are the canary
+doesn't actually get you out of the coal mine.
+No, it does not.
+Knowing the math is broken is easy.
+Fixing it in Washington is a nightmare.
+Exactly.
+And this is where Governor Jennifer Gonzales
+Colin steps in.
+Yeah.
+Because you can't just walk into HHS and say,
+hey, the formula is unfair.
+Right, that gets you nowhere.
+You have to engineer a highly specific,
+legally viable off-ramp.
+And that's exactly what she did.
+The governor didn't just draft a grievance,
+she drafted a blueprint.
+When you analyze her February 25th,
+2026 letter to Secretary Kennedy,
+the strategic restraint is what really stands out.
+Right, because she doesn't ask for full parity.
+She doesn't go in demanding,
+give us the $1,246 national average tomorrow.
+No, because full parity requires
+a legislative overhaul.
+Right.
+It requires an act of Congress,
+an impossibly high CBO score,
+and just years of committee battles.
+So instead, she asked for an administrative fix
+under existing statutory authority.
+Which is so much smarter politically.
+It is, she explicitly requested
+a national Medicare Advantage benchmark floor of 0.70.
+Meaning no jurisdiction can fall below
+70% of the national average.
+Exactly.
+And she asked for that to begin
+in the 2028 rate cycle.
+And she anchors that request to the US Virgin Islands,
+which is currently operating around that 70% mark anyway.
+It's just brilliant.
+It really is.
+She's essentially telling CMS,
+look, you already have the administrative president
+right next door.
+Just apply this 0.70 floor to us.
+It aligns Puerto Rico more closely with national norms
+without disproportionately blowing up federal spending.
+It stops the bleeding,
+it stabilizes the provider networks,
+and it does so without triggering
+a massive fiscal panic on Capitol Hill.
+And you really have to factor in the messenger here.
+I mean, Governor Gonzales Cologne
+isn't some outsider trying to figure out how DC works.
+Not at all.
+She spent eight years
+as Puerto Rico's resident commissioner.
+She was a House Republican.
+She knows the cadence, the pressure points,
+the legislative staff architecture of these offices.
+She has the relationship.
+She has deep, established Republican relationships.
+When she calls a House Republican,
+she isn't a territorial governor asking for a handout.
+She's a former colleague pointing out a technical flaw
+in a federal program.
+That unparalleled access and credibility is huge.
+But I mean, even with her relationships
+and her highly targeted 0.70 request,
+a letter is just a piece of paper.
+You need an institutional engine
+to actually drive this through the bureaucracy.
+You need a machine that operates daily.
+And that was PRFAA,
+the Puerto Rico Federal Affairs Administration.
+I really want to dig into the operational mechanics here
+because we always hear the term coalition building,
+but it usually just means putting 50 logos on a PDF
+and calling it a day.
+Yeah, that's standard DC stuff.
+Right, but PRFAA did something completely different.
+Executive Director Gabriela Bafeli
+and Deputy Director Natalia Gandia
+essentially built a localized state department
+combined with a tactical lobbying firm.
+Because they had a highly complex ecosystem to manage.
+The private healthcare sector in Puerto Rico,
+the hospitals, the IPAs, the health plans,
+the community pharmacies, they aren't new to this.
+No, they've been dealing with this for a long time.
+Over 15 years,
+they've been fighting this funding disparity
+for over 15 years.
+So they have immense institutional memory
+and massive amounts of localized data.
+But raw data is heavy and it's hard to move.
+Exactly, PRFAA's job was to act as the operational bridge.
+They channeled all of that localized energy
+from the private sector
+into a single unified laser beam
+aimed directly at the 0.704 request.
+So what does that actually look like on the ground in DC?
+Because I imagine it's not just setting up
+a few cocktail hours and handing out pamphlets.
+Far from it, it is a grueling logistical grind.
+You're talking about Bafeli and Gandia
+coordinating rolling fly-ins.
+They are constantly looking at the congressional calendar.
+They are sequencing the Hill visits.
+They are prepping the private sector leaders
+before they ever set foot
+in a Rayburn office building suite.
+They're essentially casting the meetings.
+Precisely, it's incredibly tactical.
+If they secure a meeting with a mainland representative
+who has a strong voting record on small business issues,
+PRFAA doesn't send the hospital CEO.
+Oh, they send the independent pharmacy owner.
+Exactly.
+And if the representative sits on a committee
+dealing with institutional health care resilience,
+well, then they send the hospital administrators.
+That is so smart.
+They match the exact endpoint of the health care supply chain
+to the specific political interest of the lawmaker.
+And they back it up
+with constant relentless follow-up,
+the rapid debriefs in the hallway
+right after the meeting,
+the technical support for the legislative assistance,
+the signature tracking for the eventual August letter.
+They kept the entire private sector perfectly aligned
+with the governor's strategy.
+Total alignment, no rogue requests, no mixed messaging.
+Just, we have five-star quality.
+We have a 41% funding deficit
+and we need the 0.70 floor in 2028.
+But the true genius of PRFAA strategy
+wasn't just in the DC office, that's right.
+It was getting the lawmakers out of DC
+and putting them on the ground in Puerto Rico.
+Yes.
+Because I understand getting politicians into a room,
+but how do you actually show them a formula
+failing in real time?
+Like a hospital tour usually just involves
+shaking hands with administrators,
+looking at an MRI machine and taking a photo.
+Yeah, the classic photo op.
+Right.
+So why did these specific visits
+actually move the needle
+for deeply skeptical Republicans?
+By exposing them to the actual operating system.
+This wasn't a standard PR tour.
+The internal dossier maps this out
+as a four-doors strategy.
+Okay, four doors.
+They didn't just show them
+the glossy administrative suite.
+They walked them through the harsh economic reality
+of the supply chain.
+Let's look at this sequence,
+starting with the macro view.
+The policy and chamber door?
+Right.
+This was with Luís Luigi Pizarro
+at the Puerto Rico Chamber of Commerce Health
+and Insurance Conferences.
+Okay, so that's the big picture.
+Exactly.
+This is where you establish the systemic stakes.
+You put the lawmakers in a room
+with the island's economic leadership
+to show that this $730 MA benchmark
+isn't just an insurance issue.
+It's a massive overarching economic drag.
+Because it impacts employment
+and capital investment
+and the broader tax base.
+Exactly.
+Okay, so they established the macro,
+then they take them through the second door,
+the hospital door,
+with Dr. Leo Valentin
+at Professional Hospital of Guainabbo.
+And here, the theoretical deficit
+becomes totally tangible.
+When you are underfunded
+by $500 per patient per month,
+what does that actually look like
+on a hospital floor?
+It looks like an inability
+to match mainland nursing salaries.
+Right, which leads to a brutal brain drain.
+It looks like delayed capital expenditures
+for surgical equipment.
+Lawmakers got to see
+that the hospital isn't just complaining
+about profit margins.
+They're literally fighting
+to maintain institutional delivery
+under a crushing financial handicap.
+Wow.
+And then we move to the third door,
+which is fascinating
+because it deals with the actual mechanics of MA care,
+the physician and IPA door.
+This was with Dr. Huaco Vargas
+at Varmed Health Center.
+And this is where the five-star metric
+is actually achieved.
+Oh, this is the ground level.
+Right.
+Lawmakers got to see firsthand
+how independent practice associations or IPAs
+utilize capitation
+and heavily coordinated care models
+to manage chronically ill populations.
+So they saw the aggressive preventative care.
+Yes.
+And the complex referral management
+that keeps readmissions so low.
+They saw why the quality is so high,
+but they also saw
+how the underlying funding starvation
+severely restricts the resources
+those primary care doctors have
+to actually manage that patient load.
+Precisely.
+It made the contradiction real.
+But it's the fourth door
+that really seemed to break
+through the partisan resistance,
+the pharmacy door.
+Elliot Pacheco at Superfarmacia,
+I love Verde.
+I love this part
+because everybody understands a local pharmacy.
+You walk into a community pharmacy
+and you immediately grasp the retail economics.
+Exactly.
+This wasn't some corporate boardroom.
+Lawmakers were standing in a community pharmacy
+looking at the exact cash flow constraints.
+They were seeing the acquisition costs
+of specialty medications,
+the predatory DIR fees,
+the immense squeeze from PBMs.
+Yes.
+When the federal MA benchmark
+is severely depressed,
+the downstream reimbursement rates
+for the pharmacy are razor thin
+or often completely underwater.
+So the pharmacist is literally asking
+if I dispense this insulin to this senior,
+will I lose money on the transaction?
+And when a conservative lawmaker
+sees a small business owner
+and independent pharmacist
+facing an existential threat
+because of a flawed federal algorithm,
+it fundamentally changes
+their political calculus.
+It's not abstract anymore.
+Not at all.
+Which perfectly sets up the centerpiece
+of this entire coalition.
+The white whale of their advocacy strategy,
+Representative Greg Murphy.
+His conversion is the defining political achievement
+of this entire campaign.
+Because if you look at the landscape
+in early 2024,
+Greg Murphy is the absolute last guy
+you would expect to lead a coalition
+defending Medicare Advantage funding.
+The absolute last.
+In March 2024, he goes on the record,
+completely unvarnished,
+saying he is, quote,
+personally not a fan of MA.
+He basically suggests the program
+needs to be abolished and restarted from scratch.
+Which raises an important question, right.
+Why would PRFAA and the governor
+waste their time on one of the most outspoken critics
+of national Medicare Advantage abuses?
+Seriously.
+If I'm running this campaign,
+I'm looking for members who already love MA.
+Why target the guy trying to burn it down?
+Because of his background.
+Representative Murphy is a physician.
+Ah, right.
+He understands clinical reality
+versus administrative bloat.
+His deep skepticism of MA wasn't arbitrary.
+It was rooted in highly valid criticisms
+of the massive national carriers.
+He was frustrated by the aggressive prior authorizations,
+the systemic denial of care.
+Exactly.
+The aggressive coding intensity
+and the massive profit margins of national insurers
+at the expense of actual patient care.
+Which, to be fair, are the exact things
+most people hate about the corporatization of healthcare.
+Right.
+But in April 2025, Murphy takes the trip.
+He speaks alongside Luigi Pizarro
+at the chamber conference.
+He goes to professional hospital Guainabo
+with Dr. Valentin.
+He sees the IPA model
+ad-varmed with Dr. Vargas.
+And he stands in Super Formatia, Ayla Verde,
+talking directly with Elliot Pacheco
+and other independent pharmacy owners.
+He goes through the four doors.
+And because he's a doctor,
+he isn't just looking at the spreadsheets.
+He is looking at the clinical pathways.
+He recognizes immediately
+that Puerto Rico's MA market is structurally different
+from the mainland corporate models he despises.
+It is deeply integrated.
+It relies heavily on local independent providers.
+And it is actually delivering
+on the promise of managed care,
+which is evidenced by the 81% five-star enrollment.
+So he realizes that by starting
+the funding formula in Puerto Rico,
+the federal government isn't punishing
+the national corporate executives in their high-rises.
+It is actively crushing Dr. Valentin,
+Dr. Vargas, and Elliot Pacheco.
+It is punishing the exact local providers
+Murphy wants to protect.
+Which leads directly to this watershed moment
+in July 2025.
+During a congressional hearing,
+while still being highly critical
+of national MA carriers,
+Murphy explicitly carves out Puerto Rico.
+He points to their system and says,
+quote, they do it right.
+They do it right.
+That forward sentence is the holy grail for PRFAA.
+It unlocked the entire Republican policy frame.
+So Murphy proved that you can hold
+two thoughts simultaneously.
+You can demand intense accountability from insurers,
+demand massive PBM reform and fight fraud,
+while also demanding that the federal government
+provide an adequate baseline of funding
+to protect local providers and patient choice.
+Right, he separated the conduct of bad actors
+from the underlying payment methodology.
+Exactly.
+We'll be very precise here.
+Murphy didn't wake up one morning
+and invent the 0.70 benchmark floor.
+Oh no, not at all.
+He didn't build the actuarial case.
+PRFAA, the governor and the private sector
+spent years building the engine,
+refining the fuel and mapping the destination.
+Murphy was the key turning the ignition.
+He provided the uniquely credible validation.
+Yeah, when the guy who hates MA
+tells the rest of the Republican caucus,
+actually we need to protect MA funding
+in this specific jurisdiction.
+Everyone else stops and listens.
+It gives them permission to support it.
+But one guy, even a highly credible one,
+isn't a coalition.
+You don't move the HHS secretary
+or the CMS actuaries with one signature.
+No, you need numbers.
+So PRFAA leverages Murphy's conversion
+and starts bringing in different facets
+of the GOP conference.
+Let's look at representative Buddy Carter from Georgia
+because he brings an entirely different
+microscopic lens to this problem.
+Carter is fascinating because he isn't looking
+at this primarily through the physician lens, like Murphy.
+He is looking at it through the retail pharmacy lens.
+Right.
+Carter owned an independent pharmacy for 32 years.
+He is arguably the most aggressive critic
+of PBMs in Congress.
+So when PRFAA gets Carter down to Puerto Rico
+in April, 2026, they know exactly
+which door matters most for him.
+They take him straight to Super Formatia,
+Isla Verde, to meet with Elia Pacheco.
+And it's not a politician talking to an constituent.
+It's an owner talking to an owner.
+They speak the exact same highly technical language
+of dispensing fees, clawbacks, and working capital.
+Carter intrinsically understands
+that when the federal benchmark drops to $730,
+the PBMs don't absorb that loss.
+Oh, of course not.
+They push the pain downstream
+to the independent pharmacist.
+So Carter signs onto the coalition
+and he brings this massive credibility
+regarding small business protection and PBM reform.
+The argument is just getting wider and wider.
+Then you look at someone like
+Representative Gus Bilorakis from Florida.
+Why is he so critical?
+Continuity and deep historical ties.
+Okay.
+Bilorakis had a documented legislative partnership
+with Governor Gonzales Cologne on territorial health care
+that predates Hurricane Maria.
+Wow, so he goes way back.
+He represents the institutional memory
+of Puerto Rico's health care struggles.
+And he brought this fascinating symbolic element
+to the fight with the Roberto Clemente statue bill
+in August, 2026.
+It's a brilliant piece of legislative signaling.
+Now the dossier acknowledges
+that a statue doesn't change actuarial policy,
+but rhetorically it perfectly frames
+Puerto Rico's entire argument.
+The Clemente statue is about recognizing excellence,
+service, and high performance
+despite overwhelming adversity.
+Right, they aren't coming to Washington
+with their hands out saying,
+we are failing, please bail us out.
+Exactly.
+They're coming to Washington saying,
+we are the best in the country.
+We are delivering five star results
+under a benchmark that would completely bankrupt
+a mainland hospital, reward the excellence.
+And that framing appeals immensely
+to the merit-based philosophy of the Republican conference,
+which is why you see the coalition expand to 14 members
+by the August 3, 2026 letter.
+It's an incredibly diverse group too.
+You have Brian Fitzpatrick from Pennsylvania
+bringing continuity on the physician migration crisis.
+Don Bacon from Nebraska.
+And why does Nebraska care?
+Right, why Nebraska?
+Because Bacon realizes that
+as MA penetration climbs in the Midwest,
+this exact FFS data corruption
+is gonna hit his state eventually.
+He sees the future.
+You also have the territorial perspective
+from Amua Amada Ridewagon of American Samoa
+and James Moylan from Guam.
+Plus the Florida heavyweights, right?
+Oh.
+Carlos Kimenez, Maria Elvira Salazar,
+Mario Diaz Ballart.
+Who deeply understand the senior care demographic
+and the Puerto Rican migration link.
+And then you have members like Pete Sessions,
+Mike Kelly, Riley Moore and Claudia Tenney.
+14 Republicans all signing on
+to Governor Gonzalez-Colon's exact request,
+establish a 70% national minimum MA benchmark floor
+beginning in 2028.
+I mean, it is a massive political victory.
+It is, but as any seasoned DC operative will tell you,
+a political victory is just the prerequisite
+for the actual administrative war.
+Right, because you can have the letter,
+you can have the governor,
+you can have the 14 members.
+But Greg Murphy doesn't write the code
+for the CMS payment algorithms.
+No, he does not.
+The fight isn't over.
+What are the next steps?
+Do they just sit back and wait for HHS to cut the check?
+Not even close.
+The pressure campaign now has to transition
+into the labyrinth of administrative rulemaking.
+The immediate next steps require the governor,
+PRFAA and the private sector
+to sustain intense technical engagement
+with HHS, CMS, congressional leadership,
+relevant committees and the White House.
+They have to convince the actuaries.
+Crucially, yes.
+The career officials in the CMS office of the actuary,
+the people in the basement who actually calculate
+the geographic practice cost index and those FFS baseline.
+The ones actually doing the math.
+Right, PRFAA has to prove to them
+not only that the math is broken,
+but that CMS possesses the explicit legal authority
+likely through section 1876A of the Social Security Act
+or similar adjustment levers to implement the 0.70 floor
+without requiring new legislation.
+So it shifts from a political argument
+to a deeply technical, legal and statistical argument.
+Completely.
+They have to keep the 14-member coalition engaged,
+keep the private sector aligned,
+and guide this all the way to the 2028 rate announcement.
+It requires just relentless vigilance.
+It really does.
+Okay, we have covered an immense amount of ground today,
+from the math of the CMSR ratings
+to the granular logistics of congressional fly-ins.
+Let's pull this all together.
+Puerto Rico built the case.
+They had the decades of localized private sector knowledge
+and the undeniable 81% five-star quality data.
+And Governor Gonzales Cologne took that raw data
+and engineered a highly specific
+legally viable policy objective,
+the 0.70 benchmark floor.
+And PRFAA built the coalition.
+They managed the logistical ground game,
+channeled the private sector
+through the four doors of exposure,
+and strategically deployed that reality to lawmakers.
+Greg Murphy provided the essential credibility
+by proving you can fight national corporate abuses
+while still defending local private sector delivery.
+And the 14 Republicans provided the political mass necessary
+to force the administration's hand,
+which brings us to the ultimate
+unavoidable conclusion of this entire deep dive.
+The contradiction that Washington can no longer ignore.
+Puerto Rico has already delivered the quality.
+99% in 4.5 stars or higher, 81% in five stars.
+They are dominating the CMS quality metrics.
+And Washington has consistently delivered the underfunding,
+a $730 benchmark against a $1,246 national average.
+In a purely merit-based system,
+especially under a Republican administration
+that claims to reward performance,
+efficiency and results,
+those two outcomes simply cannot logically coexist.
+They are mutually exclusive concepts.
+If the federal government's own quality assessment system
+declares that Puerto Rico is operating
+at the absolute pinnacle of healthcare excellence,
+while its own actuarial payment methodology
+leaves the island starved near the absolute bottom,
+well, the problem is not the providers.
+No, the problem is the formula.
+You could hold the massive insurers accountable.
+You can and must aggressively reform the PBMs.
+You can fight fraud and protect patient choice.
+But ultimately, you have to fix the formula.
+Because of a system that claims to value
+and reward quality continuously punishes
+the one jurisdiction delivering
+the highest quality in the nation,
+that system loses all intellectual
+and functional credibility.
+I'm gonna leave you with a final thought to chew on.
+We started off talking about excellence
+being penalized by a math equation.
+If the federal government can look at a market
+that achieves 81% five-star enrollment,
+look at a local hospital struggling to retain nurses,
+look at an independent pharmacist wondering
+if they can afford to dispense insulin.
+Well, I mean, and then decide to starve
+that entire ecosystem of 41% of its funding
+simply because an outdated corrupted fee
+for service sample dictates it.
+What does they actually say about how our government
+defines the word value in healthcare?
+Are we paying for actual human excellence?
+Or are we just paying for the math
+to look clean on a bureaucrat's spreadsheet?
+Think about that next time you look
+at your own healthcare bill.
