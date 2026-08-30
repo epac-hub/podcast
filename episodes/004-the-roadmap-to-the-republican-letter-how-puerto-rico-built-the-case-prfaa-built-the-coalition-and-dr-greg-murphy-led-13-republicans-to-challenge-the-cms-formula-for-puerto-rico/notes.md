@@ -17,10 +17,12 @@ In this episode:
   that unified the island's provider network behind one message: the problem
   is not the providers — it's the formula.
 - **The coalition.** How PRFAA acted as the operational bridge, walking
-  congressional visitors through three doors — the economy-wide stakes with
+  congressional visitors through four doors — the economy-wide stakes with
   the Puerto Rico Chamber of Commerce, the hospital floor at Professional
-  Hospital of Guaynabo, and the physician/IPA mechanics of five-star care at
-  Varmed Health Center — so the deficit stopped being theoretical.
+  Hospital of Guaynabo, the physician/IPA mechanics of five-star care at
+  Varmed Health Center, and the pharmacy counter at Súper Farmacia Isla
+  Verde, where the retail economics of dispensing broke through the partisan
+  resistance — so the deficit stopped being theoretical.
 - **The letter.** Why Rep. Greg Murphy — a surgeon and co-chair of the GOP
   Doctors Caucus, and on paper "the absolute last guy" to champion a
   territorial funding request — read the math, took the trip in April 2025,
