@@ -19,7 +19,7 @@ In this episode:
 - **The coalition.** How PRFAA acted as the operational bridge, walking
   congressional visitors through four doors — the economy-wide stakes with
   the Puerto Rico Chamber of Commerce, the hospital floor at Professional
-  Hospital of Guaynabo, the physician/IPA mechanics of five-star care at
+  Hospital of Guaynabo, the physician and IPA mechanics of five-star care at
   Varmed Health Center, and the pharmacy counter at Súper Farmacia Isla
   Verde, where the retail economics of dispensing broke through the partisan
   resistance — so the deficit stopped being theoretical.
