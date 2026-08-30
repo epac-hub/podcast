@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 <section class="hero">
-  <img class="hero-cover" src="{{ root }}assets/cover.jpg" alt="{{ config.title }} cover art">
+  <img class="hero-cover" src="{{ root }}{{ config.cover_image }}" alt="{{ config.title }} cover art">
   <div class="hero-text">
     <h1>{{ config.title }}</h1>
     {% if config.subtitle %}<p class="subtitle">{{ config.subtitle }}</p>{% endif %}
