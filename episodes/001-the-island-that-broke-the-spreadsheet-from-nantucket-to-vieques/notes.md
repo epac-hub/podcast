@@ -6,13 +6,13 @@ from Vieques — to save Puerto Rico's hospital system from collapse.
 In this episode:
 
 - **The cliff.** On October 1, 2027, Medicare inpatient payments to Puerto
-  Rico's 52 hospitals are projected to fall roughly **15.5% overnight** — a
+  Rico's hospitals are projected to fall roughly **15.5% overnight** — a
   single-day revenue cut to an already fragile system.
 - **The lynchpin metric.** How the Medicare **wage index** adjusts hospital
   payments for local labor costs, and why Puerto Rico's 0.35 index puts its
   hospitals in a death spiral.
 - **The Nantucket maneuver.** How one Massachusetts island deliberately
-  abandoned a safe payment system to become the state's "rural anchor,"
+  abandoned a safe payment system to become the state's rural anchor,
   exploiting the **rural floor** rule that has since survived federal court.
 - **The trap.** Why copy-pasting that strategy onto Vieques looks elegant on
   paper — and why the fine print (a diagnostic and treatment center is not an
@@ -20,7 +20,7 @@ In this episode:
   turns the obvious move into a landmine.
 - **The war plan.** The engineered alternative: urban-to-rural
   reclassifications of trauma centers, actuarial formula mechanics, and what
-  it would actually take to lift all 52 hospitals — and the territory's
+  it would actually take to lift all of the island's hospitals — and the territory's
   Medicare Advantage benchmarks — off the floor.
 
 The episode closes with the bigger question: when a health system's survival

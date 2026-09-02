@@ -1,3095 +1,5261 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:04.860
-So in 2008, there was this tiny, incredibly wealthy resort
+00:00:00.000 --> 00:00:06.560
+Imagine, for a second, an island of billionaires, like a place where the average summer home costs
 
-00:00:04.860 --> 00:00:08.000
-island off the coast of Massachusetts, and they figured
+00:00:06.560 --> 00:00:11.740
+millions and millions of dollars, right? And it's sitting just off the coast of this massive
 
-00:00:08.000 --> 00:00:10.400
-out this paperwork loophole.
+00:00:11.740 --> 00:00:17.040
+metropolitan hub. Right. Highly affluent. Exactly. Now, I want you to imagine another
 
-00:00:10.400 --> 00:00:11.800
-A massive loophole, yeah.
+00:00:17.040 --> 00:00:22.480
+island, but this one is impoverished. It's still completely reeling from catastrophic
 
-00:00:11.800 --> 00:00:14.420
-And it legally siphoned hundreds of millions of
+00:00:22.480 --> 00:00:27.100
+hurricanes and the people living there are literally fighting for the basic human
 
-00:00:14.420 --> 00:00:15.960
-healthcare dollars from the rest of the country.
+00:00:27.100 --> 00:00:29.440
+right to have a functioning emergency room.
 
-00:00:15.960 --> 00:00:21.040
-It was just this audacious piece of regulatory engineering.
+00:00:29.440 --> 00:00:35.000
+It's a scar contrast. It's night and day. But here's the crazy part. According to the
 
-00:00:21.040 --> 00:00:21.880
-Truly.
+00:00:35.000 --> 00:00:40.780
+United States government's healthcare algorithms. Oh, the spreadsheets. Yeah, the federal spreadsheets.
 
-00:00:21.880 --> 00:00:25.500
-And today, we're looking at how a team of strategists
+00:00:40.780 --> 00:00:47.620
+According to them, these two islands are exactly the same. Wow. Yeah. And that single like
 
-00:00:25.500 --> 00:00:28.240
-is trying to use that exact same loophole, like step
+00:00:47.620 --> 00:00:51.940
+geographic glitch in the system, it is moving hundreds of millions of dollars around
 
-00:00:28.940 --> 00:00:32.440
-to save the medical system of Puerto Rico from just total
+00:00:51.940 --> 00:00:56.960
+the country every single year. It really is the ultimate collision of bureaucratic
 
-00:00:32.440 --> 00:00:33.280
-collapse.
+00:00:57.040 --> 00:01:01.360
+abstraction and brutal human reality. Because on the surface, like you said, these two locations
 
-00:00:33.280 --> 00:00:36.160
-Right, because it is, I mean, it's the ultimate example
+00:01:01.360 --> 00:01:05.460
+could not possibly be more different. Not at all. We're talking about Nantucket, Massachusetts
 
-00:00:36.160 --> 00:00:38.840
-of fighting a war using administrative law.
+00:01:05.460 --> 00:01:10.160
+on one hand and Vieques, Puerto Rico on the other. But underneath, you know, in the
 
-00:00:38.840 --> 00:00:41.580
-There are no television ads for this, no public debates.
+00:01:10.160 --> 00:01:14.180
+deep subterranean candidate of federal healthcare regulations, they share the exact
 
-00:00:41.580 --> 00:00:45.400
-It's just a high stakes, multimillion dollar battle
+00:01:14.180 --> 00:01:19.080
+same administrative DNA. Okay, let's unpack this. Because what we're really decoding
 
-00:00:45.400 --> 00:00:48.000
-fought entirely in the hidden plumbing
+00:01:19.080 --> 00:01:23.880
+today are Medicare's geographic legal fictions. Yeah, that's a good way to put it. Right.
 
-00:00:48.000 --> 00:00:48.840
-of the federal government.
+00:01:23.880 --> 00:01:28.720
+And the premise we are exploring for you today is how the payroll ledger of one tiny
 
-00:00:48.840 --> 00:00:50.320
-The hidden plumbing, exactly.
+00:01:28.720 --> 00:01:36.560
+unopened hospital on an island of basically 8,000 people could theoretically stop a decade-long
 
-00:00:50.320 --> 00:00:52.080
-And we get to look under the hood today for this
+00:01:36.560 --> 00:01:43.000
+compounding financial bleed for an entire territory of 3.2 million people. And honestly,
 
-00:00:52.080 --> 00:00:55.880
-deep dive because we got our hands on this fascinating
+00:01:43.000 --> 00:01:46.400
+it sounds almost like a conspiracy thriller. It really does. But the wild thing is it's
 
-00:00:55.920 --> 00:00:58.640
-stack of internal strategy documents.
+00:01:46.400 --> 00:01:52.480
+entirely legal. Like it relies on the literal text of federal statutes. Yeah.
 
-00:00:58.640 --> 00:00:59.640
-The war plan.
+00:01:52.480 --> 00:01:57.640
+So we're going to look at how Nantucket used its isolation to pump just massive amounts
 
-00:00:59.640 --> 00:01:00.480
+00:01:57.640 --> 00:02:02.000
+of funding into Massachusetts hospitals. Through this thing called the rural floor. Exactly.
+
+00:02:02.000 --> 00:02:05.600
+The rural floor mechanism. And then we'll look at how Vieques, which is dealing with
+
+00:02:05.600 --> 00:02:11.040
+just a tragic lack of medical infrastructure, actually holds that exact same legal key
+
+00:02:11.040 --> 00:02:14.920
+for Puerto Rico. So our mission for you, the listener,
+
+00:02:14.920 --> 00:02:20.040
+is to make sense of this whole machinery. We are looking at cold, hard spreadsheets
+
+00:02:20.120 --> 00:02:24.480
+today, federal regulations, budget neutrality formulas. That's some stuff. Right. The really
+
+00:02:24.480 --> 00:02:30.720
+dense appellate court rulings. But I want to set a very grounded, very realistic tone
+
+00:02:30.720 --> 00:02:36.000
+right from the top. We cannot forget that behind every single decimal point in these
+
+00:02:36.000 --> 00:02:41.240
+federal formulas, there are very real human lives. Absolutely. We are talking about
+
+00:02:41.240 --> 00:02:46.720
+mothers, grandfathers, children, people whose survival literally depends on how a
+
+00:02:46.800 --> 00:02:51.560
+concrete building is categorized on a government form. It's so vital to keep
+
+00:02:51.560 --> 00:02:55.320
+that human element in focus. Because the financial engineering we're about to
+
+00:02:55.320 --> 00:02:59.400
+discuss is so sophisticated, it is incredibly easy to get lost in the
+
+00:02:59.400 --> 00:03:02.520
+math. Oh, for sure. And you just forget why the math was created in the first
+
+00:03:02.520 --> 00:03:05.320
+place. So let's start with the precedent. Let's look at this mechanism
+
+00:03:05.320 --> 00:03:08.960
+called the rural floor. Because to understand the potential lifeline for
+
+00:03:08.960 --> 00:03:12.080
+Puerto Rico, we really first have to thoroughly understand what happened
+
+00:03:12.120 --> 00:03:17.320
+in Nantucket back in 2008. But I guess before we even get to the island, we
+
+00:03:17.320 --> 00:03:21.320
+need to understand how Medicare actually pays for a hospital visit. Because
+
+00:03:21.320 --> 00:03:24.640
+it's not like walking into a store and paying a flat price for a gallon of milk,
+
+00:03:24.640 --> 00:03:30.200
+right? Not at all. No. Medicare pays hospitals what is called a standardized
+
+00:03:30.200 --> 00:03:33.800
+national rate per admission. Okay, break that down for me. Sure. This is
+
+00:03:33.800 --> 00:03:36.640
+governed by something called the inpatient prospective payment
+
+00:03:36.640 --> 00:03:43.240
+system, or ITPS for short. IPPS. Got it. Yeah. The core idea there is that a
+
+00:03:43.240 --> 00:03:47.840
+specific diagnosis, say you go in for a hip replacement, that should generally
+
+00:03:47.840 --> 00:03:51.800
+cost the same baseline amount of money to treat across the board. That makes
+
+00:03:51.800 --> 00:03:55.040
+sense in theory. Right. But the federal government acknowledges a
+
+00:03:55.040 --> 00:04:00.280
+fundamental economic reality. It costs significantly more to hire a registered
+
+00:04:00.280 --> 00:04:05.240
+nurse in downtown Boston or Manhattan than it does in a rural town in say
+
+00:04:05.280 --> 00:04:08.520
+Alabama or Mississippi. Because the cost of living in Boston is just
+
+00:04:08.520 --> 00:04:12.440
+astronomically higher. Exactly. So the salaries have to match. Otherwise,
+
+00:04:12.440 --> 00:04:15.360
+those city hospitals wouldn't be able to staff their floors at all.
+
+00:04:15.400 --> 00:04:20.440
+Precisely. So to account for this discrepancy, Medicare uses a tool.
+
+00:04:20.840 --> 00:04:24.520
+It's called the hospital wage index. Okay. And what they do is they
+
+00:04:24.560 --> 00:04:29.760
+calculate the average hourly hospital wage in a specific local area, and
+
+00:04:29.760 --> 00:04:33.280
+then they divide it by the national average hourly hospital wage. So it's
+
+00:04:33.280 --> 00:04:38.560
+a ratio. Basically, yeah. If your local areas index is 1.00, it means you
+
+00:04:38.560 --> 00:04:43.280
+pay exactly the national average and your Medicare reimbursement remains at
+
+00:04:43.280 --> 00:04:48.720
+that standard baseline. Okay. But if your index is say 1.20, that means your
+
+00:04:48.720 --> 00:04:53.000
+local wages are 20% higher than the national average. So Medicare actually
+
+00:04:53.000 --> 00:04:57.480
+pays you more to compensate for that. And if it's below 1.80, then
+
+00:04:57.480 --> 00:05:00.080
+you get paid less. But the crucial detail here, and this becomes
+
+00:05:00.080 --> 00:05:03.680
+incredibly important for the math later on, is that this index doesn't
+
+00:05:03.680 --> 00:05:06.680
+actually apply to the entire hospital bill, right? That is a critical
+
+00:05:06.680 --> 00:05:11.080
+distinction, yes. By statute, this geographic adjustment only applies to
+
+00:05:11.080 --> 00:05:13.720
+what is called the labor-related share of the Medicare payment.
+
+00:05:13.720 --> 00:05:18.200
+The labor-related share. Right. For hospitals with a wage index at or
+
+00:05:18.200 --> 00:05:25.600
+below 1.0, the law actually locks this labor share in at exactly 62% to
+
+00:05:25.600 --> 00:05:29.640
+the operating base rate. Okay. So 62% is subject to the local wage
+
+00:05:29.640 --> 00:05:33.840
+adjustment. Yes. And the remaining 38% of the payment is considered
+
+00:05:33.840 --> 00:05:37.280
+non-labor costs. Like what? Things like medical supplies,
+
+00:05:37.280 --> 00:05:41.760
+electricity, pharmaceuticals, you know, maintaining the building. And
+
+00:05:41.760 --> 00:05:46.280
+that 38% portion remains totally fixed, regardless of where the
+
+00:05:46.280 --> 00:05:48.920
+hospital is physically located. Let me just put that into a
+
+00:05:48.920 --> 00:05:51.200
+concrete example for the listener just to make sure we're on the
+
+00:05:51.200 --> 00:05:55.000
+exact same page. Sure. Go for it. If a hospital submits a $10,000
+
+00:05:55.000 --> 00:05:59.680
+baseline bill to Medicare, only $6,200 of that bill is actually
+
+00:05:59.680 --> 00:06:03.720
+subject to this wage index multiplier. Correct. The other $3,800
+
+00:06:03.720 --> 00:06:07.160
+is just locked in. It doesn't change. Right. So a massive cut to
+
+00:06:07.160 --> 00:06:10.480
+the wage index isn't actually a one-to-one cut to the hospital's
+
+00:06:10.480 --> 00:06:13.800
+total overall revenue. That's the math, yeah. A 5% cut to a
+
+00:06:13.800 --> 00:06:17.960
+hospital's wage index translates to roughly a 2 to 2.5%
+
+00:06:17.960 --> 00:06:20.360
+cut to their overall Medicare payment. Which might not sound
+
+00:06:20.360 --> 00:06:22.600
+like a lot to our regular business. Right. But when you
+
+00:06:22.640 --> 00:06:26.840
+are dealing with hospitals that are operating on razor thin, like
+
+00:06:27.040 --> 00:06:32.000
+one or 2% margins, a 2% total revenue cut can literally be the
+
+00:06:32.000 --> 00:06:35.160
+difference between keeping the maternity ward open or shutting
+
+00:06:35.160 --> 00:06:38.920
+it down completely. Wow. Okay. So that is the baseline wage
+
+00:06:38.920 --> 00:06:41.800
+index system. And it makes logical sense. You adjust for local
+
+00:06:41.800 --> 00:06:47.520
+labor costs. But then in 1997, Congress introduced a new rule.
+
+00:06:48.120 --> 00:06:51.880
+The rural floor. Yeah, the rural floor statute. Why did they
+
+00:06:51.880 --> 00:06:56.160
+feel the need to alter a system that was theoretically already
+
+00:06:56.160 --> 00:06:59.240
+adjusting for local labor costs perfectly fine? Well, the
+
+00:06:59.240 --> 00:07:02.560
+intention behind the 1997 statute was actually quite noble,
+
+00:07:02.560 --> 00:07:05.360
+honestly. Yeah. Congress was looking at rural America at the
+
+00:07:05.360 --> 00:07:08.920
+time, and they were seeing these vital safety net hospitals
+
+00:07:08.920 --> 00:07:11.200
+just collapsing. Because they couldn't afford to stay open.
+
+00:07:11.200 --> 00:07:14.680
+Exactly. Because rural wages are naturally lower, their wage
+
+00:07:14.680 --> 00:07:17.200
+indexes were extremely low, which meant their Medicare
+
+00:07:17.200 --> 00:07:19.200
+reimbursements were correspondingly low. But
+
+00:07:19.240 --> 00:07:21.760
+these hospitals still had massive fixed costs just to
+
+00:07:21.760 --> 00:07:24.800
+maintain their facilities and keep the lights on. So Congress
+
+00:07:24.800 --> 00:07:28.200
+decided they needed a permanent safety net. Yes. They wrote a
+
+00:07:28.200 --> 00:07:33.080
+rule that basically said no urban hospital in any given state
+
+00:07:33.080 --> 00:07:36.760
+can be paid a wage index that is lower than that state's
+
+00:07:36.760 --> 00:07:39.760
+rural hospital. So the rural hospitals payroll essentially
+
+00:07:39.760 --> 00:07:42.920
+sets a basement level for the entire state. Yeah, the floor
+
+00:07:42.920 --> 00:07:46.600
+is literally constructed out of the rural wages. Exactly. You
+
+00:07:46.640 --> 00:07:49.040
+protect the rural hospitals. And if the urban hospitals
+
+00:07:49.040 --> 00:07:52.200
+happen to drop below that line, they just get bumped up to the
+
+00:07:52.200 --> 00:07:54.560
+rural floor. It was really designed as a protective
+
+00:07:54.560 --> 00:07:57.920
+measure for vulnerable isolated communities. But you know,
+
+00:07:57.920 --> 00:08:00.800
+anytime you create a massive financial safety net like that,
+
+00:08:00.960 --> 00:08:03.440
+the definitions become the most powerful part of the law.
+
+00:08:03.480 --> 00:08:06.200
+Oh, absolutely. The devil is always in the definitions.
+
+00:08:06.240 --> 00:08:09.520
+So how exactly does the federal government define what
+
+00:08:09.520 --> 00:08:12.720
+makes a hospital rural? Because I assume there's this big
+
+00:08:12.720 --> 00:08:16.040
+application process, right? Like proving you serve a
+
+00:08:16.040 --> 00:08:18.680
+farming community or demonstrating how isolated you
+
+00:08:18.680 --> 00:08:21.960
+are. That is the totally logical assumption to make. But it is
+
+00:08:21.960 --> 00:08:25.760
+completely wrong. Oh, really? Yeah. Under title 42 of the US
+
+00:08:25.760 --> 00:08:29.320
+Code section 1886. The definition is entirely
+
+00:08:29.320 --> 00:08:32.240
+geographic. And it's completely automatic. Wait,
+
+00:08:32.240 --> 00:08:35.080
+automatic? Yes. It revolves around what's called a
+
+00:08:35.080 --> 00:08:39.400
+Metropolitan Statistical Area or MSA. And an MSA is
+
+00:08:39.400 --> 00:08:41.920
+defined simply by population density and commuter
+
+00:08:41.920 --> 00:08:44.480
+patterns. Correct. If your hospital is located
+
+00:08:44.480 --> 00:08:47.360
+physically outside the invisible boundary of an MSA,
+
+00:08:48.000 --> 00:08:51.520
+you are rural, period. That's it. That's it. No petitions, no
+
+00:08:51.520 --> 00:08:56.520
+paperwork, no agricultural census required. It is a pure 100%
+
+00:08:56.520 --> 00:08:59.560
+geographic binary. You're inside the line, you're urban,
+
+00:08:59.760 --> 00:09:03.000
+you're outside your rural, which brings us to 2008. And
+
+00:09:03.000 --> 00:09:06.320
+what I really look at is just a stunning piece of systemic
+
+00:09:06.320 --> 00:09:09.720
+leverage. The Nantucket maneuver. Yes, this is where
+
+00:09:09.720 --> 00:09:12.240
+it gets wild because Nantucket is an island out in the
+
+00:09:12.240 --> 00:09:15.360
+Atlantic Ocean. And geographically, it sits entirely
+
+00:09:15.360 --> 00:09:19.400
+outside the Boston Metropolitan Statistical Area. Right. So by
+
+00:09:19.400 --> 00:09:22.480
+the strict literal letter of that federal statute you just
+
+00:09:22.480 --> 00:09:26.440
+mentioned, Nantucket is rural. Yes. It is officially rural. And
+
+00:09:26.440 --> 00:09:29.560
+in 2008, Nantucket Cottage Hospital, which had actually
+
+00:09:29.560 --> 00:09:32.080
+just recently merged into the massive partner's health
+
+00:09:32.080 --> 00:09:34.320
+system, which is now Mass General Brigham, right?
+
+00:09:34.600 --> 00:09:38.000
+Exactly. They made a pivotal administrative decision. So
+
+00:09:38.000 --> 00:09:40.320
+previously they had operated as what's known as a
+
+00:09:40.320 --> 00:09:43.040
+critical access hospital. What does that mean? It's a
+
+00:09:43.040 --> 00:09:46.480
+special Medicare designation. It basically pays small
+
+00:09:46.480 --> 00:09:49.360
+hospitals based on their reasonable costs to keep
+
+00:09:49.360 --> 00:09:52.800
+them afloat. But crucially, under that specific
+
+00:09:52.800 --> 00:09:56.400
+designation, their wages do not count toward the state's
+
+00:09:56.400 --> 00:10:00.040
+general wage index calculations. Oh, so they are
+
+00:10:00.040 --> 00:10:03.120
+essentially just removed from the state formula entirely?
+
+00:10:03.120 --> 00:10:06.840
+Right, they're walled off. But in 2008, Nantucket
+
+00:10:06.840 --> 00:10:10.040
+Cottage Hospital voluntarily relinquished that
+
+00:10:10.040 --> 00:10:13.160
+special designation. And they converted into an ordinary
+
+00:10:13.160 --> 00:10:16.320
+Medicare IPPS hospital. Okay, and what did that trigger?
+
+00:10:16.520 --> 00:10:19.200
+Well, the moment that paperwork cleared, they instantly
+
+00:10:19.200 --> 00:10:22.280
+entered the state's wage index pool. And here's the
+
+00:10:22.280 --> 00:10:26.320
+key, because they were the only rural IPPS hospital in the
+
+00:10:26.320 --> 00:10:29.240
+entire state of Massachusetts. Oh my God. Their
+
+00:10:29.240 --> 00:10:32.280
+singular specific payroll instantly became the rural
+
+00:10:32.280 --> 00:10:35.080
+floor for the entire state. And here is the kicker for
+
+00:10:35.080 --> 00:10:37.920
+you, the listener, because this is not a logging town in
+
+00:10:37.920 --> 00:10:40.280
+Oregon we're talking about here. No, not at all. This is
+
+00:10:40.280 --> 00:10:44.200
+Nantucket. You literally cannot hire a nurse or a janitor or a
+
+00:10:44.200 --> 00:10:48.040
+lab technician on Nantucket for standard Midwestern rural
+
+00:10:48.040 --> 00:10:50.680
+wages. Impossible. The cost of living is totally
+
+00:10:50.680 --> 00:10:53.720
+exorbitant. A gallon of milk or a tank of gas costs an
+
+00:10:53.720 --> 00:10:55.560
+absolute fortune because everything has to be
+
+00:10:55.560 --> 00:10:58.320
+ferried in on boats. Right. So looking at the fiscal
+
+00:10:58.320 --> 00:11:01.520
+year 2027 data, Nantucket Cottage Hospital pays an
+
+00:11:01.520 --> 00:11:05.080
+average hourly wage of $78.99. Which is
+
+00:11:05.120 --> 00:11:07.800
+incredibly high. Yeah. And just to anchor that number for
+
+00:11:07.800 --> 00:11:12.680
+a second, $78.99 an hour is roughly 5.2 times higher than
+
+00:11:12.680 --> 00:11:16.040
+the $15 and 17 average hourly wage that forms the
+
+00:11:16.040 --> 00:11:18.880
+foundation of rural Puerto Rico's floor. That is just
+
+00:11:18.880 --> 00:11:21.480
+insane. So you have a single hospital on an island of
+
+00:11:21.480 --> 00:11:24.080
+billionaires paying astronomical wages just to
+
+00:11:24.080 --> 00:11:27.360
+survive in this hyper localized luxury economy. And
+
+00:11:27.360 --> 00:11:30.280
+because they are legally defined as the only rural
+
+00:11:30.280 --> 00:11:33.680
+hospital in Massachusetts, that nearly $80 an hour
+
+00:11:33.680 --> 00:11:36.360
+payroll suddenly dictates the rural floor for the
+
+00:11:36.360 --> 00:11:38.840
+whole state. That's the mechanism at work. So after
+
+00:11:38.840 --> 00:11:41.320
+CMS, one's other complex formulas, Nantucket single
+
+00:11:41.320 --> 00:11:43.680
+handedly sets the Massachusetts rural floor at this
+
+00:11:43.680 --> 00:11:47.600
+astonishing wage index of 1.3071. Right. Now remember
+
+00:11:47.600 --> 00:11:51.400
+that 1997 rule we talked about. No urban hospital
+
+00:11:51.400 --> 00:11:54.280
+can be paid less than the rural floor. Okay. So
+
+00:11:54.280 --> 00:11:56.360
+what happens to Boston? Right. Think about the
+
+00:11:56.360 --> 00:11:59.320
+massive, highly prestigious academic medical
+
+00:11:59.320 --> 00:12:02.080
+centers in downtown Boston. Their wages are high
+
+00:12:02.120 --> 00:12:05.600
+sure, but they aren't necessarily $78 an hour
+
+00:12:05.600 --> 00:12:07.720
+average high across the board. Yeah, they have
+
+00:12:07.720 --> 00:12:10.840
+huge staffs. But because of the statute, their
+
+00:12:10.840 --> 00:12:13.480
+final wage index legally gets bumped up to
+
+00:12:13.480 --> 00:12:18.200
+exactly 1.3071 solely because of the existence
+
+00:12:18.200 --> 00:12:20.640
+of Nantucket Cottage Hospital out there in the
+
+00:12:20.640 --> 00:12:23.280
+ocean. It's just an incredible chain reaction.
+
+00:12:23.280 --> 00:12:24.720
+I try to think of it like an analogy. It's
+
+00:12:24.720 --> 00:12:27.160
+like a single highly paid substitute teacher
+
+00:12:27.160 --> 00:12:29.320
+who works out in this tiny remote logging
+
+00:12:29.320 --> 00:12:31.920
+town. Okay, yeah. And because of some bizarre
+
+00:12:31.920 --> 00:12:35.480
+quirk in state law, her specific salary legally
+
+00:12:35.480 --> 00:12:37.360
+forces the state to immediately raise the
+
+00:12:37.360 --> 00:12:39.160
+salaries of every single teacher in the
+
+00:12:39.160 --> 00:12:41.840
+massive capital city just to match hers. That's
+
+00:12:41.840 --> 00:12:43.480
+a perfect analogy. That's exactly how it
+
+00:12:43.480 --> 00:12:45.200
+functioned. And the financial impact of this
+
+00:12:45.200 --> 00:12:47.000
+is just staggering. I mean, the estimates show
+
+00:12:47.000 --> 00:12:49.720
+a transfer of somewhere between $256 million
+
+00:12:49.720 --> 00:12:53.520
+and $367 million per year just flowing into
+
+00:12:53.520 --> 00:12:56.800
+Massachusetts hospitals. Yes. And this
+
+00:12:56.800 --> 00:12:59.560
+introduces perhaps the single most
+
+00:12:59.560 --> 00:13:01.440
+controversial element of this entire
+
+00:13:01.440 --> 00:13:03.680
+mechanism, which is budget neutrality.
+
+00:13:03.720 --> 00:13:05.200
+Right, because the money has to come from
+
+00:13:05.200 --> 00:13:07.120
+somewhere. Exactly. The federal government
+
+00:13:07.120 --> 00:13:09.280
+does not simply print an extra $300 million
+
+00:13:09.280 --> 00:13:11.920
+a year to reward Massachusetts for this
+
+00:13:11.920 --> 00:13:14.800
+geographic anomaly. The rural slur provision
+
+00:13:14.960 --> 00:13:17.680
+by law operates on a budget neutral basis
+
+00:13:17.680 --> 00:13:19.920
+nationally. Wait, wait, wait. So if the pie
+
+00:13:19.920 --> 00:13:22.960
+isn't getting any bigger, but Massachusetts
+
+00:13:22.960 --> 00:13:25.320
+is taking a massively larger slice, then
+
+00:13:25.320 --> 00:13:27.080
+everyone else's slice has to get smaller. Oh
+
+00:13:27.080 --> 00:13:30.440
+wow. Yeah. CMS funds an anti-git windfall by
+
+00:13:30.440 --> 00:13:32.560
+literally shaving a uniform percentage off
+
+00:13:32.560 --> 00:13:34.240
+the top of every other hospital's wage
+
+00:13:34.240 --> 00:13:36.240
+index across the entire country. You're
+
+00:13:36.240 --> 00:13:39.640
+kidding. No. For fiscal year 2026, that
+
+00:13:39.640 --> 00:13:41.440
+national budget neutrality adjustment is
+
+00:13:41.440 --> 00:13:44.680
+roughly a 2.6% cut. Every single hospital
+
+00:13:44.680 --> 00:13:46.840
+in America absorbs that penalty. So a
+
+00:13:46.840 --> 00:13:49.440
+struggling rural clinic in Mississippi,
+
+00:13:49.840 --> 00:13:52.680
+or a little community hospital in Kansas,
+
+00:13:53.000 --> 00:13:55.560
+and the chronically underfunded hospitals
+
+00:13:55.560 --> 00:13:58.120
+in Puerto Rico, they are all taking a
+
+00:13:58.120 --> 00:14:01.560
+mandatory 2.6% cut to their payments,
+
+00:14:01.560 --> 00:14:04.200
+specifically to subsidize hundreds of
+
+00:14:04.200 --> 00:14:06.360
+millions of dollars in bonuses for
+
+00:14:06.360 --> 00:14:08.520
+academic medical centers in Boston. Yes.
+
+00:14:08.520 --> 00:14:10.520
+All because of One Island's payroll.
+
+00:14:10.520 --> 00:14:12.760
+That is the exact unvarnished
+
+00:14:12.760 --> 00:14:14.600
+mathematical reality of the rule.
+
+00:14:14.600 --> 00:14:16.280
+Which naturally infuriated people. I
+
+00:14:16.280 --> 00:14:18.440
+mean 21 different states organized
+
+00:14:18.440 --> 00:14:20.120
+and actively lobbied against this.
+
+00:14:20.120 --> 00:14:21.560
+They absolutely did. They took it to
+
+00:14:21.560 --> 00:14:23.800
+court. They argued it was this massive
+
+00:14:23.800 --> 00:14:26.600
+abuse of the system. So I have to ask,
+
+00:14:26.600 --> 00:14:28.760
+looking at the sheer absurdity of this
+
+00:14:28.760 --> 00:14:30.840
+outcome, how did the courts allow this
+
+00:14:30.840 --> 00:14:32.440
+to continue? Like how is this still
+
+00:14:32.440 --> 00:14:34.360
+legal today? Well, the courts examined
+
+00:14:34.360 --> 00:14:35.640
+the whole situation. They looked at the
+
+00:14:35.640 --> 00:14:37.240
+arguments and they issued a pretty
+
+00:14:37.240 --> 00:14:38.840
+sobering conclusion. They said, this
+
+00:14:38.840 --> 00:14:40.280
+is not a loophole. How is it not a
+
+00:14:40.280 --> 00:14:42.360
+loophole? Because a loophole implies
+
+00:14:42.360 --> 00:14:44.360
+that someone is actively twisting the
+
+00:14:44.360 --> 00:14:46.360
+words of a law to violate its
+
+00:14:46.360 --> 00:14:48.840
+spirit, right? But the courts found
+
+00:14:48.840 --> 00:14:51.080
+that this is the literal plain text
+
+00:14:51.080 --> 00:14:53.640
+of the statute operating exactly as it
+
+00:14:53.640 --> 00:14:55.400
+was written by Congress. Okay, explain
+
+00:14:55.400 --> 00:14:57.240
+that. Congress wrote that the rural
+
+00:14:57.240 --> 00:14:59.640
+floor is set by rural hospitals.
+
+00:14:59.640 --> 00:15:02.760
+Full stop. Congress also defined rural
+
+00:15:02.760 --> 00:15:05.000
+purely by geographic boundaries and
+
+00:15:05.000 --> 00:15:06.600
+Nantucket meets every single one of
+
+00:15:06.600 --> 00:15:08.520
+those legal criteria. So it's
+
+00:15:08.520 --> 00:15:10.920
+technically working exactly as
+
+00:15:10.920 --> 00:15:12.920
+designed? Technically, yes. The
+
+00:15:12.920 --> 00:15:14.840
+underlying issue is that the 1997
+
+00:15:14.840 --> 00:15:17.240
+law was drafted to protect vulnerable
+
+00:15:17.240 --> 00:15:19.880
+rural safety nets. But the lawmakers
+
+00:15:19.880 --> 00:15:21.320
+completely failed to account for
+
+00:15:21.320 --> 00:15:23.160
+wealthy geographic anomalies. Right,
+
+00:15:23.160 --> 00:15:24.920
+they were picturing farms, not island
+
+00:15:24.920 --> 00:15:26.760
+resorts. Exactly. They just didn't
+
+00:15:26.760 --> 00:15:28.920
+consider an island enclave of extreme
+
+00:15:28.920 --> 00:15:30.840
+wealth. But a federal court cannot
+
+00:15:30.840 --> 00:15:32.200
+rewrite a law just because the
+
+00:15:32.200 --> 00:15:34.520
+outcome seems absurd to us. Their job
+
+00:15:34.520 --> 00:15:36.440
+is to enforce the text. So it
+
+00:15:36.440 --> 00:15:38.040
+inadvertently turned this geographic
+
+00:15:38.040 --> 00:15:40.120
+quirk into a massive financial lever.
+
+00:15:40.120 --> 00:15:41.880
+And Massachusetts gets to keep doing it.
+
+00:15:41.880 --> 00:15:43.480
+Oh, yeah. Massachusetts has been
+
+00:15:43.480 --> 00:15:45.160
+legally collecting on this mechanism
+
+00:15:45.160 --> 00:15:47.400
+for over 15 years now. Wow, okay.
+
+00:15:47.400 --> 00:15:49.160
+So that is the abstract wealth of
+
+00:15:49.160 --> 00:15:51.400
+Nantucket's spreadsheets. Oh. We can
+
+00:15:51.400 --> 00:15:53.560
+see the sheer power of a single
+
+00:15:53.560 --> 00:15:55.960
+certified hospital in an isolated
+
+00:15:55.960 --> 00:15:59.000
+geography just totally mastering the
+
+00:15:59.000 --> 00:16:00.600
+federal formula. It's incredibly
+
+00:16:00.600 --> 00:16:02.920
+powerful. But now we have to move away
+
+00:16:02.920 --> 00:16:04.680
+from the spreadsheets. We need to
+
+00:16:04.680 --> 00:16:07.160
+step on to our second island. Right.
+
+00:16:07.160 --> 00:16:08.680
+We need to look at the concrete,
+
+00:16:08.680 --> 00:16:11.240
+historical, and deeply human reality of
+
+00:16:11.240 --> 00:16:13.560
+Vx Puerto Rico. Because the contrast
+
+00:16:13.560 --> 00:16:15.800
+here is where this story gets truly
+
+00:16:15.800 --> 00:16:18.280
+devastating. It is. The human toll
+
+00:16:18.280 --> 00:16:20.120
+of these administrative definitions is
+
+00:16:20.120 --> 00:16:21.800
+just impossible to ignore once you
+
+00:16:21.800 --> 00:16:23.320
+look closely at Vx. Let's set the
+
+00:16:23.320 --> 00:16:25.560
+scene for the listener. Sure. So Vx is
+
+00:16:25.560 --> 00:16:27.800
+an island municipality. It's located
+
+00:16:27.800 --> 00:16:29.400
+about eight miles off the east coast
+
+00:16:29.400 --> 00:16:31.960
+of the main island of Puerto Rico.
+
+00:16:31.960 --> 00:16:33.480
+And its relationship with healthcare
+
+00:16:33.480 --> 00:16:35.480
+is essentially a 180-year story of
+
+00:16:35.480 --> 00:16:37.720
+survival by a very, very thin thread.
+
+00:16:37.720 --> 00:16:39.560
+Yeah. The fight for healthcare on Vx
+
+00:16:39.560 --> 00:16:41.560
+is deeply ingrained in its history.
+
+00:16:41.560 --> 00:16:43.000
+This isn't a new crisis that just
+
+00:16:43.000 --> 00:16:44.760
+popped up. If we trace it back all
+
+00:16:44.760 --> 00:16:46.760
+the way to 1879 when Puerto Rico
+
+00:16:46.760 --> 00:16:48.920
+was actually still a Spanish colony,
+
+00:16:48.920 --> 00:16:50.840
+there was a civil hospital in Barrio
+
+00:16:50.840 --> 00:16:52.920
+Canyon. Right. There wasn't a hospital in
+
+00:16:52.920 --> 00:16:54.680
+the modern sense. No. It wasn't what we'd
+
+00:16:54.680 --> 00:16:56.360
+consider a hospital today. It was
+
+00:16:56.360 --> 00:16:58.680
+basically a large wooden zinc house
+
+00:16:58.680 --> 00:17:00.920
+that offered basic shelter, a visiting
+
+00:17:00.920 --> 00:17:02.680
+doctor, and some medicine.
+
+00:17:02.680 --> 00:17:05.720
+But then, in 1913, a local mayor
+
+00:17:05.720 --> 00:17:07.880
+donated land and money to build the
+
+00:17:07.880 --> 00:17:10.440
+Jose Benitez Guzmán Municipal Hospital.
+
+00:17:10.440 --> 00:17:12.360
+Which was a major step up. Huge. This
+
+00:17:12.360 --> 00:17:13.560
+was a real facility. It had an
+
+00:17:13.560 --> 00:17:15.000
+operating room. It had a maternity
+
+00:17:15.000 --> 00:17:17.720
+ward, a pharmacy. For decades, it was the
+
+00:17:17.720 --> 00:17:19.320
+civic heart of the island.
+
+00:17:19.320 --> 00:17:21.320
+And the lifeblood of that institution,
+
+00:17:21.320 --> 00:17:23.240
+for a vast portion of the 20th century,
+
+00:17:23.240 --> 00:17:25.240
+was a woman named Susanna Centino.
+
+00:17:25.240 --> 00:17:27.480
+Her legacy is so central to understanding
+
+00:17:27.480 --> 00:17:29.320
+the resilience of this particular
+
+00:17:29.320 --> 00:17:30.840
+community. Let's talk about her.
+
+00:17:30.840 --> 00:17:32.440
+Because Susanna Centino was born
+
+00:17:32.440 --> 00:17:34.600
+around 1911, and she didn't have
+
+00:17:34.600 --> 00:17:36.280
+formal extensive medical school
+
+00:17:36.280 --> 00:17:37.960
+training initially. She was a
+
+00:17:37.960 --> 00:17:39.400
+practical nurse who really just
+
+00:17:39.400 --> 00:17:41.880
+learned by doing. Yes. In 1930, she
+
+00:17:41.880 --> 00:17:43.160
+just started volunteering at that
+
+00:17:43.160 --> 00:17:45.480
+municipal hospital. And for three
+
+00:17:45.480 --> 00:17:48.680
+entire decades, from 1930 to 1961,
+
+00:17:48.680 --> 00:17:50.600
+she was the absolute backbone of that
+
+00:17:50.600 --> 00:17:51.880
+island's health care system. The
+
+00:17:51.880 --> 00:17:53.960
+dedication is just staggering. We are
+
+00:17:53.960 --> 00:17:55.400
+talking about a woman who pulled
+
+00:17:55.400 --> 00:17:57.800
+teeth, assisted in major surgeries,
+
+00:17:57.800 --> 00:17:59.960
+prepared bodies for the mortuary, and
+
+00:17:59.960 --> 00:18:02.200
+delivered countless babies. She
+
+00:18:02.200 --> 00:18:04.200
+essentially held the entire island's
+
+00:18:04.200 --> 00:18:06.520
+medical infrastructure together.
+
+00:18:06.520 --> 00:18:09.480
+Through just sheer will, dedication,
+
+00:18:09.480 --> 00:18:11.800
+and extreme competence and isolation.
+
+00:18:11.800 --> 00:18:13.080
+They eventually named the modern
+
+00:18:13.080 --> 00:18:14.840
+diagnostic and treatment center after
+
+00:18:14.840 --> 00:18:16.360
+her, which really tells you
+
+00:18:16.360 --> 00:18:17.560
+everything you need to know about her
+
+00:18:17.560 --> 00:18:19.240
+impact. You don't name a public
+
+00:18:19.240 --> 00:18:20.840
+health building after a volunteer
+
+00:18:20.840 --> 00:18:22.760
+practical nurse, unless you was the
+
+00:18:22.760 --> 00:18:25.080
+absolute soul of the institution. No,
+
+00:18:25.080 --> 00:18:27.720
+you don't. And what is particularly
+
+00:18:27.720 --> 00:18:29.800
+fascinating and ultimately tragic
+
+00:18:29.800 --> 00:18:31.400
+about the trajectory of VX Health
+
+00:18:31.400 --> 00:18:33.240
+Care is how it really demonstrates
+
+00:18:33.240 --> 00:18:35.160
+the extreme fragility of island
+
+00:18:35.160 --> 00:18:36.600
+infrastructure. What do you mean?
+
+00:18:36.600 --> 00:18:38.360
+Well, in the mid-20th century,
+
+00:18:38.360 --> 00:18:39.800
+the system was actually functioning
+
+00:18:39.800 --> 00:18:42.920
+quite well. By 1968, the statistics
+
+00:18:42.920 --> 00:18:46.360
+show that 99.4% of births on VX
+
+00:18:46.360 --> 00:18:48.200
+happened on the island at that local
+
+00:18:48.200 --> 00:18:49.480
+hospital. Oh, wow. So, they were
+
+00:18:49.480 --> 00:18:51.720
+basically self-sufficient. Yes. The
+
+00:18:51.720 --> 00:18:53.640
+community was totally self-sustaining
+
+00:18:53.640 --> 00:18:55.720
+in terms of basic medical needs, but
+
+00:18:55.720 --> 00:18:57.160
+then you have to look at what happened
+
+00:18:57.160 --> 00:19:00.040
+in 1983. Right. This is the detail
+
+00:19:00.040 --> 00:19:01.880
+that truly blows my mind because it
+
+00:19:01.880 --> 00:19:03.400
+really highlights how precarious
+
+00:19:03.400 --> 00:19:05.800
+everything is out there. Go ahead. In
+
+00:19:05.800 --> 00:19:08.920
+1983, the entire maternity ward on
+
+00:19:08.920 --> 00:19:11.880
+VX closed down completely. And why
+
+00:19:11.880 --> 00:19:13.400
+did they run out of money? Was there
+
+00:19:13.400 --> 00:19:15.800
+a hurricane? No. It's closed simply
+
+00:19:15.800 --> 00:19:17.960
+because one single specialized
+
+00:19:17.960 --> 00:19:20.680
+obstetric nurse, a woman named Gloria
+
+00:19:20.680 --> 00:19:23.560
+Legiu, retired. One single retirement
+
+00:19:23.560 --> 00:19:25.480
+collapsed the entire capability of an
+
+00:19:25.480 --> 00:19:27.480
+island to safely deliver babies.
+
+00:19:27.480 --> 00:19:28.920
+It's astounding. I mean, the municipal
+
+00:19:28.920 --> 00:19:30.440
+hospital was eventually replaced by
+
+00:19:30.440 --> 00:19:32.120
+a diagnostic and treatment center
+
+00:19:32.120 --> 00:19:34.680
+which they call a CDT in 1996. But
+
+00:19:34.680 --> 00:19:36.680
+a CDT is not a full hospital.
+
+00:19:36.680 --> 00:19:38.120
+Exactly. They couldn't perform
+
+00:19:38.120 --> 00:19:40.120
+surgeries. So pregnant women in labor
+
+00:19:40.120 --> 00:19:42.040
+had to start taking a ferry or a small
+
+00:19:42.040 --> 00:19:43.880
+plane across the ocean to the main
+
+00:19:43.880 --> 00:19:45.640
+island of Puerto Rico just to give
+
+00:19:45.640 --> 00:19:47.480
+birth. Which is incredibly stressful
+
+00:19:47.480 --> 00:19:48.840
+and dangerous. And this is the
+
+00:19:48.840 --> 00:19:50.680
+persistent theme we see over and over
+
+00:19:50.680 --> 00:19:53.400
+with VX. Island healthcare staffing
+
+00:19:53.400 --> 00:19:55.480
+always hangs by a thread. One
+
+00:19:55.480 --> 00:19:57.240
+retirement, one broken piece of
+
+00:19:57.240 --> 00:19:59.240
+equipment, and the entire system
+
+00:19:59.240 --> 00:20:01.000
+fails. And then in September of
+
+00:20:01.000 --> 00:20:04.040
+2017, that thin thread finally snapped
+
+00:20:04.040 --> 00:20:06.280
+completely. Hurricane Maria made
+
+00:20:06.280 --> 00:20:08.520
+landfall. The hurricane brought
+
+00:20:08.520 --> 00:20:10.920
+devastating flooding and essentially
+
+00:20:10.920 --> 00:20:13.480
+destroyed the Susana Centino CDT.
+
+00:20:13.480 --> 00:20:15.080
+Completely wrecked it. Yeah, the
+
+00:20:15.080 --> 00:20:16.600
+structural damage and the black mold
+
+00:20:16.600 --> 00:20:18.920
+were so severe it was never repaired.
+
+00:20:18.920 --> 00:20:20.600
+It was just condemned and slated for
+
+00:20:20.600 --> 00:20:23.400
+demolition. So if you live on VX
+
+00:20:23.400 --> 00:20:25.640
+after 2017 and you have a medical
+
+00:20:25.640 --> 00:20:27.880
+emergency like a heart attack or
+
+00:20:27.880 --> 00:20:30.360
+severe injury, where'd he go? It was
+
+00:20:30.360 --> 00:20:32.440
+bleak. For years the answer was
+
+00:20:32.440 --> 00:20:34.840
+collapsible. Military-style tents
+
+00:20:34.840 --> 00:20:37.320
+set up in a parking lot. Pents. Tents.
+
+00:20:37.320 --> 00:20:38.760
+Eventually they moved the provisional
+
+00:20:38.760 --> 00:20:41.000
+clinic into an old hurricane shelter.
+
+00:20:41.000 --> 00:20:42.840
+But this facility had no intensive care
+
+00:20:42.840 --> 00:20:44.920
+unit. It had no delivery room for a
+
+00:20:44.920 --> 00:20:47.320
+population of 8,000 American citizens.
+
+00:20:47.320 --> 00:20:49.320
+The safety net was practically non-existent.
+
+00:20:49.320 --> 00:20:51.000
+And this temporary setup lasted for
+
+00:20:51.000 --> 00:20:52.440
+more than eight years. Which
+
+00:20:52.440 --> 00:20:54.600
+inevitably leads to tragedy. You
+
+00:20:54.600 --> 00:20:56.360
+cannot run a population's health care
+
+00:20:56.360 --> 00:20:57.880
+out of a hurricane shelter
+
+00:20:57.880 --> 00:20:59.800
+indefinitely without catastrophic
+
+00:20:59.800 --> 00:21:01.480
+consequences. You just can't. And in
+
+00:21:01.480 --> 00:21:03.560
+January of 2020 a 13-year-old girl
+
+00:21:03.560 --> 00:21:05.880
+named Jadalee's Moreno Ventura
+
+00:21:05.880 --> 00:21:09.000
+got sick. Yeah. She developed flu-like
+
+00:21:09.000 --> 00:21:11.080
+symptoms. Her family did what anyone
+
+00:21:11.080 --> 00:21:12.440
+would do. They took her to the
+
+00:21:12.440 --> 00:21:14.440
+temporary shelter clinic. But her
+
+00:21:14.440 --> 00:21:16.280
+condition deteriorated rapidly and
+
+00:21:16.280 --> 00:21:17.960
+she started having seizures. And here
+
+00:21:17.960 --> 00:21:18.920
+is where the lack of
+
+00:21:18.920 --> 00:21:20.680
+infrastructure becomes fatal. The
+
+00:21:20.680 --> 00:21:22.520
+clinic didn't have a functioning
+
+00:21:22.520 --> 00:21:25.160
+mechanical ventilator. No. The medical
+
+00:21:25.160 --> 00:21:27.560
+staff literally had to manually pump
+
+00:21:27.560 --> 00:21:31.080
+oxygen for her using a bag valve mask.
+
+00:21:31.080 --> 00:21:32.360
+They were desperately trying to
+
+00:21:32.360 --> 00:21:34.120
+arrange an air ambulance to get her to
+
+00:21:34.120 --> 00:21:36.040
+a real hospital on the main island.
+
+00:21:36.040 --> 00:21:37.800
+But the logistics and the delays were
+
+00:21:37.800 --> 00:21:40.280
+just too much. She went into cardiac
+
+00:21:40.280 --> 00:21:42.040
+arrest and died on a route. It's just
+
+00:21:42.040 --> 00:21:43.960
+horrific. She fought for her life for
+
+00:21:43.960 --> 00:21:45.880
+five hours in a facility that simply
+
+00:21:45.880 --> 00:21:47.800
+did not have the tools to save her.
+
+00:21:47.800 --> 00:21:49.640
+The grim sequence of events that
+
+00:21:49.640 --> 00:21:51.000
+followed her death
+
+00:21:51.000 --> 00:21:53.000
+is really a profound indictment of
+
+00:21:53.000 --> 00:21:55.160
+how bureaucracy responds to public
+
+00:21:55.160 --> 00:21:57.640
+trauma. How so? Well, for years
+
+00:21:57.640 --> 00:21:59.560
+prior to this, members of Congress
+
+00:21:59.560 --> 00:22:00.680
+and local advocates had been
+
+00:22:00.680 --> 00:22:02.760
+demanding answers from FEMA
+
+00:22:02.760 --> 00:22:04.280
+about why the hospital wasn't being
+
+00:22:04.280 --> 00:22:06.200
+rebuilt. And the bureaucracy just moved
+
+00:22:06.200 --> 00:22:08.360
+at a glacial pace. Nothing happened.
+
+00:22:08.360 --> 00:22:11.560
+But suddenly, on January 24, 2020,
+
+00:22:11.560 --> 00:22:14.280
+roughly two weeks after Jadolize died,
+
+00:22:14.280 --> 00:22:16.920
+FEMA miraculously obligated
+
+00:22:16.920 --> 00:22:20.200
+$39.5 million for the reconstruction
+
+00:22:20.200 --> 00:22:22.760
+of the facility. Two weeks. It takes
+
+00:22:22.760 --> 00:22:24.600
+a child dying in transit
+
+00:22:24.600 --> 00:22:25.880
+for the federal paperwork to
+
+00:22:25.880 --> 00:22:27.800
+suddenly clear. It's incredibly dark.
+
+00:22:27.800 --> 00:22:29.320
+Her family dealing with just an
+
+00:22:29.320 --> 00:22:31.720
+unimaginable loss actually filed a
+
+00:22:31.720 --> 00:22:33.480
+civil and human rights lawsuit against
+
+00:22:33.480 --> 00:22:34.920
+various government officials.
+
+00:22:34.920 --> 00:22:37.160
+Laming what? Citing a systemic failure
+
+00:22:37.160 --> 00:22:39.000
+to provide adequate constitutionally
+
+00:22:39.000 --> 00:22:40.760
+mandated medical services.
+
+00:22:40.760 --> 00:22:42.440
+They argued that the lack of a hospital
+
+00:22:42.440 --> 00:22:44.600
+in VX wasn't just an inconvenience,
+
+00:22:44.600 --> 00:22:46.920
+it was a fatal systemic failure.
+
+00:22:46.920 --> 00:22:48.360
+Here's where it gets really interesting
+
+00:22:48.360 --> 00:22:49.320
+for the listener and where I want
+
+00:22:49.320 --> 00:22:50.840
+you to look closely at the sheer
+
+00:22:50.840 --> 00:22:52.920
+inequity of the federal spreadsheet.
+
+00:22:52.920 --> 00:22:54.520
+Let's place our two islands side by
+
+00:22:54.520 --> 00:22:56.040
+side again. Okay, let's do it.
+
+00:22:56.040 --> 00:22:57.640
+Nantucket has a poverty rate of
+
+00:22:57.640 --> 00:23:00.440
+roughly 3%. Okay. VX has a poverty rate
+
+00:23:00.440 --> 00:23:03.880
+of 59.5%. VX poverty rate is almost
+
+00:23:03.880 --> 00:23:05.640
+20 times higher than Nantuckets.
+
+00:23:05.640 --> 00:23:07.160
+Now in a logical system, you would
+
+00:23:07.160 --> 00:23:08.680
+think the federal safety net would
+
+00:23:08.680 --> 00:23:10.520
+pour resources into the poorer,
+
+00:23:10.520 --> 00:23:12.360
+more vulnerable area, right?
+
+00:23:12.360 --> 00:23:13.880
+That would be the logical assumption
+
+00:23:13.880 --> 00:23:15.400
+for a safety net. But look at the
+
+00:23:15.400 --> 00:23:17.240
+Medicare Advantage payments.
+
+00:23:17.240 --> 00:23:19.000
+For the exact same year, for the
+
+00:23:19.000 --> 00:23:20.600
+exact same federal entitlement
+
+00:23:20.600 --> 00:23:22.600
+program, Medicare Advantage pays a
+
+00:23:22.600 --> 00:23:27.560
+private insurance plan $1,423.96
+
+00:23:27.560 --> 00:23:29.080
+per enrollee per month
+
+00:23:29.080 --> 00:23:31.080
+to provide care in wealthy Nantucket
+
+00:23:31.720 --> 00:23:33.720
+and in impoverished VX.
+
+00:23:34.360 --> 00:23:39.000
+They pay $840.23. That is a staggering
+
+00:23:39.000 --> 00:23:41.800
+disparity. It is 69% more federal
+
+00:23:41.800 --> 00:23:43.400
+funding for the wealthy island
+
+00:23:43.400 --> 00:23:45.320
+senior citizen compared to the
+
+00:23:45.320 --> 00:23:47.000
+impoverished island senior citizen
+
+00:23:47.000 --> 00:23:49.240
+and why? Because the rules, the
+
+00:23:49.240 --> 00:23:51.000
+formulas, the wage indices,
+
+00:23:51.000 --> 00:23:52.600
+they bind the hardest where it
+
+00:23:52.600 --> 00:23:54.280
+benefits the system and they
+
+00:23:54.280 --> 00:23:55.960
+ruthlessly punish the places
+
+00:23:55.960 --> 00:23:57.320
+that lack the infrastructure
+
+00:23:57.320 --> 00:23:58.920
+or the high-priced consultants to
+
+00:23:58.920 --> 00:24:00.600
+fight back. And this raises a really
+
+00:24:00.600 --> 00:24:02.520
+important question. Why is the
+
+00:24:02.520 --> 00:24:04.440
+baseline payment for Puerto Rico
+
+00:24:04.440 --> 00:24:06.280
+so incredibly low to begin with?
+
+00:24:06.280 --> 00:24:08.680
+Right. Why is it stuck at $840?
+
+00:24:08.680 --> 00:24:10.520
+We know the human stakes in VX now,
+
+00:24:10.520 --> 00:24:12.360
+but to understand why building a new
+
+00:24:12.360 --> 00:24:14.360
+facility there is a macroeconomic
+
+00:24:14.360 --> 00:24:16.120
+game changer, we have to zoom out.
+
+00:24:16.120 --> 00:24:17.240
+We have to look at the financial
+
+00:24:17.240 --> 00:24:18.280
+crisis strangling the rest of
+
+00:24:18.280 --> 00:24:19.720
+Puerto Rico's healthcare system.
+
+00:24:19.720 --> 00:24:21.720
+Yes. Because VX doesn't exist in a
+
+00:24:21.720 --> 00:24:23.960
+vacuum, it is part of a territory
+
+00:24:23.960 --> 00:24:25.240
+that is caught in what is
+
+00:24:25.240 --> 00:24:27.000
+essentially a bureaucratic death
+
+00:24:27.000 --> 00:24:28.600
+spiral. Let's talk about the
+
+00:24:28.600 --> 00:24:30.440
+circularity trap. The circularity
+
+00:24:30.440 --> 00:24:31.880
+trap, it's a brutal mechanism.
+
+00:24:31.880 --> 00:24:33.400
+We mentioned earlier that the wage
+
+00:24:33.400 --> 00:24:35.080
+index is computed based on what
+
+00:24:35.080 --> 00:24:36.760
+hospitals actually pay their staff.
+
+00:24:37.480 --> 00:24:39.160
+When you run the raw data for
+
+00:24:39.160 --> 00:24:41.160
+Puerto Rico, their natural
+
+00:24:41.160 --> 00:24:42.760
+mathematically computed wage
+
+00:24:42.760 --> 00:24:45.960
+index comes out to roughly 0.35.
+
+00:24:45.960 --> 00:24:48.760
+0.35, that is the absolute lowest
+
+00:24:48.760 --> 00:24:50.280
+in the entire nation by a wide
+
+00:24:50.280 --> 00:24:51.720
+margin. And it is crucial to
+
+00:24:51.720 --> 00:24:52.920
+clarify here for you guys
+
+00:24:52.920 --> 00:24:54.600
+listening that this 0.35
+
+00:24:54.600 --> 00:24:56.760
+index is not because the work of a
+
+00:24:56.760 --> 00:24:59.320
+highly trained ICU nurse in San Juan
+
+00:24:59.320 --> 00:25:00.840
+is inherently worth a third of the
+
+00:25:00.840 --> 00:25:01.960
+work of a nurse in Florida.
+
+00:25:01.960 --> 00:25:02.760
+No, not at all.
+
+00:25:02.760 --> 00:25:04.840
+It is a mathematical artifact of a
+
+00:25:04.840 --> 00:25:06.360
+totally flawed formula.
+
+00:25:06.360 --> 00:25:08.040
+Hospitals can only afford to pay
+
+00:25:08.040 --> 00:25:09.800
+their staff based on the revenue
+
+00:25:09.800 --> 00:25:10.440
+they generate right.
+
+00:25:10.440 --> 00:25:11.800
+Right, basic economics.
+
+00:25:11.800 --> 00:25:13.240
+For many of these hospitals, their
+
+00:25:13.240 --> 00:25:14.600
+primary sorts of revenue is
+
+00:25:14.600 --> 00:25:16.200
+Medicare reimbursements.
+
+00:25:16.200 --> 00:25:17.800
+But Medicare reimburses them
+
+00:25:17.800 --> 00:25:19.000
+based on what they are currently
+
+00:25:19.000 --> 00:25:20.120
+paying their staff.
+
+00:25:20.120 --> 00:25:21.640
+It's the ultimate catch 22.
+
+00:25:22.520 --> 00:25:24.920
+Low Medicare reimbursement forces
+
+00:25:24.920 --> 00:25:26.680
+the hospital to pay low wages just
+
+00:25:26.680 --> 00:25:28.120
+to keep the lights on and the doors
+
+00:25:28.120 --> 00:25:28.360
+open.
+
+00:25:28.360 --> 00:25:29.080
 Yeah.
 
-00:01:00.480 --> 00:01:03.640
-There's literally a memo in here called the FY 2028
+00:25:29.080 --> 00:25:30.280
+Those low wages are then
 
-00:01:03.640 --> 00:01:05.680
-wage index campaign war plan.
+00:25:30.280 --> 00:25:31.640
+dutifully recorded on a cost
 
-00:01:05.680 --> 00:01:08.440
-And alongside it, there are these official data packs
+00:25:31.640 --> 00:25:33.000
+report and sent to CMS.
 
-00:01:08.440 --> 00:01:12.000
-and this highly detailed, just incredibly dense
+00:25:33.000 --> 00:25:35.080
+And then CMS plugs those low wages
 
-00:01:12.000 --> 00:01:16.640
-legal and actuarial analysis titled The Viex Rural Floor.
+00:25:35.080 --> 00:25:35.880
+into the formula.
 
-00:01:16.640 --> 00:01:17.740
-Oh, it's dense.
+00:25:35.880 --> 00:25:38.440
+Which generates an abysmal 0.35
 
-00:01:17.740 --> 00:01:19.520
-It is, but reading through this stuff,
+00:25:38.440 --> 00:25:39.240
+wage index.
 
-00:01:19.520 --> 00:01:21.680
-it doesn't feel like hospital administration.
+00:25:39.880 --> 00:25:41.160
+Which then dictates that the
 
-00:01:21.680 --> 00:01:22.520
-No.
+00:25:41.160 --> 00:25:43.320
+hospital must receive low
 
-00:01:22.520 --> 00:01:23.360
-It feels like a heist movie.
+00:25:43.320 --> 00:25:44.520
+Medicare reimbursement.
 
-00:01:23.360 --> 00:01:24.320
-A bureaucratic heist.
+00:25:44.520 --> 00:25:46.440
+The spreadsheet literally measures
 
-00:01:24.320 --> 00:01:26.360
-Right, where the vault is the US Treasury
+00:25:46.440 --> 00:25:47.720
+the poverty it created in the
 
-00:01:26.360 --> 00:01:29.400
-and the lock is literally just a geographic definition.
+00:25:47.720 --> 00:25:48.600
+first place and then
 
-00:01:29.400 --> 00:01:32.400
-Which is what makes these documents so compelling.
+00:25:48.600 --> 00:25:49.880
+institutionalizes it.
 
-00:01:32.400 --> 00:01:35.760
-We almost never get to see the unvarnished playbook
+00:25:49.880 --> 00:25:50.680
+Recisely.
 
-00:01:35.760 --> 00:01:39.200
-for how a systemic crisis is managed behind closed doors.
+00:25:50.680 --> 00:25:52.280
+It locks them into a perpetual
 
-00:01:39.200 --> 00:01:41.960
-We are looking at a masterclass in how billions
+00:25:52.280 --> 00:25:53.960
+cycle of underfunding.
 
-00:01:41.960 --> 00:01:44.040
-of taxpayer dollars are routed through the health care
+00:25:53.960 --> 00:25:55.320
+Now for a brief period from
 
-00:01:44.040 --> 00:01:47.120
-system based on these geographic legal fictions.
+00:25:55.320 --> 00:25:57.400
+roughly 2020 to 2024,
 
-00:01:47.120 --> 00:01:48.400
-Geographic legal fictions.
+00:25:57.400 --> 00:25:58.360
+the federal government
 
-00:01:48.400 --> 00:01:49.240
-I love that.
+00:25:58.360 --> 00:25:59.960
+actually attempted to intervene.
 
-00:01:49.240 --> 00:01:51.720
-So to understand the wild strategy these documents
+00:25:59.960 --> 00:26:01.080
+What did they do?
 
-00:01:51.720 --> 00:01:55.760
-propose, we first need to understand the absolute panic
+00:26:01.080 --> 00:26:02.600
+Well, the Centers for Medicare
 
-00:01:55.760 --> 00:01:57.080
-that is driving it right now.
+00:26:02.600 --> 00:26:04.600
+and Medicaid Services or CMS
 
-00:01:57.080 --> 00:01:58.400
-The cliff.
+00:26:04.600 --> 00:26:05.960
+recognized that this circularity
 
-00:01:58.400 --> 00:02:02.600
-According to this war plan, on October 1st, 2027,
+00:26:05.960 --> 00:26:07.320
+trap was destroying hospitals
 
-00:02:02.600 --> 00:02:04.760
-Puerto Rico's health care system is going
+00:26:07.320 --> 00:26:08.840
+nationwide, not just in Puerto
 
-00:02:04.760 --> 00:02:07.120
-to drive off a physical cliff.
+00:26:08.840 --> 00:26:09.720
+Rico.
 
-00:02:07.120 --> 00:02:08.920
-And when I say cliff, I mean Medicare
+00:26:09.720 --> 00:26:10.760
+So they implemented what they
 
-00:02:08.920 --> 00:02:11.040
-inpatient payments to Puerto Rico.
+00:26:10.760 --> 00:26:12.440
+called a low wage index
 
-00:02:11.040 --> 00:02:15.760
-52 hospitals are projected to fall by roughly 15.5%
+00:26:12.440 --> 00:26:13.640
+hospital policy.
 
-00:02:15.760 --> 00:02:16.520
-overnight.
+00:26:13.640 --> 00:26:14.760
+Okay, so effects.
 
-00:02:16.520 --> 00:02:19.360
-Yeah, a single day revenue cut of 15.5%
+00:26:14.760 --> 00:26:15.160
+Kind of.
 
-00:02:19.360 --> 00:02:21.520
-for a hospital system that is already incredibly
+00:26:15.160 --> 00:26:16.040
+This was essentially an
 
-00:02:21.520 --> 00:02:22.080
-fragile.
+00:26:16.040 --> 00:26:17.640
+administrative band aid
 
-00:02:22.080 --> 00:02:22.960
+00:26:17.640 --> 00:26:18.920
+that artificially boosted
+
+00:26:18.920 --> 00:26:20.600
+the wage index for the lowest
+
+00:26:20.600 --> 00:26:22.040
+quartile of hospitals across the
+
+00:26:22.040 --> 00:26:22.600
+country.
+
+00:26:22.600 --> 00:26:24.120
+So they just arbitrarily raised
+
+00:26:24.120 --> 00:26:25.240
+the floor for the poorest
+
+00:26:25.240 --> 00:26:26.280
+hospitals.
+
+00:26:26.280 --> 00:26:28.520
+Yes, they used administrative
+
+00:26:28.520 --> 00:26:29.960
+discretion to just inflate the
+
+00:26:29.960 --> 00:26:31.640
+numbers from the bottom up.
+
+00:26:31.640 --> 00:26:33.720
+For Puerto Rico, this temporary
+
+00:26:33.720 --> 00:26:35.800
+patch lifted their effective
+
+00:26:35.800 --> 00:26:37.480
+operational wage index
+
+00:26:37.480 --> 00:26:39.720
+from that natural 0.35
+
+00:26:39.720 --> 00:26:41.320
+up to around 0.61.
+
+00:26:41.320 --> 00:26:42.760
+That's a huge jump.
+
+00:26:42.760 --> 00:26:43.640
+It nearly doubled their
+
+00:26:43.640 --> 00:26:44.520
+protection overnight.
+
+00:26:44.520 --> 00:26:46.200
+It was a massive influx of
+
+00:26:46.200 --> 00:26:47.880
+desperately needed stabilization
+
+00:26:47.880 --> 00:26:48.680
+funding.
+
+00:26:48.680 --> 00:26:50.120
+But the problem with administrative
+
+00:26:50.120 --> 00:26:51.640
+patches is that they can be ripped
+
+00:26:51.640 --> 00:26:52.200
+off.
+
+00:26:52.200 --> 00:26:52.760
+Very true.
+
+00:26:52.760 --> 00:26:54.280
+And that is exactly what happened
+
+00:26:54.280 --> 00:26:55.880
+in July of 2024.
+
+00:26:56.520 --> 00:26:58.600
+The DC Circuit Court of Appeals
+
+00:26:58.600 --> 00:27:00.840
+issued a major ruling in a case
+
+00:27:00.840 --> 00:27:02.440
+called Bridgeport Hospital v.
+
+00:27:02.440 --> 00:27:03.000
+Becerra.
+
+00:27:03.880 --> 00:27:05.400
+What exactly was the legal
+
+00:27:05.400 --> 00:27:06.200
+argument there?
+
+00:27:06.200 --> 00:27:07.560
+Why did a court strike down a
+
+00:27:07.560 --> 00:27:09.320
+policy that was specifically meant
+
+00:27:09.320 --> 00:27:10.680
+to help poor hospitals?
+
+00:27:10.680 --> 00:27:11.720
+It all comes back to the
+
+00:27:11.720 --> 00:27:13.800
+tension between statutory text
+
+00:27:13.800 --> 00:27:15.080
+and administrative action,
+
+00:27:15.080 --> 00:27:16.040
+much like the Nantucket
+
+00:27:16.040 --> 00:27:17.720
+situation we talked about earlier.
+
+00:27:17.720 --> 00:27:18.920
+In the Bridgeport case,
+
+00:27:18.920 --> 00:27:20.520
+a group of higher paid hospitals
+
+00:27:20.520 --> 00:27:22.040
+basically sued the Secretary of
+
+00:27:22.040 --> 00:27:23.080
+Health and Human Services.
+
+00:27:23.080 --> 00:27:24.360
+Why were they mad?
+
+00:27:24.360 --> 00:27:26.120
+They argued that CMS did not have
+
+00:27:26.120 --> 00:27:27.400
+the statutory authority
+
+00:27:27.400 --> 00:27:29.160
+to artificially boost the wages
+
+00:27:29.160 --> 00:27:30.360
+of poor hospitals.
+
+00:27:30.360 --> 00:27:31.640
+Remember, budget neutrality.
+
+00:27:31.640 --> 00:27:32.440
+Oh, right.
+
+00:27:32.440 --> 00:27:33.640
+Because to boost the bottom,
+
+00:27:33.640 --> 00:27:34.760
+25 percent?
+
+00:27:34.760 --> 00:27:36.200
+CMS had to cut the payments
+
+00:27:36.200 --> 00:27:37.720
+for the top 75 percent to pay
+
+00:27:37.720 --> 00:27:38.280
+for it.
+
+00:27:38.280 --> 00:27:38.840
 Wow.
 
-00:02:22.960 --> 00:02:25.080
-And the root of this impending disaster
+00:27:38.840 --> 00:27:40.520
+So the rich hospitals sued to
 
-00:02:25.080 --> 00:02:29.080
-comes down to a single metric used by the federal government
+00:27:40.520 --> 00:27:42.600
+protect their slice of the pie.
 
-00:02:29.080 --> 00:02:30.400
-called the wage index.
-
-00:02:30.400 --> 00:02:32.960
-OK, so let's unpack that metric because it's basically
-
-00:02:32.960 --> 00:02:35.040
-the lynchpin for this entire campaign, right?
-
-00:02:35.040 --> 00:02:36.280
-Everything revolves around it.
-
-00:02:36.280 --> 00:02:37.680
-So what exactly is a wage index
-
-00:02:37.680 --> 00:02:40.400
-and why is it about to crater Puerto Rico's hospitals?
-
-00:02:40.400 --> 00:02:42.920
-Well, in the Medicare system, the federal government
-
-00:02:42.920 --> 00:02:45.920
-doesn't just pay a flat universal right
-
-00:02:45.920 --> 00:02:47.720
-for a medical procedure.
-
-00:02:47.720 --> 00:02:51.200
-They adjust the payment based on local labor costs.
-
-00:02:51.200 --> 00:02:54.080
-The underlying philosophy is that it costs significantly more
-
-00:02:54.080 --> 00:02:57.280
-to hire a registered nurse or an MRI technician in downtown
-
-00:02:57.280 --> 00:03:00.560
-Manhattan than it does in rural Oklahoma.
-
-00:03:00.560 --> 00:03:02.280
-Right, that makes sense, cost of living.
-
-00:03:02.280 --> 00:03:03.560
+00:27:42.600 --> 00:27:43.160
 Exactly.
 
-00:03:03.560 --> 00:03:07.160
-So Medicare takes the base payment for a procedure
+00:27:43.160 --> 00:27:45.080
+The higher paid hospitals sued
 
-00:03:07.160 --> 00:03:09.200
-and multiplies the labor portion of it
+00:27:45.080 --> 00:27:46.680
+arguing the statute requires
 
-00:03:09.200 --> 00:03:11.520
-by a geographic wage index.
+00:27:46.680 --> 00:27:48.040
+the index to be based on
 
-00:03:11.520 --> 00:03:13.880
-An index of 1.0 means your area
+00:27:48.040 --> 00:27:50.040
+actual relative hospital wage
 
-00:03:13.880 --> 00:03:15.760
-is exactly at the national average.
+00:27:50.040 --> 00:27:50.840
+levels,
 
-00:03:15.760 --> 00:03:19.040
-So if you are at 1.2, you get a 20% bump
+00:27:50.840 --> 00:27:53.000
+not artificially inflated ones.
 
-00:03:19.040 --> 00:03:20.080
-because your city is expensive.
+00:27:53.000 --> 00:27:54.840
+And the D.C. Circuit agreed
 
-00:03:20.080 --> 00:03:20.560
-Yes.
+00:27:54.840 --> 00:27:56.200
+they ruled that CMS
 
-00:03:20.560 --> 00:03:23.120
-And if you were at 0.8, you get a 20% haircut.
+00:27:56.200 --> 00:27:58.040
+overstepped its legal bounds.
 
-00:03:23.120 --> 00:03:24.080
-Precisely.
+00:27:58.040 --> 00:27:59.240
+And so the policy was struck
 
-00:03:24.080 --> 00:03:26.120
-Now, right now, Puerto Rico is surviving
+00:27:59.240 --> 00:27:59.640
+down?
 
-00:03:26.120 --> 00:03:28.000
-on a temporary transitional payment
+00:27:59.640 --> 00:28:01.240
+The policy was struck down.
 
-00:03:28.000 --> 00:03:31.520
-index of about 0.5259.
+00:28:01.240 --> 00:28:02.680
+The Band-Aid was ripped off.
 
-00:03:31.520 --> 00:03:33.520
-But that transition period officially
+00:28:02.680 --> 00:28:03.880
+And immediately there was
 
-00:03:33.520 --> 00:03:36.680
-dies at the start of fiscal year 2028,
+00:28:03.880 --> 00:28:04.760
+widespread panic
 
-00:03:36.680 --> 00:03:39.440
-which is October 1st, 2027.
+00:28:04.760 --> 00:28:06.360
+in healthcare finance circles.
 
-00:03:39.440 --> 00:03:40.040
-Oh, boy.
+00:28:06.360 --> 00:28:07.720
+I remember reading the headlines
 
-00:03:40.040 --> 00:03:40.840
-Yeah.
+00:28:07.720 --> 00:28:10.360
+about a 15.5 percent overnight
 
-00:03:40.840 --> 00:03:43.320
-When that transition lapses, their wage index
+00:28:10.360 --> 00:28:11.160
+cliff.
 
-00:03:43.320 --> 00:03:46.520
-collapses to the official raw data value for San Juan,
+00:28:11.160 --> 00:28:12.680
+People thought hospital funding
 
-00:03:46.520 --> 00:03:48.640
-which is 0.3500.
+00:28:12.680 --> 00:28:13.960
+in Puerto Rico was just going
 
-00:03:48.640 --> 00:03:50.520
-0.35, meaning they would get
+00:28:13.960 --> 00:28:15.480
+to plummet instantly the day
 
-00:03:50.560 --> 00:03:53.240
-paid 35% of the national average
+00:28:15.480 --> 00:28:16.280
+after the ruling.
 
-00:03:53.240 --> 00:03:55.200
-for the labor portion of their medical care.
+00:28:16.280 --> 00:28:17.560
+That was the prevailing fear,
 
-00:03:55.200 --> 00:03:57.520
-It is staggeringly low.
+00:28:17.560 --> 00:28:18.600
+absolutely.
 
-00:03:57.520 --> 00:03:59.920
-I mean, to give you some context from the data pack,
+00:28:18.600 --> 00:28:20.120
+But we really have to correct
 
-00:03:59.920 --> 00:04:02.480
-if you look at the entire mainland United States,
+00:28:20.120 --> 00:28:21.160
+that misconception
 
-00:04:02.480 --> 00:04:07.080
-the absolute lowest wage index area is rural Mississippi.
+00:28:21.160 --> 00:28:22.440
+because the reality is actually
 
-00:04:07.080 --> 00:04:07.680
-OK.
+00:28:22.440 --> 00:28:23.800
+much more insidious
 
-00:04:07.680 --> 00:04:08.320
-And what's theirs?
+00:28:23.800 --> 00:28:25.080
+than a sudden cliff.
 
-00:04:08.320 --> 00:04:11.800
-Their index is 0.7112.
-
-00:04:11.800 --> 00:04:12.920
-Oh, wow.
-
-00:04:12.920 --> 00:04:15.840
-So San Juan is sitting at exactly half the rate
-
-00:04:15.840 --> 00:04:18.160
-of the cheapest rural area in the mainland US.
-
-00:04:18.160 --> 00:04:18.440
-Yes.
-
-00:04:18.440 --> 00:04:20.160
-It's not even close.
-
-00:04:20.160 --> 00:04:22.480
-Now, let me play devil's advocate for a second here.
-
-00:04:22.480 --> 00:04:23.280
-Sure.
-
-00:04:23.280 --> 00:04:25.000
-Because the federal government's logic
-
-00:04:25.000 --> 00:04:27.560
-is that things cost what they cost, right?
-
-00:04:27.560 --> 00:04:31.000
-Like if the cost of living in San Juan is genuinely lower
-
-00:04:31.000 --> 00:04:34.440
-and the hospitals are, in fact, paying their nurses $15
-
-00:04:34.440 --> 00:04:37.040
-an hour instead of the $40 an hour they make in Boston.
-
-00:04:37.040 --> 00:04:37.680
-Right.
-
-00:04:37.680 --> 00:04:39.720
-Isn't the mathematical formula technically
-
-00:04:39.720 --> 00:04:41.360
-working as intended?
-
-00:04:41.360 --> 00:04:43.240
-Like why should the federal government pay them
-
-00:04:43.240 --> 00:04:45.560
-Boston rates if they're actually
-
-00:04:45.560 --> 00:04:47.320
-paying Puerto Rico wages?
-
-00:04:47.320 --> 00:04:50.000
-That is the exact argument the federal government makes
-
-00:04:50.040 --> 00:04:51.320
-when defending the formula.
-
-00:04:51.320 --> 00:04:53.560
-On paper, it looks perfectly rational.
-
-00:04:53.560 --> 00:04:54.160
-OK.
-
-00:04:54.160 --> 00:04:56.440
-But in practice, it creates a systemic track.
-
-00:04:56.440 --> 00:04:59.520
-It's this vicious cycle that the hospitals simply
-
-00:04:59.520 --> 00:05:00.600
-cannot escape.
-
-00:05:00.600 --> 00:05:01.960
-It's like a gravity spiral.
-
-00:05:01.960 --> 00:05:03.560
-Think about the mechanics of it.
-
-00:05:03.560 --> 00:05:06.840
-Hospital labor isn't a free market in Puerto Rico.
-
-00:05:06.840 --> 00:05:09.920
-Medicare is so dominant there that it essentially
-
-00:05:09.920 --> 00:05:11.560
-is the market.
-
-00:05:11.560 --> 00:05:15.440
-So when the wage index is suppressed to 0.35,
-
-00:05:15.440 --> 00:05:18.280
-the hospitals receive drastically less Medicare
-
-00:05:18.280 --> 00:05:19.640
-funding overall.
-
-00:05:19.680 --> 00:05:21.640
-Because their total revenue is so low,
-
-00:05:21.640 --> 00:05:24.520
-they physically cannot afford to pay competitive wages.
-
-00:05:24.520 --> 00:05:25.160
-Right.
-
-00:05:25.160 --> 00:05:28.800
-And because they pay low wages, their required annual cost
-
-00:05:28.800 --> 00:05:31.200
-reports show low labor costs.
-
-00:05:31.200 --> 00:05:34.360
-The federal government takes those exact cost reports,
-
-00:05:34.360 --> 00:05:37.320
-feeds them back into the formula, and says,
-
-00:05:37.320 --> 00:05:39.040
-Lee, your wages are low.
-
-00:05:39.040 --> 00:05:41.480
-So your index stays at 0.35.
-
-00:05:41.480 --> 00:05:43.240
-It's like being in a descending airplane
-
-00:05:43.240 --> 00:05:45.440
-where the altimeter reading is actually hardwired
-
-00:05:45.440 --> 00:05:46.920
-to the engines.
-
-00:05:46.920 --> 00:05:48.640
-The lower your altitude, the more the engines
-
-00:05:48.640 --> 00:05:51.040
-throttle down, which just pulls you down faster.
-
-00:05:51.040 --> 00:05:52.360
-That's a perfect analogy.
-
-00:05:52.360 --> 00:05:55.800
-And the human cost of that math is massive brain drain.
-
-00:05:55.800 --> 00:05:58.760
-Because if I'm a bilingual nurse making $15 an hour in San
-
-00:05:58.760 --> 00:06:01.640
-Juan, and a hospital in Orlando is offering me
-
-00:06:01.640 --> 00:06:04.200
-a massive signing bonus and $45 an hour.
-
-00:06:04.200 --> 00:06:05.000
-They're leaving.
-
-00:06:05.000 --> 00:06:06.280
-I'm getting on a plane, yeah.
-
-00:06:06.280 --> 00:06:08.720
-And that brain drain just hollows out
-
-00:06:08.720 --> 00:06:10.280
-the medical infrastructure.
-
-00:06:10.280 --> 00:06:11.680
-Now, for a long time, there was
-
-00:06:11.680 --> 00:06:14.620
-a policy that artificially propped up Puerto Rico's
-
-00:06:14.620 --> 00:06:16.000
-number, essentially doubling it
-
-00:06:16.000 --> 00:06:17.280
-to keep the system afloat.
-
-00:06:17.280 --> 00:06:18.040
-OK.
-
-00:06:18.040 --> 00:06:22.640
-But the federal courts actually struck that down in a 2024 case
-
-00:06:22.640 --> 00:06:24.040
-called Bridgeport.
-
-00:06:24.040 --> 00:06:25.120
-Well, they struck it down.
-
-00:06:25.120 --> 00:06:25.760
-Yeah.
-
-00:06:25.760 --> 00:06:28.840
-So CMS, which is the agency that runs Medicare,
-
-00:06:28.840 --> 00:06:32.880
-instituted this temporary 0.52 transition just
-
-00:06:32.880 --> 00:06:34.240
-to soften the blow.
-
-00:06:34.240 --> 00:06:35.160
-But that's a Band-Aid.
-
-00:06:35.160 --> 00:06:37.760
-And the Band-Aid gets ripped off in 2027.
-
-00:06:37.760 --> 00:06:38.920
-Exactly.
-
-00:06:38.920 --> 00:06:40.640
-Which brings us to a piece of data
-
-00:06:40.640 --> 00:06:43.800
-in this strategy memo that genuinely shocked me.
-
-00:06:43.800 --> 00:06:45.240
-It, your is what the strategist
-
-00:06:45.240 --> 00:06:47.840
-called the mobilization gap.
-
-00:06:47.840 --> 00:06:48.680
-Yes.
-
-00:06:48.680 --> 00:06:49.280
-The comments.
-
-00:06:49.280 --> 00:06:52.880
-Because you would assume that with a 15.5% overnight revenue
-
-00:06:52.880 --> 00:06:54.400
-collapse staring them in the face,
-
-00:06:54.400 --> 00:06:57.920
-every hospital executive, doctor, and politician in Puerto
-
-00:06:57.920 --> 00:07:00.200
-Rico would be screaming from the rooftops.
-
-00:07:00.200 --> 00:07:01.120
-You'd think so.
-
-00:07:01.120 --> 00:07:04.360
-But the documents analyzed the federal comment period
-
-00:07:04.360 --> 00:07:07.320
-for the fiscal year 2027 rules.
-
-00:07:07.320 --> 00:07:09.320
-When CMS proposed these changes,
-
-00:07:09.320 --> 00:07:11.480
-they opened a public docket.
-
-00:07:11.480 --> 00:07:16.200
-And out of 982 public comments submitted
-
-00:07:16.200 --> 00:07:17.120
-to the federal government.
-
-00:07:17.120 --> 00:07:18.720
-Guess how many?
-
-00:07:18.720 --> 00:07:21.160
-Only six mentioned Puerto Rico.
-
-00:07:21.160 --> 00:07:23.800
-And of those six, only four were actually
-
-00:07:23.800 --> 00:07:25.280
-from Puerto Rican institutions.
-
-00:07:25.280 --> 00:07:26.000
-Four comments.
-
-00:07:26.000 --> 00:07:28.240
-Four comments out of 982.
-
-00:07:28.240 --> 00:07:29.160
-That's insane.
-
-00:07:29.160 --> 00:07:30.880
-The campaign strategist referred to this
-
-00:07:30.880 --> 00:07:33.720
-as the four of 982 embarrassment.
-
-00:07:33.720 --> 00:07:34.840
-How does that even happen?
-
-00:07:34.840 --> 00:07:36.960
-You have a multi-billion-dollar industry
-
-00:07:36.960 --> 00:07:40.560
-facing an existential threat and four people write a letter.
-
-00:07:40.560 --> 00:07:42.340
-It represents a complete breakdown
-
-00:07:42.340 --> 00:07:43.840
-of institutional mobilization.
-
-00:07:43.840 --> 00:07:46.120
-I mean, administrative law operates entirely
-
-00:07:46.120 --> 00:07:47.000
-on the written record.
-
-00:07:47.280 --> 00:07:49.440
-If the federal government proposes a rule
-
-00:07:49.440 --> 00:07:52.560
-and you do not submit a mountain of evidence data
-
-00:07:52.560 --> 00:07:56.120
-and legal arguments during that open comment period,
-
-00:07:56.120 --> 00:07:57.680
-the government can legally say, well,
-
-00:07:57.680 --> 00:07:59.280
-there is no evidence on the docket
-
-00:07:59.280 --> 00:08:00.280
-that this is a priority.
-
-00:08:00.280 --> 00:08:02.280
-Right. It's a legal shield for them.
-
-00:08:02.280 --> 00:08:03.120
-Exactly.
-
-00:08:03.120 --> 00:08:06.160
-There's no data to justify changing our rule.
-
-00:08:06.160 --> 00:08:08.280
-And you cannot sue them later and win
-
-00:08:08.280 --> 00:08:10.560
-if you didn't first build the administrative record.
-
-00:08:10.560 --> 00:08:13.160
-So they are paralyzed in this descending airplane.
-
-00:08:13.160 --> 00:08:15.720
-The ground is rapidly approaching in 2027.
-
-00:08:15.720 --> 00:08:18.640
-And nobody is even radioing the control tower.
-
-00:08:18.640 --> 00:08:20.200
-They're just bracing for impact.
-
-00:08:20.200 --> 00:08:21.880
-That is the baseline problem.
-
-00:08:21.880 --> 00:08:22.720
-Yeah.
-
-00:08:22.720 --> 00:08:25.280
-But the strategists who authored this war plan,
-
-00:08:25.280 --> 00:08:26.360
-they aren't just telling people
-
-00:08:26.360 --> 00:08:28.080
-to write angrier letters.
-
-00:08:28.080 --> 00:08:30.280
-They realize that asking the government nicely
-
-00:08:30.280 --> 00:08:33.640
-for a handout just won't fix the gravity spiral.
-
-00:08:33.640 --> 00:08:34.920
-To break the math,
-
-00:08:34.920 --> 00:08:37.080
-you basically have to find a loophole in the math
-
-00:08:37.080 --> 00:08:39.080
-that someone else has already stress-tested.
-
-00:08:39.080 --> 00:08:41.200
-You look for legal precedent.
-
-00:08:41.200 --> 00:08:43.180
-And in the bizarre, highly technical world
-
-00:08:43.180 --> 00:08:44.960
-of Medicare reimbursement law,
-
-00:08:44.960 --> 00:08:47.240
-there is really no precedent more famous
-
-00:08:47.240 --> 00:08:50.920
-or infamous, I should say, than the Nantucket strategy.
-
-00:08:50.920 --> 00:08:51.760
-Yeah.
-
-00:08:51.760 --> 00:08:53.600
-This is where the story shifts to Massachusetts.
-
-00:08:53.600 --> 00:08:55.720
-And the strategy documents spend pages
-
-00:08:55.720 --> 00:08:57.440
-just dissecting a maneuver executed
-
-00:08:57.440 --> 00:09:01.000
-by Nantucket Cottage Hospital back in 2008.
-
-00:09:01.000 --> 00:09:02.480
-It's a legendary maneuver.
-
-00:09:02.480 --> 00:09:03.840
-So take us back.
-
-00:09:03.840 --> 00:09:05.880
-How did a wealthy resort island
-
-00:09:05.880 --> 00:09:08.040
-break the Medicare wage index?
-
-00:09:08.040 --> 00:09:10.560
-Well, to understand the Massachusetts windfall,
-
-00:09:10.560 --> 00:09:13.360
-we have to look at a quirk in federal law.
-
-00:09:13.360 --> 00:09:15.920
-Specifically, section 4410
-
-00:09:15.920 --> 00:09:18.640
-of the Balanced Budget Act of 1997.
-
-00:09:18.640 --> 00:09:19.480
-Okay.
-
-00:09:19.480 --> 00:09:23.360
-This statute created something called the rural floor.
-
-00:09:23.360 --> 00:09:27.080
-The law dictates that any urban hospital in a given state
-
-00:09:27.080 --> 00:09:29.840
-cannot receive a Medicare wage index
-
-00:09:29.840 --> 00:09:32.300
-that is lower than the rural wage index
-
-00:09:32.300 --> 00:09:33.240
-of that same state.
-
-00:09:33.240 --> 00:09:34.080
-Oh, I see.
-
-00:09:34.080 --> 00:09:35.160
-So it establishes a basement.
-
-00:09:35.160 --> 00:09:36.840
-Like if the rural hospitals in your state
-
-00:09:36.840 --> 00:09:41.240
-are paying nurses an average of say $30 an hour,
-
-00:09:41.240 --> 00:09:44.320
-then the giant urban hospitals in the big cities
-
-00:09:44.320 --> 00:09:47.000
-can't be reimbursed at a rate lower than $30 an hour.
-
-00:09:47.000 --> 00:09:47.840
-Exactly.
-
-00:09:47.840 --> 00:09:50.320
-Even if their own internal data suggests they should be,
-
-00:09:50.320 --> 00:09:52.720
-Congress intended it as a protective measure.
-
-00:09:52.720 --> 00:09:53.560
-Sure.
-
-00:09:53.560 --> 00:09:55.640
-To ensure rural hospitals could compete for talent
-
-00:09:55.640 --> 00:09:58.120
-and to make sure urban hospitals didn't somehow fall
-
-00:09:58.120 --> 00:10:00.200
-behind rural ones in the same state.
-
-00:10:00.200 --> 00:10:01.440
-Okay, that sounds well-intentioned.
-
-00:10:01.440 --> 00:10:02.360
-It does.
-
-00:10:02.360 --> 00:10:05.600
-But then Nantucket Cottage Hospital saw an opportunity.
-
-00:10:05.600 --> 00:10:08.280
-Prior to 2008, Nantucket operated
-
-00:10:08.280 --> 00:10:10.200
-as a critical RACSES hospital.
-
-00:10:10.200 --> 00:10:11.800
-Wait, I need a translation there.
-
-00:10:11.800 --> 00:10:14.160
-What is critical access hospital and why does that matter?
-
-00:10:14.160 --> 00:10:17.280
-Right, so a critical access hospital, or CAH,
-
-00:10:17.280 --> 00:10:19.440
-is a special designation for small,
-
-00:10:19.440 --> 00:10:21.640
-highly isolated facilities.
-
-00:10:21.640 --> 00:10:23.120
-To keep them from going bankrupt,
-
-00:10:23.120 --> 00:10:26.320
-Medicare pays them based on their actual reasonable costs.
-
-00:10:26.320 --> 00:10:28.280
-Oh, so it's not the wage index formula at all.
-
-00:10:28.280 --> 00:10:31.800
-No, it's a very safe protective financial system.
-
-00:10:31.800 --> 00:10:33.720
-But importantly, because they are
-
-00:10:33.720 --> 00:10:36.120
-on the separate payment system,
-
-00:10:36.120 --> 00:10:38.800
-their wage data is not used to calculate
-
-00:10:38.800 --> 00:10:40.600
-the state's Medicare wage index.
-
-00:10:40.600 --> 00:10:43.000
-Okay, so they are completely walled off in the math.
-
-00:10:43.000 --> 00:10:43.840
-Right.
-
-00:10:43.840 --> 00:10:46.920
-But in 2008, Nantucket voluntarily gave up
-
-00:10:46.920 --> 00:10:48.960
-that safe CAH status.
-
-00:10:48.960 --> 00:10:51.120
-They converted to an IPPS hospital,
-
-00:10:51.120 --> 00:10:53.200
-which stands for inpatient perspective
-
-00:10:53.200 --> 00:10:54.520
-payment system hospital.
-
-00:10:54.520 --> 00:10:55.360
-IPPS.
-
-00:10:55.360 --> 00:10:57.560
-Yes, that is the standard classification
-
-00:10:57.560 --> 00:10:59.480
-for regular acute care hospitals.
-
-00:10:59.480 --> 00:11:01.200
-But why would they leave a safe,
-
-00:11:01.200 --> 00:11:03.200
-guaranteed cost system?
-
-00:11:03.200 --> 00:11:04.120
-That sounds risky.
-
-00:11:04.120 --> 00:11:06.240
-Because of the cost of living on Nantucket.
-
-00:11:06.240 --> 00:11:07.480
-As an island resort,
-
-00:11:07.480 --> 00:11:09.080
-it is astronomically expensive
-
-00:11:09.080 --> 00:11:12.240
-to hire doctors and nurses to live and work there.
-
-00:11:12.240 --> 00:11:14.640
-Nantucket had exceptionally high labor costs.
-
-00:11:14.640 --> 00:11:16.440
-By converting to an IPPS hospital,
-
-00:11:16.440 --> 00:11:18.480
-their massive payroll data was suddenly fed
-
-00:11:18.480 --> 00:11:19.840
-directly into the Massachusetts
-
-00:11:19.840 --> 00:11:21.400
-wage index calculation.
-
-00:11:21.400 --> 00:11:23.000
-Okay, I think I see where this is going.
-
-00:11:23.000 --> 00:11:25.280
-And here is the genius of the maneuver.
-
-00:11:25.280 --> 00:11:27.480
-Because of how the geographic boundaries
-
-00:11:27.480 --> 00:11:29.400
-were drawn in Massachusetts,
-
-00:11:29.400 --> 00:11:30.960
-Nantucket effectively became
-
-00:11:30.960 --> 00:11:33.640
-the only geographically rural hospital
-
-00:11:33.640 --> 00:11:36.280
-in the entire state contributing to that data pool.
-
-00:11:36.280 --> 00:11:39.000
-Oh wow, if they are the only rural hospital.
-
-00:11:39.000 --> 00:11:42.640
-Their single sky high island payroll
-
-00:11:42.640 --> 00:11:44.640
-dictated the rural index
-
-00:11:44.640 --> 00:11:46.480
-for the entire state of Massachusetts.
-
-00:11:46.480 --> 00:11:48.680
-And what does section 4410 say?
-
-00:11:48.680 --> 00:11:50.520
-The urban hospitals cannot be paid
-
-00:11:50.520 --> 00:11:52.440
-less than the rural floor.
-
-00:11:52.440 --> 00:11:54.040
-So a tiny island hospital
-
-00:11:54.040 --> 00:11:55.960
-effectively became the financial anchor
-
-00:11:55.960 --> 00:11:58.720
-for a massive urban healthcare system
-
-00:11:58.720 --> 00:12:00.680
-simply because of its geographic label.
-
-00:12:00.680 --> 00:12:02.720
-Nantucket's data became the mandatory
-
-00:12:02.720 --> 00:12:04.960
-minimum wage index for nearly every
-
-00:12:04.960 --> 00:12:08.040
-massive multi-billion dollar hospital system
-
-00:12:08.040 --> 00:12:08.880
-in Boston.
-
-00:12:08.880 --> 00:12:09.880
-That is wild.
-
-00:12:09.880 --> 00:12:11.440
-The math on this and the documents
-
-00:12:11.440 --> 00:12:12.640
-is just staggering.
-
-00:12:12.640 --> 00:12:15.960
-It says by 2012, Nantucket's data alone
-
-00:12:15.960 --> 00:12:17.920
-pushed the Massachusetts rural floor
-
-00:12:17.920 --> 00:12:19.920
-to a massive 1.28.
-
-00:12:19.920 --> 00:12:21.080
-Yeah, huge bump.
-
-00:12:21.080 --> 00:12:22.360
-And because the Medicare budget
-
-00:12:22.360 --> 00:12:24.440
-is a fixed pie nationally,
-
-00:12:24.440 --> 00:12:25.680
-like it's supposed to be budget-neutral, right?
-
-00:12:25.680 --> 00:12:26.280
-Horsesack!
-
-00:12:26.280 --> 00:12:28.200
-When Massachusetts takes a dramatically
-
-00:12:28.200 --> 00:12:30.040
-larger slice of the pie,
-
-00:12:30.040 --> 00:12:31.520
-every other hospital in the country
-
-00:12:31.520 --> 00:12:32.680
-gets a smaller slice.
-
-00:12:32.680 --> 00:12:33.360
-Yep.
-
-00:12:33.400 --> 00:12:36.680
-The documents estimate this single maneuver
-
-00:12:36.680 --> 00:12:39.560
-transferred between $256 million
-
-00:12:39.560 --> 00:12:43.040
-and $367 million per year
-
-00:12:43.040 --> 00:12:44.520
-from the rest of the country
-
-00:12:44.520 --> 00:12:46.120
-directly into Massachusetts.
-
-00:12:46.120 --> 00:12:47.920
-It was an absolute windfall.
-
-00:12:47.920 --> 00:12:50.920
-Just a master stroke of regulatory engineering.
-
-00:12:50.920 --> 00:12:51.720
-But the rest of the country
-
-00:12:51.720 --> 00:12:53.360
-had to be furious about that.
-
-00:12:53.360 --> 00:12:55.000
-Oh, they were furious.
-
-00:12:55.000 --> 00:12:57.480
-It triggered a civil war in the healthcare system.
-
-00:12:57.480 --> 00:12:59.800
-21 other states formed a coalition
-
-00:12:59.800 --> 00:13:02.280
-to fight Massachusetts in federal court.
-
-00:13:02.320 --> 00:13:03.360
-21 states.
-
-00:13:03.360 --> 00:13:04.720
-How does that even play out?
-
-00:13:04.720 --> 00:13:06.440
-Do the courts just look in and say,
-
-00:13:06.440 --> 00:13:08.720
-okay, clearly this is a manipulation of the system.
-
-00:13:08.720 --> 00:13:09.840
-You guys have to stop.
-
-00:13:09.840 --> 00:13:11.240
-You'd think so, right?
-
-00:13:11.240 --> 00:13:13.400
-But the states fighting against Massachusetts
-
-00:13:13.400 --> 00:13:14.720
-consistently lost.
-
-00:13:14.720 --> 00:13:15.560
-They lost.
-
-00:13:15.560 --> 00:13:17.320
-The federal judges looked at the statue
-
-00:13:17.320 --> 00:13:20.040
-and ruled based strictly on the text.
-
-00:13:20.040 --> 00:13:21.480
-They essentially said,
-
-00:13:21.480 --> 00:13:23.360
-the law says the urban index
-
-00:13:23.360 --> 00:13:25.800
-cannot be lower than the rural index.
-
-00:13:25.800 --> 00:13:27.840
-Nantucket is geographically rural.
-
-00:13:27.840 --> 00:13:30.080
-Their wages are their real wages.
-
-00:13:30.080 --> 00:13:31.120
-They said, we don't care
-
-00:13:31.120 --> 00:13:33.280
-about the downstream financial impact.
-
-00:13:33.280 --> 00:13:36.640
-The mechanism is working exactly as Congress wrote it.
-
-00:13:36.640 --> 00:13:38.680
-The letter of the law completely trumped
-
-00:13:38.680 --> 00:13:39.760
-the spirit of the law.
-
-00:13:39.760 --> 00:13:40.680
-Completely.
-
-00:13:40.680 --> 00:13:42.280
-Now, eventually the Department of Health
-
-00:13:42.280 --> 00:13:44.360
-and Human Services Inspector General
-
-00:13:44.360 --> 00:13:46.160
-aggressively audited Nantucket.
-
-00:13:46.160 --> 00:13:47.000
-Okay.
-
-00:13:47.000 --> 00:13:51.240
-And they clawed back about $133.6 million
-
-00:13:51.240 --> 00:13:53.600
-for a highly specific error
-
-00:13:53.600 --> 00:13:56.160
-in how they reported certain wage data.
-
-00:13:56.160 --> 00:13:57.400
-They got them on the technicality.
-
-00:13:57.400 --> 00:13:58.240
-Right.
-
-00:13:58.240 --> 00:14:00.280
-But the underlying legal mechanism,
-
-00:14:00.280 --> 00:14:02.680
-the actual Nantucket strategy itself
-
-00:14:02.680 --> 00:14:04.800
-survived judicial review.
-
-00:14:04.800 --> 00:14:07.600
-It became a proven battle-tested playbook
-
-00:14:07.600 --> 00:14:09.360
-for exploiting the rural floor.
-
-00:14:09.360 --> 00:14:11.920
-And this brings us back to the war room in Puerto Rico.
-
-00:14:11.920 --> 00:14:14.680
-The strategists see the Massachusetts windfall.
-
-00:14:14.680 --> 00:14:16.320
-They look at a map of Puerto Rico
-
-00:14:16.320 --> 00:14:17.960
-and they see an obvious parallel.
-
-00:14:17.960 --> 00:14:19.560
-They look at the island of VX.
-
-00:14:19.560 --> 00:14:20.400
-Exactly.
-
-00:14:20.400 --> 00:14:22.840
-The similarities are almost too perfect.
-
-00:14:22.840 --> 00:14:24.800
-VX is an island of municipality
-
-00:14:24.800 --> 00:14:26.800
-off the eastern coast of Puerto Rico.
-
-00:14:26.800 --> 00:14:28.520
-It is geographically isolated.
-
-00:14:28.520 --> 00:14:29.960
-It is definitively rural.
-
-00:14:29.960 --> 00:14:31.200
-Just like Nantucket.
-
-00:14:31.200 --> 00:14:32.040
-Right.
-
-00:14:32.040 --> 00:14:32.840
-So the obvious play,
-
-00:14:32.840 --> 00:14:34.080
-the one that probably gets pitched
-
-00:14:34.080 --> 00:14:36.600
-in every initial brainstorming meeting
-
-00:14:36.600 --> 00:14:38.760
-is just copy and paste the Massachusetts maneuver.
-
-00:14:38.760 --> 00:14:39.600
-Right.
-
-00:14:39.600 --> 00:14:40.440
-Just do what they did.
-
-00:14:40.440 --> 00:14:41.260
-Yeah.
-
-00:14:41.260 --> 00:14:42.960
-You make the hospital and VX the rural anchor.
-
-00:14:42.960 --> 00:14:45.880
-You use its data to set a high rural floor
-
-00:14:45.880 --> 00:14:48.920
-and suddenly all 52 hospitals in Puerto Rico
-
-00:14:48.920 --> 00:14:53.000
-are lifted out of their 0.3500 death spiral
-
-00:14:53.000 --> 00:14:54.360
-by the VX data.
-
-00:14:54.360 --> 00:14:56.400
-On paper, it is the most logically
-
-00:14:56.400 --> 00:14:58.680
-elegant solution imaginable.
-
-00:14:58.720 --> 00:15:00.520
-It perfectly mirrors a strategy
-
-00:15:00.520 --> 00:15:03.240
-that has already survived federal court.
-
-00:15:03.240 --> 00:15:06.000
-But this is where the strategy documents prove their worth
-
-00:15:06.000 --> 00:15:09.560
-because they reveal a massive hidden landmine.
-
-00:15:09.560 --> 00:15:12.120
-They explain precisely why the obvious move
-
-00:15:12.120 --> 00:15:14.240
-is actually a trap that would destroy
-
-00:15:14.240 --> 00:15:16.440
-the territory's entire medical system.
-
-00:15:16.440 --> 00:15:17.280
-Right.
-
-00:15:17.280 --> 00:15:18.120
-Because to run the Nantucket play,
-
-00:15:18.120 --> 00:15:19.840
-you need two distinct things.
-
-00:15:19.840 --> 00:15:22.560
-You need the rural geographic classification,
-
-00:15:22.560 --> 00:15:24.240
-which VX has,
-
-00:15:24.240 --> 00:15:26.800
-but you also need a fully licensed
-
-00:15:26.800 --> 00:15:29.600
-Medicare certified acute care hospital,
-
-00:15:29.600 --> 00:15:33.080
-an IPPS hospital that is paying incredibly high wages
-
-00:15:33.080 --> 00:15:34.440
-and submitting cost reports.
-
-00:15:34.440 --> 00:15:36.480
-Now what does VX actually have right now?
-
-00:15:36.480 --> 00:15:38.000
-The current facility there,
-
-00:15:38.000 --> 00:15:40.880
-hospital Susanna Centino is just a CDT.
-
-00:15:40.880 --> 00:15:41.720
-Right.
-
-00:15:41.720 --> 00:15:44.120
-A CDT is a diagnostic and treatment center.
-
-00:15:44.120 --> 00:15:47.000
-It's essentially an ambulatory emergency room.
-
-00:15:47.000 --> 00:15:48.880
-It is not an inpatient hospital.
-
-00:15:48.880 --> 00:15:49.720
-Okay.
-
-00:15:49.720 --> 00:15:51.760
-And that distinction is everything.
-
-00:15:51.760 --> 00:15:55.320
-A CDT does not submit the kind of rigorous
-
-00:15:55.320 --> 00:15:57.480
-Medicare cost reports that feed
-
-00:15:57.480 --> 00:15:59.360
-into the wage index calculations.
-
-00:15:59.360 --> 00:16:01.240
-Oh, so they don't even have the vehicle
-
-00:16:01.240 --> 00:16:02.280
-to deliver the data.
-
-00:16:02.280 --> 00:16:03.120
-Exactly.
-
-00:16:03.120 --> 00:16:04.800
-To make the strategy work,
-
-00:16:04.800 --> 00:16:06.480
-the Puerto Rican government would have to either
-
-00:16:06.480 --> 00:16:09.280
-build a new IPPS hospital from scratch
-
-00:16:09.280 --> 00:16:12.040
-or massively upgrade the existing facility.
-
-00:16:12.040 --> 00:16:14.000
-But the building is only half the problem.
-
-00:16:14.000 --> 00:16:16.440
-Just having the hospital exist isn't enough
-
-00:16:16.440 --> 00:16:18.680
-because the wages have to be extraordinarily high
-
-00:16:18.680 --> 00:16:19.520
-to move the needle.
-
-00:16:19.520 --> 00:16:20.760
-Because it's an average, right?
-
-00:16:20.760 --> 00:16:21.600
-Yes.
-
-00:16:21.600 --> 00:16:23.840
-The actuarial memo calculates that to push
-
-00:16:23.840 --> 00:16:26.440
-the Puerto Rico floor up to a meaningful level,
-
-00:16:26.440 --> 00:16:28.960
-this hypothetical new VX hospital
-
-00:16:28.960 --> 00:16:32.000
-would need to pay its staff about $36 an hour.
-
-00:16:32.000 --> 00:16:33.720
-Which, as we established earlier,
-
-00:16:33.720 --> 00:16:35.640
-is more than double the prevailing wage
-
-00:16:35.640 --> 00:16:37.960
-of about $15 an hour in Puerto Rico.
-
-00:16:37.960 --> 00:16:38.800
-Right.
-
-00:16:38.800 --> 00:16:40.200
-So the government would have to artificially
-
-00:16:40.200 --> 00:16:42.400
-subsidize those massive salaries.
-
-00:16:42.400 --> 00:16:44.400
-They would have to fund an annual payroll
-
-00:16:44.400 --> 00:16:47.760
-of $11 to $12 million entirely out of pocket.
-
-00:16:47.760 --> 00:16:48.600
-Man.
-
-00:16:48.600 --> 00:16:49.920
-And here is the kicker.
-
-00:16:49.920 --> 00:16:53.560
-Because of the built-in lag and federal data reporting,
-
-00:16:53.600 --> 00:16:56.640
-they would have to burn that $12 million a year
-
-00:16:56.640 --> 00:17:00.240
-for four to six years before the high-wage data ever actually
-
-00:17:00.240 --> 00:17:01.920
-affected the federal wage index.
-
-00:17:01.920 --> 00:17:04.600
-Four to six years, burning tens of millions of dollars
-
-00:17:04.600 --> 00:17:06.720
-just to generate the right paperwork, basically.
-
-00:17:06.720 --> 00:17:07.560
-A much.
-
-00:17:07.560 --> 00:17:09.680
-But here's the twist.
-
-00:17:09.680 --> 00:17:13.080
-The financial cost isn't even the real trap, is it?
-
-00:17:13.080 --> 00:17:15.680
-The real trap is what happens if they try to build the hospital,
-
-00:17:15.680 --> 00:17:18.840
-but they can't afford the $36 an hour salaries.
-
-00:17:18.840 --> 00:17:22.200
-This is the most critical piece of regulatory analysis
-
-00:17:22.200 --> 00:17:23.760
-in the entire memo.
-
-00:17:23.760 --> 00:17:25.640
-Because right now, Puerto Rico possesses
-
-00:17:25.640 --> 00:17:28.280
-a highly unique precarious status.
-
-00:17:28.280 --> 00:17:30.440
-Because the territory has no hospitals officially
-
-00:17:30.440 --> 00:17:33.040
-classified as rural that are submitting wage data,
-
-00:17:33.040 --> 00:17:35.200
-the federal government grants the entire island
-
-00:17:35.200 --> 00:17:36.520
-an imputed floor.
-
-00:17:36.520 --> 00:17:37.560
-An imputed floor.
-
-00:17:37.560 --> 00:17:38.720
+00:28:25.080 --> 00:28:25.880
 Okay, explain that.
 
-00:17:38.720 --> 00:17:41.520
-It is a statutory safety net created recently
+00:28:25.880 --> 00:28:27.000
+It is not a sudden cliff.
 
-00:17:41.520 --> 00:17:43.280
-by the American Rescue Plan Act,
+00:28:27.000 --> 00:28:28.760
+CMS regulations have a built-in
 
-00:17:43.280 --> 00:17:46.160
-specifically Section 9831.
+00:28:28.760 --> 00:28:29.880
+shock absorber.
 
-00:17:46.160 --> 00:17:49.040
-Because Puerto Rico is considered an all-urban system
+00:28:29.880 --> 00:28:31.000
+By rule,
 
-00:17:49.040 --> 00:17:50.800
-with no rural data,
+00:28:31.000 --> 00:28:32.440
+no hospital's wage index can
 
-00:17:50.800 --> 00:17:53.640
-CMS artificially imputes a floor for them
+00:28:32.440 --> 00:28:33.880
+fall by more than 5 percent
 
-00:17:53.640 --> 00:17:55.480
-to prevent total collapse.
+00:28:33.880 --> 00:28:35.720
+in a single year, year over over.
 
-00:17:55.480 --> 00:17:56.320
-I see.
+00:28:35.720 --> 00:28:37.320
+So instead of dropping straight
 
-00:17:56.320 --> 00:17:59.920
-For fiscal year 2027, that imputed safety net
+00:28:37.320 --> 00:28:39.400
+from 0.61 all the way down
 
-00:17:59.920 --> 00:18:02.520
-is set at 0.3278.
+00:28:39.400 --> 00:28:41.560
+to 0.35 in one day,
 
-00:18:02.520 --> 00:18:03.840
-Okay, let me make sure I say this right.
+00:28:41.560 --> 00:28:42.600
+it sort of steps down
 
-00:18:03.840 --> 00:18:07.680
-The safety net is 0.3278.
+00:28:42.600 --> 00:28:43.320
+incrementally.
 
-00:18:07.680 --> 00:18:09.040
-It's obviously not great.
+00:28:43.320 --> 00:28:43.960
+Correct.
 
-00:18:09.040 --> 00:18:12.560
-It's lower than the temporary 0.5 to transition rate
+00:28:43.960 --> 00:28:45.480
+Puerto Rico is facing a capped
 
-00:18:12.560 --> 00:18:14.680
-they're losing in 2027.
+00:28:45.560 --> 00:28:46.520
+glide path.
 
-00:18:14.680 --> 00:18:16.000
-But this is a hard basement.
+00:28:46.520 --> 00:28:48.360
+The wage index drops exactly
 
-00:18:16.000 --> 00:18:19.280
-Like it stops the lowest wage hospitals in Puerto Rico
+00:28:48.360 --> 00:28:49.720
+5 percent every single year.
 
-00:18:19.280 --> 00:18:22.040
-from falling to 0.20 or 0.15.
+00:28:49.720 --> 00:28:51.160
+Okay, let's do the math on that.
 
-00:18:22.040 --> 00:18:24.080
-Correct, it is the absolute floor.
+00:28:51.160 --> 00:28:52.440
+When you run a 5 percent wage
 
-00:18:24.080 --> 00:18:27.240
-But look closely at the legal trigger for that safety net.
+00:28:52.440 --> 00:28:54.200
+index cut through that 62 percent
 
-00:18:27.240 --> 00:18:31.040
-That 0.3278 only exists under Section 9831
+00:28:54.200 --> 00:28:55.560
+labor share formula we discussed
 
-00:18:31.040 --> 00:18:34.520
-because Puerto Rico has no rural hospitals setting a rate.
+00:28:55.560 --> 00:28:56.280
+earlier,
 
-00:18:34.520 --> 00:18:35.560
-Oh, I see the trap.
+00:28:56.280 --> 00:28:58.360
+it translates to roughly a 2 percent
 
-00:18:35.560 --> 00:18:37.720
-Yeah, if the Puerto Rican government goes ahead
+00:28:58.360 --> 00:28:59.560
+payment cut to the hospital's
 
-00:18:37.720 --> 00:18:41.160
-and opens a real IPPS hospital in VX,
+00:28:59.560 --> 00:29:00.440
+total revenue.
 
-00:18:41.160 --> 00:18:43.880
-but they can't afford to subsidize those artificially
+00:29:00.440 --> 00:29:02.040
+And that happens every October
 
-00:18:43.880 --> 00:18:46.240
-high $36 an hour wages.
+00:29:02.040 --> 00:29:03.720
+when the new fiscal year begins.
 
-00:18:46.240 --> 00:18:48.840
-Meaning they just pay normal Puerto Rican hospital wages
-
-00:18:48.840 --> 00:18:50.200
-of around $15 an hour.
-
-00:18:50.200 --> 00:18:51.080
-What happens?
-
-00:18:51.080 --> 00:18:53.200
-The federal computer system registers
-
-00:18:53.200 --> 00:18:56.240
-a new active rural hospital.
-
-00:18:56.240 --> 00:18:57.080
+00:29:03.720 --> 00:29:04.120
 Yes.
 
-00:18:57.080 --> 00:18:58.240
-And the condition for the safety net,
+00:29:04.120 --> 00:29:05.160
+But because of the distance
 
-00:18:58.240 --> 00:19:00.880
-having no rural hospitals just vanishes.
+00:29:05.160 --> 00:29:07.560
+between their boosted 0.61 index
 
-00:19:00.880 --> 00:19:03.000
-It's like they are suspended on a scaffolding
+00:29:07.560 --> 00:29:10.200
+and their natural 0.35 index
 
-00:19:03.000 --> 00:19:04.680
-because there is no ground floor.
+00:29:10.200 --> 00:29:11.560
+is so vast,
 
-00:19:04.680 --> 00:19:06.240
-The moment they build a ground floor,
+00:29:11.560 --> 00:29:12.840
+they aren't just taking this cut
 
-00:19:06.240 --> 00:19:08.500
-even a really weak sunken one,
+00:29:12.840 --> 00:29:13.400
+once.
 
-00:19:08.500 --> 00:19:10.400
-the government takes away the scaffolding
+00:29:13.400 --> 00:29:14.120
+No.
 
-00:19:10.400 --> 00:19:13.760
-and the whole system craches down to that new lower level.
+00:29:14.200 --> 00:29:15.880
+They will hit that 5 percent cap
 
-00:19:13.760 --> 00:19:14.600
-Wow.
+00:29:15.880 --> 00:29:17.240
+year after year after year.
 
-00:19:14.600 --> 00:19:17.680
-The memo calculates that a normal wage hospital in VX
+00:29:17.240 --> 00:29:18.680
+This step down process will
 
-00:19:17.680 --> 00:19:22.560
-would generate a real rural wage index of approximately 0.25.
+00:29:18.680 --> 00:29:20.280
+continue for about 8 consecutive
 
-00:19:22.560 --> 00:19:24.000
-That is horrifying.
+00:29:20.280 --> 00:29:21.720
+years until they finally hit the
 
-00:19:24.000 --> 00:19:26.360
-By trying to execute the Nantucket strategy
+00:29:21.720 --> 00:29:22.440
+absolute bottom.
 
-00:19:26.360 --> 00:19:28.800
-without securing half a decade of massive funding
+00:29:22.440 --> 00:29:24.200
+Eight years of compounding 2 percent
 
-00:19:28.800 --> 00:19:31.040
-to guarantee artificially high wages,
+00:29:24.200 --> 00:29:24.760
+cuts.
 
-00:19:31.040 --> 00:19:35.440
-they would accidentally destroy the 0.3278 imputed floor.
+00:29:24.760 --> 00:29:25.960
+If we connect this to the bigger
 
-00:19:35.440 --> 00:19:38.320
-And crash healthcare funding for the entire territory
+00:29:25.960 --> 00:29:26.680
+picture,
 
-00:19:38.320 --> 00:19:40.600
-down to 0.25.
+00:29:26.680 --> 00:29:28.120
+a slow 2 percent bleed
 
-00:19:40.600 --> 00:19:42.480
-It highlights the extreme danger
+00:29:28.120 --> 00:29:29.720
+is actually far more dangerous
 
-00:19:42.480 --> 00:19:44.320
-of half measures in administrative law.
+00:29:29.720 --> 00:29:30.600
+systemically
 
-00:19:44.320 --> 00:19:45.160
-Exactly.
+00:29:30.600 --> 00:29:32.680
+than a sudden 15 percent cliff.
 
-00:19:45.160 --> 00:19:46.800
-From a public health perspective,
+00:29:32.680 --> 00:29:33.960
+I think I see we're going with
 
-00:19:46.840 --> 00:19:51.920
-opening a modest normal wage hospital in VX is a massive win.
+00:29:33.960 --> 00:29:34.440
+this,
 
-00:19:51.920 --> 00:19:55.560
-The residents of that island desperately need inpatient care.
+00:29:34.440 --> 00:29:36.440
+but explain why a smaller cut is
 
-00:19:55.560 --> 00:19:56.400
-Of course they do.
+00:29:36.440 --> 00:29:37.160
+worse.
 
-00:19:56.400 --> 00:19:59.440
-But under the perverse rules of Medicare reimbursement,
+00:29:37.160 --> 00:29:38.360
+Because a cliff
 
-00:19:59.440 --> 00:20:01.680
-doing that without the payroll subsidies
+00:29:38.360 --> 00:29:40.520
+creates an immediate undeniable
 
-00:20:01.680 --> 00:20:04.880
-is a financial catastrophe for the rest of Puerto Rico.
+00:29:40.520 --> 00:29:41.080
+crisis.
 
-00:20:04.880 --> 00:20:07.000
-You can almost feel the anxiety of the lawyers
-
-00:20:07.000 --> 00:20:09.280
-radiating off the pages of this memo.
-
-00:20:09.280 --> 00:20:12.000
-They literally put a section in bold text
-
-00:20:12.000 --> 00:20:14.360
-called the trap the letter walks into.
-
-00:20:14.360 --> 00:20:15.360
-They're terrified.
-
-00:20:15.360 --> 00:20:16.200
-They are.
-
-00:20:16.200 --> 00:20:18.000
-They're terrified that a well-meaning politician
-
-00:20:18.000 --> 00:20:19.720
-is going to hold a press conference,
-
-00:20:19.720 --> 00:20:23.720
-announce a new rural hospital in VX for a quick PR win,
-
-00:20:23.720 --> 00:20:27.600
-and just unknowingly trigger a systemic financial collapse.
-
-00:20:27.600 --> 00:20:29.400
-So the strategists are completely stuck here.
-
-00:20:29.400 --> 00:20:33.040
-The 2027 cliff is arriving in exactly one year.
-
-00:20:33.040 --> 00:20:36.200
-Building a high-wage hospital in VX is too expensive.
-
-00:20:36.200 --> 00:20:38.400
-The four to six-year data lag is too slow,
-
-00:20:38.400 --> 00:20:40.640
-and the imputed floor trap is too dangerous.
-
-00:20:40.640 --> 00:20:42.040
-So they need a faster solution,
-
-00:20:42.040 --> 00:20:44.480
-one that avoids VX entirely for now.
-
-00:20:44.480 --> 00:20:46.600
-And this is where the campaign strategy
-
-00:20:46.600 --> 00:20:49.680
-pivots to something they call Nantucket Plus.
-
-00:20:49.680 --> 00:20:50.520
-Nantucket Plus.
-
-00:20:50.520 --> 00:20:54.040
-If you can't build a new high-wage rural hospital in time,
-
-00:20:54.040 --> 00:20:56.960
-how do you get high-wage data into the rural pool?
-
-00:20:56.960 --> 00:20:57.800
+00:29:41.080 --> 00:29:41.560
 Right.
 
-00:20:57.800 --> 00:20:59.400
-You use a completely different loophole,
+00:29:41.560 --> 00:29:43.480
+If revenues drop 15 percent
 
-00:20:59.400 --> 00:21:01.440
-urban to rural reclassification.
+00:29:43.480 --> 00:29:44.280
+overnight,
 
-00:21:01.440 --> 00:21:03.480
-Okay, this revolves around a very specific
+00:29:44.280 --> 00:29:45.720
+it makes the front page of every
 
-00:21:03.480 --> 00:21:08.480
-federal regulation, 42 CFR for 12.103,
+00:29:45.720 --> 00:29:46.680
+newspaper.
 
-00:21:09.720 --> 00:21:12.360
-the urban to rural loophole.
+00:29:46.680 --> 00:29:49.080
+It causes hospital CEOs to march on
 
-00:21:12.360 --> 00:21:13.880
-How does this actually work?
+00:29:49.080 --> 00:29:49.960
+Washington.
 
-00:21:13.880 --> 00:21:15.960
-You're telling me an urban trauma center
+00:29:49.960 --> 00:29:51.800
+It forces politicians to draft
 
-00:21:15.960 --> 00:21:18.600
-in the middle of San Juan can just identify
+00:29:51.800 --> 00:29:53.160
+emergency relief bills.
 
-00:21:18.600 --> 00:21:19.760
-as a rural facility?
+00:29:53.160 --> 00:29:53.720
+Right.
 
-00:21:19.760 --> 00:21:21.120
-Surprisingly, yes.
+00:29:53.720 --> 00:29:55.800
+A cliff is acute trauma.
 
-00:21:21.120 --> 00:21:24.520
-Regulation 412.103 allows hospitals
+00:29:55.800 --> 00:29:57.240
+And systems respond to acute
 
-00:21:24.520 --> 00:21:26.840
-that are physically located in urban areas
+00:29:57.240 --> 00:29:58.200
+trauma,
 
-00:21:26.840 --> 00:21:29.000
-to legally apply to be treated as rural
+00:29:58.200 --> 00:30:00.520
+but a steady 2 percent bleed
 
-00:21:29.000 --> 00:21:30.760
-for the purposes of the wage index.
+00:30:00.520 --> 00:30:01.880
+every single year.
 
-00:21:30.760 --> 00:21:31.600
-Oh, why?
+00:30:01.880 --> 00:30:03.400
+It avoids the headlines.
 
-00:21:31.600 --> 00:21:32.920
-While it was originally designed to help
+00:30:03.400 --> 00:30:04.680
+It doesn't trigger emergency
 
-00:21:32.920 --> 00:21:34.840
-certain urban hospitals that function more
+00:30:04.680 --> 00:30:06.040
+congressional hearings.
 
-00:21:34.840 --> 00:21:36.960
-like rural facilities get better funding.
+00:30:06.040 --> 00:30:07.720
+It just compounds quietly in
 
-00:21:36.960 --> 00:21:39.720
-But surely CMS looks at a map and says,
+00:30:07.720 --> 00:30:08.360
+the background.
 
-00:21:39.720 --> 00:21:41.440
-you are a massive medical center
+00:30:08.360 --> 00:30:10.280
+The system just slowly suffocates.
 
-00:21:41.440 --> 00:21:43.760
-and a capital city of two million people,
-
-00:21:43.760 --> 00:21:45.120
-request denied.
-
-00:21:45.120 --> 00:21:47.040
-You would think that common sense would prevail,
-
-00:21:47.040 --> 00:21:49.160
-but again, we are dealing with the rigid text
-
-00:21:49.160 --> 00:21:50.600
-of administrative law.
-
-00:21:50.600 --> 00:21:52.760
-After a series of intense lawsuits,
-
-00:21:52.760 --> 00:21:55.960
-most notably a 2022 case involving
-
-00:21:55.960 --> 00:21:58.880
-a hospital operator called Citrus HMA,
-
-00:21:58.880 --> 00:22:01.240
-federal courts forced CMS's hand.
-
-00:22:01.240 --> 00:22:02.080
-Really?
-
-00:22:02.080 --> 00:22:03.760
-The courts ruled that if an urban hospital
-
-00:22:03.760 --> 00:22:06.120
-meets the specific criteria to be reclassified
-
-00:22:06.120 --> 00:22:09.520
-as rural under this rule, CMS must accept it.
-
-00:22:09.520 --> 00:22:10.680
-Must accept it.
-
-00:22:10.680 --> 00:22:13.280
-And crucially, its wage data must be included
-
-00:22:13.280 --> 00:22:15.920
-in the calculation of the state's rural floor.
-
-00:22:15.920 --> 00:22:18.800
-So you don't need to build a hospital on a rural island.
-
-00:22:18.800 --> 00:22:21.000
-You just need to find an existing hospital
-
-00:22:21.000 --> 00:22:24.200
-with high wages and legally declare it rural.
-
-00:22:24.200 --> 00:22:25.040
+00:30:10.280 --> 00:30:11.080
 Exactly.
 
-00:22:25.040 --> 00:22:26.680
-And the strategy documents point out
+00:30:11.080 --> 00:30:12.200
+The hospital doesn't close
 
-00:22:26.680 --> 00:22:29.280
-a massive tactical advantage Puerto Rico has here.
+00:30:12.200 --> 00:30:12.600
+overnight.
 
-00:22:29.280 --> 00:22:30.120
-What's that?
+00:30:12.600 --> 00:30:14.040
+Instead, they just delay upgrading
 
-00:22:30.120 --> 00:22:31.640
-The Puerto Rican government actually owns
+00:30:14.040 --> 00:30:15.240
+the MRI machine.
 
-00:22:31.640 --> 00:22:34.520
-the exact wage data they need to pull this off.
+00:30:15.240 --> 00:30:16.760
+They freeze hiring for specialty
 
-00:22:34.520 --> 00:22:35.360
+00:30:16.760 --> 00:30:17.480
+nurses.
+
+00:30:17.480 --> 00:30:19.160
+They quietly close a few beds on
+
+00:30:19.160 --> 00:30:20.440
+the fourth floor.
+
+00:30:20.440 --> 00:30:21.880
+By the time the public realizes
+
+00:30:21.880 --> 00:30:23.080
+the system is fundamentally
+
+00:30:23.080 --> 00:30:23.960
+collapsing,
+
+00:30:23.960 --> 00:30:25.240
+the structural damage is already
+
+00:30:25.240 --> 00:30:25.640
+done.
+
+00:30:25.640 --> 00:30:26.920
+And the talent has left the
+
+00:30:26.920 --> 00:30:27.320
+island.
+
+00:30:27.320 --> 00:30:27.480
+Yeah.
+
+00:30:27.480 --> 00:30:28.760
+The doctors moved to Florida
+
+00:30:28.760 --> 00:30:29.640
+or Texas,
+
+00:30:29.640 --> 00:30:31.400
+and it is incredibly difficult
+
+00:30:31.400 --> 00:30:32.840
+to rebuild that from scratch.
+
+00:30:32.840 --> 00:30:34.600
+It's literally the frog in boiling
+
+00:30:34.600 --> 00:30:35.800
+water scenario.
+
+00:30:35.800 --> 00:30:36.920
+But just when you think the
+
+00:30:36.920 --> 00:30:38.200
+situation for Puerto Rico can't
+
+00:30:38.200 --> 00:30:39.160
+get any worse,
+
+00:30:39.160 --> 00:30:40.840
+there is a second blade to
+
+00:30:40.840 --> 00:30:42.120
+this financial guillotine.
+
+00:30:42.120 --> 00:30:43.000
+Yes, there is.
+
+00:30:43.000 --> 00:30:44.680
+These wage index cuts don't just
+
+00:30:44.680 --> 00:30:46.680
+hit traditional fee-for-service
+
+00:30:46.680 --> 00:30:47.240
+Medicare.
+
+00:30:47.240 --> 00:30:49.000
+They hit Medicare Advantage.
+
+00:30:49.000 --> 00:30:50.280
+And for Puerto Rico,
+
+00:30:50.280 --> 00:30:52.360
+that is where the real devastation
+
+00:30:52.360 --> 00:30:53.080
+lies.
+
+00:30:53.080 --> 00:30:54.600
+This is the critical asymmetry of
+
+00:30:54.600 --> 00:30:55.880
+Puerto Rico's healthcare system
+
+00:30:55.880 --> 00:30:57.160
+compared to the rest of the nation.
+
+00:30:57.160 --> 00:30:58.600
+On the U.S. mainland,
+
+00:30:58.600 --> 00:31:01.160
+about 55.5% of Medicare
+
+00:31:01.160 --> 00:31:03.080
+beneficiaries choose to enroll
+
+00:31:03.080 --> 00:31:04.120
+in Medicare Advantage,
+
+00:31:04.120 --> 00:31:05.640
+which are these private plans
+
+00:31:05.640 --> 00:31:07.000
+subsidized by the government.
+
+00:31:07.000 --> 00:31:08.200
+And the rest use traditional
+
+00:31:08.200 --> 00:31:08.760
+Medicare.
+
+00:31:08.760 --> 00:31:09.160
+Right.
+
+00:31:09.160 --> 00:31:10.120
+But in Puerto Rico,
+
+00:31:10.120 --> 00:31:11.560
+it's 96.2%.
+
+00:31:11.640 --> 00:31:12.920
+96.2%.
+
+00:31:12.920 --> 00:31:14.840
+The vast overwhelming majority of
+
+00:31:14.840 --> 00:31:16.840
+seniors rely on these private MA
+
+00:31:16.840 --> 00:31:17.240
+plans.
+
+00:31:17.960 --> 00:31:19.560
+Traditional Medicare is just a
+
+00:31:19.560 --> 00:31:21.160
+tiny fraction of the market there.
+
+00:31:21.160 --> 00:31:23.160
+So how does a cut to a hospital's
+
+00:31:23.160 --> 00:31:25.000
+traditional Medicare wage index
+
+00:31:25.000 --> 00:31:26.280
+actually affect the private
+
+00:31:26.280 --> 00:31:27.880
+Medicare Advantage plans?
+
+00:31:27.880 --> 00:31:29.240
+Because they are mathematically
+
+00:31:29.240 --> 00:31:29.880
+linked.
+
+00:31:29.880 --> 00:31:31.320
+Medicare Advantage benchmarks,
+
+00:31:31.320 --> 00:31:32.520
+which is the maximum amount of
+
+00:31:32.520 --> 00:31:34.120
+money Medicare will pay a private
+
+00:31:34.120 --> 00:31:35.880
+plan per enrollee in a specific
+
+00:31:35.880 --> 00:31:36.760
+county,
+
+00:31:36.760 --> 00:31:38.920
+are calculated using local fee-for-service
+
+00:31:38.920 --> 00:31:39.720
+spending data.
+
+00:31:39.720 --> 00:31:40.200
 Oh.
 
-00:22:35.360 --> 00:22:37.960
-If you look at CMS's own official data tables
+00:31:40.200 --> 00:31:41.720
+That data is then adjusted by
 
-00:22:37.960 --> 00:22:41.960
-for FY2027, the four highest paying hospitals
+00:31:41.720 --> 00:31:42.360
+something called the
 
-00:22:41.960 --> 00:22:44.400
-on the entire island are all public facilities
+00:31:42.360 --> 00:31:44.040
+Average Geographic Adjustment,
 
-00:22:44.400 --> 00:22:46.080
-located in the Central Medical Complex
+00:31:44.040 --> 00:31:45.320
+or AGA.
 
-00:22:46.080 --> 00:22:47.200
-right in the middle of San Juan.
+00:31:45.320 --> 00:31:47.080
+And the AGA looks at a five-year
 
-00:22:47.200 --> 00:22:49.600
-We are talking about the State Trauma Center,
+00:31:47.080 --> 00:31:48.040
+rolling average
 
-00:22:49.600 --> 00:22:51.120
-the Cardiovascular Center,
+00:31:48.040 --> 00:31:49.720
+of historical claims data.
 
-00:22:51.120 --> 00:22:52.840
-the Comprehensive Cancer Center.
+00:31:49.720 --> 00:31:50.360
+Wait.
 
-00:22:52.840 --> 00:22:53.680
-Right.
+00:31:50.360 --> 00:31:52.200
+If the AGA looks at a five-year
 
-00:22:53.680 --> 00:22:56.680
-For example, ASEM, which is the State Trauma Center,
+00:31:52.200 --> 00:31:53.640
+historical average,
 
-00:22:56.680 --> 00:23:00.840
-pays an average hourly wage of $31.77.
+00:31:53.640 --> 00:31:54.920
+wouldn't that dilute the impact
 
-00:23:00.840 --> 00:23:01.680
-Wow.
+00:31:54.920 --> 00:31:57.160
+of a 5% wage index cut?
 
-00:23:01.680 --> 00:23:02.520
-Okay.
+00:31:57.160 --> 00:31:57.880
+Like,
 
-00:23:02.520 --> 00:23:04.320
-So the play is take these highly specialized
+00:31:57.880 --> 00:32:00.040
+if I have one bad year of data
 
-00:23:04.360 --> 00:23:08.240
-high-wage urban hospitals sitting right in the capital city
+00:32:00.040 --> 00:32:01.880
+mixed with four good years,
 
-00:23:08.240 --> 00:23:13.240
-and file the paperwork under 412.103 to declare them rural.
+00:32:01.880 --> 00:32:03.720
+the average should soften the blow,
 
-00:23:13.240 --> 00:23:15.040
-That is the maneuver.
+00:32:03.720 --> 00:32:04.040
+right?
 
-00:23:15.040 --> 00:23:18.320
-By directing its own state-run hospitals to reclassify,
+00:32:04.040 --> 00:32:05.960
+It would only be one-fifth of the impact.
 
-00:23:18.320 --> 00:23:21.600
-the government can instantly inject that $31 an hour data
+00:32:05.960 --> 00:32:07.880
+That is the highly logical assumption
 
-00:23:21.600 --> 00:23:23.080
-into the empty rural pool.
+00:32:07.880 --> 00:32:09.160
+that many policymakers
 
-00:23:23.080 --> 00:23:24.360
-Instant data.
+00:32:09.160 --> 00:32:10.200
+initially made.
 
-00:23:24.360 --> 00:23:26.080
-The actuaries calculate that this move
+00:32:10.200 --> 00:32:11.800
+But I'm guessing it's wrong.
 
-00:23:26.080 --> 00:23:29.120
-would instantly create a new legitimate rural floor
+00:32:11.800 --> 00:32:13.240
+It is entirely incorrect.
 
-00:23:29.120 --> 00:23:33.560
-of approximately 0.4 to 0.50.
+00:32:13.880 --> 00:32:15.320
+Because of a specific
 
-00:23:33.600 --> 00:23:35.360
-Which completely changes the math
+00:32:15.320 --> 00:32:16.840
+repricing mechanism
 
-00:23:35.360 --> 00:23:39.120
-because a floor of 0.42 or 0.50
+00:32:16.840 --> 00:32:18.120
+hidden deep in the formula.
 
-00:23:39.120 --> 00:23:42.920
-easily beats the 0.3278 safety net they currently have.
+00:32:18.120 --> 00:32:19.400
+Repricing mechanism.
 
-00:23:42.920 --> 00:23:43.760
-Exactly.
-
-00:23:43.760 --> 00:23:45.120
-By making this move,
-
-00:23:45.120 --> 00:23:48.400
-they lift all 52 hospitals on the island simultaneously
-
-00:23:48.400 --> 00:23:50.440
-and they don't have to wait four years
-
-00:23:50.440 --> 00:23:52.720
-for a new building in VX to generate data.
-
-00:23:52.720 --> 00:23:53.560
-It's immediate.
-
-00:23:53.560 --> 00:23:55.320
-But wait, I still don't get how CMS
-
-00:23:55.320 --> 00:23:57.520
-actually approves the application.
-
-00:23:57.520 --> 00:24:01.040
-Like what criteria allows a San Juan Trauma Center
-
-00:24:01.040 --> 00:24:02.760
-to claim it's rural?
-
-00:24:02.760 --> 00:24:04.600
-There are a few pathways in the law,
-
-00:24:04.600 --> 00:24:08.280
-but the most iron-clad one relies on state sovereignty.
-
-00:24:08.280 --> 00:24:09.120
-Dude, sovereign.
-
-00:24:09.120 --> 00:24:10.880
-If the state legislature passes a law
-
-00:24:10.880 --> 00:24:12.640
-formally designating the hospital
-
-00:24:12.640 --> 00:24:14.600
-as a rural hospital under state law,
-
-00:24:14.600 --> 00:24:17.160
-CMS is bound by the federal regulation
-
-00:24:17.160 --> 00:24:18.880
-to accept the reclassification.
-
-00:24:18.880 --> 00:24:19.800
-You're kidding.
-
-00:24:19.800 --> 00:24:21.960
-So the Puerto Rican legislature just passes a law
-
-00:24:21.960 --> 00:24:23.880
-that says, hey, federal government,
-
-00:24:23.880 --> 00:24:26.040
-we declare this city hospital is rural
-
-00:24:26.040 --> 00:24:28.520
-and CMS legally has to agree.
-
-00:24:28.520 --> 00:24:30.400
-The federal courts have ruled that CMS
-
-00:24:30.400 --> 00:24:31.520
-does not have the authority
-
-00:24:31.520 --> 00:24:34.120
-to second-guess a state legislature's designation
-
-00:24:34.120 --> 00:24:35.600
-in this specific context.
-
-00:24:35.600 --> 00:24:36.440
-That is wild.
-
-00:24:36.440 --> 00:24:38.160
-That is why one of the hardest deadlines
-
-00:24:38.160 --> 00:24:41.040
-in their war plan is to get the Puerto Rican legislature
-
-00:24:41.040 --> 00:24:44.480
-to pass a rural designation law by November, 2026.
-
-00:24:44.480 --> 00:24:47.520
-It's literally a pure legal fiction
-
-00:24:47.520 --> 00:24:50.440
-designed entirely to manipulate a spreadsheet,
-
-00:24:50.440 --> 00:24:51.360
-but it is brilliant.
-
-00:24:51.360 --> 00:24:53.160
-It is incredibly elegant.
-
-00:24:53.160 --> 00:24:54.960
-However, the strategists identify
-
-00:24:54.960 --> 00:24:58.240
-one final terrifying hurdle in this plan,
-
-00:24:58.240 --> 00:25:00.280
-which they call the sequencing check.
-
-00:25:00.320 --> 00:25:01.560
-Okay, what's the sequencing check?
-
-00:25:01.560 --> 00:25:03.640
-It turns out if they just file
-
-00:25:03.640 --> 00:25:08.200
-the 412.103 paperwork to become rural,
-
-00:25:08.200 --> 00:25:11.920
-they run headfirst into the exact same scaffolding trap
-
-00:25:11.920 --> 00:25:13.200
-we discussed with VX.
-
-00:25:13.200 --> 00:25:14.040
-Wait, how?
-
-00:25:14.040 --> 00:25:16.000
-The moment those central medical hospitals
-
-00:25:16.000 --> 00:25:17.360
-officially become rural,
-
-00:25:17.360 --> 00:25:22.280
-the all-urban 0.3278 safety net vanishes.
-
-00:25:22.280 --> 00:25:23.280
-Okay, let me think through this.
-
-00:25:23.280 --> 00:25:24.120
-Okay.
-
-00:25:24.120 --> 00:25:28.120
-If the new floor they are creating is 0.42,
-
-00:25:28.120 --> 00:25:32.080
-why do they care if they lose the 0.32 safety net?
-
-00:25:32.080 --> 00:25:33.800
-42 is higher than 32.
-
-00:25:33.800 --> 00:25:34.920
-It's a net gain.
-
-00:25:34.920 --> 00:25:38.120
-Because the Medicare bureaucracy is agonizingly slow.
-
-00:25:38.120 --> 00:25:40.200
-And applications take months to process,
-
-00:25:40.200 --> 00:25:41.960
-and the calculations are updated
-
-00:25:41.960 --> 00:25:43.640
-in different federal cycles.
-
-00:25:43.640 --> 00:25:44.880
-If they lose the safety net
-
-00:25:44.880 --> 00:25:49.280
-before the new higher 0.42 floor is officially locked in,
-
-00:25:49.280 --> 00:25:51.480
-polished and validated by CMS,
-
-00:25:51.480 --> 00:25:53.240
-they could face a gap, period.
-
-00:25:53.240 --> 00:25:54.080
-Oh no.
-
-00:25:54.080 --> 00:25:55.560
-A gap where they have no safety net
-
-00:25:55.560 --> 00:25:57.280
-and the new floor hasn't taken effect.
-
-00:25:57.280 --> 00:25:59.840
-Their funding could collapse to 0.25
-
-00:25:59.840 --> 00:26:01.400
-for an entire fiscal year.
-
-00:26:01.400 --> 00:26:03.160
-So they need the new floor to activate
-
-00:26:03.160 --> 00:26:05.400
-at the exact millisecond the safety net drops.
-
-00:26:05.400 --> 00:26:06.880
-How do they guarantee that?
-
-00:26:06.880 --> 00:26:08.880
-The lawyers outline a highly specific,
-
-00:26:08.880 --> 00:26:11.240
-almost absurd sequence of filings.
-
-00:26:11.240 --> 00:26:13.840
-They have to file a dual reclassification.
-
-00:26:13.840 --> 00:26:14.920
-A dual reclassification.
-
-00:26:14.920 --> 00:26:19.920
-First, they apply to CMS for the four 12.103 rural status.
-
-00:26:19.920 --> 00:26:20.920
-I'm okay.
-
-00:26:20.920 --> 00:26:24.120
-But simultaneously, they file a different application
-
-00:26:24.120 --> 00:26:26.160
-with a completely separate board,
-
-00:26:26.160 --> 00:26:28.840
-the Medicare Geographic Classification Review Board.
-
-00:26:28.840 --> 00:26:29.680
-To do what?
-
-00:26:29.680 --> 00:26:32.240
-To reclassify back to their urban home
-
-00:26:32.240 --> 00:26:33.560
-for other payment purposes.
-
-00:26:33.560 --> 00:26:34.680
-My head is spinning.
-
-00:26:34.680 --> 00:26:37.800
-They fill out a form to reclassify from urban to rural
-
-00:26:37.800 --> 00:26:39.680
-and then immediately fill out another form
-
-00:26:39.680 --> 00:26:42.160
-to reclassify from rural back to urban.
-
-00:26:42.160 --> 00:26:43.000
+00:32:19.400 --> 00:32:19.720
 Yes.
 
-00:26:43.000 --> 00:26:45.040
-The memo calls it a California style
+00:32:20.360 --> 00:32:22.440
+When CMS calculates the AGA,
 
-00:26:45.040 --> 00:26:46.840
-dual reclassification sequence.
+00:32:22.440 --> 00:32:23.720
+they don't just average out the
 
-00:26:46.840 --> 00:26:47.720
-California style.
+00:32:23.720 --> 00:32:25.080
+dollar amounts that were actually
 
-00:26:47.720 --> 00:26:50.120
-Because hospitals in California pioneered it
+00:32:25.080 --> 00:32:26.280
+paid in the past.
 
-00:26:50.120 --> 00:26:51.600
-to exploit different columns
+00:32:26.280 --> 00:32:27.480
+They take those five years of
 
-00:26:51.600 --> 00:26:54.520
-in the federal payment spreadsheet simultaneously.
+00:32:27.480 --> 00:32:28.760
+historical claims
 
-00:26:54.520 --> 00:26:57.320
-The legal argument here is that this dual sequence
+00:32:28.760 --> 00:32:30.440
+and they reprice them as if they
 
-00:26:57.320 --> 00:26:59.960
-forces CMS to keep their high wage data
+00:32:30.440 --> 00:32:31.960
+were being paid under today's
 
-00:26:59.960 --> 00:27:02.000
-in the rural floor calculation.
+00:32:31.960 --> 00:32:33.320
+current wage index rules.
 
-00:27:02.000 --> 00:27:04.920
-But technically leaves the hospitals classified
+00:32:33.320 --> 00:32:34.040
+Oh, wow.
 
-00:27:04.920 --> 00:27:07.480
-in a way that doesn't trigger the destruction
+00:32:34.040 --> 00:32:36.200
+So they retroactively apply the cut
 
-00:27:07.480 --> 00:27:10.840
-of the 0.3278 imputed floor
+00:32:36.200 --> 00:32:37.560
+to the historical data.
 
-00:27:10.840 --> 00:27:12.440
-during the transition period.
-
-00:27:12.440 --> 00:27:15.520
-It is high wire legal acrobatics.
-
-00:27:15.520 --> 00:27:17.520
-You are balancing the healthcare funding
-
-00:27:17.520 --> 00:27:19.600
-of an entire territory
-
-00:27:19.600 --> 00:27:21.680
-on making sure the federal government processes
-
-00:27:21.680 --> 00:27:24.120
-two contradictory forms in the correct order.
-
-00:27:24.120 --> 00:27:25.160
-That's exactly what they're doing.
-
-00:27:25.160 --> 00:27:27.960
-The memo bluntly states that one miss sequence letter
-
-00:27:27.960 --> 00:27:29.960
-could cost the island its safety net.
-
-00:27:29.960 --> 00:27:31.400
-It is a massive risk.
-
-00:27:31.400 --> 00:27:33.400
-But given the 2027 cliff,
-
-00:27:33.400 --> 00:27:35.440
-it seems like it's the only viable play they have.
-
-00:27:35.440 --> 00:27:36.280
-It is.
-
-00:27:36.280 --> 00:27:37.120
-Okay, let's take a breath
-
-00:27:37.120 --> 00:27:39.360
-because I want to pivot entirely here.
-
-00:27:39.360 --> 00:27:41.640
-We have been so deep in the weeds
-
-00:27:41.640 --> 00:27:43.800
-of hospital funding, the wage index,
-
-00:27:43.800 --> 00:27:45.800
-the imputed floors, the reclassifications.
-
-00:27:45.800 --> 00:27:46.640
-Very deep.
-
-00:27:46.640 --> 00:27:48.960
-And this is all fundamentally about how much Medicare
-
-00:27:48.960 --> 00:27:50.640
-pays hospitals for inpatient care
-
-00:27:50.640 --> 00:27:52.680
-under what is called the traditional fee for service
-
-00:27:52.680 --> 00:27:54.080
-system.
-
-00:27:54.080 --> 00:27:56.400
-But here is the thing that really blew my mind
-
-00:27:56.400 --> 00:27:57.760
-reading this war plan.
-
-00:27:57.760 --> 00:27:59.000
-What's that?
-
-00:27:59.000 --> 00:28:01.960
-Why is this a half billion dollar war?
-
-00:28:01.960 --> 00:28:06.000
-Like, why does this deeply obscure hospital wage index
-
-00:28:06.000 --> 00:28:09.360
-matter to the average senior citizen living in Puerto Rico
-
-00:28:09.360 --> 00:28:11.720
-who might not even go to the hospital this year?
-
-00:28:11.720 --> 00:28:13.240
-Ah, yes.
-
-00:28:13.240 --> 00:28:15.480
-This is the most crucial part of the campaign.
-
-00:28:15.480 --> 00:28:19.320
-In Puerto Rico, the hospital fee for service rate
-
-00:28:19.320 --> 00:28:21.120
-is just the tip of the iceberg.
-
-00:28:21.120 --> 00:28:21.960
-Right.
-
-00:28:21.960 --> 00:28:23.120
-It is actually the hidden engine
-
-00:28:23.120 --> 00:28:25.440
-driving something much, much larger,
-
-00:28:25.440 --> 00:28:27.840
-the entire Medicare Advantage system.
-
-00:28:27.840 --> 00:28:29.560
-So most people in the mainland US
-
-00:28:29.560 --> 00:28:31.360
-are familiar with traditional Medicare.
-
-00:28:31.360 --> 00:28:33.480
-You go to the doctor, the government pays the doctor
-
-00:28:33.480 --> 00:28:35.600
-a fee, that's traditional fee for service.
-
-00:28:35.600 --> 00:28:36.440
-Right.
-
-00:28:36.440 --> 00:28:40.280
-But Medicare Advantage, or MA, is the privatized version.
-
-00:28:40.280 --> 00:28:42.520
-The government pays private insurance companies
-
-00:28:42.520 --> 00:28:45.880
-a flat monthly rate to manage a patient's total care.
-
-00:28:45.880 --> 00:28:46.760
+00:32:37.560 --> 00:32:38.280
 Exactly.
 
-00:28:46.760 --> 00:28:49.200
-And the landscape for Medicare Advantage in Puerto Rico
+00:32:38.280 --> 00:32:39.320
+They apply the current year's
 
-00:28:49.200 --> 00:28:51.800
-is unlike anywhere else in the United States.
+00:32:39.320 --> 00:32:40.760
+depressed wage index cut
 
-00:28:51.800 --> 00:28:54.440
-The statistics in the data pack are astounding.
+00:32:40.760 --> 00:32:42.680
+to the entire five-year historical
 
-00:28:54.440 --> 00:28:58.440
-In Puerto Rico, 95% of the eligible Medicare population
+00:32:42.680 --> 00:32:43.400
+base period.
 
-00:28:58.440 --> 00:29:00.640
-is enrolled in a Medicare Advantage plan.
+00:32:43.400 --> 00:32:45.000
+So the cut doesn't get watered down at all?
 
-00:29:00.640 --> 00:29:01.560
-95%.
+00:32:45.000 --> 00:32:45.640
+Not at all.
 
-00:29:01.560 --> 00:29:04.280
-Yes, over 674,000 enrollees.
+00:32:45.640 --> 00:32:46.840
+It hits the Medicare Advantage
 
-00:29:04.280 --> 00:29:07.960
-It is by far the highest MA penetration rate in the nation.
+00:32:46.840 --> 00:32:48.200
+benchmark essentially in full.
 
-00:29:07.960 --> 00:29:10.680
-And the traditional fee for service system,
+00:32:48.200 --> 00:32:49.160
+That is brutal.
 
-00:29:10.680 --> 00:29:14.040
-the thing that the wage index actually directly pays for,
+00:32:49.160 --> 00:32:50.840
+It reaches the MA benchmarks
 
-00:29:14.040 --> 00:29:16.720
-only covers about 5% of the population,
+00:32:50.840 --> 00:32:52.040
+essentially in full.
 
-00:29:16.720 --> 00:29:19.280
-which is roughly 35,000 people.
+00:32:52.040 --> 00:32:53.320
+About one calendar year
 
-00:29:19.280 --> 00:29:20.120
-So wait.
+00:32:53.320 --> 00:32:55.160
+after the cut hits the hospitals.
 
-00:29:20.120 --> 00:29:23.280
-The hospitals are fighting a multimillion dollar war,
+00:32:55.160 --> 00:32:56.440
+This is the multiplier effect
 
-00:29:23.280 --> 00:29:26.240
-hiring lawyers, passing state laws,
+00:32:56.440 --> 00:32:57.240
+of the tragedy.
 
-00:29:26.240 --> 00:29:29.920
-and risking their safety net all to change a metric that only
+00:32:57.240 --> 00:32:58.760
+Break that multiplier effect down.
 
-00:29:29.920 --> 00:29:31.720
-applies to 5% of the patients.
+00:32:58.760 --> 00:32:59.320
+Sure.
 
-00:29:31.720 --> 00:29:32.480
+00:32:59.320 --> 00:33:00.520
+A wage index cut
+
+00:33:00.520 --> 00:33:02.280
+to a traditional Medicare system
+
+00:33:02.280 --> 00:33:04.760
+that serves maybe 27,000 people
+
+00:33:04.760 --> 00:33:05.960
+in Puerto Rico
+
+00:33:05.960 --> 00:33:07.560
+flows directly into a formula
+
+00:33:07.560 --> 00:33:08.840
+that dictates the funding
+
+00:33:08.840 --> 00:33:10.760
+for over 600,000 seniors
+
+00:33:10.760 --> 00:33:12.040
+enrolled in Medicare Advantage.
+
+00:33:12.040 --> 00:33:13.000
+Oh, wow.
+
+00:33:13.000 --> 00:33:14.680
+It is a massive compounding
+
+00:33:14.680 --> 00:33:16.120
+drain of resources
+
+00:33:16.120 --> 00:33:17.880
+that affects nearly every single
+
+00:33:17.880 --> 00:33:19.160
+elderly person on the island.
+
+00:33:19.160 --> 00:33:19.400
+Okay.
+
+00:33:19.400 --> 00:33:20.920
+So the picture is incredibly grim.
+
+00:33:20.920 --> 00:33:22.200
+The island is bleeding out
+
+00:33:22.200 --> 00:33:23.560
+2% a year,
+
+00:33:23.560 --> 00:33:24.840
+quietly and relentlessly
+
+00:33:24.840 --> 00:33:26.600
+with massive downstream effects
+
+00:33:26.600 --> 00:33:28.760
+on hundreds of thousands of seniors.
+
+00:33:28.760 --> 00:33:29.880
+Which brings us all the way
+
+00:33:29.880 --> 00:33:30.920
+back to our starting point.
+
+00:33:30.920 --> 00:33:31.400
+Feeek.
+
+00:33:31.400 --> 00:33:32.360
+Right, the new hospital.
+
+00:33:32.360 --> 00:33:33.480
+How does an unopened
+
+00:33:33.480 --> 00:33:35.320
+$85 million facility
+
+00:33:35.320 --> 00:33:37.160
+on an island of 8,000 people
+
+00:33:37.160 --> 00:33:38.840
+stop a macroeconomic crisis
+
+00:33:38.840 --> 00:33:40.680
+error for 3.2 million people?
+
+00:33:40.680 --> 00:33:41.480
+It all comes back
+
+00:33:41.480 --> 00:33:42.840
+to the Nantucket precedent.
+
+00:33:42.840 --> 00:33:45.240
+The 1997 Rural Floor Statute
+
+00:33:45.240 --> 00:33:47.000
+and the literal unapologetic text
+
+00:33:47.000 --> 00:33:47.960
+of the law.
+
+00:33:47.960 --> 00:33:49.960
+Remember, VX is geographically rural.
+
+00:33:49.960 --> 00:33:51.160
+It sits completely outside
+
+00:33:51.160 --> 00:33:52.440
+the San Juan Metropolitan
+
+00:33:52.440 --> 00:33:53.400
+Statistical Area
+
+00:33:53.400 --> 00:33:55.080
+or any other MSA.
+
+00:33:55.080 --> 00:33:57.880
+It is rural by pure geography,
+
+00:33:57.880 --> 00:33:58.920
+just like Nantucket.
+
+00:33:58.920 --> 00:33:59.960
 Exactly.
 
-00:29:32.480 --> 00:29:34.960
-Because if we connect this to the broader
+00:33:59.960 --> 00:34:01.720
+The day the new Susana Centino
 
-00:29:34.960 --> 00:29:37.280
-actuarial mechanics of Medicare,
+00:34:01.720 --> 00:34:03.320
+facility is officially licensed
 
-00:29:37.280 --> 00:29:39.320
-we find the concept of repricing.
+00:34:03.320 --> 00:34:04.440
+by the Puerto Rican Department
 
-00:29:39.320 --> 00:29:39.840
-Repricing.
+00:34:04.440 --> 00:34:05.080
+of Health
 
-00:29:39.840 --> 00:29:41.040
-The federal government doesn't just
+00:34:05.080 --> 00:34:06.200
+and subsequently Medicare
 
-00:29:41.040 --> 00:29:43.240
-guess how much to pay the private Medicare Advantage
+00:34:06.200 --> 00:34:07.720
+certified as a hospital.
 
-00:29:43.240 --> 00:29:44.400
-insurance companies.
+00:34:07.720 --> 00:34:09.240
+It has to be a specific type
 
-00:29:44.400 --> 00:29:46.880
-They calculate a specific benchmark rate
+00:34:09.240 --> 00:34:10.040
+of hospital, right?
 
-00:29:46.880 --> 00:29:49.760
-for every single county, or in Puerto Rico's case,
+00:34:10.040 --> 00:34:10.760
+Yes.
 
-00:29:49.760 --> 00:29:50.880
-every municipio.
+00:34:10.760 --> 00:34:12.840
+Specifically, an inpatient
 
-00:29:50.880 --> 00:29:52.720
-And how do they calculate that benchmark?
+00:34:12.840 --> 00:34:14.280
+prospective payment system
 
-00:29:52.720 --> 00:29:56.080
-The actuaries at CMS look at the historical costs of care
+00:34:14.280 --> 00:34:17.160
+hospital, an IPPS hospital.
 
-00:29:56.080 --> 00:29:58.640
-and the traditional fee for service system for that county.
+00:34:17.160 --> 00:34:18.440
+Not just a diagnostic clinic
 
-00:29:58.640 --> 00:29:59.160
+00:34:18.440 --> 00:34:19.320
+or a CDT.
+
+00:34:19.320 --> 00:34:20.120
+Okay.
+
+00:34:20.120 --> 00:34:20.920
+But the day it gets
+
+00:34:20.920 --> 00:34:22.760
+that IPPS certification,
+
+00:34:22.760 --> 00:34:23.880
+the machine turns on.
+
+00:34:24.760 --> 00:34:25.880
+Its local payroll
+
+00:34:25.880 --> 00:34:26.840
+automatically becomes
+
+00:34:26.840 --> 00:34:27.640
+the rural floor
+
+00:34:27.640 --> 00:34:28.840
+for all of Puerto Rico.
+
+00:34:28.840 --> 00:34:29.480
+Automatic.
+
+00:34:29.480 --> 00:34:30.520
+Automatically.
+
+00:34:30.520 --> 00:34:32.280
+There are no petitions to file.
+
+00:34:32.280 --> 00:34:33.640
+No new laws need to be
+
+00:34:33.640 --> 00:34:34.760
+debated or passed by
+
+00:34:34.760 --> 00:34:35.480
+Congress.
+
+00:34:35.480 --> 00:34:37.640
+It is an automatic statutory trigger.
+
+00:34:37.640 --> 00:34:39.160
+So the moment they hire staff
+
+00:34:39.160 --> 00:34:40.440
+as a certified hospital,
+
+00:34:41.000 --> 00:34:42.600
+their specific wages
+
+00:34:42.600 --> 00:34:43.960
+set the basement for every
+
+00:34:43.960 --> 00:34:45.400
+single urban hospital
+
+00:34:45.400 --> 00:34:47.320
+in San Juan, Ponce,
+
+00:34:47.320 --> 00:34:48.680
+everywhere else on the main island.
+
+00:34:48.680 --> 00:34:49.160
+Yes.
+
+00:34:49.160 --> 00:34:50.440
+So what does the math
+
+00:34:50.440 --> 00:34:51.240
+actually look like?
+
+00:34:51.240 --> 00:34:52.520
+Like how high does the wage
+
+00:34:52.520 --> 00:34:53.320
+NVX need to be
+
+00:34:53.320 --> 00:34:54.280
+to stop the bleeding?
+
+00:34:54.280 --> 00:34:55.400
+The target wage isn't just
+
+00:34:55.400 --> 00:34:56.520
+an aspirational number
+
+00:34:56.520 --> 00:34:57.720
+picked out of thin air.
+
+00:34:57.720 --> 00:34:59.160
+It's pure arithmetic.
+
+00:34:59.160 --> 00:34:59.560
+Okay.
+
+00:34:59.560 --> 00:35:00.840
+Walk me through the arithmetic.
+
+00:35:00.840 --> 00:35:02.280
+To calculate the wage index,
+
+00:35:02.280 --> 00:35:03.960
+you take the average hourly wage
+
+00:35:03.960 --> 00:35:05.080
+you are paying your staff.
+
+00:35:05.480 --> 00:35:07.000
+And you divide it by the national
+
+00:35:07.000 --> 00:35:08.600
+average hourly wage divisor.
+
+00:35:08.600 --> 00:35:09.960
+And what is that divisor?
+
+00:35:09.960 --> 00:35:11.880
+For fiscal year 2027,
+
+00:35:11.880 --> 00:35:13.400
+CMS has mathematically set
+
+00:35:13.400 --> 00:35:14.680
+that national divisor
+
+00:35:14.680 --> 00:35:16.600
+at $60.43.
+
+00:35:16.600 --> 00:35:17.800
+So the formula is
+
+00:35:17.800 --> 00:35:21.000
+VX wage divided by $60.43
+
+00:35:21.000 --> 00:35:22.920
+equals the rural floor index.
+
+00:35:22.920 --> 00:35:23.240
+Correct.
+
+00:35:23.240 --> 00:35:24.440
+So let's do an example.
+
+00:35:24.440 --> 00:35:26.520
+If the operators of the VX hospital
+
+00:35:26.520 --> 00:35:27.400
+fund their payroll
+
+00:35:27.400 --> 00:35:28.280
+to pay their staff
+
+00:35:28.280 --> 00:35:30.840
+an average of $25.40 an hour.
+
+00:35:30.840 --> 00:35:31.720
+And you divide that
+
+00:35:31.720 --> 00:35:34.680
+by the $60.43 national divisor.
+
+00:35:34.680 --> 00:35:36.040
+You create a wage index floor
+
+00:35:36.040 --> 00:35:37.560
+of roughly 0.42.
+
+00:35:37.560 --> 00:35:38.760
+Okay, 0.42.
+
+00:35:38.760 --> 00:35:40.040
+But if they decide to heavily
+
+00:35:40.040 --> 00:35:40.920
+invest in their staff,
+
+00:35:40.920 --> 00:35:41.800
+say they pay an average
+
+00:35:41.800 --> 00:35:43.960
+of $30.25 an hour,
+
+00:35:43.960 --> 00:35:44.760
+that creates a floor
+
+00:35:44.760 --> 00:35:46.280
+of roughly 0.50.
+
+00:35:46.280 --> 00:35:46.840
+And remember,
+
+00:35:46.840 --> 00:35:48.360
+the natural unboosted index
+
+00:35:48.360 --> 00:35:48.920
+for the island
+
+00:35:48.920 --> 00:35:49.960
+is currently stepping down
+
+00:35:49.960 --> 00:35:51.080
+toward 0.35.
+
+00:35:51.080 --> 00:35:51.480
+Right.
+
+00:35:51.480 --> 00:35:53.320
+So a rural floor of 0.42
+
+00:35:53.320 --> 00:35:54.520
+or especially 0.50
+
+00:35:54.520 --> 00:35:55.720
+would act as this massive
+
+00:35:55.720 --> 00:35:57.080
+concrete safety net,
+
+00:35:57.080 --> 00:35:58.360
+catching every single urban
+
+00:35:58.360 --> 00:35:59.240
+hospital in Puerto Rico
+
+00:35:59.240 --> 00:36:00.360
+before they hit the bottom
+
+00:36:00.360 --> 00:36:01.320
+exactly the same way
+
+00:36:01.320 --> 00:36:02.760
+Nantucket caught Boston.
+
+00:36:02.760 --> 00:36:04.200
+It stops the glide path
+
+00:36:04.200 --> 00:36:05.800
+dead in its tracks
+
+00:36:05.800 --> 00:36:07.960
+and reverses the trend entirely.
+
+00:36:07.960 --> 00:36:10.440
+But there is a massive
+
+00:36:10.440 --> 00:36:12.680
+incredibly dangerous trap here.
+
+00:36:12.680 --> 00:36:14.520
+Sequencing is absolutely everything.
+
+00:36:14.520 --> 00:36:15.880
+The imputed floor trap.
+
+00:36:15.880 --> 00:36:17.080
+Walk me through this mechanism
+
+00:36:17.080 --> 00:36:18.120
+because if the local government
+
+00:36:18.120 --> 00:36:19.640
+messes up the sequencing here,
+
+00:36:19.640 --> 00:36:21.480
+they don't just fail to help.
+
+00:36:21.480 --> 00:36:22.760
+They actually make the financial
+
+00:36:22.760 --> 00:36:24.280
+crisis significantly worse.
+
+00:36:24.840 --> 00:36:25.960
+Yeah, it could backfire
+
+00:36:25.960 --> 00:36:27.160
+catastrophically.
+
+00:36:27.160 --> 00:36:28.520
+Currently, because Puerto Rico
+
+00:36:28.520 --> 00:36:30.280
+has zero rural hospitals,
+
+00:36:30.280 --> 00:36:32.120
+they benefit from a special
+
+00:36:32.120 --> 00:36:33.480
+temporary federal provision
+
+00:36:33.480 --> 00:36:35.720
+called an imputed statewide floor.
+
+00:36:35.720 --> 00:36:36.840
+An imputed floor.
+
+00:36:36.840 --> 00:36:37.800
+What does that mean?
+
+00:36:37.800 --> 00:36:39.800
+It's essentially a placeholder safety net.
+
+00:36:39.800 --> 00:36:41.800
+For 2027, this imputed floor
+
+00:36:41.800 --> 00:36:42.680
+provides a safety net
+
+00:36:42.680 --> 00:36:44.520
+at an index of 0.3278.
+
+00:36:45.080 --> 00:36:45.720
 OK.
 
-00:29:59.160 --> 00:30:01.720
-And then they reprice those historical claims
+00:36:45.720 --> 00:36:46.920
+Now it's not a great number,
 
-00:30:01.720 --> 00:30:02.880
-using the current wage index.
+00:36:46.920 --> 00:36:47.880
+but it's far better
 
-00:30:02.880 --> 00:30:05.960
-Oh, the tailwags, the massive dog.
+00:36:47.880 --> 00:36:49.800
+than their absolute raw data
 
-00:30:05.960 --> 00:30:08.480
-It is like using the price of a hot dog at the local
+00:36:49.800 --> 00:36:50.760
+which would drag them down
 
-00:30:08.480 --> 00:30:11.600
-baseball stadium to mathematically determine the property
+00:36:50.760 --> 00:36:52.120
+to around 0.25.
 
-00:30:11.600 --> 00:30:13.880
-taxes for the entire city.
+00:36:52.120 --> 00:36:53.480
+So they currently have a weak
 
-00:30:13.880 --> 00:30:19.040
-The wages paid in that tiny 5% fee for service hospital market
+00:36:53.480 --> 00:36:54.840
+placeholder safety net
 
-00:30:19.040 --> 00:30:21.160
-serve as the mathematical foundation
+00:36:54.840 --> 00:36:56.680
+at 0.3278.
 
-00:30:21.160 --> 00:30:24.280
-for the massive 95% Medicare Advantage market.
-
-00:30:24.280 --> 00:30:26.160
-That is the exact mechanism.
-
-00:30:26.160 --> 00:30:28.760
-The hospital wage index feeds into a metric
-
-00:30:28.760 --> 00:30:32.160
-called the Average Geographic Adjustment, or AGA.
-
-00:30:32.160 --> 00:30:32.920
-AGA.
-
-00:30:32.920 --> 00:30:36.360
-The actuaries use the AGA to set the MA benchmarks.
-
-00:30:36.360 --> 00:30:39.280
-So if the campaign fails and the hospital wage index
-
-00:30:39.320 --> 00:30:45.560
-crashes on October 1st, 2027, from 0.5 to down to 0.35.
-
-00:30:45.560 --> 00:30:48.320
-The hospital revenues drop 15.5%.
-
-00:30:48.320 --> 00:30:49.360
-Bad for the hospitals.
-
-00:30:49.360 --> 00:30:50.040
-It is.
-
-00:30:50.040 --> 00:30:52.520
-But the catastrophe is that two years later,
-
-00:30:52.520 --> 00:30:54.560
-when the actuaries reprised the claims
-
-00:30:54.560 --> 00:30:59.040
-to set the 2029 MA rates, they see those low hospital costs
-
-00:30:59.040 --> 00:31:01.480
-and they mathematically slash the Medicare Advantage
-
-00:31:01.480 --> 00:31:04.800
-payments for 674,000 senior citizens
-
-00:31:04.800 --> 00:31:06.400
-across the entire island.
-
-00:31:06.400 --> 00:31:08.680
-The whole system follows the wage index down.
-
-00:31:08.720 --> 00:31:11.520
-The MA plans would have to cut benefits, raise premiums,
-
-00:31:11.520 --> 00:31:13.520
-or pull out of the market entirely.
-
-00:31:13.520 --> 00:31:17.200
-But conversely, if the strategists execute the Nantucket Plus
-
-00:31:17.200 --> 00:31:17.720
-strategy.
-
-00:31:17.720 --> 00:31:18.680
-If they pull it off.
-
-00:31:18.680 --> 00:31:19.280
+00:36:56.680 --> 00:36:57.160
 Right.
 
-00:31:19.280 --> 00:31:22.600
-If they successfully reclassify Central Medical
+00:36:57.160 --> 00:36:58.360
+But the danger is this.
 
-00:31:22.600 --> 00:31:28.600
-and push the rural floor up to 0.42 or 0.50,
+00:36:59.080 --> 00:37:00.600
+The law explicitly states
 
-00:31:28.600 --> 00:31:32.200
-that gain cascades through the actuarial models
+00:37:00.600 --> 00:37:01.640
+that the moment a real
 
-00:31:32.200 --> 00:31:34.440
-and inflates the Medicare Advantage payments.
+00:37:01.640 --> 00:37:02.920
+rural hospital opens
 
-00:31:34.440 --> 00:31:36.520
-And the campaign has quantified exactly what
+00:37:02.920 --> 00:37:04.360
+and files its first cost report
 
-00:31:36.520 --> 00:31:38.160
-that inflation is worth.
+00:37:04.360 --> 00:37:05.320
+with CMS,
 
-00:31:38.160 --> 00:31:40.400
-The documents state that a successful campaign
+00:37:05.320 --> 00:37:06.760
+the imputed floor is legally
 
-00:31:40.400 --> 00:31:43.520
-to raise the hospital floor has an expected value
+00:37:06.760 --> 00:37:07.400
+extinguished.
 
-00:31:43.520 --> 00:31:47.520
-of adding $15 per member per month, or PMPM,
+00:37:07.400 --> 00:37:09.000
+But the placeholder vanishes.
 
-00:31:47.520 --> 00:31:50.200
-to the calendar year 2029 benchmark.
+00:37:09.000 --> 00:37:10.600
+The real rural data
 
-00:31:50.200 --> 00:31:52.440
-$15 per member per month.
+00:37:10.600 --> 00:37:12.440
+instantly replaces the placeholder.
 
-00:31:52.440 --> 00:31:55.960
-When you multiply that by 674,000 members,
+00:37:12.440 --> 00:37:13.800
+So imagine the Vicks Hospital
 
-00:31:55.960 --> 00:32:00.240
-that equates to an additional $119 million per year
+00:37:13.800 --> 00:37:15.160
+opens tomorrow.
 
-00:32:00.240 --> 00:32:02.160
-flowing into the Puerto Rican health care system.
+00:37:15.160 --> 00:37:16.200
+But instead of funding
 
-00:32:02.160 --> 00:32:04.880
-$119 million a year.
+00:37:16.200 --> 00:37:17.080
+a high payroll
 
-00:32:04.880 --> 00:32:06.160
-Every single year.
+00:37:17.080 --> 00:37:18.520
+to create a high floor,
 
-00:32:06.160 --> 00:32:08.000
-And that's just the baseline expectation.
+00:37:18.520 --> 00:37:19.640
+they just pay standard
 
-00:32:08.760 --> 00:32:12.280
-The documents outline an upside breakthrough scenario.
+00:37:19.640 --> 00:37:20.840
+depressed Puerto Rican wages
 
-00:32:12.280 --> 00:32:15.160
-If they can secure the dual reclassification now
+00:37:20.840 --> 00:37:22.280
+say $15 an hour.
 
-00:32:15.160 --> 00:32:17.280
-and then eventually get the VX hospital built
+00:37:22.280 --> 00:37:23.160
+OK, let's do the math
 
-00:32:17.280 --> 00:32:19.480
-and running at high wages in the future,
+00:37:23.160 --> 00:37:24.360
+on $15 an hour.
 
-00:32:19.480 --> 00:32:22.640
-or if they can force Congress to pass certain protective bills
+00:37:24.360 --> 00:37:25.560
+If you divide $15
 
-00:32:22.640 --> 00:32:24.560
-while the administration is distracted.
+00:37:25.560 --> 00:37:27.720
+by the $60 and 43s divisor,
 
-00:32:24.560 --> 00:32:29.360
-That number jumps to an extra $500 to $820 million
+00:37:27.720 --> 00:37:29.160
+that translates to a real
 
-00:32:29.360 --> 00:32:31.200
-per year by the early 2030s.
+00:37:29.160 --> 00:37:31.000
+rural floor of about 0.25
 
-00:32:31.200 --> 00:32:33.400
-Half a billion to almost $1 billion.
+00:37:31.000 --> 00:37:31.800
+level one.
 
-00:32:33.400 --> 00:32:36.240
-It's an incredible demonstration of systemic leverage.
+00:37:31.800 --> 00:37:32.440
+Wait.
 
-00:32:36.240 --> 00:32:37.400
-It really is.
+00:37:32.440 --> 00:37:33.800
+So if Vicks opens
 
-00:32:37.440 --> 00:32:41.160
-By deeply understanding the exact actuarial mechanics,
+00:37:33.800 --> 00:37:35.080
+paying minimum wage,
 
-00:32:41.160 --> 00:32:43.560
-like how a hospital's payroll data submitted
+00:37:35.080 --> 00:37:36.120
+they would accidentally
 
-00:32:43.560 --> 00:32:45.120
-on a technical cost report
+00:37:36.120 --> 00:37:38.520
+overwrite the 0.3278
 
-00:32:45.120 --> 00:32:48.240
-translates into a county level insurance benchmark,
+00:37:38.520 --> 00:37:39.560
+imputed safety net
 
-00:32:48.240 --> 00:32:50.320
-they can unlock hundreds of millions of dollars
-
-00:32:50.320 --> 00:32:52.040
-without ever having to ask Congress
-
-00:32:52.040 --> 00:32:53.840
-to appropriate new funds.
-
-00:32:53.840 --> 00:32:56.880
-So this entirely explains the intensity of the war plan.
-
-00:32:56.880 --> 00:32:59.000
-They aren't just reacting to a cut.
-
-00:32:59.000 --> 00:33:01.880
-They are orchestrating a highly sequenced
-
-00:33:01.880 --> 00:33:05.280
-multi-year mobilization to capture a massive windfall.
-
-00:33:05.280 --> 00:33:06.120
+00:37:39.560 --> 00:37:40.040
 Yes.
 
-00:33:06.120 --> 00:33:08.520
-Look at the calendar they laid out for this coalition
+00:37:40.040 --> 00:37:40.760
+And replace it
 
-00:33:08.520 --> 00:33:11.320
-because the deadlines are terrifyingly strict.
+00:37:40.760 --> 00:37:43.240
+with a 0.2511 floor.
 
-00:33:11.320 --> 00:33:12.440
-They have to be strict
+00:37:43.240 --> 00:37:44.360
+They would actively
 
-00:33:12.440 --> 00:33:14.880
-because federal rulemaking waits for no one.
+00:37:44.360 --> 00:37:45.160
+lower the floor
 
-00:33:14.880 --> 00:33:16.880
-If they miss one filing window,
+00:37:45.160 --> 00:37:46.360
+for the entire territory
 
-00:33:16.880 --> 00:33:19.040
-they lose an entire year of funding.
+00:37:46.360 --> 00:37:48.040
+costing the islands hospitals
 
-00:33:19.040 --> 00:33:20.160
-Okay, so step one.
+00:37:48.040 --> 00:37:49.160
+millions of dollars.
 
-00:33:20.160 --> 00:33:22.800
-As we mentioned, the first step is legislative.
-
-00:33:22.800 --> 00:33:24.480
-They have to draft and pass
-
-00:33:24.480 --> 00:33:29.160
-a Puerto Rico rural designation law by November 2026.
-
-00:33:29.160 --> 00:33:30.800
-Then they have to execute
-
-00:33:30.800 --> 00:33:33.920
-the complicated dual reclassification filings
-
-00:33:33.920 --> 00:33:37.520
-for the Central Medical Hospitals by December 2026.
-
-00:33:37.520 --> 00:33:38.760
-So a month later.
-
-00:33:38.760 --> 00:33:40.680
-And then comes the big public push
-
-00:33:40.680 --> 00:33:43.000
-because by June of 2027,
-
-00:33:43.000 --> 00:33:47.160
-they need to generate 150 plus highly substantive
-
-00:33:47.160 --> 00:33:49.640
-data-driven comments on the federal docket.
-
-00:33:49.640 --> 00:33:51.040
-They have to permanently fix
-
-00:33:51.040 --> 00:33:53.200
-that four of nine, eight, two embarrassment.
-
-00:33:53.200 --> 00:33:54.400
-They really do.
-
-00:33:54.400 --> 00:33:56.720
-They are organizing all 52 hospitals,
-
-00:33:56.720 --> 00:33:58.520
-the Medicare Advantage Insurance Plans,
-
-00:33:58.520 --> 00:33:59.880
-the medical societies,
-
-00:33:59.880 --> 00:34:01.880
-the mayors of the local municipalities
-
-00:34:01.880 --> 00:34:03.520
-and patient advocacy groups
-
-00:34:03.520 --> 00:34:06.320
-to all file coordinated legally sound comments
-
-00:34:06.320 --> 00:34:07.960
-based on this shared strategy.
-
-00:34:07.960 --> 00:34:11.840
-It is a massive island wide coalition building effort.
-
-00:34:11.840 --> 00:34:13.520
-And the messaging strategy they are using
-
-00:34:13.520 --> 00:34:15.400
-to unite all these disparate groups
-
-00:34:15.400 --> 00:34:18.000
-is explicitly stated in the documents.
-
-00:34:18.000 --> 00:34:20.480
-Sell the certainty, build the option.
-
-00:34:20.480 --> 00:34:22.560
-Right, sell the certainty, build the option.
-
-00:34:22.560 --> 00:34:23.400
-I love that phrasing.
-
-00:34:23.400 --> 00:34:24.440
-It's very smart.
-
-00:34:24.440 --> 00:34:26.600
-They are telling their coalition,
-
-00:34:26.600 --> 00:34:28.720
-we must mobilize right now
-
-00:34:28.720 --> 00:34:33.240
-to stop the 15% hospital cut in October 2027.
-
-00:34:33.240 --> 00:34:35.520
-That cut is a certainty.
-
-00:34:35.520 --> 00:34:37.280
-We have to defend the baseline we have.
-
-00:34:37.280 --> 00:34:39.160
-Right, that gets everyone to the table.
-
-00:34:39.160 --> 00:34:40.480
-But while everyone is focused
-
-00:34:40.480 --> 00:34:43.040
-on stopping the immediate hospital cut,
-
-00:34:43.040 --> 00:34:45.440
-the central strategists are quietly laying
-
-00:34:45.440 --> 00:34:47.640
-the complex administrative plumbing,
-
-00:34:47.640 --> 00:34:50.160
-the state laws, the dual reclassifications,
-
-00:34:50.160 --> 00:34:51.840
-the data engineering,
-
-00:34:51.840 --> 00:34:53.760
-to secure that half billion dollar
-
-00:34:53.760 --> 00:34:56.480
-Medicare Advantage payday in three years.
-
-00:34:56.480 --> 00:34:58.240
-They're playing a multi-dimensional game
-
-00:34:58.240 --> 00:35:00.120
-of chess against a federal bureaucracy
-
-00:35:00.120 --> 00:35:01.680
-that is inherently programmed
-
-00:35:01.680 --> 00:35:03.480
-to maintain the status quo.
-
-00:35:03.480 --> 00:35:05.080
-And every single move they make
-
-00:35:05.080 --> 00:35:06.880
-is informed by the historical precedent
-
-00:35:06.880 --> 00:35:09.360
-of what a tiny island in Massachusetts
-
-00:35:09.360 --> 00:35:11.880
-managed to pull off almost two decades ago.
-
-00:35:11.880 --> 00:35:14.920
-It is truly staggering when you step back
-
-00:35:14.920 --> 00:35:16.480
-and look at the whole narrative arc
-
-00:35:16.480 --> 00:35:17.880
-of what we've just discussed today.
-
-00:35:17.880 --> 00:35:18.720
-It really is.
-
-00:35:18.720 --> 00:35:20.120
-I mean, we started this deep dive
-
-00:35:20.120 --> 00:35:22.120
-looking at a looming fiscal cliff
-
-00:35:22.120 --> 00:35:25.040
-that was going to gut Puerto Rico's hospitals.
-
-00:35:25.040 --> 00:35:26.160
-We dug into the history
-
-00:35:26.160 --> 00:35:28.840
-of how Nantucket deliberately abandoned
-
-00:35:28.840 --> 00:35:30.400
-a safe payment system
-
-00:35:30.400 --> 00:35:32.800
-to exploit a rural floor loophole
-
-00:35:32.800 --> 00:35:34.800
-and siphon hundreds of millions of dollars
-
-00:35:34.800 --> 00:35:35.800
-from the rest of the country.
-
-00:35:35.800 --> 00:35:38.520
-We saw how attempting to simply copy
-
-00:35:38.520 --> 00:35:41.320
-that Nantucket strategy with the island of VX
-
-00:35:41.320 --> 00:35:44.200
-actually presented a lethal regulatory trap.
-
-00:35:44.200 --> 00:35:46.320
-The loss of the imputed floor scaffolding.
-
-00:35:46.320 --> 00:35:47.840
-Exactly, which could collapse
-
-00:35:47.840 --> 00:35:49.840
-the territory's funding even further.
-
-00:35:49.840 --> 00:35:51.400
-And we arrived at this audacious,
-
-00:35:51.400 --> 00:35:53.320
-highly engineered plan
-
-00:35:53.320 --> 00:35:54.920
-to use legal fictions
-
-00:35:54.920 --> 00:35:58.640
-to reclassify urban trauma centers as rural hospitals,
-
-00:35:58.640 --> 00:36:01.280
-just to manipulate an actuarial formula
-
-00:36:01.280 --> 00:36:04.080
-to fund a territory's Medicare Advantage program.
-
-00:36:04.080 --> 00:36:05.960
-It is a perfect example of why
-
-00:36:05.960 --> 00:36:08.280
-paying attention to the fine print matters.
-
-00:36:08.280 --> 00:36:09.560
-It really is.
-
-00:36:09.560 --> 00:36:11.560
-The difference between a thriving healthcare system
-
-00:36:11.560 --> 00:36:12.880
-and a collapsing one
-
-00:36:12.880 --> 00:36:14.920
-isn't always about the quality of medicine
-
-00:36:14.920 --> 00:36:17.240
-being practiced by the doctors and nurses.
-
-00:36:17.240 --> 00:36:19.640
-Sometimes it is entirely about understanding
-
-00:36:19.640 --> 00:36:23.120
-the complex hidden math of federal regulations.
-
-00:36:23.120 --> 00:36:25.360
-It forces us to ask a really important question
-
-00:36:25.360 --> 00:36:27.000
-about the system itself.
-
-00:36:27.000 --> 00:36:27.760
-What that?
-
-00:36:27.760 --> 00:36:30.880
-Well, we rely on these incredibly complex proxies
-
-00:36:30.880 --> 00:36:33.320
-like wage indices, geographic boundaries,
-
-00:36:33.320 --> 00:36:35.360
-and historical cost repricing
-
-00:36:35.360 --> 00:36:38.560
-to distribute vital, life-saving resources.
-
-00:36:38.560 --> 00:36:40.240
-But when the survival of a medical system
-
-00:36:40.240 --> 00:36:41.960
-depends entirely on mastering
-
-00:36:41.960 --> 00:36:43.760
-the loopholes of those proxies,
-
-00:36:43.760 --> 00:36:46.280
-you have to wonder what we're actually optimizing for.
-
-00:36:46.280 --> 00:36:49.040
-Are we optimizing for care or for compliance?
-
-00:36:49.040 --> 00:36:49.840
+00:37:49.160 --> 00:37:49.960
 Exactly.
 
-00:36:49.840 --> 00:36:51.120
-Consider this as a final thought
+00:37:49.960 --> 00:37:51.320
+A well-meaning rural hospital
 
-00:36:51.120 --> 00:36:53.240
-and I'll end them all over for everyone listening.
+00:37:51.320 --> 00:37:52.360
+if it's opened carelessly
 
-00:36:53.240 --> 00:36:55.200
-The health, the access to care,
+00:37:52.360 --> 00:37:53.400
+without properly funded
 
-00:36:55.200 --> 00:36:57.760
-and the basic well-being of hundreds of thousands
+00:37:53.400 --> 00:37:54.440
+and planned payrolls
 
-00:36:57.760 --> 00:37:00.840
-of elderly patients on an island in the Caribbean
+00:37:54.440 --> 00:37:55.720
+turns the lever backward.
 
-00:37:00.840 --> 00:37:03.760
-might ultimately depend entirely on the legal precedent
+00:37:55.720 --> 00:37:56.600
+It becomes a weapon
 
-00:37:03.760 --> 00:37:06.480
-set by a wealthy resort island in Massachusetts
+00:37:56.600 --> 00:37:57.240
+against the system
 
-00:37:06.480 --> 00:37:07.760
-almost two decades ago.
+00:37:57.240 --> 00:37:58.040
+rather than a shield.
 
-00:37:07.760 --> 00:37:08.200
-It's what?
+00:37:58.040 --> 00:37:58.600
+So they have to get
 
-00:37:08.200 --> 00:37:09.040
-It begs the question,
+00:37:58.600 --> 00:37:59.640
+the money in place first.
 
-00:37:09.040 --> 00:37:10.840
-if our national healthcare funding
+00:37:59.640 --> 00:38:01.240
+The wage level in Vicks
 
-00:37:10.840 --> 00:37:13.480
-is this dependent on finding geographic loopholes
+00:38:01.240 --> 00:38:02.360
+must be fully funded
 
-00:37:13.480 --> 00:37:16.920
-and executing California-style dual reclassifications,
+00:38:02.360 --> 00:38:04.200
+committed to and executing
 
-00:37:16.920 --> 00:37:19.880
-is the system a masterclass in local adaptation?
+00:38:04.200 --> 00:38:05.080
+before it files
 
-00:37:19.880 --> 00:37:21.440
-Or is the foundational architecture
+00:38:05.080 --> 00:38:06.840
+its first Medicare cost report.
 
-00:37:21.440 --> 00:37:24.080
-of how we value human care fundamentally flawed?
+00:38:06.840 --> 00:38:08.120
+Timing is everything.
+
+00:38:08.120 --> 00:38:09.160
+Now, some listeners
+
+00:38:09.160 --> 00:38:10.200
+who know healthcare finance
+
+00:38:10.200 --> 00:38:11.080
+might be listening to this
+
+00:38:11.080 --> 00:38:11.880
+and thinking,
+
+00:38:11.880 --> 00:38:13.000
+wait, aren't there other ways
+
+00:38:13.000 --> 00:38:13.560
+to do this?
+
+00:38:14.120 --> 00:38:15.000
+What about just taking
+
+00:38:15.000 --> 00:38:16.520
+a huge existing hospital
+
+00:38:16.520 --> 00:38:17.480
+in San Juan
+
+00:38:17.480 --> 00:38:18.520
+and having them legally
+
+00:38:18.520 --> 00:38:20.440
+reclassify as rural?
+
+00:38:20.440 --> 00:38:21.400
+That is often referred
+
+00:38:21.400 --> 00:38:22.840
+to as path B.
+
+00:38:22.840 --> 00:38:24.120
+It's the urban to rural
+
+00:38:24.120 --> 00:38:25.240
+reclassification
+
+00:38:25.240 --> 00:38:27.480
+under section 412.103
+
+00:38:27.480 --> 00:38:28.840
+of the regulations.
+
+00:38:28.840 --> 00:38:30.280
+And legally,
+
+00:38:30.280 --> 00:38:32.040
+yes, a massive hospital
+
+00:38:32.040 --> 00:38:34.280
+with a high payroll in San Juan
+
+00:38:34.280 --> 00:38:36.600
+could theoretically petition CMS
+
+00:38:36.600 --> 00:38:38.120
+to be classified as rural
+
+00:38:38.120 --> 00:38:39.480
+in order to set the floor.
+
+00:38:39.480 --> 00:38:40.760
+So why not just do that?
+
+00:38:40.760 --> 00:38:42.120
+Why go through all the trouble
+
+00:38:42.120 --> 00:38:44.120
+to rely on a brand new
+
+00:38:44.120 --> 00:38:45.160
+untested facility
+
+00:38:45.160 --> 00:38:46.200
+on a tiny island?
+
+00:38:46.920 --> 00:38:47.640
+It really comes down
+
+00:38:47.640 --> 00:38:49.240
+to a classic economic dilemma.
+
+00:38:49.800 --> 00:38:50.840
+The free rider problem.
+
+00:38:50.840 --> 00:38:51.880
+Let's use an analogy.
+
+00:38:51.880 --> 00:38:52.200
+Okay.
+
+00:38:52.200 --> 00:38:53.400
+Imagine a massive apartment
+
+00:38:53.400 --> 00:38:53.720
+building where
+
+00:38:53.720 --> 00:38:55.320
+the electrical grid is failing.
+
+00:38:55.320 --> 00:38:56.200
+One tenant decides
+
+00:38:56.200 --> 00:38:57.320
+to pay out of their own pocket
+
+00:38:57.320 --> 00:38:58.280
+to completely upgrade
+
+00:38:58.280 --> 00:38:59.240
+the entire building's
+
+00:38:59.240 --> 00:39:00.360
+electrical system.
+
+00:39:00.360 --> 00:39:01.560
+They bear the massive cost
+
+00:39:01.560 --> 00:39:02.200
+themselves.
+
+00:39:02.200 --> 00:39:02.600
+Right.
+
+00:39:02.600 --> 00:39:04.360
+But once the grid is fixed,
+
+00:39:04.360 --> 00:39:05.400
+all the other landlords
+
+00:39:05.400 --> 00:39:06.120
+in the building
+
+00:39:06.120 --> 00:39:07.080
+get to instantly charge
+
+00:39:07.080 --> 00:39:07.720
+higher rent
+
+00:39:07.720 --> 00:39:09.160
+because the building is nicer
+
+00:39:09.160 --> 00:39:10.520
+without having spent a dime.
+
+00:39:10.520 --> 00:39:11.400
+The other landlords
+
+00:39:11.400 --> 00:39:12.520
+are the free riders.
+
+00:39:12.520 --> 00:39:13.320
+Right.
+
+00:39:13.320 --> 00:39:14.680
+In the hospital scenario,
+
+00:39:14.680 --> 00:39:15.800
+if a massive hospital
+
+00:39:15.800 --> 00:39:17.240
+in San Juan decides to
+
+00:39:17.800 --> 00:39:19.400
+artificially inflate its wages
+
+00:39:19.400 --> 00:39:21.560
+to say $30 an hour
+
+00:39:21.560 --> 00:39:22.920
+just to set the rural floor,
+
+00:39:23.960 --> 00:39:25.800
+that specific hospital
+
+00:39:25.800 --> 00:39:27.560
+has to bear the multimillion
+
+00:39:27.560 --> 00:39:28.520
+dollar burden
+
+00:39:28.520 --> 00:39:30.120
+of that inflated payroll
+
+00:39:30.120 --> 00:39:31.160
+entirely on its own
+
+00:39:31.160 --> 00:39:32.200
+balance sheet.
+
+00:39:32.200 --> 00:39:34.200
+But the benefit of that action,
+
+00:39:34.200 --> 00:39:35.480
+the higher Medicare payments
+
+00:39:35.480 --> 00:39:36.760
+generated by the new
+
+00:39:36.760 --> 00:39:38.600
+.50 floor flows
+
+00:39:38.600 --> 00:39:39.720
+to every other competing
+
+00:39:39.720 --> 00:39:41.000
+hospital on the island.
+
+00:39:41.000 --> 00:39:42.040
+You're basically asking
+
+00:39:42.040 --> 00:39:43.160
+a hospital CFO
+
+00:39:43.160 --> 00:39:44.600
+to double their own payroll
+
+00:39:44.600 --> 00:39:45.720
+costs out of the goodness
+
+00:39:45.720 --> 00:39:46.680
+of their heart,
+
+00:39:46.680 --> 00:39:47.560
+deliberately hurting
+
+00:39:47.560 --> 00:39:49.080
+their own operating margins
+
+00:39:49.080 --> 00:39:49.880
+so that their direct
+
+00:39:49.880 --> 00:39:51.160
+competitors across the street
+
+00:39:51.160 --> 00:39:52.520
+can get a massive revenue
+
+00:39:52.520 --> 00:39:53.400
+boost from Medicare.
+
+00:39:53.400 --> 00:39:54.040
+Exactly.
+
+00:39:54.040 --> 00:39:55.160
+And no hospital board
+
+00:39:55.160 --> 00:39:56.280
+of directors is going to
+
+00:39:56.280 --> 00:39:57.080
+sustain that kind
+
+00:39:57.080 --> 00:39:58.520
+of corporate altruism.
+
+00:39:58.520 --> 00:39:59.400
+They have a fiduciary
+
+00:39:59.400 --> 00:40:00.600
+duty to their own survival.
+
+00:40:00.600 --> 00:40:01.240
+Makes sense.
+
+00:40:01.240 --> 00:40:03.400
+Nantucket pays $78 an hour
+
+00:40:03.400 --> 00:40:04.760
+because its own isolated
+
+00:40:04.760 --> 00:40:06.360
+island economy demands it.
+
+00:40:06.360 --> 00:40:07.320
+They aren't doing it to do
+
+00:40:07.320 --> 00:40:08.120
+Boston a favor.
+
+00:40:08.760 --> 00:40:10.040
+VAX is the exact same.
+
+00:40:10.040 --> 00:40:11.480
+It has no free riders.
+
+00:40:11.480 --> 00:40:12.600
+It is one hospital,
+
+00:40:12.600 --> 00:40:13.800
+one localized payroll,
+
+00:40:13.800 --> 00:40:15.000
+one decision maker.
+
+00:40:15.000 --> 00:40:16.040
+So we're talking about
+
+00:40:16.040 --> 00:40:17.640
+a massive systemic manipulation
+
+00:40:17.640 --> 00:40:19.240
+based purely on geography.
+
+00:40:19.880 --> 00:40:20.600
+I have to ask
+
+00:40:20.600 --> 00:40:21.880
+the care versus compliance
+
+00:40:21.880 --> 00:40:22.600
+question here.
+
+00:40:22.600 --> 00:40:23.160
+Yeah.
+
+00:40:23.160 --> 00:40:24.200
+Is this just financial
+
+00:40:24.200 --> 00:40:24.760
+engineering?
+
+00:40:24.760 --> 00:40:25.720
+Like are we just gaming
+
+00:40:25.720 --> 00:40:26.840
+a spreadsheet here,
+
+00:40:26.840 --> 00:40:27.960
+finding the Puerto Rican
+
+00:40:27.960 --> 00:40:29.320
+equivalent of the Nantucket
+
+00:40:29.320 --> 00:40:30.040
+loophole?
+
+00:40:30.040 --> 00:40:31.640
+What's fascinating here
+
+00:40:31.640 --> 00:40:33.480
+is the moral center
+
+00:40:33.480 --> 00:40:35.560
+of this specific strategy.
+
+00:40:35.560 --> 00:40:36.600
+If you reclassify
+
+00:40:36.600 --> 00:40:38.680
+an urban hospital in San Juan,
+
+00:40:38.680 --> 00:40:40.280
+just to manipulate the numbers,
+
+00:40:40.280 --> 00:40:41.720
+yes, that is pure spreadsheet
+
+00:40:41.720 --> 00:40:42.520
+manipulation.
+
+00:40:42.520 --> 00:40:42.920
+Right.
+
+00:40:42.920 --> 00:40:44.520
+But the VAX strategy
+
+00:40:44.520 --> 00:40:46.200
+is fundamentally different.
+
+00:40:46.200 --> 00:40:47.800
+This strategy ends
+
+00:40:47.800 --> 00:40:49.880
+with a genuinely rural,
+
+00:40:49.880 --> 00:40:52.280
+geographically isolated island,
+
+00:40:52.280 --> 00:40:53.720
+an island where a 13-year-old
+
+00:40:53.720 --> 00:40:55.560
+girl died in agonizing death
+
+00:40:55.560 --> 00:40:56.280
+because they didn't have a
+
+00:40:56.280 --> 00:40:57.720
+basic emergency room,
+
+00:40:57.720 --> 00:40:59.320
+finally getting a fully staffed,
+
+00:40:59.320 --> 00:41:01.000
+well-paid, highly competent
+
+00:41:01.000 --> 00:41:01.880
+medical team.
+
+00:41:01.880 --> 00:41:02.920
+The policy lever
+
+00:41:02.920 --> 00:41:03.720
+and the human need
+
+00:41:03.720 --> 00:41:05.560
+are the exact same object.
+
+00:41:05.560 --> 00:41:06.760
+By funding the doctors,
+
+00:41:06.760 --> 00:41:07.880
+nurses, and technicians
+
+00:41:07.880 --> 00:41:09.000
+in VAX at a high level
+
+00:41:09.000 --> 00:41:10.360
+to save lives locally,
+
+00:41:10.360 --> 00:41:11.640
+you automatically trigger
+
+00:41:11.640 --> 00:41:12.600
+the federal formula
+
+00:41:12.600 --> 00:41:13.480
+that saves the healthcare
+
+00:41:13.480 --> 00:41:14.760
+system territorially.
+
+00:41:14.760 --> 00:41:16.520
+It aligns regulatory compliance
+
+00:41:16.520 --> 00:41:18.440
+perfectly with urgent patient care.
+
+00:41:19.080 --> 00:41:20.360
+It is using the system's
+
+00:41:20.360 --> 00:41:21.800
+own rules to correct
+
+00:41:21.800 --> 00:41:23.880
+a massive historical inequity.
+
+00:41:23.880 --> 00:41:25.800
+So the strategy is perfectly legal,
+
+00:41:25.800 --> 00:41:27.400
+the math is totally sound,
+
+00:41:27.400 --> 00:41:28.600
+and the moral imperative
+
+00:41:28.600 --> 00:41:29.800
+is extremely clear.
+
+00:41:29.800 --> 00:41:30.360
+Right.
+
+00:41:30.360 --> 00:41:31.240
+But we need to look
+
+00:41:31.240 --> 00:41:32.360
+at where things stand
+
+00:41:32.360 --> 00:41:33.800
+right now in the real world.
+
+00:41:34.680 --> 00:41:35.640
+Let's fast forward
+
+00:41:35.640 --> 00:41:36.760
+to our current status.
+
+00:41:37.480 --> 00:41:39.800
+It is September 1st, 2026.
+
+00:41:40.440 --> 00:41:41.880
+The building is physically
+
+00:41:41.880 --> 00:41:43.160
+sitting there on the island.
+
+00:41:44.040 --> 00:41:45.080
+What is the status
+
+00:41:45.080 --> 00:41:47.560
+of this $85 million facility?
+
+00:41:47.560 --> 00:41:48.760
+Well, the physical infrastructure
+
+00:41:48.760 --> 00:41:50.280
+is incredibly impressive.
+
+00:41:50.280 --> 00:41:51.320
+The building was officially
+
+00:41:51.320 --> 00:41:52.280
+delivered to the Puerto Rico
+
+00:41:52.280 --> 00:41:53.080
+Department of Health
+
+00:41:53.080 --> 00:41:54.520
+in December of 2025.
+
+00:41:54.520 --> 00:41:55.640
+And who paid for it?
+
+00:41:55.640 --> 00:41:57.800
+It's an $85 million investment
+
+00:41:57.880 --> 00:41:59.560
+funded largely by FEMA,
+
+00:41:59.560 --> 00:42:01.320
+along with local government funds.
+
+00:42:01.320 --> 00:42:02.040
+And they didn't just
+
+00:42:02.040 --> 00:42:03.400
+build a standard clinic,
+
+00:42:03.400 --> 00:42:05.640
+they built it for deep resilience.
+
+00:42:05.640 --> 00:42:07.000
+It is green certified
+
+00:42:07.000 --> 00:42:09.320
+under very strict resilience principles.
+
+00:42:09.320 --> 00:42:10.920
+Yeah, I read the specs on this place
+
+00:42:10.920 --> 00:42:12.680
+and it is basically a fortress.
+
+00:42:12.680 --> 00:42:15.720
+It has 21 days of resilience autonomy.
+
+00:42:15.720 --> 00:42:17.000
+Which means it can run on its own
+
+00:42:17.000 --> 00:42:17.720
+for three weeks?
+
+00:42:17.720 --> 00:42:18.280
+Exactly.
+
+00:42:18.280 --> 00:42:19.640
+It has two massive
+
+00:42:19.640 --> 00:42:20.760
+redundant generators.
+
+00:42:20.760 --> 00:42:21.880
+It has redundant chillers
+
+00:42:21.880 --> 00:42:23.320
+for the air conditioning.
+
+00:42:23.320 --> 00:42:24.760
+And water tower is holding
+
+00:42:24.760 --> 00:42:25.960
+70,000 gallons
+
+00:42:25.960 --> 00:42:27.160
+of potable water.
+
+00:42:27.240 --> 00:42:29.400
+It is explicitly built to survive
+
+00:42:29.400 --> 00:42:31.000
+the next hurricane Maria
+
+00:42:31.000 --> 00:42:32.760
+without losing power or water
+
+00:42:32.760 --> 00:42:33.800
+for three weeks.
+
+00:42:33.800 --> 00:42:34.600
+And the helipad,
+
+00:42:34.600 --> 00:42:36.200
+which is crucial for those
+
+00:42:36.200 --> 00:42:37.160
+emergency transfers
+
+00:42:37.160 --> 00:42:38.360
+that failed JADALYZ
+
+00:42:38.360 --> 00:42:39.880
+back in 2020,
+
+00:42:39.880 --> 00:42:41.880
+is fully FAA accredited
+
+00:42:41.880 --> 00:42:43.880
+as of April 2026.
+
+00:42:43.880 --> 00:42:44.600
+Yes.
+
+00:42:44.600 --> 00:42:46.040
+And we're already seeing
+
+00:42:46.040 --> 00:42:47.400
+successful private public
+
+00:42:47.400 --> 00:42:49.240
+collaboration on the ground there
+
+00:42:49.240 --> 00:42:50.440
+proving that the logistics
+
+00:42:50.440 --> 00:42:51.560
+of operating on VAICS
+
+00:42:51.560 --> 00:42:52.680
+can actually work.
+
+00:42:52.680 --> 00:42:53.800
+Give me an example.
+
+00:42:53.800 --> 00:42:54.920
+The Dialysis Center
+
+00:42:54.920 --> 00:42:55.960
+inside the facility,
+
+00:42:55.960 --> 00:42:57.880
+which is run by a private operator
+
+00:42:57.880 --> 00:42:59.560
+for Cineus Medical Care,
+
+00:42:59.560 --> 00:43:01.000
+has been successfully operating
+
+00:43:01.000 --> 00:43:01.880
+and treating patients
+
+00:43:01.880 --> 00:43:03.320
+since October 2025.
+
+00:43:03.320 --> 00:43:04.120
+Oh, that's great.
+
+00:43:04.120 --> 00:43:05.320
+Furthermore, the construction
+
+00:43:05.320 --> 00:43:06.680
+itself was brought to the finish
+
+00:43:06.680 --> 00:43:07.240
+line
+
+00:43:07.240 --> 00:43:08.680
+by a private contractor,
+
+00:43:08.680 --> 00:43:09.640
+Korea Bay Techno.
+
+00:43:09.640 --> 00:43:10.920
+So the private sector is proving
+
+00:43:10.920 --> 00:43:12.520
+they can execute on VAICS,
+
+00:43:12.520 --> 00:43:14.280
+but what about the main emergency
+
+00:43:14.280 --> 00:43:16.120
+room, the core of the hospital
+
+00:43:16.120 --> 00:43:17.560
+that actually sets this whole
+
+00:43:17.560 --> 00:43:18.680
+wage index lever?
+
+00:43:18.680 --> 00:43:19.160
+Right.
+
+00:43:19.160 --> 00:43:20.680
+It's still not fully operational.
+
+00:43:20.680 --> 00:43:21.240
+Why not?
+
+00:43:21.240 --> 00:43:22.680
+The contract for the primary
+
+00:43:22.680 --> 00:43:23.640
+private operator,
+
+00:43:23.640 --> 00:43:24.920
+the CDT,
+
+00:43:24.920 --> 00:43:27.960
+is currently stalled in negotiations.
+
+00:43:27.960 --> 00:43:29.400
+The government issued a request
+
+00:43:29.400 --> 00:43:30.520
+for proposals,
+
+00:43:30.520 --> 00:43:32.040
+but they only received one bid.
+
+00:43:32.760 --> 00:43:33.640
+So as of right now,
+
+00:43:33.640 --> 00:43:34.520
+the Department of Health's
+
+00:43:34.520 --> 00:43:35.560
+Field Medicine Unit
+
+00:43:35.560 --> 00:43:37.400
+is just covering emergency care
+
+00:43:37.400 --> 00:43:38.600
+on a temporary basis.
+
+00:43:38.600 --> 00:43:40.040
+And here is the single most
+
+00:43:40.040 --> 00:43:41.560
+critical bureaucratic hurdle
+
+00:43:41.560 --> 00:43:42.920
+for the local government.
+
+00:43:42.920 --> 00:43:44.600
+The Puerto Rico Department of Health
+
+00:43:44.600 --> 00:43:46.520
+must make one crucial
+
+00:43:46.520 --> 00:43:47.880
+administrative move.
+
+00:43:47.880 --> 00:43:49.320
+Yes, this is everything.
+
+00:43:49.320 --> 00:43:51.080
+They absolutely have to license
+
+00:43:51.080 --> 00:43:51.960
+this new facility
+
+00:43:51.960 --> 00:43:54.120
+as a hospital with inpatient beds
+
+00:43:54.120 --> 00:43:55.400
+if they simply license it
+
+00:43:55.400 --> 00:43:57.240
+as a diagnostic and treatment center,
+
+00:43:57.240 --> 00:43:58.040
+a CDT,
+
+00:43:58.040 --> 00:44:00.280
+exactly like the old facility was,
+
+00:44:00.280 --> 00:44:01.000
+it doesn't count.
+
+00:44:01.000 --> 00:44:01.160
+Right.
+
+00:44:01.160 --> 00:44:02.600
+Because CDTs don't file
+
+00:44:02.600 --> 00:44:03.960
+IPPS cost reports.
+
+00:44:04.520 --> 00:44:06.200
+The wage data goes nowhere
+
+00:44:06.200 --> 00:44:07.400
+and the systemic lever
+
+00:44:07.400 --> 00:44:08.600
+is completely useless.
+
+00:44:08.600 --> 00:44:10.520
+The entire territorial strategy
+
+00:44:10.520 --> 00:44:11.720
+hinges on that single
+
+00:44:11.720 --> 00:44:12.840
+licensure decision.
+
+00:44:12.840 --> 00:44:14.120
+It must be legally classified
+
+00:44:14.120 --> 00:44:14.760
+as a hospital.
+
+00:44:14.760 --> 00:44:15.880
+And because of that,
+
+00:44:15.880 --> 00:44:16.920
+the political pressure
+
+00:44:16.920 --> 00:44:18.360
+is mounting intensely right now.
+
+00:44:18.920 --> 00:44:19.800
+Just recently,
+
+00:44:19.800 --> 00:44:21.800
+on August 28, 2026,
+
+00:44:21.800 --> 00:44:23.080
+there was a major surprise
+
+00:44:23.080 --> 00:44:24.360
+visit to the facility
+
+00:44:24.360 --> 00:44:25.480
+by high-ranking official.
+
+00:44:25.480 --> 00:44:26.360
+Who is there?
+
+00:44:26.360 --> 00:44:28.760
+Senate President Thomas Rivera Schatz,
+
+00:44:28.760 --> 00:44:31.000
+former Governor Pedro Pierluisi,
+
+00:44:31.000 --> 00:44:32.360
+and the current Health Secretary,
+
+00:44:32.360 --> 00:44:33.400
+Victor Ramos,
+
+00:44:33.400 --> 00:44:34.680
+all converged on the site
+
+00:44:34.680 --> 00:44:35.880
+to inspect the progress.
+
+00:44:35.880 --> 00:44:37.400
+And what came out of that visit?
+
+00:44:37.400 --> 00:44:39.560
+Well, to report impartially on it,
+
+00:44:39.560 --> 00:44:41.480
+Secretary Ramos strongly defended
+
+00:44:41.480 --> 00:44:43.240
+the administration's progress.
+
+00:44:43.240 --> 00:44:45.160
+He highlighted a significant victory.
+
+00:44:45.880 --> 00:44:48.360
+A new modern CT scanner
+
+00:44:48.360 --> 00:44:49.640
+had just arrived on the island
+
+00:44:49.640 --> 00:44:50.440
+the day before.
+
+00:44:50.440 --> 00:44:51.400
+That's a big deal.
+
+00:44:51.400 --> 00:44:52.440
+It was a critical point
+
+00:44:52.440 --> 00:44:53.720
+because it rectified
+
+00:44:53.720 --> 00:44:55.880
+a highly criticized past issue
+
+00:44:55.880 --> 00:44:57.400
+where a mobile CT unit
+
+00:44:57.400 --> 00:44:58.840
+was purchased for the island.
+
+00:44:58.840 --> 00:44:59.800
+But it was just left sitting
+
+00:44:59.800 --> 00:45:01.560
+in a warehouse on the main island
+
+00:45:01.560 --> 00:45:03.640
+until this warranty completely expired.
+
+00:45:03.640 --> 00:45:04.600
+Oh, man.
+
+00:45:04.600 --> 00:45:05.320
+Yeah.
+
+00:45:05.320 --> 00:45:06.920
+But Secretary Ramos maintained
+
+00:45:06.920 --> 00:45:07.880
+during the visit
+
+00:45:07.880 --> 00:45:08.760
+that they are targeting
+
+00:45:08.760 --> 00:45:10.360
+a late September inauguration
+
+00:45:10.360 --> 00:45:12.440
+pending final equipment deliveries,
+
+00:45:12.440 --> 00:45:13.160
+health inspections,
+
+00:45:13.160 --> 00:45:14.120
+and crucially,
+
+00:45:14.120 --> 00:45:16.280
+that complex licensure process.
+
+00:45:16.280 --> 00:45:17.720
+It's a perfect analogy.
+
+00:45:17.720 --> 00:45:19.000
+The facility right now
+
+00:45:19.000 --> 00:45:20.200
+is like a brand new
+
+00:45:20.200 --> 00:45:21.400
+fully-fueled jet
+
+00:45:21.400 --> 00:45:22.600
+sitting on the runway.
+
+00:45:22.600 --> 00:45:23.720
+The engines are humming.
+
+00:45:23.720 --> 00:45:24.840
+The private sector pilots
+
+00:45:24.840 --> 00:45:25.800
+are ready to get in the seats.
+
+00:45:25.800 --> 00:45:27.320
+The passengers are waiting,
+
+00:45:27.320 --> 00:45:28.840
+but the plane cannot take off
+
+00:45:28.840 --> 00:45:29.880
+because they are just waiting
+
+00:45:29.880 --> 00:45:30.920
+for the control tower
+
+00:45:30.920 --> 00:45:32.360
+to hand over the final
+
+00:45:32.360 --> 00:45:34.040
+stamp registration papers.
+
+00:45:34.040 --> 00:45:35.560
+That's exactly where they are.
+
+00:45:35.560 --> 00:45:37.480
+The high-profile political visit
+
+00:45:37.480 --> 00:45:40.120
+just underscores the intense oversight
+
+00:45:40.120 --> 00:45:42.360
+required to push the bureaucracy forward.
+
+00:45:43.240 --> 00:45:44.760
+Every single day,
+
+00:45:44.760 --> 00:45:46.520
+this building sits classified
+
+00:45:46.520 --> 00:45:49.160
+as a CDT or remains unopened.
+
+00:45:49.160 --> 00:45:51.000
+The island misses the opportunity
+
+00:45:51.080 --> 00:45:52.200
+to start the clock
+
+00:45:52.200 --> 00:45:53.720
+on this multi-million dollar
+
+00:45:53.720 --> 00:45:54.760
+financial lever.
+
+00:45:54.760 --> 00:45:56.280
+Which brings us to the final
+
+00:45:56.280 --> 00:45:57.720
+and perhaps most daunting
+
+00:45:57.720 --> 00:45:58.760
+logistical challenge
+
+00:45:58.760 --> 00:45:59.960
+of this entire endeavor.
+
+00:46:00.680 --> 00:46:01.880
+The timeline lag.
+
+00:46:01.880 --> 00:46:03.160
+The time delay, yes.
+
+00:46:03.160 --> 00:46:04.840
+Because even if the Department of Health
+
+00:46:04.840 --> 00:46:06.040
+signs the hospital license
+
+00:46:06.040 --> 00:46:07.000
+tomorrow morning
+
+00:46:07.000 --> 00:46:08.760
+and the facility opens fully staffed
+
+00:46:08.760 --> 00:46:10.360
+paying $30 an hour,
+
+00:46:10.360 --> 00:46:11.240
+the spreadsheet
+
+00:46:11.240 --> 00:46:12.840
+does not update overnight.
+
+00:46:12.840 --> 00:46:14.280
+Right, because federal bureaucracy
+
+00:46:14.280 --> 00:46:15.480
+is never instantaneous.
+
+00:46:15.480 --> 00:46:17.400
+There is a built-in time delay.
+
+00:46:17.400 --> 00:46:18.600
+Walk us through the clock on this.
+
+00:46:18.600 --> 00:46:20.360
+Why doesn't the money flow immediately?
+
+00:46:20.360 --> 00:46:22.760
+Because Medicare builds its wage index
+
+00:46:22.760 --> 00:46:24.680
+using audited cost reports.
+
+00:46:24.680 --> 00:46:26.680
+And those reports are, by definition,
+
+00:46:26.680 --> 00:46:27.480
+historical.
+
+00:46:27.480 --> 00:46:28.200
+Right.
+
+00:46:28.200 --> 00:46:29.320
+It takes time for a hospital
+
+00:46:29.320 --> 00:46:30.840
+to finish a fiscal year,
+
+00:46:30.840 --> 00:46:32.360
+compile their payroll data,
+
+00:46:32.360 --> 00:46:33.880
+file the complex report,
+
+00:46:33.880 --> 00:46:35.880
+have an independent auditor review it,
+
+00:46:35.880 --> 00:46:37.800
+and then have CMS actually integrate
+
+00:46:37.800 --> 00:46:38.760
+that data
+
+00:46:38.760 --> 00:46:40.120
+into the massive national
+
+00:46:40.120 --> 00:46:41.240
+rule-making cycle.
+
+00:46:42.280 --> 00:46:43.080
+Generally speaking,
+
+00:46:43.080 --> 00:46:44.760
+the wage index is based on data
+
+00:46:44.760 --> 00:46:46.920
+that is roughly four years old.
+
+00:46:46.920 --> 00:46:47.720
+Four years.
+
+00:46:47.720 --> 00:46:49.080
+Okay, let's play this timeline out
+
+00:46:49.080 --> 00:46:51.400
+so we really understand the gap here.
+
+00:46:51.400 --> 00:46:53.320
+If the VX hospital opens
+
+00:46:53.320 --> 00:46:55.400
+and is certified as an IPPS hospital
+
+00:46:55.400 --> 00:46:57.400
+in fiscal year 2027.
+
+00:46:57.400 --> 00:46:59.400
+It's high wages wouldn't actually hit
+
+00:46:59.400 --> 00:47:01.400
+the published operational wage index
+
+00:47:01.400 --> 00:47:03.400
+until fiscal year 2031.
+
+00:47:03.400 --> 00:47:04.760
+So the San Juan hospitals wouldn't
+
+00:47:04.760 --> 00:47:06.920
+see the benefit until 2031.
+
+00:47:06.920 --> 00:47:07.560
+Yes.
+
+00:47:07.560 --> 00:47:08.120
+And remember,
+
+00:47:08.120 --> 00:47:09.240
+the repricing mechanism
+
+00:47:09.240 --> 00:47:10.040
+for Medicare Advantage
+
+00:47:10.040 --> 00:47:10.920
+we discussed earlier.
+
+00:47:10.920 --> 00:47:11.640
+Oh, right.
+
+00:47:11.640 --> 00:47:12.120
+The AGAs.
+
+00:47:12.120 --> 00:47:13.800
+Do you know how the AGAs calculated?
+
+00:47:13.800 --> 00:47:16.440
+That adds roughly another calendar year of delay.
+
+00:47:16.440 --> 00:47:18.040
+So those higher wages from VX
+
+00:47:18.040 --> 00:47:19.800
+wouldn't fully hit and stabilize
+
+00:47:19.800 --> 00:47:21.560
+the Medicare Advantage benchmarks
+
+00:47:21.560 --> 00:47:23.560
+until calendar year 2032.
+
+00:47:23.560 --> 00:47:25.880
+Okay, 2032 is the finish line,
+
+00:47:26.520 --> 00:47:28.280
+but the 5% cuts from the bridgeport
+
+00:47:28.280 --> 00:47:29.960
+ruling are happening right now.
+
+00:47:29.960 --> 00:47:30.680
+Exactly.
+
+00:47:30.680 --> 00:47:34.920
+The 5% cuts for 2025, 2026, and 2027
+
+00:47:34.920 --> 00:47:36.920
+are already cascading through the system,
+
+00:47:36.920 --> 00:47:38.040
+cutting revenue today.
+
+00:47:38.600 --> 00:47:41.320
+The calendar year 2028 Medicare Advantage
+
+00:47:41.320 --> 00:47:42.360
+benchmarks,
+
+00:47:42.360 --> 00:47:44.280
+which are currently being formulated,
+
+00:47:44.280 --> 00:47:46.840
+already have those compounding cuts locked in.
+
+00:47:46.840 --> 00:47:47.640
+Wow.
+
+00:47:47.640 --> 00:47:49.960
+So there is a definitive four-year gap
+
+00:47:49.960 --> 00:47:52.600
+from roughly 2028 to 2032
+
+00:47:53.160 --> 00:47:55.240
+where the VX data hasn't ripened yet,
+
+00:47:55.240 --> 00:47:56.280
+but the bridgeport cuts
+
+00:47:56.280 --> 00:47:58.200
+are fully active and accelerating.
+
+00:47:58.200 --> 00:47:59.400
+The island's healthcare system
+
+00:47:59.400 --> 00:48:01.000
+will bleed millions of dollars
+
+00:48:01.000 --> 00:48:02.520
+significantly during that window.
+
+00:48:02.520 --> 00:48:04.120
+So how do they survive the gap?
+
+00:48:04.120 --> 00:48:05.400
+You can't just tell an ICU
+
+00:48:05.400 --> 00:48:07.000
+to hold its breath for four years
+
+00:48:07.000 --> 00:48:09.000
+while waiting for a spreadsheet to update.
+
+00:48:09.000 --> 00:48:10.440
+This raises an important question
+
+00:48:10.440 --> 00:48:12.600
+about how you enact durable systemic change.
+
+00:48:12.600 --> 00:48:13.560
+You cannot just rely
+
+00:48:13.560 --> 00:48:15.640
+on the geographic solution on the ground.
+
+00:48:15.640 --> 00:48:17.080
+You have to run a parallel track
+
+00:48:17.160 --> 00:48:19.640
+of intense administrative advocacy in Washington.
+
+00:48:19.640 --> 00:48:20.680
+The island needs to show up
+
+00:48:20.680 --> 00:48:21.560
+in the federal docket
+
+00:48:21.560 --> 00:48:22.680
+and fight for a bridge.
+
+00:48:22.680 --> 00:48:23.480
+They do.
+
+00:48:23.480 --> 00:48:24.760
+And the docket participation
+
+00:48:24.760 --> 00:48:27.000
+is a shockingly weak point right now.
+
+00:48:27.000 --> 00:48:27.960
+This is a statistic
+
+00:48:27.960 --> 00:48:29.480
+that absolutely floored me
+
+00:48:29.480 --> 00:48:31.000
+when we were researching this.
+
+00:48:31.000 --> 00:48:34.280
+When CMS published the fiscal year 2027
+
+00:48:34.280 --> 00:48:36.200
+IPPS proposed rule,
+
+00:48:36.200 --> 00:48:37.320
+the specific rule
+
+00:48:37.320 --> 00:48:39.320
+that executed the third consecutive
+
+00:48:39.320 --> 00:48:41.960
+5% cut to Puerto Rico's hospitals,
+
+00:48:41.960 --> 00:48:44.520
+there were 982 public comments
+
+00:48:44.520 --> 00:48:46.200
+filed nationally by hospitals,
+
+00:48:46.200 --> 00:48:47.800
+associations and advocates.
+
+00:48:47.800 --> 00:48:50.280
+982 comments across the country.
+
+00:48:50.280 --> 00:48:52.760
+Do you know how many of those 982 comments
+
+00:48:52.760 --> 00:48:54.840
+came from institutions in Puerto Rico
+
+00:48:54.840 --> 00:48:55.800
+fighting the cut?
+
+00:48:55.800 --> 00:48:56.360
+Four.
+
+00:48:56.360 --> 00:48:58.360
+Four out of nearly a thousand.
+
+00:48:58.360 --> 00:48:59.640
+Four comments representing
+
+00:48:59.640 --> 00:49:00.760
+an entire territory
+
+00:49:00.760 --> 00:49:02.040
+facing a financial crisis.
+
+00:49:02.040 --> 00:49:02.840
+It's unbelievable.
+
+00:49:02.840 --> 00:49:05.240
+You simply cannot win a bureaucratic war
+
+00:49:05.240 --> 00:49:06.200
+if you do not show up
+
+00:49:06.200 --> 00:49:07.880
+on the administrative battlefield.
+
+00:49:07.880 --> 00:49:09.560
+The hospitals, the associations,
+
+00:49:09.560 --> 00:49:10.280
+the public,
+
+00:49:10.280 --> 00:49:12.040
+they absolutely must mobilize
+
+00:49:12.040 --> 00:49:13.320
+to comment on the upcoming
+
+00:49:13.320 --> 00:49:15.560
+FY 2028 proposed rule.
+
+00:49:15.640 --> 00:49:17.480
+Explicitly asking CMS to use
+
+00:49:17.480 --> 00:49:18.760
+its administrative discretion
+
+00:49:18.760 --> 00:49:20.600
+to hold or pause the transition cuts
+
+00:49:20.600 --> 00:49:22.680
+while the new VX wage data matures.
+
+00:49:22.680 --> 00:49:24.120
+And there is a secondary,
+
+00:49:24.120 --> 00:49:25.160
+highly specific,
+
+00:49:25.160 --> 00:49:27.240
+statutory channel available as well.
+
+00:49:28.200 --> 00:49:30.040
+Under section 1853
+
+00:49:30.040 --> 00:49:31.640
+of the Social Security Act,
+
+00:49:31.640 --> 00:49:33.000
+the governor of a territory
+
+00:49:33.000 --> 00:49:34.920
+has a formal legal mechanism
+
+00:49:34.920 --> 00:49:36.120
+to request adjustments
+
+00:49:36.120 --> 00:49:38.360
+to the Medicare Advantage payment methodology
+
+00:49:38.360 --> 00:49:39.480
+directly from the Secretary
+
+00:49:39.480 --> 00:49:40.920
+of Health and Human Services.
+
+00:49:40.920 --> 00:49:42.600
+So the governor can bypass
+
+00:49:42.600 --> 00:49:44.120
+the standard public comment section
+
+00:49:44.120 --> 00:49:45.720
+and go straight to the top of the agency.
+
+00:49:46.280 --> 00:49:47.960
+Yes, but there are strict,
+
+00:49:47.960 --> 00:49:49.160
+unforgiving deadlines.
+
+00:49:49.800 --> 00:49:52.680
+To affect the crucial 2028 benchmarks,
+
+00:49:52.680 --> 00:49:53.800
+the governor must submit
+
+00:49:53.800 --> 00:49:55.480
+this formal data-driven request
+
+00:49:55.480 --> 00:49:57.720
+by February 1st, 2027.
+
+00:49:57.720 --> 00:49:59.640
+What exactly should they be asking for?
+
+00:49:59.640 --> 00:50:01.480
+The specific ask being championed
+
+00:50:01.480 --> 00:50:02.840
+by several congressional leaders
+
+00:50:02.840 --> 00:50:04.040
+and policy experts
+
+00:50:04.040 --> 00:50:05.320
+is for the governor to request
+
+00:50:05.320 --> 00:50:06.200
+a stabilization of
+
+00:50:06.200 --> 00:50:08.280
+Puerto Rico's average geographic adjustment,
+
+00:50:08.280 --> 00:50:09.160
+the AGA,
+
+00:50:09.160 --> 00:50:11.240
+at a minimum floor of 0.7 year.
+
+00:50:11.240 --> 00:50:13.400
+And that 0.70 AGA
+
+00:50:13.400 --> 00:50:15.240
+acts as the bridge over the gap.
+
+00:50:15.240 --> 00:50:15.960
+Exactly.
+
+00:50:15.960 --> 00:50:16.920
+It freezes the cuts
+
+00:50:16.920 --> 00:50:18.120
+and stabilizes the funding
+
+00:50:18.120 --> 00:50:21.400
+across that brutal 2028-2032 gap.
+
+00:50:21.400 --> 00:50:22.520
+It stops the slow bleed
+
+00:50:22.520 --> 00:50:23.160
+just long enough
+
+00:50:23.160 --> 00:50:24.360
+for the real hard data
+
+00:50:24.360 --> 00:50:25.400
+from the Vieques hospital
+
+00:50:25.400 --> 00:50:26.680
+to finally enter the spreadsheet,
+
+00:50:26.680 --> 00:50:27.880
+percolate through the audits,
+
+00:50:27.880 --> 00:50:29.160
+and take over permanently.
+
+00:50:29.160 --> 00:50:30.520
+So you fight on two fronts.
+
+00:50:30.520 --> 00:50:32.120
+You set up the geographic solution
+
+00:50:32.120 --> 00:50:33.720
+on the ground in Vieques
+
+00:50:33.720 --> 00:50:35.160
+while simultaneously fighting
+
+00:50:35.160 --> 00:50:37.240
+the administrative battle in Washington
+
+00:50:37.240 --> 00:50:38.360
+to buy the time you need
+
+00:50:38.360 --> 00:50:39.720
+for the solution to work.
+
+00:50:39.720 --> 00:50:40.200
+Wow.
+
+00:50:40.200 --> 00:50:41.320
+Okay, let's bring this all back
+
+00:50:41.320 --> 00:50:42.520
+to where we started today.
+
+00:50:42.600 --> 00:50:44.600
+The core paradox
+
+00:50:44.600 --> 00:50:45.720
+of these two islands.
+
+00:50:45.720 --> 00:50:47.000
+The tale of two islands.
+
+00:50:47.000 --> 00:50:48.040
+We have this finished
+
+00:50:48.040 --> 00:50:50.600
+$85 million hurricane-proof building
+
+00:50:50.600 --> 00:50:51.320
+sitting right now
+
+00:50:51.320 --> 00:50:52.360
+on the island of Vieques.
+
+00:50:53.080 --> 00:50:54.840
+And it is two profound things
+
+00:50:54.840 --> 00:50:56.360
+at the exact same time.
+
+00:50:56.360 --> 00:50:57.480
+First and foremost,
+
+00:50:57.480 --> 00:50:58.600
+it is a life-saving
+
+00:50:58.600 --> 00:51:00.840
+emergency room and maternity ward
+
+00:51:00.840 --> 00:51:03.160
+for 8,000 American citizens
+
+00:51:03.160 --> 00:51:04.120
+who have endured
+
+00:51:04.120 --> 00:51:05.720
+the unimaginable trauma
+
+00:51:05.720 --> 00:51:06.840
+of lacking basic care.
+
+00:51:07.480 --> 00:51:09.000
+A place where a 13-year-old girl
+
+00:51:09.000 --> 00:51:09.880
+shouldn't have to die
+
+00:51:09.880 --> 00:51:11.160
+waiting for a ventilator.
+
+00:51:11.160 --> 00:51:11.720
+Yes.
+
+00:51:11.720 --> 00:51:13.880
+But second, it is a massive
+
+00:51:13.880 --> 00:51:16.120
+multimillion-dollar financial lever
+
+00:51:16.120 --> 00:51:17.480
+for an entire territory
+
+00:51:17.480 --> 00:51:19.480
+of 3.2 million people.
+
+00:51:19.480 --> 00:51:21.080
+It proves that the vast difference
+
+00:51:21.080 --> 00:51:22.200
+between the exorbitant wealth
+
+00:51:22.200 --> 00:51:23.720
+of Nantucket's hospitals
+
+00:51:23.720 --> 00:51:24.920
+and the compounding poverty
+
+00:51:24.920 --> 00:51:26.520
+of Puerto Rico's hospitals
+
+00:51:26.520 --> 00:51:28.040
+wasn't ever really about
+
+00:51:28.040 --> 00:51:29.000
+the physical ocean
+
+00:51:29.000 --> 00:51:29.640
+separating them
+
+00:51:29.640 --> 00:51:30.600
+from the mainland.
+
+00:51:30.600 --> 00:51:31.640
+It was purely about
+
+00:51:32.280 --> 00:51:33.480
+who had the foresight
+
+00:51:33.480 --> 00:51:34.840
+or the historical luck
+
+00:51:34.840 --> 00:51:36.040
+to place a certified
+
+00:51:36.040 --> 00:51:37.400
+IPPS hospital
+
+00:51:37.400 --> 00:51:38.920
+on the geographic playing field
+
+00:51:38.920 --> 00:51:40.280
+and who knew how to master
+
+00:51:40.280 --> 00:51:41.320
+the rules of the game.
+
+00:51:41.320 --> 00:51:42.440
+It's all about knowing
+
+00:51:42.440 --> 00:51:43.640
+how the board is set up.
+
+00:51:43.640 --> 00:51:45.320
+I want to leave you, the listener,
+
+00:51:45.320 --> 00:51:46.680
+with something to mull over today
+
+00:51:46.680 --> 00:51:48.440
+as we wrap up this deep dive.
+
+00:51:48.440 --> 00:51:49.640
+A final thought.
+
+00:51:49.640 --> 00:51:51.880
+Think about your own local hospital.
+
+00:51:51.880 --> 00:51:52.760
+Think about the care
+
+00:51:52.760 --> 00:51:53.960
+your community receives
+
+00:51:53.960 --> 00:51:55.320
+the nurses at the bedside,
+
+00:51:55.320 --> 00:51:56.520
+the equipment and the ER.
+
+00:51:57.160 --> 00:51:58.760
+How much of modern healthcare
+
+00:51:58.760 --> 00:51:59.480
+is dictated
+
+00:51:59.480 --> 00:52:01.160
+not by actual medical need
+
+00:52:01.160 --> 00:52:02.920
+or the actual cost of a syringe
+
+00:52:02.920 --> 00:52:04.680
+or the skill of a local surgeon,
+
+00:52:05.400 --> 00:52:06.920
+but by the legal definition
+
+00:52:06.920 --> 00:52:07.960
+of a zip code?
+
+00:52:07.960 --> 00:52:09.240
+It's a sobering thought.
+
+00:52:09.240 --> 00:52:10.200
+When a health system's
+
+00:52:10.200 --> 00:52:11.000
+very survival
+
+00:52:11.000 --> 00:52:12.120
+depends entirely on
+
+00:52:12.120 --> 00:52:14.120
+mastering geographic legal fictions,
+
+00:52:14.760 --> 00:52:16.600
+are we optimizing for patient care
+
+00:52:16.600 --> 00:52:18.600
+or are we just optimizing for compliance?
+
+00:52:18.600 --> 00:52:20.360
+That's the million-dollar question.
+
+00:52:20.360 --> 00:52:21.720
+So what does this all mean for you?
+
+00:52:22.280 --> 00:52:24.680
+Next time you drive past a rural clinic
+
+00:52:24.680 --> 00:52:26.920
+or a massive urban medical center,
+
+00:52:26.920 --> 00:52:28.840
+remember that there are invisible lines
+
+00:52:28.840 --> 00:52:30.040
+and federal spreadsheets
+
+00:52:30.040 --> 00:52:32.360
+dictating what happens inside those walls
+
+00:52:32.360 --> 00:52:34.200
+long before you ever walk through the doors.
+
+00:52:34.760 --> 00:52:36.280
+The machinery is complex,
+
+00:52:36.280 --> 00:52:38.280
+abstract, and deeply bureaucratic,
+
+00:52:38.280 --> 00:52:39.720
+but as we saw in VX,
+
+00:52:39.800 --> 00:52:41.640
+the outcomes are intensely,
+
+00:52:41.640 --> 00:52:43.320
+sometimes tragically human.
+
+00:52:43.320 --> 00:52:44.040
+Yes, sir.
+
+00:52:44.040 --> 00:52:45.480
+Thanks for joining us for this deep dive.
+
+00:52:45.480 --> 00:52:46.440
+We'll see you next time.
 
