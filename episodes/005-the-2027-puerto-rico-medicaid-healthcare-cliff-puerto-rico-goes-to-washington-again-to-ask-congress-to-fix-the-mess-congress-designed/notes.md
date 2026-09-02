@@ -17,9 +17,9 @@ In this episode:
   up to an **83% federal match** would give Puerto Rico the maximum — its
   poverty rate exceeds every state's. Congress excluded the territories from
   the formula and fixed the rate by statute at **55%**.
-- **The compliance story nobody tells.** Congress demanded a state-of-the-art
-  asset verification system under threat of quarterly FMAP cuts — and Puerto
-  Rico delivered: CMS approved the AVS in June 2026, the 75% physician payment
+- **The compliance story nobody tells.** Puerto Rico has been doing what
+  Congress required in the Consolidated Appropriations Act of 2023: the asset
+  verification system is built and operational, the 75% physician payment
   floor is live, and the island's payment error rate stands up to the federal
   gold-standard audit.
 - **The 13-month sprint.** Why September 2026 opens the decisive negotiating
