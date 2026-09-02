@@ -1,1142 +1,402 @@
-So in exactly 13 months, a multi-billion-dollar trap door
-is going to just completely open up
-underneath the American health care system.
-And the craziest part about this whole thing,
-the United States government actually built this trap door
-entirely on purpose.
-Yeah, they really did.
-I mean, it is hard-coded right into the statutory math.
-And when it opens, it's basically
-designed to drop the floor out from under the most
-vulnerable people in the entire system.
+Imagine trying to run a health care system for like 1.3 million people.
+Yeah. That's a massive undertaking.
+Right. You have to hire specialists. You're negotiating these multi-year contracts with
+providers and securing massive supply chains for clinics and hospitals.
+And you need stability to do any of that.
+Exactly. But now imagine trying to make all of those long-term structural decisions
+knowing that a huge chunk of your operating budget might just, wow, vanish in exactly 12 months.
+Right. Now 13 months.
+12.
+Yeah. You don't have a 13-month runway.
+There's no vague timeline here. You have a hard, unforgiving cliff set for September 30th, 2027.
+And I mean, the pressure on the ground in that scenario just fundamentally distorts
+how care is delivered.
+Oh, absolutely.
+Because when administrators can't guarantee funding past that 12-month horizon,
+while preventative care initiatives stall out, capital investments in medical technology get
+completely frozen and retaining top-tier medical talent, I mean, that becomes nearly impossible
+because the doctors know the money might just run out.
+Exactly. We are looking at a situation where the foundational health coverage for American citizens
+in Puerto Rico is resting on this legislative fault line that is scheduled to crack wide open.
+So welcome to the deep dive.
+Our mission for you today is to pull apart this really complex web of federal financing,
+strict congressional timelines, and local executive mandates.
+Because it really is a maze.
+It is. We want to understand this incredibly intense 12-month legislative sprint that is
+kicking off right now. Puerto Rico is trying to secure a permanent Medicaid funding and,
+you know, they have to navigate a lot of political hurdles to actually get it done.
+Yeah. And to really grasp the magnitude of this 12-month sprint,
+we need to first look at the structural disparity in how the federal government treats
+Puerto Rico compared to the 50 states. Right, because it's not a level playing field.
+Not at all. In the states, Medicaid funding is open-ended. It scales with need.
+So if a state faces a sudden economic downturn, or like a public health emergency,
+and thousands of new residents suddenly qualify for Medicaid,
+the federal matching funds just flow automatically to cover that surge.
+There's no ceiling.
+But for Puerto Rico, the whole architecture of the funding is entirely different.
+They operate under a hard statutory cap. Yes.
+Once they hit a specific dollar amount, the federal tap just turns off.
+It doesn't matter how many eligible citizens still need care.
+And it's not just the cap either. It's the federal medical assistance percentage,
+the FMP. Right, the FMP.
+The permanent statutory FMAP for Puerto Rico sits at just 55%.
+Which is incredibly low.
+It is. It means the federal government only covers 55% of the costs up to that artificial cap,
+and the local territorial government is left to shoulder the rest.
+And over the years, I mean, Congress has acknowledged that this 55% baseline is just
+untenable. But instead of fixing the underlying law, they just rely on temporary patches.
+Right, the classic band-aid approach.
+Yeah. And the most recent patch, which was wrapped into the Consolidated Appropriations
+Act of 2023, the CAA that bumped the federal match up to 76%.
+But if you're listening to this and you follow territorial policy,
+you already know the danger of this patch system.
+It creates a perpetual cycle of lobbying and, honestly, anxiety.
+Exactly. And the kicker with the CAA 2023 patch is that it expires on September 30th,
+2027.
+So if Congress does absolutely nothing over the next 12 months,
+the system just snaps back to that devastating 55% statutory limit.
+Which would be catastrophic. But securing a permanent fix requires way more than just
+pointing out the inequity of the situation.
+Right. Capitol Hill operates on a very specific currency when it comes to these
+massive legislative battles. You need an indisputable shared reality
+before any committee chair will even think about drafting a bill.
+That brings us to the Congressional Research Service, the CRS.
+Yes, the CRS. I always like to think of them as the indisputable referee's rule book in a highly
+politicized game.
+That is a great analogy, actually. Because in an environment where every think tank
+and lobbying firm is pushing their own specialized data, the CRS acts as the
+ultimate nonpartisan referee.
+They don't lobby. They don't advocate.
+Right. They just meticulously document current law.
+If a fact is published in the CRS report, it essentially becomes legislative canon.
+And the principal author of that canon for territorial Medicaid is Allison Mitchell.
+Yes. Allison Mitchell's reports are literally the foundational documents for this entire 12-month strategy.
+Because think about the reality of a congressional office.
+You have a 20-something legislative assistant handling 10 different policy portfolios.
+Oh, they're completely swamped. They are flooded with hundreds of pages of partisan
+lobbying material every single day.
+Right. They do not have the time to sit down and read a 300-page historical analysis
+from some advocacy group.
+No. They read Allison Mitchell's two-page staff briefs. That's what they actually rely on.
+And the specific CRS documents she authored are just fascinating.
+Because they don't just explain the law. They highlight the glaring contradictions in it.
+Like document R47601.
+Yes. The definitive statute by statute legislative history tracking everything from 1965
+through the CAA 2023.
+And then there's the IF11012 brief, which is the crucial two-pager the staffers actually read.
+But maybe the most important one is R49126.
+Why that one specifically?
+Because that's the document that explicitly flags the 2026 to 2027 Puerto Rico Medicaid
+expiration as a congressional must-act item.
+Ah, so it forces the issue. It officially documents the cap funding and that impending
+12-month cliff.
+Exactly. But more importantly, for Puerto Rico's leverage,
+Allison Mitchell's reports clearly outlined the disparity between Puerto Rico and the
+other four U.S. territories.
+Right. This is a huge point. Guam, the U.S. Virgin Islands, American Samoa,
+and the Northern Mariana Islands, they do not face this 2027 cliff.
+Because Congress already gave them permanence.
+We really?
+Yeah. Back in 2022, Congress granted those four territories a permanent 83% federal match.
+Wow. But in that exact same legislative package,
+Puerto Rico was carved out and only given a temporary five-year patch at 76%.
+So why? What was the political rationale for treating Puerto Rico so differently in that
+exact same moment?
+It really just comes down to scale and cost.
+Granting a permanent 83% FMAP to American Samoa, for example,
+involves a relatively small federal outlay.
+Right. The CBO score for that is tiny.
+It's easily absorbed into a larger spending package.
+Exactly. But Puerto Rico, with its 1.3 million Medicaid enrollees,
+represents a multi-billion-dollar federal commitment.
+So Congress took the politically easier path in 2022.
+They solved the cheap problem permanently and just kicked the expensive problem five
+years down the road.
+And now we are at the end of that road. The 12-month sprint is here.
+Okay. So the CRS documents provide the baseline.
+They prove the cap exists. They prove the cliff is 12 months away.
+And they prove the other territories already have that permanent 83% match that Puerto Rico wants.
+Right. But having the facts on your side in Washington doesn't automatically unlock billions
+of dollars.
+Unfortunately not.
+Historically, the pushback against giving Puerto Rico permanent funding
+always circles back to questions of program integrity.
+Right. The standard character argument from fiscal conservatives is always about
+administrative capacity. Can the local government actually manage a permanently expanded
+federal budget without waste or mismanagement?
+Which means the narrative for this 12-month sprint has to shift.
+It has to move away from just what the federal government owes
+and focus entirely on what Puerto Rico has definitively proven it can do.
+And this is where doing the homework comes in.
+The requirements of that 2023 CAA patch.
+Because Congress didn't just hand over a temporary 76% FMAP, right?
+No, not at all. They attached incredibly strict compliance strings to it.
+Congress basically set a test.
+A massive test.
+Yeah. They man-doted that Puerto Rico overhauled its program integrity structure
+to justify those temporary funds.
+And Puerto Rico responded by entirely restructuring their oversight.
+So what did they actually do?
+Well, for starters, they designated a specialized program integrity lead.
+And a separate contracting and procurement oversight lead.
+Okay. But let's look at how that actually functions.
+Because, you know, it can't just be about changing titles on an org chart.
+We are talking about fundamentally changing how billions of dollars are monitored.
+Exactly. And the best example of that is the asset verification system, the AVS.
+CMS actually approved Puerto Rico's AVS, right?
+They did. And the AVS implementation is a massive technological hurdle.
+I mean, many states struggle with this,
+let alone a territory operating under the stress of a temporary budget.
+So how did it work before AVS?
+Before AVS, verifying a beneficiary's assets often involved manual checks,
+physical documents, and just a really high margin for human error,
+or even intentional fraud.
+That sounds like a nightmare to audit.
+It is. But AVS automates this.
+It pings financial institutions electronically to verify that a potential beneficiary's
+liquid assets actually match what they report on their application.
+Okay. So they met the federal mandate.
+But meeting the mandate is one thing.
+The actual results are what really caught my attention in the source material.
+We have to talk about the PRM.
+Oh, the payment error rate measurement, yes.
+Right. This is the single most important data point in Puerto Rico's compliance arsenal.
+Absolutely. The PRM measures the exact percentage
+of a Medicaid program's payments that are improper.
+So whether that means paying the wrong amount,
+paying for a service that wasn't provided,
+or paying for an ineligible beneficiary.
+And just to set the baseline for you,
+the national average error rate for Medicaid across the United States
+is 5.09 percent.
+Right. Over 5 percent.
+But Puerto Rico's error rate came in at 2.51 percent.
+Wait, let's make sure you heard that right.
+Not only did Puerto Rico meet the federal compliance rules,
+their error rate is actually half the national average.
+That's wild, isn't it?
+That completely upends the usual narrative about territory administration.
+It really does. Think about it.
+A territory operating under the constant stress of temporary funding,
+dealing with the administrative chaos of looming fiscal cliffs,
+somehow managed to achieve an error rate
+that is literally half the national average.
+That requires incredibly tight procurement controls.
+And aggressive fraud prevention and seamless data management?
+It totally dismantles that historical narrative.
+You just cannot successfully argue that a jurisdiction lacks the administrative rigor
+to handle permanent funding when they are demonstrably outperforming
+the vast majority of fully funded states.
+Right. Okay, but let's play devil's advocate for a second here.
+Sure.
+Having a 2.51 percent error rate and the CRS rulebook on your side is fantastic on paper.
+But none of that matters if Washington politicians can use local infighting
+as an excuse to just delay everything.
+I mean, if a hospital CEO goes to a senator asking for a specific reimbursement tweak
+and then an insurance lobbyist goes to a house committee
+asking for something else, what happens?
+The bill dies.
+Fractured lobbying is the easiest way to kill legislation in Congress.
+Because it gives them an out.
+Exactly. When lawmakers hear conflicting requests from the exact same jurisdiction,
+it gives them the perfect political cover to do absolutely nothing.
+They'll just look at the competing factions and say,
+look, go back to San Juan, figure out what you actually want,
+and come back to us when you agree.
+And by the time they figure it out, the 12-month clock has run out
+and the whole system falls off the cliff.
+Which is exactly why the local political strategy had to evolve.
+And that leads us to Executive Order 2026-006.
+Governor Jennifer Gonzalez signed this on February 5th, 2026.
+Yes. And this order forcefully solved that fractured lobbying problem
+by creating the multi-sectoral working group.
+So who is actually in this group?
+It brings together the Department of Health, the local Medicaid agency,
+AZS, PRFAA in Washington, the Hospital Association,
+pharmacies, insurers, medical associations, and public policy experts.
+All at the same table.
+Okay, getting them in a room is one thing,
+but why is it so crucial that the hospital CEO and the government official
+walk into a congressional office with the exact same spreadsheet?
+Like, how do you actually get historically competing interests,
+hospitals who want higher payouts,
+and insurers who want tighter margins to agree on a single legislative package
+without it turning into a turf war?
+By establishing a strict legal framework through the governor's mandate,
+the Executive Order explicitly demands a one-voice approach.
+One voice.
+Right. It effectively tells the local healthcare ecosystem
+that they are facing a mutually assured destruction scenario.
+If the hospitals and the insurers fight over the minor details,
+the September 2027 cliff hits everyone, and the entire system bleeds out.
+So survival essentially forces consensus.
+They had to put their individual sector lobbying aside
+to agree on a unified macro level ask.
+And they locked in a very specific set of numbers
+so Congress doesn't hear conflicting requests.
+The unified ask is $4.415 billion for fiscal year 2028.
+$4.415 billion.
+Yes, and that baseline includes a built-in 5% annual growth rate
+to account for medical inflation.
+Makes sense.
+And most crucially, it demands parity with the other territories.
+A permanent 83% FMAP.
+So the line in the sand is permanence.
+They are not asking for another temporary patch.
+They are asking for $4.415 billion, a 5% index, and an 83% match for ever.
+That's the mandate.
+One voice.
+Okay, so we have the indisputable facts from the CRS.
+We have the stellar 2.5, 1% compliance report card.
+And we have a unified one voice coalition
+demanding a specific permanent fix.
 Right.
-So welcome to this deep dive.
-Today is September 2, 2026.
-And we're looking at this massive ticking clock
-that ends on October 1, 2027.
-And for everyone listening, we want to make it clear
-that this isn't just some abstract policy debate
-about decimal points in a basement committee room
-somewhere.
-Absolutely not, no.
-This trap door specifically, and really disproportionately,
-targets 1.3 million American citizens living in Puerto Rico.
-Yeah.
-And just to give you a sense of the scale here,
-that is roughly 47% of the entire population of the island.
+So how does this actually play out in Washington over the next 12 months?
+I mean, what is the step-by-step path here?
+It requires a highly choreographed seasonal legislative campaign.
+It is a 12-month sprint mapped exactly to the rhythms of the congressional calendar.
+It sounds like they aren't just asking for money.
+They are running a highly choreographed military campaign.
+That's the best way to describe it.
+So we are currently in the fall 2026 phase, right?
+Which runs from now through January 2027.
+What's the immediate tactical goal right now?
+Physical delivery and education.
+The multi-sectoral group is taking those Allison Mitchell CRS briefs and the compliance scorecard
+and placing them directly into the hands of the staffers
+on the House Energy and Commerce Incentive Finance Committees.
+So they're building the baseline of facts.
+Exactly.
+The goal is to get a discussion draft of the legislation circulating before Thanksgiving.
+But there is a massive political trap they have to avoid during this fall drafting phase.
+The status debate.
+Yes, the status debate.
+If this Medicaid funding push gets tangled up in ideological arguments
+about whether Puerto Rico should be a state or an independent nation,
+the legislation will instantly stall.
+So they have to keep it entirely separate.
+Complete discipline.
+It must be treated purely as an urgent health care financing crisis,
+totally separate from the broader political status of the island.
+Okay, keep the objective focused on health care.
+That takes us through the winter.
+What triggers in spring 2027?
+So January through April.
+Spring is markup season.
+This is when the committees will actually debate the specifics of those discussion drafts.
+And this is when the multisexual group is going to aggressively push for official CBO scores
+on their $4.415 billion package.
+Because lawmakers won't vote on a massive permanent funding bill
+until the Congressional Budget Office officially scores its long-term cost.
+Right. You need the CBO score.
+But there is also a critical external pressure point
+that has to activate during these spring markups.
+The FOMB.
+Yes, the Financial Oversight and Management Board.
+They have to step in.
+And they play a vital role here,
+but purely regarding the Medicaid funding impact rate.
+Exactly.
+The board is responsible for certifying Puerto Rico's balanced budgets.
+If Congress allows that September 2027 cliff to happen,
+it triggers an immediate $3.5 billion shortfall in federal health care funding.
+Just to be incredibly precise on this point for you listening,
+we are strictly talking about the impact of the Medicaid cut on the certified budget.
+Right.
+We are not talking about audited financial statements of the government.
+This is purely about the Medicaid funding.
+If the federal FMAP snaps back to 55%,
+the local government cannot magically generate $3.5 billion in local revenue to fill that void.
+The math simply breaks.
+And the FOMB has to officially warn Congress of that reality in the spring.
+They must put it in writing that failing to fix the Medicaid cliff
+physically breaks the certified balanced budgets.
+It adds a whole layer of systemic fiscal panic to the health care crisis.
+It does.
+It pushes us into the end game.
+Summer 2027, May through September.
+The final countdown.
+The primary goal for the summer phase is to force a vote on a standalone Medicaid bill by Memorial Day.
+So if you have the CBO score and the FOMB warning in hand,
+Memorial Day is the target for standalone passage.
+But relying on a standalone bill in the current congressional client is a massive gamble.
+Oh yeah.
+You always need a contingency plan.
+And they have one.
+If there is no standalone traction by Memorial Day,
+the One Voice Coalition immediately pivots.
+They shift their entire focus to attaching a Medicaid writer onto a must-pass September vehicle.
+Because Congress inevitably has to pass some form of continuing resolution
+or massive omnibus funding bill by the end of September just to prevent a federal government
+shutdown.
+Exactly.
+The strategy is to hitch the Puerto Rico Medicaid fix to that moving train.
+Right.
+And in that final desperate scenario in September,
+the absolute minimum acceptable outcome is a freeze.
+So if they can't get the permanent 83% FMAP passed in the chaos of a government funding fight,
+they must at least secure a legislative freeze to maintain current funding levels.
+Yes.
+Prevent the cliff from triggering.
+Keep the 76% patch for now while they continue to battle for permanence.
 Wow.
-Half the island.
-Almost half, yeah.
-Almost half of Puerto Rico relies on the local Medicaid
-program, which is known down there as Plan Vital,
-for their most basic physical and behavioral health needs.
-And right now, their access to a doctor, to a hospital bed,
-to life-saving medication, it's hanging
-by a very, very frayed legislative threat.
-It's terrifying, honestly.
-So my goal today is I really want
-to figure out how we got here.
-And more importantly, how the people who
-are trying to stop this trap door from opening
-are actually planning to do it.
-Because we have this massive stack of documents
-in front of us today.
-A literal mountain of paperwork.
-Literally.
-We are looking at these highly technical congressional research
-service reports.
-We've got executive orders from the Puerto Rican government.
-We're looking at certified budgets
-from financial oversight boards and just hundreds
-of pages of Medicaid annual reports.
-And our mission today is to, well,
-extract the actual signal from all that bureaucratic noise.
-Because underneath all that really dry bureaucratic language,
-I mean, this is fundamentally a story about unequal rules.
-It's about the heavy burden of having to constantly prove
-you deserve the funding that you're asking for.
-And it's about the relentless, unforgiving nature
-of congressional deadlines.
-It is just this profound look at what
-happens when the math that governs human lives
-is written differently for one specific group of citizens
-than it is for literally everyone else.
-Yeah.
-So before we really get into the impending cliff,
-I think we need to understand the baseline, like how
-this works for most people.
-Because if you live in one of the 50 states,
-Medicaid works in a very specific kind of invisible way.
-You probably don't even think about the funding mechanism
-if you or a family member needs it, right?
-Most people definitely do not think about it now.
-So how is the system actually supposed to function normally?
-OK, so in the 50 states and in the District of Columbia
-too, Medicaid funding is what we call open-ended.
-It's an entitlement program with a guaranteed federal matching
-structure.
-Meaning what?
-Exactly.
-So if an individual meets the eligibility requirements
-and they need medical care, the state provides that care.
-The state pays the doctor or the hospital.
-And then the federal government guarantees
-that they will reimburse the state
-for a specific percentage of that cost, always.
-So the state never has to worry that the federal government
-is suddenly going to say, sorry, we're out of money for the year.
-You're totally on your own.
-Never.
-The federal matching funds are totally guaranteed.
-And that federal share, it's determined by a formula
-called the Federal Medical Assistance Percentage.
-OK, the FMAP.
-Right, you will hear it referred to constantly
-in policy circles as the FMAP.
-Now, the FMAP ranges from a minimum of 50%
-all the way up to a maximum of 83%.
-And the way they decide where a specific state falls
-on that scale is strictly based on the state's per capita income.
-OK, meaning the poorer states get more help
-from the federal government.
-Exactly.
-If a state has a lower per capita income,
-they get a higher matching rate.
-It's designed to be this equalizing force, right?
-Ensuring that poorer states aren't just completely
-bankrupted by trying to provide basic health care
-to their lowest income residents.
-See, that makes logical sense to me.
-It's a safety net that basically expands
-when the need is greater.
-But from reading these source documents,
-that is not how it works in Puerto Rico.
-By at all.
-I was actually trying to visualize
-the difference when I was reading through this.
-And it feels a bit like firefighting.
-So imagine a massive fire breaks out.
-If you are a state, the federal government
-hands you a garden hose, and they connect it directly
-to the municipal water main.
+It really is a grueling 12-month gauntlet.
+Every single month has a specific tactical imperative.
+And any mixed messaging from the local health care industry
+could cause the entire fragile coalition on Capitol Hill to just collapse.
+The discipline required is immense.
+I mean they cannot afford a single misstep.
+But the architecture of their argument is structurally very sound.
+Let's synthesize what this all means.
+Puerto Rico is staring down a September 30, 2027 cliff.
+To defuse it, they are operating on an exact 12-month timeline.
 Right.
-And as long as the fire is burning,
-meaning as long as you have sick, eligible people who
-need care, that water just keeps flowing,
-the supply is theoretically infinite as long as the need
-exists.
-That is a very, very accurate way to picture
-the open-ended structure.
-But then you look at Puerto Rico,
-and they aren't given a garden hose.
-The federal government gives Puerto Rico
-a specific, totally predetermined number
-of buckets of water.
-And they basically say, here is your water for the year.
-Yeah.
-Good luck.
-Exactly.
-And if the fire gets too big,
-or if the fire burns longer than expected,
-those buckets eventually run dry.
-And once the buckets are empty, it just
-doesn't matter how big the fire is.
-It doesn't matter how many people are sick.
-The federal water completely stops.
-The federal water completely stops.
-And the local government is just
-left standing there with an empty bucket,
-completely responsible for every single dollar
-of health care costs beyond that point.
-And this capped structure, it's
-written into a very specific piece of the law.
-Which section is that?
-It's section 1108G of the Social Security Act.
-Section 1108G.
-OK.
-But it gets even worse than just having a cap, doesn't it?
-Let's talk about the actual size of the buckets
-they're given.
-Because you mentioned earlier that in the 50 states,
-the federal matching percentage, the FMAP,
-can go up to 83% for the poorest states.
-Right, up to 83.
-So where does Puerto Rico sit on that scale,
-I mean, given their economy?
-Well, by permanent statute, the baseline law,
-as it's permanently written in the books right now,
-Puerto Rico's FMAP is locked at 55%.
-Yeah, just 55%.
-Just 55%.
-But Puerto Rico has a poverty rate
-that drastically exceeds literally any of the 50 states.
-If the whole point of the formula
-is supposed to help poorer jurisdictions more,
-how on earth are they locked in at 55%.
-Because the standard formula just doesn't apply to them.
-If Puerto Rico were treated like a state,
-their per capita income is so low
-that it would automatically trigger
-the maximum allowable FMAP.
-So they'd be at the 83%.
-They would instantly be at that 83% tier.
-But because they are a territory
-and they're operating under that section 1108G,
-the per capita income formula is essentially just bypassed.
-Congress simply hard-coded them into the law at 55%.
-So they get a capped number of buckets.
-And the buckets themselves are artificially small
-to begin with, totally ignoring
-the actual economic reality on the ground.
-How does a healthcare system even function
-under those kinds of conditions?
-Honestly, functioning is probably too strong a word.
-Yeah.
-It survives.
-And it has really only survived over the last decade
-because Congress has been applying
-these temporary legislative band-aids.
-They haven't fixed the underlying structural inequity at all.
-They've just thrown extra temporary buckets of water
-at the island when the fire threatens
-to burn the whole system down.
-Looking at the history in these documents,
-it is just one exhausting cliffhanger after another.
-It seems like the local government
-can never actually plan for the future
-because they're always like six months away
-from running out of money.
-It's a devastating way to run a government agency.
-I mean, if we look back,
-the cycle of temporary patches really started in earnest
-with the Affordable Care Act.
-Between July 2011 and December 2019,
-the ACA provided an additional $5.4 billion
-in Medicaid funding to Puerto Rico.
-But that had an expiration date.
-It did.
-And when that money started drying up,
-it triggered a totally new crisis.
-So Congress responded
-with the Consolidated Appropriations Act of 2017,
-which threw in nearly $300 million.
+They aren't relying on emotional appeals.
+They are relying on the nonpartisan facts established by the CRS,
+specifically Allison Mitchell's reports,
+which prove the disparity between Puerto Rico's temporary patch
+and the permanent 83% match enjoyed by the other territory.
+And they are backing up those facts with empirical proof of compliance.
+They did the homework.
+They overhauled their program integrity to meet the strict mandates of the CAA 2023.
 Right.
-Then, in the aftermath of the devastating hurricanes,
-they passed the Bipartisan Budget Act of 2018,
-which provided $3.6 billion
-in disaster response funding for healthcare.
-Always temporary.
-And always disaster-driven, it seems like.
-Always.
-Which brings us to the most recent major patch,
-the one that was negotiated back in 2022.
-This is the Consolidated Appropriations Act of 2023,
-often just called the CAA.
-Right, I saw a lot about the CAA in the document.
-Yeah, this was a massive,
-incredibly complex relief package.
-It was negotiated heavily by Jennifer Gonzalez,
-who was the resident commissioner at the time,
-and who is now the governor.
-So what did that 2022 deal actually do?
-Did it finally fix the bucket?
-Well, it made the bucket much bigger
-and it made the federal government pay
-for a lot more of the water,
-but again, only temporarily.
-Of course.
-The CAA provided roughly $19.4 billion to Puerto Rico,
-and that spread out over five years.
-It temporarily lifted that really punishing 55% FMAP
-up to 76%.
-Okay, that's a big jump.
-Yeah, it is.
-And it provided a legally capped limit of federal funding
-that slowly scales up year over year,
-reaching about $3.8 billion by fiscal year 2027.
-But there is that word again, fiscal year 2027,
-the clock runs out.
-So if I'm trying to wrap my head around this
-from a legislative standpoint,
-I keep coming back to a really basic logistical question.
-What's that?
-The US Congress is incredibly divided, right?
-It's highly polarized.
-How do hundreds of lawmakers
-who can barely agree on what day of the week it is
-establish a baseline of facts
-to even begin arguing
-about a territorial Medicaid formula?
-Who actually tells them what the math is?
-That is perhaps the most fascinating
-mechanical question in Washington.
-Because in a town where everyone has their own
-political spin and their own, you know, alternative math,
-there is one entity that serves
-as the undisputed referee of reality.
-The Congressional Research Service.
-Yes, the CRS.
-And when it comes to territorial Medicaid funding,
-there is one specific author whose work is treated
-as the absolute gospel truth
-by every single congressional office.
-And her name is Allison Mitchell.
-Her name is Allison Mitchell.
-I am so glad we're talking about this,
-because as a listener, you rarely hear
-about the actual people who write the documents
-that shape these multi-billion dollar decisions.
-So what exactly is Allison Mitchell's role?
-Allison Mitchell is a specialist in healthcare financing
-at the Congressional Research Service.
-And the CRS, they operate entirely
-within the Library of Congress.
-Their mandate is incredibly vital to understand.
-They do not lobby.
-At all.
-Not at all.
-They do not advocate for policies.
-They do not suggest what Congress should do.
-They simply serve as nonpartisan shared staff
-for congressional committees and members of Congress.
-Their singular job is to provide factual, objective,
-legally sound descriptions of current law
-and how proposed changes would mathematically alter that law.
-So if a senator from Ohio and a representative
-from California are just screaming at each other
-about how much Puerto Rico gets in Medicaid,
-they both have to look at Allison Mitchell's report
-to find out who is actually right.
-Precisely.
-Her reports are the baseline.
-If Puerto Rico wants to change the law,
-they cannot walk into a committee hearing
-with like a glossy brochure
-and their own customized set of numbers.
-They'd just be lashed out of the room.
-You would be dismissed immediately.
-If you want a divided Congress to act,
-you have to anchor your entire argument
-to the CRS documentation of current law.
-Let's really dig into these specific documents
-because our sources indicate that Mitchell's PDFs
-are basically the holy grail
-for legislative staffers working on this issue.
-What is the first document they're looking at?
-So the primary document that every single
-legislative assistant keeps on their desk
-is IF-1112, specifically version 11,
-which was updated back in June of 2023.
-This is what the CRS calls an in-focus report.
-And this is just two pages, right?
-Exactly two pages.
-It is an absolute masterclass in concise policy writing.
-Like if you are a 24-year-old staffer
-who has exactly five minutes to brief a senator
-before they walk into a massive healthcare hearing,
-you read IF-111312.
-It distills the capped funding, the FMAP rate,
-the territorial exceptions, and the current funding levels
-into just one digestible brief.
-It is the cheat sheet that allows lawmakers
-to actually sound informed.
-But a two-page cheat sheet isn't gonna be enough
-if you are actually trying to write a new law
-or argue the deep historical context.
-What is the heavy artillery here?
-The heavy artillery was issued
-on the exact same day as that update, June 22, 2023.
-This is document R-47601, it's titled,
-Legislative History of Medicaid Financing for the Territories.
-Which just sounds incredibly dense.
-Oh, it is incredibly dense, but it's so necessary.
-Because it tracks the exhaustive statute-by-statute history
-from the open-ended inception of Medicaid
-all the way back in 1965
-up through every single temporary patch,
-disaster relief bill, and continuing resolution
-up to the 2023 CAA.
-So it's everything.
-It tracks every single dollar.
-If a fiscal conservative wants to argue
-that Puerto Rico has received
-too much temporary funding
-or if the Puerto Rican advocate wants to argue
-they've been historically short-changed by that 55% cap,
-both sides most cite R-47601 to make their case.
-It is the shared reality.
-Yes, but the document
-that is causing everyone to lose sleep right now,
-the document that sets the October 2027 trap door
-is R-49126.
-Expiring health provisions.
-Correct.
-This is the document where Mitchell explicitly flags
-the Puerto Rico Medicaid expiration
-as a must-act item for Congress.
-Wow.
-She meticulously lists the exact lines of statutory code
-that will simply vanish
-if Congress fails to pass new legislation.
-By putting this on the public record
-in an official CRS report,
-Mitchell ensures that Congress cannot claim ignorance.
-So no one can say they didn't know.
-Exactly.
-No lawmaker can wake up in November 2027
-and say, oh, I didn't realize
-the funding was gonna disappear.
-The CRS told him exactly when
-and how the trap door opens.
-All right, well, let's look down that trap door then.
-Let's look at the math that Mitchell has mapped out
-for October 1st, 2027.
-If we hit fiscal year 2028
-and a totally gridlocked Congress
-has done absolutely nothing,
-what exactly happens to the 1.3 million people
-on Plan Vital?
-So four very specific,
-very vital statutory provisions evaporate overnight.
-First, Social Security Act section 1108G.
-Okay, what is that one?
-This is the provision
-that temporarily elevated the funding cap.
-It is the provision that gave them the bigger bucket,
-allowing them to draw down roughly $3.8 billion
-in federal funds for fiscal year 2027.
-Gone.
-Gone.
-Second is section 1905 FF2.
-This is a provision that provided
-the temporary 76% FMAP matching rate.
-Without it, the match rate instantly drops back down
-to that punishing permanent law baseline of 55%.
-So the bucket is smaller
-and the local government suddenly has to pay
-a massive chunk of the water bill themselves
-all literally on the same day.
-Yes, it's a double hit.
-Third, sections 1108(g)(12) and (13) disappear.
-Now these were highly targeted provisions.
-They provided an extra $300 million
-specifically to establish a payment floor for physicians
-and an extra $75 million earmarked exclusively
-for program integrity efforts
-like fighting fraud and upgrading data systems.
-Okay, so the money that actually keeps doctors
-on the island and the money
-that proves the system isn't wasting funds,
-both of those vanished too.
-Completely.
-And the fourth line that expires is section 1108.
-This is the annual reporting requirement.
-It mandated that Puerto Rico
-submit extensive documentation to Congress
-detailing exactly how they were spending the money.
-Which I mean, that sounds like
-just losing a paperwork burden,
-but from what we'll discuss later,
-that reporting requirement was actually Puerto Rico's
-best weapon to prove they were doing a good job.
-If that requirement vanishes,
-Congress just loses its window into the system.
-Exactly.
-Congress goes blind.
-So when you put all four of those
-expiring provisions together,
-you trigger a terrifying statutory recalculation.
-If Congress lets the clock run out,
-the funding for fiscal year 2028 is not calculated
-based on the $3.8 billion from 2027.
-Wait, if it isn't based on the previous year,
-what is it based on?
-By law, as strictly documented by the CRS,
-the funding formula reverts back to a calculation
-based on the fiscal year 2019 baseline.
-2019, but that is before the global pandemic.
-That's before years of massive medical inflation.
-That's before the entire 2022 funding deal even existed.
-It is a totally devastating reversion.
-If that happens, the federal cap to lot
-met plummets from roughly $3.8 billion
-down to approximately $500 million.
-I just want to repeat that
-so the listeners really grasp it.
-I dropped from $3.8 billion to $500 million.
-That isn't a budget cut.
-That is the complete obliteration
-of a healthcare system.
-It is, and the scary thing is,
-we don't have to guess about the impact
-because the Financial Oversight and Management Board
-for Puerto Rico, the FOMB, has already sounded the alarm.
-Right, the FOMB is the federal board
-that oversees the island's finances
-and actually certifies their budgets, right?
-Correct.
-On June 29, 2026, the FOMB certified
-the fiscal year 2027 Commonwealth budget.
-And in that highly scrutinized document,
-they explicitly named the Medicaid cliff
-as one of the most material fiscal risks
-facing the entire island.
-Wow.
-They noted that because Puerto Rico
-is subject to this rigid statutory cap,
-any healthcare expenditure that exceeds
-that $500 million limit in 2028
-would have to be financed entirely
-by the local government's general fund.
-And the local government doesn't just have
-an extra $3 billion lying around.
-They absolutely do not.
-The margins are so tight
-that the FOMB actually wrote control language
-into the budget resolution,
-requiring that any proposed changes
-to Medicaid benefits, literally any changes at all,
-have to be reviewed and approved by the FOMB first.
-So if you were an American citizen on Plan Vidal,
-what does that $500 million reversion look like for you?
-It means they have to kick hundreds of thousands
-of people off the eligibility rolls, right?
-It means slashing the benefits
-for the people who manage to remain.
-It means hospitals facing such massive
-uncompensated care costs
-that they simply have to close their doors.
-And without that $300 million physician payment floor,
-doctors and nurses will just pack up
-and leave the island for jobs on the mainland
-where they can actually make a living.
-Which brings us to a highly pragmatic
-incredibly cynical but very effective argument
-that is currently circulating in Washington, DC
-regarding this exact cliff.
-Okay, let's hear it.
-It is about the mainland cost of this collapse.
-Because the 1.3 million people on Plan Vidal
-are American citizens.
-If the healthcare system on the island collapses,
-they don't just stop needing dialysis
-or insulin or cancer treatments.
-Right, they're citizens.
-They can just buy a plane ticket,
-land in Orlando or Philadelphia or New York
-and walk right into a hospital.
-Precisely.
-And when they migrate to the mainland United States,
-they enroll in the Medicaid programs
-of those specific states.
-And our sources highlight a startling economic reality
-that really changes the political calculus here.
-When a Puerto Rican citizen migrates
-to the mainland for health services,
-the cost to the federal government
-to treat them at standard state Medicaid rates
-is estimated at $165 million annually.
-Okay, $165 million.
-And now contrast that
-with what it costs the federal government
-to treat those exact same citizens
-if they stay on the island.
-That cost is roughly $44 million.
-I wanna make sure I'm doing the math right here.
-It literally costs the federal government
-nearly four times as much money
-to force these citizens to migrate
-to Florida or Pennsylvania for care,
-rather than just adequately funding the system
-where they currently live.
-That is exactly what the data shows.
-From a purely fiscal mathematical standpoint,
-letting the Puerto Rican healthcare system collapse
-is a massive inefficiency for the federal taxpayer.
-That is mind boggling.
-But I imagine that is a very powerful tool
-for the Puerto Rican delegation in Congress
-because they can sit down with the fiscal hawk
-who wants to cut spending and say,
-look, if you drop us off this cliff,
-you are actually gonna spend four times as much money
-dealing with the fallout in your own home states.
-It is a profound argument.
-Yeah.
-It shakes the entire conversation
-from territorial aid to domestic fiscal responsibility.
-Okay, I see the cliff, I see the CRS math,
-I see the terrible human and financial cost
-at the trap door opening.
-But I wanna push back on this for a minute
-because I know how congressional committees think.
-Okay, go ahead.
-When Congress passed that massive $19.4 billion package
-back in 2022, they didn't do it blindly,
-they attached a lot of strings,
-they essentially looked at Puerto Rico and said,
-we will give you this elevated funding,
-but you have a history of administrative chaos.
-You have to clean up your act,
-you have to prove you can manage
-a modern healthcare system.
-Yes, the famous congressional homework.
-Right, so did they actually do the homework?
-Because if Puerto Rico walks into a committee room in 2027
-asking for parity,
-the first thing any skeptical lawmaker will ask is,
-why should we trust you
-with permanent open-ended funding?
-That is the exact hurdle they have to clear.
-And the answer, which is meticulously documented
-in the annual reports submitted to Congress
-under that expiring section 1108(g)
-is a resounding yes.
-Really?
-Yes, Puerto Rico has rigorously complied
-with the requirements of the 2022 deal.
-In fact, they have executed such a massive structural overhaul
-that they have turned what used to be
-their biggest vulnerabilities
-into their strongest argument for permanent parity.
-Okay, that's a pretty big claim.
-Let's dig into the actual deliverables then.
-What were they mandated to do and how did they do it?
-What one of the most technologically difficult hurdles
-was the mandate to implement an electronic asset tracker
-in bureaucratic terms,
-an asset verification system or AVS.
-What does that actually mean for the listener?
-Why is that hard?
-Historically, verifying someone's financial assets
-to see if they qualify for Medicaid
-was this highly manual, paper-based process.
-You either take the applicant's word for it
-or you wait for physical bank statements to arrive.
-Which takes forever and is prone to errors.
-Exactly.
-Congress demanded that Puerto Rico build a system
-that electronically and securely cross references
-and applicants stated income
-with financial institutions in real time to prevent fraud.
-It is a massive IT lift.
-It requires deep coordination
-between local government agencies, banks,
-and federal databases.
-And did they get it online?
-They did.
-According to the internal roadmap and federal filings,
-the federal centers for Medicare and Medicaid services
-officially approved their system plan
-on June 16th, 2026,
-with it becoming fully effective on January 1st, 2026.
-They check one of the biggest boxes
-Alison Mitchell had flagged in her report.
-That is huge.
-What about the doctors?
-We mentioned that extra $300 million
-was meant to establish a physician payment floor.
-Did that actually happen?
-It did.
-For years, Puerto Rico was basically
-hemorrhaging medical professionals
-because the local Medicaid reimbursement rates
-were just so abysmal compared to the mainland,
-a doctor simply couldn't keep a clinic open.
-Right.
-So Congress mandated a floor
-and Puerto Rico successfully implemented
-a directed payment arrangement
-that permanently sets the reimbursement floor
-at 75% of the Medicare Part B rate.
-So a doctor treating a vulnerable patient
-on Plan Vital now has a predictable,
-sustainable baseline of income.
-Exactly.
-It stabilized the workforce.
-But the absolute centerpiece of their homework,
-the statistic that is gonna be printed
-on every single lobbying flyer handed out
-in Washington over the next 13 months,
-is their payment error rate.
-Okay, tell me about this error rate.
-How is it measured?
-It's called the PRM rate.
-It is a rigorous federal audit
-that measures improper payments in Medicaid
-across every state and territory.
-It measures everything from outright fraud to waste
-to simple administrative clerical mistakes.
-If you wanna know how tightly a jurisdiction
-runs its health care budget,
-you look at the PRM rate.
-So after all the historical concerns
-about mismanagement,
-what did Puerto Rico score on their federal audit?
-Puerto Rico's payment error rate came in at 2.51%.
-Okay, 2.51%.
-Out of context, that sounds low,
-but what's the baseline?
-How do the 50 states perform?
-The national average for the 50 states is 5.09%.
-Wait, hold on.
-Puerto Rico's error rate
-is less than half the national average.
-Yes.
-They are performing significantly better
-on payment integrity than the average US state.
-They are running a tighter ship than jurisdictions
-with vast open-ended funding
-and massive administrative budgets.
-How is that even possible?
-How does a territory in a perpetual state
-of fiscal crisis build a tighter anti-fraud system
-than wealthy mainland states?
-It wasn't an accident.
-And it certainly wasn't easy.
-If you look at the Medicaid annual reports
-from October 2021 through the recent updates,
-they detail a relentless structural overhaul
-of their internal plumbing.
-Give me an example of the plumbing.
-What did they change?
-They completely revolutionized their contracting.
-Historically, decentralized procurement
-can be a massive breeding ground for waste.
-They brought in centralized,
-highly competitive procurement processes.
-They implemented continuous improvement protocols
-for finding fraud and abuse.
-Okay.
-They set up incredibly strict,
-centralized data governance
-over the managed care companies
-that actually deliver the services to the patients.
-So they basically took away the ability
-for individual agencies
-to just hand out fragmented contracts.
-Exactly.
-The report even notes
-that they routed non-professional services,
-things like office cleaning
-and security for health department buildings,
-through the Puerto Rico General Services Administration
-to ensure forced competitive bidding.
-They tightened every single nut and bolt in the machine.
-And from a strategic standpoint,
-this just fundamentally changes
-the conversation in Washington.
-By doing this meticulous, documented homework,
-they have completely stripped away
-the traditional excuses.
-A lawmaker can no longer point to a lack of data
-or a high potential for fraud
-as a reason to deny funding.
-Precisely.
-Puerto Rico can now walk into a committee room,
-slide that 2.51% error rate
-and the approved electronic asset tracker
-across the table,
-and say, look, we manage our federal dollars
-better than half the states you represent.
-Now fund us like one.
-Okay, so if the homework is done
-and they have the data to prove it,
-what exactly is the demand?
-We know the cliff is looming in October, 2027.
-Are they just gonna ask for another five-year band aid
-to push the problem down the road again?
-Absolutely not.
-They are playing for keeps this time.
-They want a permanent structural fix.
-But to get that,
-they realized they had to fix
-a major political problem of their own first.
-What problem?
-Freelancing.
-What do you mean by freelancing?
-Well, in the past,
-when Puerto Rico needed federal funding,
-you would have the local hospital association
-asking for one thing,
-the pharmacies asking for something else,
-the local governor floating one number,
-and the representative in Washington
-negotiating a totally different number.
-And if you are a congressional staffer
-looking at four different demands
-from the same territory,
-you just throw your hands up
-and say, come back when you figure out what you want.
-Exactly.
-A fragmented ask is a dead ask in DC.
-So to prevent this,
-Governor Jennifer Gonzalez signed executive order
-2026-006 on February 5, 2026.
-What does the order actually do mechanically?
-It legally established a multi-sector working group.
-This is not just a bunch of bureaucrats in a back room.
-It mandates that the local Department of Health,
-the fiscal advisory agencies,
-the hospital associations,
-the medical associations, the pharmacies,
-and crucially,
-the resident commissioner in Washington,
-currently, Pablo Jose Hernandez Herrera,
-all have to sit at the exact same table.
-They literally locked the entire healthcare ecosystem
-in a room and told them they couldn't leave
-until they agreed on one number.
-Yes.
-The executive order explicitly aims
-to create a single voice.
-No one goes to DC in freelances.
-They present a unified strategy.
-So what did the single voice decide to ask for?
-Let's talk about tier A,
-the absolute best case scenario.
-Tier A is structural parity.
-It is the holy grail.
-They want Congress to completely repeal
-the Section 1108G funding cap for Puerto Rico.
-Throw away the buckets, give them the garden hose.
-Exactly.
-Make the funding open-ended, just like the 50 states.
-And alongside repealing the cap,
-they want to secure a permanent matching rate,
-an FMAP of 83%.
-Based on the actual poverty levels of the island.
-Yes.
-And there is a profound inherent fairness argument
-they are leveraging here.
-It is an argument that is very hard
-for Congress to refute.
-When Congress passed that massive 2022 deal,
-they didn't just give temporary help to Puerto Rico.
-They actually permanently fixed the FMAP
-for the other four US territories.
-Wait, really?
-American Samoa, Guam, the Northern Mariana Islands,
-and the US Virgin Islands, they all got it.
-Yes.
-All four of those territories were granted
-a permanent 83% FMAP in that 2022 legislation.
-Puerto Rico is the sole outlier.
-That is wild.
-So as the governor noted
-at the recent health policy conference,
-they are literally just asking,
-why is the statutory math applied to Puerto Rico
-less favorable than the math applied
-to the US Virgin Islands?
-They just want the same treatment
-as the other territories?
-Exactly.
-It is a demand for equity
-within the territorial system itself.
-But because they know Washington is deeply resistant
-to open-ended entitlements,
-they developed a locked specific fallback demand.
-The May, 2026 fallback, what is it?
-If open-ended parity fails,
-the unified fallback demand
-is an initial capped allocation
-of $4.415 billion for fiscal year 2028.
-And it comes with a statutory guarantee
-that it grows by 5% annually
-to account for medical inflation,
-combined with a permanent 83% FMAP.
-Okay, so the pieces are on the board.
-They have the homework.
-They have the 2.51 error rate.
-They have the unified ask
-and they know exactly what Alison Mitchell's baseline
-says they have to overcome.
-The million dollar question,
-or rather the multi-billion dollar question,
-is how do they actually execute this?
-We know what they want.
-But how do they navigate
-a polarized, slow-moving Congress
-to pass this before the trapdoor opens in 13 months?
-This is where we transition from policy analysis
-to pure legislative tactical warfare.
-The internal roadmap documents
-detail a meticulously-calendered,
-step-by-step operational strategy.
-They have converted the statutory math
-into a four-phase war plan.
-Okay, let's break down the calendar.
-Phase one is right now.
-It runs through the end of this month,
-September 30, 2026.
-What is the immediate mission?
-The immediate mission is stability and table setting.
-They must secure and confirm
-the fiscal year 2026 certifications
-for that extra 300 million for doctors
-and 75 million for integrity.
-If they let those lapse,
-the system starts bleeding early.
-Right.
-Second, they must physically file
-that section 1108 annual report on time.
-They have to turn the homework in.
-They turn the homework in,
-proving the low error rate.
-Then they take their two-page summary,
-attach Allison Mitchell's CRS PDFs
-to prove the baseline,
-attach the governor's executive order
-to prove they are unified,
-and they physically deliver these packets
-to the staffs of the key committees,
-energy and commerce in the house,
-and finance in the Senate.
-Now, I noticed a very specific,
-bolded tactical note in the roadmap for this phase.
-It says, do not hang this
-on the October continuing resolution.
-Why would they avoid that?
-A continuing resolution, a CR,
-is a must pass bill to keep the government open.
-If they need this fix,
-shouldn't they attach it
-to whatever train is leaving the station?
-It is a brilliant piece of legislative restraint.
-You have to understand the chaos
-of a pre-election continuing resolution.
-It is a messy last minute stopgap measure
-designed solely to prevent a government shutdown
-right before voters go to the polls.
-Everyone is panicking.
-Right, it's just keeping the lights on.
-Exactly.
-If you try to jam a highly complex,
-multi-billion dollar structural rewrite
-of territorial Medicaid into that chaotic environment,
-one of two things will happen.
-Either it gets stripped out entirely
-because it's too complicated for a quick vote,
-or worse, you panic and accept a terrible short-term patch
-just to get something.
-Oh, I see.
-And if you accept a six-month patch,
-you ruin your momentum for a permanent fix.
-The strategy is to keep their powder dry
-and wait for a proper legislative vehicle.
-Okay, that makes total sense.
-So they survive the fall, they don't jump on the CR.
-That brings us to phase two.
-October 2026 through January 3, 2027.
-This is the post-election period.
-The infamous lame duck session.
-Why is a lame duck session so unique
-for this kind of strategy?
-Because half the room just lost their elections
-or they are retiring.
-The political pressure is suddenly very different.
-The roadmap dictates that Puerto Rico
-needs to have highly detailed legislative discussion drafts
-circulating among committee staff before Thanksgiving.
-They want to attempt to get a lame duck bridge passed,
-perhaps a strong down payment on their ultimate ask,
-negotiated by members who no longer fear primary challengers.
-And this is where that single voice executive order
-is truly tested, right?
-The roadmap says the governor
-and the resident commissioner must appear together in DC,
-repeating the exact same number.
-If there is even a sliver of daylight between them,
-committee staffers will exploit it to delay the bill.
-Exactly.
-And crucially, they must keep Medicaid
-entirely separated from the political status debate.
-The statehood versus independence debate.
-Yes.
-Whether a lawmaker supports statehood, independence,
-or maintaining the commonwealth,
-the roadmap demands that Medicaid funding
-be treated as an isolated life or death civic necessity.
-If it gets tangled in the status debate, it dies.
-All right, phase three, January to April, 2027,
-the new Congress is seated and sworn in.
-The clock is really ticking now.
-This is the heavy lifting phase.
-This is when you push for formal committee markups
-in public hearings.
-This is when you force the congressional budget office,
-the CBO, to officially score the cost
-of the different funding tiers.
-You make the math official on the congressional record.
-Yes.
-And this is when you deploy the heavy artillery, the FOMB.
-The strategy calls for the financial oversight board
-to submit a formal stark letter to congressional leadership,
-clearly stating that a $3.5 billion Medicaid cut
-will fundamentally break Puerto Rico's certified budgets.
-That is a brilliant pressure point.
-Congress created the FOMB.
-Congress told Puerto Rico,
-you must balance your budgets under our oversight.
-So Puerto Rico uses the federal fiscal watchdogs
-against Congress itself.
-They say, we followed your rules,
-but we mathematically cannot balance the budget
-if you drop this $3 billion cliff on us.
-You have to fix it.
-It is using the architecture of federal control
-to force federal action.
-Which brings us to phase four,
-May to September 30, 2027.
-The trapdoor is opening.
-The danger zone.
-If there is no standalone parity bill
-moving through the chambers by Memorial Day,
-the strategy fundamentally shifts.
-You abandon the dream of a beautiful, clean,
-standalone parity act.
-You shift into survival mode
-and you look for a massive vehicle to attach yourself to.
-You attempt to attach a rider
-to the massive must pass September vehicle.
-The roadmap refers to this as the year end extender bundle.
-I want to push back on this strategy
-because looking at what goes into this bundle,
-it is massive.
-It includes delayed disproportionate share hospital cuts
-for mainland states.
-The money follows the person program,
-billions in community health center funds.
-There are dozens of massive national healthcare provisions
-in this pile.
-There are, yeah.
-Given that Puerto Rico is asking for billions of dollars
-in a structural rewrite,
-doesn't getting bundled into this massive extender pile
-risk getting completely lost in the noise.
-It is a massive tactical gamble,
-but it is often the only way things get done in DC.
-Being a standalone bill means
-you are a singular isolated target.
-If a senator from a fifthly conservative state
-wants to make a point about federal spending,
-they can easily vote against a standalone bill for Puerto Rico.
-It costs them nothing politically at home.
-Right, they can just say
-they are saving taxpayer money.
-Exactly.
-But being embedded in the extender pile
-provides a sort of legislative herd immunity.
-Herd immunity that perfectly describes it.
-If that same senator wants to vote against
-Puerto Rico's Medicaid funding,
-but doing so means they also have to vote against
-funding the community health centers
-in their own home state,
-they will hold their nose, complain about the process,
-and vote yes on the entire bundle.
-The extender bundle is how Washington passes
-necessary things that nobody wants to take
-a tough individual vote on.
-It provides camouflage.
-So if they are in that extender pile,
-bargaining at the absolute 11th hour in September, 2027,
-and structural parity is off the table,
-what is the absolute floor?
-What is the minimum acceptable rider they will agree to?
-The minimum survival package according to the strategy
-is freezing the fiscal year 2027 funding levels,
-adding a mandatory bump for medical inflation
-so the money doesn't lose its purchasing power,
-and locking the FMAP at either 76 or 82%
-for at least two more years.
-So it's just another bucket, another Band-Aid.
-It is, but it stops the trapdoor from opening.
-It prevents that catastrophic reversion
-to the 2019 baseline of $500 million.
-It keeps the system alive to fight another day.
-Wow, we have covered an immense amount of ground today.
-Let's take a breath and do a quick recap.
-We are looking at a scenario
-with incredibly high stakes.
-Incredibly high.
-1.3 million American citizens
-whose access to basic healthcare relies
-on a rigid, outdated statutory formula.
-They are facing a catastrophic multi-billion dollar drop
-in exactly 13 months
-because of how a specific section of the law is written,
-but they aren't just waiting for it to happen.
-They have executed a massive administrative overhaul,
-achieving a 2.51% error rate
-that beats the national average.
-They have formed a unified political front,
-and they are using the objective,
-unassailable math, CRS experts like Alison Mitchell
-to execute a 13-month legislative war plan.
-And if we step back and ask the ultimate question,
-you know, so what?
-Why does this matter to someone listening in Ohio
-or Oregon or Maine?
-It matters because this is a profound real-time case study
-in how federal statutory math
-can literally make or break an entire regional economy.
-Right.
-Understanding the dry, highly technical work
-of people like Alison Mitchell,
-the baseline formulas, the capped allotments,
-the expiration dates,
-that is the secret key to understanding
-how American governance actually operates.
-The true power in Washington
-isn't in the speeches on the floor, you know?
-It is in the math buried in those CRS PDFs.
-It is entirely about the size of the bucket
-and who controls the water.
-That's exactly.
-Well, I want to leave everyone listening
-with a final, provocative thought to mull over.
-Something that builds on everything
-we've discussed today
-about the realities of policy and human behavior.
-Let's imagine the absolute worst-case scenario.
-Let's say the strategy fails.
-Congress gets completely gridlocked,
-the extender pile collapses,
-and the October 2027 trapdoor opens.
-Funding plummets to $500 million.
-The system breaks.
-The system breaks.
-And as we discussed,
-that means hundreds of thousands of Puerto Ricans
-who are American citizens
-might be forced to relocate to the U.S. mainland
-simply to access lifesaving medical care
-that they can no longer get on the island.
-If that migration happens,
-if hundreds of thousands of citizens
-suddenly move to Orlando or Philadelphia or Cleveland
-in late 2027 and early 2028,
-how might that sudden massive demographic
-and economic shift unexpectedly
-alter the political and electoral map
-of critical swing states like Florida or Pennsylvania
-heading right into the 2028 federal elections?
-It is a fascinating and highly sobering hypothetical.
-It proves that the consequences of statutory neglect
-rarely stay confined to the territory they target.
-The math always spills over.
-It always spills over.
-The trapdoor is built.
-We know exactly when it is set to open.
-The only question left is whether Congress
-will finally dismantle it
-or just hand Puerto Rico
-another temporary bucket of water as they fall.
-Thank you for joining us on this deep dive
-into the hidden mechanics of the policies
-that shape our world.
-Keep questioning the math.
-Keep digging into the documents
-and we will see you next time.
+They implemented the asset verification system
+and achieved that incredible 2.5%, 1% PURM rate
+that drastically outpaces the national average.
+And through the governor's executive order,
+they have silenced the usual fractured lobbying.
+They forced hospitals, insurers, and government agencies
+to speak with one voice to demand a permanent $4.415 billion solution.
+So the multi-sectoral group's message to Congress is essentially this.
+We've done the heavy lifting.
+We've hit the metrics you demanded,
+and we have brought you a unified front.
+Now it is up to Congress to provide permanent state-like funding
+for the 1.3 million American citizens in Puerto Rico who rely on it
+rather than pushing them toward another manufactured fiscal cliff.
+That's exactly it.
+The question now is whether Capitol Hill will accept
+that empirical argument and grant parity impermanence
+or just allow the 12-month countdown clock to hit zero.
+Which leaves us with a really compelling final thought to explore
+as we close out this deep dive.
+With that.
+Well, we spent a lot of time on that 2.5%, 1% error rate.
+Puerto Rico achieved incredible administrative efficiency
+while operating under the psychological and financial stress
+of capped temporary funding.
+It really forces you to wonder, you know,
+if they can build a system that is that tightly controlled
+while constantly bracing for a catastrophic fiscal cliff,
+what kind of healthcare system could they build
+if they actually had stability?
+Oh, absolutely.
+What kind of preventative care models could they pioneer
+if they were finally operating on solid ground
+with the financial peace of mind that the rest of the nation enjoys?
+It changes the entire paradigm.
+When a healthcare system stops fighting for basic survival
+every 12 months, it can actually focus on innovation.
+And that is the true stakes of the next 12 months.
+The clock is officially ticking.
+Thanks for joining us on this deep dive.
