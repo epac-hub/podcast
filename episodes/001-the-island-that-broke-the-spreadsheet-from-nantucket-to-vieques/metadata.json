@@ -11,5 +11,6 @@
   "season": null,
   "episode_type": "full",
   "transcript": "transcript.vtt",
-  "draft": false
+  "draft": false,
+  "audio_rev": 2
 }

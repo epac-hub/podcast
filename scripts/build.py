@@ -142,7 +142,10 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
         el(item, "guid", page, isPermaLink="true")
         el(item, "description", meta.get("description") or meta["title"])
         el(item, "pubDate", email.utils.format_datetime(pub_datetime(meta)))
-        el(item, "enclosure", url=f"{op3}/audio/{meta['dirname']}.mp3",
+        # audio_rev bumps the enclosure URL when an episode's audio is
+        # replaced, forcing platforms that cache media by URL to re-fetch.
+        rev = f"?v={meta['audio_rev']}" if meta.get("audio_rev") else ""
+        el(item, "enclosure", url=f"{op3}/audio/{meta['dirname']}.mp3{rev}",
            length=meta["bytes"], type="audio/mpeg")
         el(item, f"{{{ITUNES}}}duration", int(meta["duration_seconds"]))
         el(item, f"{{{ITUNES}}}episode", meta["number"])
