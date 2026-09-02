@@ -1,3614 +1,3428 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.000
-I want you to just imagine waking up on an otherwise completely normal Friday morning.
+00:00:00.000 --> 00:00:04.960
+So in exactly 13 months, a multi-billion-dollar trap door
 
-00:00:05.000 --> 00:00:06.000
+00:00:04.960 --> 00:00:07.520
+is going to just completely open up
+
+00:00:07.520 --> 00:00:10.360
+underneath the American health care system.
+
+00:00:10.360 --> 00:00:12.640
+And the craziest part about this whole thing,
+
+00:00:12.640 --> 00:00:15.360
+the United States government actually built this trap door
+
+00:00:15.360 --> 00:00:17.640
+entirely on purpose.
+
+00:00:17.640 --> 00:00:18.640
+Yeah, they really did.
+
+00:00:18.640 --> 00:00:21.800
+I mean, it is hard-coded right into the statutory math.
+
+00:00:21.800 --> 00:00:23.200
+And when it opens, it's basically
+
+00:00:23.200 --> 00:00:25.600
+designed to drop the floor out from under the most
+
+00:00:25.600 --> 00:00:27.440
+vulnerable people in the entire system.
+
+00:00:27.440 --> 00:00:28.120
 Right.
 
-00:00:06.000 --> 00:00:08.800
-Let's say it's October 1st, 2027.
+00:00:28.160 --> 00:00:30.000
+So welcome to this deep dive.
 
-00:00:08.800 --> 00:00:11.920
-You go to pick up your grandmother's heart medication or maybe, I don't know, you're
+00:00:30.000 --> 00:00:32.800
+Today is September 2, 2026.
 
-00:00:11.920 --> 00:00:17.280
-scheduled for a routine dialysis appointment and the clinic door is just locked or the
+00:00:32.800 --> 00:00:35.080
+And we're looking at this massive ticking clock
 
-00:00:17.280 --> 00:00:23.720
-pharmacy tells you the copay, which is usually zero, is now suddenly hundreds of dollars.
+00:00:35.080 --> 00:00:38.080
+that ends on October 1, 2027.
 
-00:00:23.720 --> 00:00:24.720
-Which is terrifying.
+00:00:38.080 --> 00:00:41.000
+And for everyone listening, we want to make it clear
 
-00:00:24.720 --> 00:00:25.720
-It is.
+00:00:41.000 --> 00:00:43.440
+that this isn't just some abstract policy debate
 
-00:00:25.720 --> 00:00:30.280
-And that isn't some hypothetical doomsday scenario ripped from a sci-fi novel.
+00:00:43.440 --> 00:00:45.760
+about decimal points in a basement committee room
 
-00:00:30.280 --> 00:00:35.480
-That is a very real, mathematically predictable event that's actually scheduled on a federal
+00:00:45.760 --> 00:00:46.080
+somewhere.
 
-00:00:35.480 --> 00:00:39.720
-calendar for 1.3 million American citizens living in Puerto Rico.
+00:00:46.080 --> 00:00:47.200
+Absolutely not, no.
 
-00:00:39.720 --> 00:00:44.600
-Yeah, we're talking about nearly half the population of an entire island waking up
+00:00:47.200 --> 00:00:49.920
+This trap door specifically, and really disproportionately,
 
-00:00:44.600 --> 00:00:49.160
-to find their healthcare safety net has just, it's simply evaporated overnight.
+00:00:49.920 --> 00:00:54.040
+targets 1.3 million American citizens living in Puerto Rico.
 
-00:00:49.160 --> 00:00:50.440
-Welcome to today's deep dive.
+00:00:54.040 --> 00:00:54.540
+Yeah.
 
-00:00:50.440 --> 00:00:56.680
-We are unpacking a massive stack of governmental sources today, including a highly detailed Congressional
+00:00:54.540 --> 00:00:56.800
+And just to give you a sense of the scale here,
 
-00:00:56.680 --> 00:01:01.840
-Research Service report, official Puerto Rico government executive orders, financial oversight
+00:00:56.800 --> 00:00:59.800
+that is roughly 47% of the entire population of the island.
 
-00:01:01.840 --> 00:01:06.360
-and management board budget certifications, and internal task force timelines.
+00:00:59.800 --> 00:01:00.920
+Wow.
 
-00:01:06.360 --> 00:01:07.640
-That's a lot of paper.
+00:01:00.920 --> 00:01:01.800
+Half the island.
 
-00:01:07.640 --> 00:01:09.880
-It is a mountain of paper.
+00:01:01.800 --> 00:01:02.840
+Almost half, yeah.
 
-00:01:09.880 --> 00:01:13.100
-But the mission here is to figure out how this is happening.
+00:01:02.840 --> 00:01:05.320
+Almost half of Puerto Rico relies on the local Medicaid
 
-00:01:13.100 --> 00:01:15.160
-Because today is September 2026.
+00:01:05.320 --> 00:01:08.320
+program, which is known down there as Plan Vital,
 
-00:01:15.160 --> 00:01:17.040
-The clock is loudly ticking.
+00:01:08.320 --> 00:01:11.400
+for their most basic physical and behavioral health needs.
 
-00:01:17.040 --> 00:01:21.640
-We are entering a critical 13 month window for Puerto Rico's government to negotiate
+00:01:11.400 --> 00:01:15.520
+And right now, their access to a doctor, to a hospital bed,
 
-00:01:21.640 --> 00:01:25.920
-a massive healthcare funding package with the US Congress.
+00:01:15.520 --> 00:01:18.960
+to life-saving medication, it's hanging
 
-00:01:25.920 --> 00:01:28.960
-Exactly to prevent this catastrophic fiscal cliff.
+00:01:18.960 --> 00:01:21.840
+by a very, very frayed legislative threat.
 
-00:01:28.960 --> 00:01:31.320
-It is the definition of a manmade crisis.
+00:01:21.840 --> 00:01:23.440
+It's terrifying, honestly.
 
-00:01:31.320 --> 00:01:32.320
-Right.
+00:01:23.440 --> 00:01:25.840
+So my goal today is I really want
 
-00:01:32.320 --> 00:01:36.120
-We're looking at a structural failure baked into the very legislation that funds their
+00:01:25.840 --> 00:01:27.800
+to figure out how we got here.
 
-00:01:36.120 --> 00:01:37.360
-medical care.
+00:01:27.800 --> 00:01:30.160
+And more importantly, how the people who
 
-00:01:37.360 --> 00:01:39.680
-And the countdown is already well underway.
+00:01:30.160 --> 00:01:32.320
+are trying to stop this trap door from opening
 
-00:01:39.680 --> 00:01:45.720
-And what's so wild about this specific date, September 30, 2027, is that everyone
+00:01:32.320 --> 00:01:34.040
+are actually planning to do it.
 
-00:01:45.720 --> 00:01:47.000
-knows it's coming.
+00:01:34.040 --> 00:01:36.320
+Because we have this massive stack of documents
 
-00:01:47.000 --> 00:01:48.000
-Everyone.
+00:01:36.320 --> 00:01:37.360
+in front of us today.
 
-00:01:48.000 --> 00:01:51.320
-The federal government knows, the local government knows, the financial oversight boards know
+00:01:37.360 --> 00:01:39.360
+A literal mountain of paperwork.
 
-00:01:51.320 --> 00:01:52.320
-it.
+00:01:39.360 --> 00:01:40.120
+Literally.
 
-00:01:52.320 --> 00:01:53.320
-It's a looming cliff.
+00:01:40.120 --> 00:01:43.240
+We are looking at these highly technical congressional research
 
-00:01:53.320 --> 00:01:58.080
-And yet, solving it requires navigating this absolute labyrinth of federal statutes
+00:01:43.240 --> 00:01:44.040
+service reports.
 
-00:01:58.080 --> 00:02:02.160
-that treat these citizens fundamentally differently than someone living in, say, Florida or
+00:01:44.040 --> 00:01:46.320
+We've got executive orders from the Puerto Rican government.
 
-00:02:02.160 --> 00:02:03.160
-New York.
+00:01:46.320 --> 00:01:47.760
+We're looking at certified budgets
 
-00:02:03.160 --> 00:02:05.360
-And that's exactly what we're going to synthesize today.
+00:01:47.760 --> 00:01:50.160
+from financial oversight boards and just hundreds
 
-00:02:05.360 --> 00:02:09.960
-The dense statutory quirks, the legislative history, and the strategic playbook currently
+00:01:50.160 --> 00:01:52.480
+of pages of Medicaid annual reports.
 
-00:02:09.960 --> 00:02:11.960
-unfolding in real time.
+00:01:52.480 --> 00:01:54.400
+And our mission today is to, well,
 
-00:02:11.960 --> 00:02:14.700
-So let's start with the sheer scale of this.
+00:01:54.400 --> 00:01:58.080
+extract the actual signal from all that bureaucratic noise.
 
-00:02:14.700 --> 00:02:21.900
-Over a million people, like 47% of Puerto Rico's population, rely on this funding on
+00:01:58.080 --> 00:02:02.040
+Because underneath all that really dry bureaucratic language,
 
-00:02:21.900 --> 00:02:24.860
-their government health plan, which is called Plan Vital.
+00:02:02.040 --> 00:02:05.760
+I mean, this is fundamentally a story about unequal rules.
 
-00:02:24.860 --> 00:02:25.860
-Right.
+00:02:05.760 --> 00:02:09.400
+It's about the heavy burden of having to constantly prove
 
-00:02:25.860 --> 00:02:31.300
-How did we even get to a point where half an island's healthcare is on a ticking clock?
+00:02:09.400 --> 00:02:11.920
+you deserve the funding that you're asking for.
 
-00:02:31.300 --> 00:02:35.180
-Well to understand the origin of that clock, we really have to look at the plumbing
+00:02:11.920 --> 00:02:15.920
+And it's about the relentless, unforgiving nature
 
-00:02:35.180 --> 00:02:36.940
-of the Medicaid system itself.
+00:02:15.920 --> 00:02:17.720
+of congressional deadlines.
 
-00:02:36.940 --> 00:02:38.700
-The actual mechanics of it.
+00:02:17.720 --> 00:02:20.840
+It is just this profound look at what
 
-00:02:38.700 --> 00:02:39.700
+00:02:20.840 --> 00:02:24.800
+happens when the math that governs human lives
+
+00:02:24.800 --> 00:02:28.280
+is written differently for one specific group of citizens
+
+00:02:28.280 --> 00:02:30.640
+than it is for literally everyone else.
+
+00:02:30.640 --> 00:02:31.120
+Yeah.
+
+00:02:31.120 --> 00:02:33.760
+So before we really get into the impending cliff,
+
+00:02:33.760 --> 00:02:36.840
+I think we need to understand the baseline, like how
+
+00:02:36.840 --> 00:02:38.400
+this works for most people.
+
+00:02:38.400 --> 00:02:40.120
+Because if you live in one of the 50 states,
+
+00:02:40.120 --> 00:02:43.440
+Medicaid works in a very specific kind of invisible way.
+
+00:02:43.440 --> 00:02:45.680
+You probably don't even think about the funding mechanism
+
+00:02:45.680 --> 00:02:47.400
+if you or a family member needs it, right?
+
+00:02:47.400 --> 00:02:49.480
+Most people definitely do not think about it now.
+
+00:02:49.480 --> 00:02:52.440
+So how is the system actually supposed to function normally?
+
+00:02:52.440 --> 00:02:55.880
+OK, so in the 50 states and in the District of Columbia
+
+00:02:55.880 --> 00:02:59.280
+too, Medicaid funding is what we call open-ended.
+
+00:02:59.280 --> 00:03:01.960
+It's an entitlement program with a guaranteed federal matching
+
+00:03:01.960 --> 00:03:02.480
+structure.
+
+00:03:02.480 --> 00:03:03.000
+Meaning what?
+
+00:03:03.000 --> 00:03:03.720
 Exactly.
 
-00:02:39.700 --> 00:02:43.180
-And we are very fortunate to have the work of Alice and Mitchell to guide us here.
+00:03:03.720 --> 00:03:07.000
+So if an individual meets the eligibility requirements
 
-00:02:43.180 --> 00:02:44.180
+00:03:07.000 --> 00:03:10.960
+and they need medical care, the state provides that care.
+
+00:03:10.960 --> 00:03:13.600
+The state pays the doctor or the hospital.
+
+00:03:13.600 --> 00:03:15.400
+And then the federal government guarantees
+
+00:03:15.400 --> 00:03:17.520
+that they will reimburse the state
+
+00:03:17.560 --> 00:03:21.160
+for a specific percentage of that cost, always.
+
+00:03:21.160 --> 00:03:23.640
+So the state never has to worry that the federal government
+
+00:03:23.640 --> 00:03:27.040
+is suddenly going to say, sorry, we're out of money for the year.
+
+00:03:27.040 --> 00:03:28.320
+You're totally on your own.
+
+00:03:28.320 --> 00:03:28.960
+Never.
+
+00:03:28.960 --> 00:03:31.440
+The federal matching funds are totally guaranteed.
+
+00:03:31.440 --> 00:03:34.320
+And that federal share, it's determined by a formula
+
+00:03:34.320 --> 00:03:36.560
+called the Federal Medical Assistance Percentage.
+
+00:03:36.560 --> 00:03:38.000
+OK, the FMAP.
+
+00:03:38.000 --> 00:03:39.840
+Right, you will hear it referred to constantly
+
+00:03:39.840 --> 00:03:42.360
+in policy circles as the FMAP.
+
+00:03:42.360 --> 00:03:45.360
+Now, the FMAP ranges from a minimum of 50%
+
+00:03:45.360 --> 00:03:48.440
+all the way up to a maximum of 83%.
+
+00:03:48.440 --> 00:03:51.360
+And the way they decide where a specific state falls
+
+00:03:51.360 --> 00:03:55.120
+on that scale is strictly based on the state's per capita income.
+
+00:03:55.120 --> 00:03:57.320
+OK, meaning the poorer states get more help
+
+00:03:57.320 --> 00:03:58.560
+from the federal government.
+
+00:03:58.560 --> 00:03:59.320
+Exactly.
+
+00:03:59.320 --> 00:04:01.480
+If a state has a lower per capita income,
+
+00:04:01.480 --> 00:04:03.240
+they get a higher matching rate.
+
+00:04:03.240 --> 00:04:05.840
+It's designed to be this equalizing force, right?
+
+00:04:05.840 --> 00:04:08.680
+Ensuring that poorer states aren't just completely
+
+00:04:08.680 --> 00:04:11.480
+bankrupted by trying to provide basic health care
+
+00:04:11.480 --> 00:04:12.920
+to their lowest income residents.
+
+00:04:12.920 --> 00:04:14.680
+See, that makes logical sense to me.
+
+00:04:14.680 --> 00:04:17.360
+It's a safety net that basically expands
+
+00:04:17.360 --> 00:04:18.960
+when the need is greater.
+
+00:04:18.960 --> 00:04:20.600
+But from reading these source documents,
+
+00:04:20.600 --> 00:04:22.080
+that is not how it works in Puerto Rico.
+
+00:04:22.080 --> 00:04:22.680
+By at all.
+
+00:04:22.680 --> 00:04:23.880
+I was actually trying to visualize
+
+00:04:23.880 --> 00:04:25.680
+the difference when I was reading through this.
+
+00:04:25.680 --> 00:04:27.960
+And it feels a bit like firefighting.
+
+00:04:27.960 --> 00:04:31.160
+So imagine a massive fire breaks out.
+
+00:04:31.160 --> 00:04:33.560
+If you are a state, the federal government
+
+00:04:33.560 --> 00:04:36.360
+hands you a garden hose, and they connect it directly
+
+00:04:36.360 --> 00:04:38.200
+to the municipal water main.
+
+00:04:38.200 --> 00:04:38.560
 Right.
 
-00:02:44.180 --> 00:02:45.180
-Yes.
+00:04:38.560 --> 00:04:40.080
+And as long as the fire is burning,
 
-00:02:45.180 --> 00:02:46.180
-Yeah, the Congressional Research Service.
+00:04:40.080 --> 00:04:42.760
+meaning as long as you have sick, eligible people who
 
-00:02:46.180 --> 00:02:50.340
-If you wander the halls of Congress and ask a legislative assistant how territorial Medicaid
+00:04:42.760 --> 00:04:45.560
+need care, that water just keeps flowing,
 
-00:02:50.340 --> 00:02:53.780
-works, they aren't looking at political talking points, you know.
+00:04:45.560 --> 00:04:49.120
+the supply is theoretically infinite as long as the need
 
-00:02:53.780 --> 00:02:55.300
-They're looking at Mitchell's reports.
+00:04:49.120 --> 00:04:49.760
+exists.
 
-00:02:55.300 --> 00:02:56.300
+00:04:49.760 --> 00:04:52.360
+That is a very, very accurate way to picture
+
+00:04:52.360 --> 00:04:53.760
+the open-ended structure.
+
+00:04:53.760 --> 00:04:55.280
+But then you look at Puerto Rico,
+
+00:04:55.280 --> 00:04:57.280
+and they aren't given a garden hose.
+
+00:04:57.280 --> 00:04:59.120
+The federal government gives Puerto Rico
+
+00:04:59.120 --> 00:05:01.760
+a specific, totally predetermined number
+
+00:05:01.760 --> 00:05:03.320
+of buckets of water.
+
+00:05:03.320 --> 00:05:05.760
+And they basically say, here is your water for the year.
+
+00:05:05.760 --> 00:05:06.160
+Yeah.
+
+00:05:06.160 --> 00:05:06.760
+Good luck.
+
+00:05:06.760 --> 00:05:07.880
+Exactly.
+
+00:05:07.880 --> 00:05:09.400
+And if the fire gets too big,
+
+00:05:09.400 --> 00:05:12.000
+or if the fire burns longer than expected,
+
+00:05:12.000 --> 00:05:14.320
+those buckets eventually run dry.
+
+00:05:14.320 --> 00:05:15.960
+And once the buckets are empty, it just
+
+00:05:15.960 --> 00:05:17.640
+doesn't matter how big the fire is.
+
+00:05:17.640 --> 00:05:19.760
+It doesn't matter how many people are sick.
+
+00:05:19.760 --> 00:05:21.640
+The federal water completely stops.
+
+00:05:21.640 --> 00:05:23.280
+The federal water completely stops.
+
+00:05:23.280 --> 00:05:24.520
+And the local government is just
+
+00:05:24.520 --> 00:05:26.800
+left standing there with an empty bucket,
+
+00:05:26.800 --> 00:05:29.120
+completely responsible for every single dollar
+
+00:05:29.120 --> 00:05:31.800
+of health care costs beyond that point.
+
+00:05:31.800 --> 00:05:34.120
+And this capped structure, it's
+
+00:05:34.120 --> 00:05:36.440
+written into a very specific piece of the law.
+
+00:05:36.440 --> 00:05:37.400
+Which section is that?
+
+00:05:37.400 --> 00:05:39.840
+It's section 1108G of the Social Security Act.
+
+00:05:39.880 --> 00:05:41.720
+Section 1108G.
+
+00:05:41.720 --> 00:05:42.760
+OK.
+
+00:05:42.760 --> 00:05:45.120
+But it gets even worse than just having a cap, doesn't it?
+
+00:05:45.120 --> 00:05:47.240
+Let's talk about the actual size of the buckets
+
+00:05:47.240 --> 00:05:48.040
+they're given.
+
+00:05:48.040 --> 00:05:50.800
+Because you mentioned earlier that in the 50 states,
+
+00:05:50.800 --> 00:05:53.080
+the federal matching percentage, the FMAP,
+
+00:05:53.080 --> 00:05:55.800
+can go up to 83% for the poorest states.
+
+00:05:55.800 --> 00:05:57.120
+Right, up to 83.
+
+00:05:57.120 --> 00:06:00.240
+So where does Puerto Rico sit on that scale,
+
+00:06:00.240 --> 00:06:01.640
+I mean, given their economy?
+
+00:06:01.640 --> 00:06:05.080
+Well, by permanent statute, the baseline law,
+
+00:06:05.080 --> 00:06:07.640
+as it's permanently written in the books right now,
+
+00:06:07.680 --> 00:06:11.320
+Puerto Rico's FMAP is locked at 55%.
+
+00:06:11.320 --> 00:06:12.600
+Yeah, just 55%.
+
+00:06:12.600 --> 00:06:13.760
+Just 55%.
+
+00:06:13.760 --> 00:06:15.520
+But Puerto Rico has a poverty rate
+
+00:06:15.520 --> 00:06:19.520
+that drastically exceeds literally any of the 50 states.
+
+00:06:19.520 --> 00:06:20.960
+If the whole point of the formula
+
+00:06:20.960 --> 00:06:23.360
+is supposed to help poorer jurisdictions more,
+
+00:06:23.360 --> 00:06:25.960
+how on earth are they locked in at 55%.
+
+00:06:25.960 --> 00:06:29.280
+Because the standard formula just doesn't apply to them.
+
+00:06:29.280 --> 00:06:31.640
+If Puerto Rico were treated like a state,
+
+00:06:31.640 --> 00:06:34.160
+their per capita income is so low
+
+00:06:34.160 --> 00:06:35.800
+that it would automatically trigger
+
+00:06:35.800 --> 00:06:38.000
+the maximum allowable FMAP.
+
+00:06:38.000 --> 00:06:40.000
+So they'd be at the 83%.
+
+00:06:40.000 --> 00:06:42.680
+They would instantly be at that 83% tier.
+
+00:06:42.680 --> 00:06:44.440
+But because they are a territory
+
+00:06:44.440 --> 00:06:47.200
+and they're operating under that section 1108G,
+
+00:06:47.200 --> 00:06:50.880
+the per capita income formula is essentially just bypassed.
+
+00:06:50.880 --> 00:06:54.720
+Congress simply hard-coded them into the law at 55%.
+
+00:06:54.720 --> 00:06:56.880
+So they get a capped number of buckets.
+
+00:06:56.880 --> 00:06:58.880
+And the buckets themselves are artificially small
+
+00:06:58.880 --> 00:07:00.760
+to begin with, totally ignoring
+
+00:07:00.760 --> 00:07:03.280
+the actual economic reality on the ground.
+
+00:07:03.280 --> 00:07:06.000
+How does a healthcare system even function
+
+00:07:06.000 --> 00:07:07.200
+under those kinds of conditions?
+
+00:07:07.200 --> 00:07:09.480
+Honestly, functioning is probably too strong a word.
+
+00:07:09.480 --> 00:07:10.320
+Yeah.
+
+00:07:10.320 --> 00:07:11.160
+It survives.
+
+00:07:11.160 --> 00:07:13.680
+And it has really only survived over the last decade
+
+00:07:13.680 --> 00:07:15.760
+because Congress has been applying
+
+00:07:15.760 --> 00:07:18.400
+these temporary legislative band-aids.
+
+00:07:18.400 --> 00:07:21.200
+They haven't fixed the underlying structural inequity at all.
+
+00:07:21.200 --> 00:07:24.520
+They've just thrown extra temporary buckets of water
+
+00:07:24.520 --> 00:07:26.360
+at the island when the fire threatens
+
+00:07:26.360 --> 00:07:28.120
+to burn the whole system down.
+
+00:07:28.120 --> 00:07:29.680
+Looking at the history in these documents,
+
+00:07:29.680 --> 00:07:33.080
+it is just one exhausting cliffhanger after another.
+
+00:07:33.080 --> 00:07:34.360
+It seems like the local government
+
+00:07:34.360 --> 00:07:36.120
+can never actually plan for the future
+
+00:07:36.120 --> 00:07:38.240
+because they're always like six months away
+
+00:07:38.240 --> 00:07:39.240
+from running out of money.
+
+00:07:39.240 --> 00:07:42.040
+It's a devastating way to run a government agency.
+
+00:07:42.040 --> 00:07:43.280
+I mean, if we look back,
+
+00:07:43.280 --> 00:07:46.080
+the cycle of temporary patches really started in earnest
+
+00:07:46.080 --> 00:07:47.720
+with the Affordable Care Act.
+
+00:07:47.720 --> 00:07:51.080
+Between July 2011 and December 2019,
+
+00:07:51.080 --> 00:07:55.200
+the ACA provided an additional $5.4 billion
+
+00:07:55.200 --> 00:07:57.400
+in Medicaid funding to Puerto Rico.
+
+00:07:57.400 --> 00:07:59.200
+But that had an expiration date.
+
+00:07:59.200 --> 00:08:00.240
+It did.
+
+00:08:00.240 --> 00:08:02.320
+And when that money started drying up,
+
+00:08:02.320 --> 00:08:04.520
+it triggered a totally new crisis.
+
+00:08:04.520 --> 00:08:05.600
+So Congress responded
+
+00:08:05.600 --> 00:08:08.800
+with the Consolidated Appropriations Act of 2017,
+
+00:08:08.800 --> 00:08:11.160
+which threw in nearly $300 million.
+
+00:08:11.160 --> 00:08:12.200
 Right.
 
-00:02:56.300 --> 00:02:59.060
-They're pulling up these nonpartisan briefs written by her.
+00:08:12.200 --> 00:08:15.360
+Then, in the aftermath of the devastating hurricanes,
 
-00:02:59.060 --> 00:03:03.060
-The CRS is essentially the in-house think tank for Congress.
+00:08:15.360 --> 00:08:18.680
+they passed the Bipartisan Budget Act of 2018,
 
-00:03:03.060 --> 00:03:04.060
-They don't lobby.
+00:08:18.680 --> 00:08:21.440
+which provided $3.6 billion
 
-00:03:04.060 --> 00:03:05.060
-They don't take signs.
+00:08:21.440 --> 00:08:24.080
+in disaster response funding for healthcare.
 
-00:03:05.060 --> 00:03:06.060
-They just explain the law.
+00:08:24.080 --> 00:08:25.320
+Always temporary.
 
-00:03:06.060 --> 00:03:07.660
-They just explain the law.
+00:08:25.320 --> 00:08:27.640
+And always disaster-driven, it seems like.
 
-00:03:07.660 --> 00:03:12.180
-And Mitchell has spent years documenting this very specific divergence in how the
+00:08:27.640 --> 00:08:28.800
+Always.
 
-00:03:12.180 --> 00:03:13.780
-United States funds healthcare.
+00:08:28.800 --> 00:08:31.520
+Which brings us to the most recent major patch,
 
-00:03:13.900 --> 00:03:17.380
-A divergence between the 50 states and the territories.
+00:08:31.560 --> 00:08:34.040
+the one that was negotiated back in 2022.
 
-00:03:17.380 --> 00:03:18.860
+00:08:34.040 --> 00:08:36.960
+This is the Consolidated Appropriations Act of 2023,
+
+00:08:36.960 --> 00:08:38.760
+often just called the CAA.
+
+00:08:38.760 --> 00:08:41.080
+Right, I saw a lot about the CAA in the document.
+
+00:08:41.080 --> 00:08:42.280
+Yeah, this was a massive,
+
+00:08:42.280 --> 00:08:44.200
+incredibly complex relief package.
+
+00:08:44.200 --> 00:08:46.560
+It was negotiated heavily by Jennifer Gonzalez,
+
+00:08:46.560 --> 00:08:48.160
+who was the resident commissioner at the time,
+
+00:08:48.160 --> 00:08:49.640
+and who is now the governor.
+
+00:08:49.640 --> 00:08:52.200
+So what did that 2022 deal actually do?
+
+00:08:52.200 --> 00:08:54.200
+Did it finally fix the bucket?
+
+00:08:54.200 --> 00:08:55.840
+Well, it made the bucket much bigger
+
+00:08:55.840 --> 00:08:57.040
+and it made the federal government pay
+
+00:08:57.040 --> 00:08:58.080
+for a lot more of the water,
+
+00:08:58.080 --> 00:08:59.560
+but again, only temporarily.
+
+00:08:59.560 --> 00:09:00.400
+Of course.
+
+00:09:00.400 --> 00:09:05.200
+The CAA provided roughly $19.4 billion to Puerto Rico,
+
+00:09:05.200 --> 00:09:07.440
+and that spread out over five years.
+
+00:09:07.440 --> 00:09:12.240
+It temporarily lifted that really punishing 55% FMAP
+
+00:09:12.240 --> 00:09:13.480
+up to 76%.
+
+00:09:13.480 --> 00:09:14.600
+Okay, that's a big jump.
+
+00:09:14.600 --> 00:09:15.440
+Yeah, it is.
+
+00:09:15.440 --> 00:09:17.680
+And it provided a legally capped limit of federal funding
+
+00:09:17.680 --> 00:09:19.720
+that slowly scales up year over year,
+
+00:09:19.720 --> 00:09:23.760
+reaching about $3.8 billion by fiscal year 2027.
+
+00:09:23.760 --> 00:09:27.120
+But there is that word again, fiscal year 2027,
+
+00:09:27.120 --> 00:09:28.440
+the clock runs out.
+
+00:09:28.440 --> 00:09:30.400
+So if I'm trying to wrap my head around this
+
+00:09:30.400 --> 00:09:31.920
+from a legislative standpoint,
+
+00:09:31.920 --> 00:09:35.160
+I keep coming back to a really basic logistical question.
+
+00:09:35.160 --> 00:09:36.160
+What's that?
+
+00:09:36.160 --> 00:09:38.480
+The US Congress is incredibly divided, right?
+
+00:09:38.480 --> 00:09:40.280
+It's highly polarized.
+
+00:09:40.280 --> 00:09:41.960
+How do hundreds of lawmakers
+
+00:09:41.960 --> 00:09:44.600
+who can barely agree on what day of the week it is
+
+00:09:44.600 --> 00:09:46.360
+establish a baseline of facts
+
+00:09:46.360 --> 00:09:47.600
+to even begin arguing
+
+00:09:47.600 --> 00:09:49.840
+about a territorial Medicaid formula?
+
+00:09:49.840 --> 00:09:51.400
+Who actually tells them what the math is?
+
+00:09:51.400 --> 00:09:52.840
+That is perhaps the most fascinating
+
+00:09:52.840 --> 00:09:54.660
+mechanical question in Washington.
+
+00:09:54.660 --> 00:09:56.280
+Because in a town where everyone has their own
+
+00:09:56.320 --> 00:09:58.960
+political spin and their own, you know, alternative math,
+
+00:09:58.960 --> 00:10:00.560
+there is one entity that serves
+
+00:10:00.560 --> 00:10:02.960
+as the undisputed referee of reality.
+
+00:10:02.960 --> 00:10:04.800
+The Congressional Research Service.
+
+00:10:04.800 --> 00:10:06.280
+Yes, the CRS.
+
+00:10:06.280 --> 00:10:09.140
+And when it comes to territorial Medicaid funding,
+
+00:10:09.140 --> 00:10:11.960
+there is one specific author whose work is treated
+
+00:10:11.960 --> 00:10:13.600
+as the absolute gospel truth
+
+00:10:13.600 --> 00:10:15.480
+by every single congressional office.
+
+00:10:15.480 --> 00:10:17.240
+And her name is Allison Mitchell.
+
+00:10:17.240 --> 00:10:18.360
+Her name is Allison Mitchell.
+
+00:10:18.360 --> 00:10:20.040
+I am so glad we're talking about this,
+
+00:10:20.040 --> 00:10:22.000
+because as a listener, you rarely hear
+
+00:10:22.000 --> 00:10:24.440
+about the actual people who write the documents
+
+00:10:24.440 --> 00:10:27.200
+that shape these multi-billion dollar decisions.
+
+00:10:27.200 --> 00:10:29.860
+So what exactly is Allison Mitchell's role?
+
+00:10:29.860 --> 00:10:32.400
+Allison Mitchell is a specialist in healthcare financing
+
+00:10:32.400 --> 00:10:34.200
+at the Congressional Research Service.
+
+00:10:34.200 --> 00:10:36.680
+And the CRS, they operate entirely
+
+00:10:36.680 --> 00:10:38.680
+within the Library of Congress.
+
+00:10:38.680 --> 00:10:41.700
+Their mandate is incredibly vital to understand.
+
+00:10:41.700 --> 00:10:42.880
+They do not lobby.
+
+00:10:42.880 --> 00:10:43.720
+At all.
+
+00:10:43.720 --> 00:10:44.560
+Not at all.
+
+00:10:44.560 --> 00:10:46.720
+They do not advocate for policies.
+
+00:10:46.720 --> 00:10:49.120
+They do not suggest what Congress should do.
+
+00:10:49.120 --> 00:10:51.760
+They simply serve as nonpartisan shared staff
+
+00:10:51.760 --> 00:10:54.160
+for congressional committees and members of Congress.
+
+00:10:54.160 --> 00:10:57.760
+Their singular job is to provide factual, objective,
+
+00:10:57.760 --> 00:11:00.280
+legally sound descriptions of current law
+
+00:11:00.280 --> 00:11:04.360
+and how proposed changes would mathematically alter that law.
+
+00:11:04.360 --> 00:11:07.160
+So if a senator from Ohio and a representative
+
+00:11:07.160 --> 00:11:09.280
+from California are just screaming at each other
+
+00:11:09.280 --> 00:11:11.400
+about how much Puerto Rico gets in Medicaid,
+
+00:11:11.400 --> 00:11:13.560
+they both have to look at Allison Mitchell's report
+
+00:11:13.560 --> 00:11:15.640
+to find out who is actually right.
+
+00:11:15.640 --> 00:11:16.480
 Precisely.
 
-00:03:18.860 --> 00:03:25.700
-So if you live in any of the 50 states or Washington, D.C., Medicaid operates as an open-ended entitlement
+00:11:16.480 --> 00:11:18.120
+Her reports are the baseline.
 
-00:03:25.700 --> 00:03:26.700
-program.
+00:11:18.120 --> 00:11:20.360
+If Puerto Rico wants to change the law,
 
-00:03:26.700 --> 00:03:27.700
-Okay.
+00:11:20.360 --> 00:11:22.520
+they cannot walk into a committee hearing
 
-00:03:27.700 --> 00:03:28.700
-Open-ended.
+00:11:22.520 --> 00:11:25.080
+with like a glossy brochure
 
-00:03:28.700 --> 00:03:30.540
-Let's break down what that actually means mechanically for the listener.
+00:11:25.080 --> 00:11:26.920
+and their own customized set of numbers.
 
-00:03:30.540 --> 00:03:31.540
-Sure.
+00:11:26.920 --> 00:11:28.440
+They'd just be lashed out of the room.
 
-00:03:31.540 --> 00:03:34.740
-It means the federal government agrees to match a percentage of whatever the state
+00:11:28.440 --> 00:11:29.960
+You would be dismissed immediately.
 
-00:03:34.740 --> 00:03:36.620
-spends on eligible healthcare.
+00:11:29.960 --> 00:11:32.040
+If you want a divided Congress to act,
 
-00:03:36.620 --> 00:03:37.620
-Right.
+00:11:32.040 --> 00:11:34.680
+you have to anchor your entire argument
 
-00:03:37.620 --> 00:03:42.140
-That matching rate is called the Federal Medical Assistance Percentage, or FMAP.
+00:11:34.680 --> 00:11:37.440
+to the CRS documentation of current law.
 
-00:03:42.140 --> 00:03:43.140
-Okay.
+00:11:37.440 --> 00:11:39.400
+Let's really dig into these specific documents
 
-00:03:43.900 --> 00:03:48.020
-How is that percentage actually calculated for like a regular state?
+00:11:39.400 --> 00:11:42.280
+because our sources indicate that Mitchell's PDFs
 
-00:03:48.020 --> 00:03:50.620
-It's tied directly to per capita income.
+00:11:42.280 --> 00:11:43.600
+are basically the holy grail
 
-00:03:50.620 --> 00:03:54.900
-It is a mathematical formula that's designed to ensure poorer states get more help.
+00:11:43.600 --> 00:11:46.040
+for legislative staffers working on this issue.
 
-00:03:54.900 --> 00:03:55.900
-Makes sense.
+00:11:46.040 --> 00:11:48.000
+What is the first document they're looking at?
 
-00:03:55.900 --> 00:03:56.900
-Right.
+00:11:48.000 --> 00:11:50.200
+So the primary document that every single
 
-00:03:56.900 --> 00:04:00.020
-If a state has a lower per capita income compared to the national average, the federal
+00:11:50.200 --> 00:11:52.120
+legislative assistant keeps on their desk
 
-00:04:00.020 --> 00:04:03.300
-government shoulders a larger burden of their Medicaid costs.
+00:11:52.160 --> 00:11:56.480
+is IF-1112, specifically version 11,
 
-00:04:03.300 --> 00:04:04.300
-So there's a range.
+00:11:56.480 --> 00:11:59.600
+which was updated back in June of 2023.
 
-00:04:04.300 --> 00:04:05.300
-Yeah.
+00:11:59.600 --> 00:12:02.240
+This is what the CRS calls an in-focus report.
 
-00:04:05.300 --> 00:04:09.620
-By law, that federal match can range from a floor of 50% for wealthier states up
+00:12:02.240 --> 00:12:03.880
+And this is just two pages, right?
 
-00:04:09.620 --> 00:04:13.340
-to a statutory maximum of 83% for the poorest states.
+00:12:03.880 --> 00:12:05.600
+Exactly two pages.
 
-00:04:13.340 --> 00:04:14.340
-Okay.
+00:12:05.600 --> 00:12:09.200
+It is an absolute masterclass in concise policy writing.
 
-00:04:14.340 --> 00:04:18.540
-So if a state hits a severe economic downturn, their per capita income drops and the federal
+00:12:09.200 --> 00:12:11.360
+Like if you are a 24-year-old staffer
 
-00:04:18.540 --> 00:04:22.460
-formula just automatically adjusts to give them a higher matching percentage to help them
+00:12:11.360 --> 00:12:14.120
+who has exactly five minutes to brief a senator
 
-00:04:22.460 --> 00:04:23.460
-weather the storm.
+00:12:14.120 --> 00:12:16.880
+before they walk into a massive healthcare hearing,
 
-00:04:23.460 --> 00:04:24.460
-Exactly.
+00:12:16.880 --> 00:12:19.240
+you read IF-111312.
 
-00:04:24.460 --> 00:04:25.460
-It's dynamic.
+00:12:19.280 --> 00:12:22.480
+It distills the capped funding, the FMAP rate,
 
-00:04:25.460 --> 00:04:28.260
-But the most crucial word I used a moment ago was open-ended.
+00:12:22.480 --> 00:12:25.480
+the territorial exceptions, and the current funding levels
 
-00:04:28.260 --> 00:04:29.260
-Right.
+00:12:25.480 --> 00:12:27.800
+into just one digestible brief.
 
-00:04:29.260 --> 00:04:33.580
-If a state experiences a massive public health crisis, say an epidemic or a natural
+00:12:27.800 --> 00:12:29.600
+It is the cheat sheet that allows lawmakers
 
-00:04:33.580 --> 00:04:38.620
-disaster, and suddenly tens of thousands of newly eligible people need care?
+00:12:29.600 --> 00:12:31.120
+to actually sound informed.
 
-00:04:38.620 --> 00:04:41.140
-The federal government doesn't cap its contribution.
+00:12:31.120 --> 00:12:33.360
+But a two-page cheat sheet isn't gonna be enough
 
-00:04:41.140 --> 00:04:42.140
-Right.
+00:12:33.360 --> 00:12:35.480
+if you are actually trying to write a new law
 
-00:04:42.140 --> 00:04:48.260
-It pays its calculated FMAP percentage for every single eligible dollar spent, whether
+00:12:35.480 --> 00:12:38.440
+or argue the deep historical context.
 
-00:04:48.260 --> 00:04:52.660
-the total bill for the state is $100 million or $10 billion.
+00:12:38.440 --> 00:12:40.080
+What is the heavy artillery here?
 
-00:04:52.660 --> 00:04:55.940
-You know, I like to think of this like an open tab at a restaurant.
+00:12:40.080 --> 00:12:41.400
+The heavy artillery was issued
 
-00:04:55.940 --> 00:04:56.940
-Oh, like that.
+00:12:41.400 --> 00:12:45.800
+on the exact same day as that update, June 22, 2023.
 
-00:04:56.940 --> 00:04:57.940
-Yeah.
+00:12:45.800 --> 00:12:49.000
+This is document R-47601, it's titled,
 
-00:04:57.940 --> 00:04:59.900
-If you have an open tab and you've agreed with your wealthy uncle that he will
+00:12:49.000 --> 00:12:51.840
+Legislative History of Medicaid Financing for the Territories.
 
-00:04:59.900 --> 00:05:04.540
-cover, say, 60% of the bill, it doesn't matter how many cousins show up to the
+00:12:51.840 --> 00:12:53.840
+Which just sounds incredibly dense.
 
-00:05:04.540 --> 00:05:05.540
-dinner.
+00:12:53.840 --> 00:12:57.080
+Oh, it is incredibly dense, but it's so necessary.
 
-00:05:05.540 --> 00:05:06.540
-Right.
+00:12:57.080 --> 00:13:00.360
+Because it tracks the exhaustive statute-by-statute history
 
-00:05:06.540 --> 00:05:07.540
-Right.
+00:13:00.360 --> 00:13:02.240
+from the open-ended inception of Medicaid
 
-00:05:07.540 --> 00:05:11.780
-If you continue, your uncle just keeps paying his 60%, even if the final check is
+00:13:02.240 --> 00:13:03.720
+all the way back in 1965
 
-00:05:11.780 --> 00:05:12.980
-astronomical.
+00:13:03.720 --> 00:13:05.880
+up through every single temporary patch,
 
-00:05:12.980 --> 00:05:15.020
-That is the perfect way to visualize it.
+00:13:05.880 --> 00:13:08.280
+disaster relief bill, and continuing resolution
 
-00:05:15.020 --> 00:05:19.020
-The funding scales automatically with the population's need.
+00:13:08.280 --> 00:13:09.920
+up to the 2023 CAA.
 
-00:05:19.020 --> 00:05:23.860
-But this is where Mitchell's research points out this massive structural fork in
+00:13:09.920 --> 00:13:11.200
+So it's everything.
 
-00:05:23.860 --> 00:05:24.860
-the road.
+00:13:11.200 --> 00:13:13.800
+It tracks every single dollar.
 
-00:05:24.860 --> 00:05:25.860
-Here we go.
+00:13:13.800 --> 00:13:15.720
+If a fiscal conservative wants to argue
 
-00:05:25.860 --> 00:05:28.860
-Puerto Rico and the other U.S. territories, they do not operate under that state
+00:13:15.720 --> 00:13:16.840
+that Puerto Rico has received
 
-00:05:28.860 --> 00:05:29.860
-formula.
+00:13:16.840 --> 00:13:18.960
+too much temporary funding
 
-00:05:29.860 --> 00:05:30.860
-Yeah.
+00:13:18.960 --> 00:13:21.120
+or if the Puerto Rican advocate wants to argue
 
-00:05:30.860 --> 00:05:34.100
-They're governed by a completely different, very obscure section in the Social
+00:13:21.120 --> 00:13:25.240
+they've been historically short-changed by that 55% cap,
 
-00:05:34.100 --> 00:05:35.260
-Security Act.
+00:13:25.240 --> 00:13:29.440
+both sides most cite R-47601 to make their case.
 
-00:05:35.260 --> 00:05:36.260
-Section 1108G.
+00:13:29.440 --> 00:13:30.920
+It is the shared reality.
 
-00:05:36.260 --> 00:05:37.260
-Section 1108G.
+00:13:30.920 --> 00:13:32.560
+Yes, but the document
 
-00:05:37.260 --> 00:05:40.400
-And what does Section 1108G do to that open tab?
+00:13:32.560 --> 00:13:35.000
+that is causing everyone to lose sleep right now,
 
-00:05:40.400 --> 00:05:41.860
-It closes it.
+00:13:35.000 --> 00:13:38.760
+the document that sets the October 2027 trap door
 
-00:05:41.860 --> 00:05:46.620
-Under this statute, territorial Medicaid is subject to a hard annual federal
+00:13:38.760 --> 00:13:41.200
+is R-49126.
 
-00:05:46.620 --> 00:05:48.180
-capped funding limit.
+00:13:41.200 --> 00:13:42.720
+Expiring health provisions.
 
-00:05:48.180 --> 00:05:49.180
-Hard cap.
-
-00:05:49.180 --> 00:05:50.180
-A hard cap.
-
-00:05:50.180 --> 00:05:51.180
-Yeah.
-
-00:05:51.180 --> 00:05:52.580
-The federal government sets a strict dollar amount for the year.
-
-00:05:52.580 --> 00:05:56.220
-And once the territory draws down those funds, the federal contribution just
-
-00:05:56.220 --> 00:05:57.220
-drops to zero.
-
-00:05:57.220 --> 00:05:58.220
-Wow.
-
-00:05:58.220 --> 00:05:59.220
-So it's not an open tab at all.
-
-00:05:59.220 --> 00:06:00.220
-It's like a gift card.
-
-00:06:00.220 --> 00:06:01.220
-It's exactly a gift card.
-
-00:06:01.220 --> 00:06:03.460
-A gift card with a strictly enforced balance.
-
-00:06:03.460 --> 00:06:06.900
-Okay, let's play out what happens when that gift card ones out.
-
-00:06:06.900 --> 00:06:10.740
-Let's say Puerto Rico hits its cap in August, but the fiscal year doesn't end
-
-00:06:10.740 --> 00:06:12.500
-until September.
-
-00:06:12.500 --> 00:06:14.100
-What actually happens on the ground?
-
-00:06:14.100 --> 00:06:16.380
-Do hospitals just work for free?
-
-00:06:16.380 --> 00:06:18.740
-Well this is the terrifying reality of the cap.
-
-00:06:18.740 --> 00:06:22.780
-When the federal funds run out, the territory is legally obligated to cover
-
-00:06:22.780 --> 00:06:27.540
-100% of the remaining healthcare costs out of its own local treasury.
-
-00:06:27.540 --> 00:06:30.180
-And they don't have that kind of money just sitting around.
-
-00:06:30.180 --> 00:06:31.180
-No.
-
-00:06:31.180 --> 00:06:32.780
-Historically they absolutely have not.
-
-00:06:32.780 --> 00:06:35.860
-So if the local government doesn't have hundreds of millions of dollars to cover
-
-00:06:35.860 --> 00:06:39.820
-that shortfall, the system starts to seize up.
-
-00:06:39.820 --> 00:06:43.740
-The government delays payments to the private insurance companies that manage
-
-00:06:43.740 --> 00:06:45.140
-the care.
-
-00:06:45.140 --> 00:06:48.140
-Those companies delay payments to hospitals and doctors.
-
-00:06:48.140 --> 00:06:53.740
-And doctors who have their own bills to pay either stop seeing Medicaid patients
-
-00:06:53.740 --> 00:06:56.740
-or they just pack up and move to a state where the funding is stable.
-
-00:06:56.740 --> 00:07:00.900
-Which collapses the local healthcare infrastructure entirely.
-
-00:07:01.020 --> 00:07:04.100
-The cap is only half of the structural disadvantage here.
-
-00:07:04.100 --> 00:07:05.100
-There's more.
-
-00:07:05.100 --> 00:07:06.100
-Oh yeah.
-
-00:07:06.100 --> 00:07:10.100
-We also have to look at the matching rate, the FMAP that applies before they hit the
-
-00:07:10.100 --> 00:07:11.100
-cap.
-
-00:07:11.100 --> 00:07:13.500
-Remember that dynamic formula for the states?
-
-00:07:13.500 --> 00:07:15.620
-The one based on per capita income.
-
-00:07:15.620 --> 00:07:16.620
-Right.
-
-00:07:16.620 --> 00:07:19.340
-Where poorer states can get up to an 83% federal match.
-
-00:07:19.340 --> 00:07:20.340
-Yes.
-
-00:07:20.340 --> 00:07:25.580
-Given that Puerto Rico's poverty rate is significantly higher than any of the 50 states.
-
-00:07:25.580 --> 00:07:28.540
-I think it hovers over 40% in many areas.
-
-00:07:28.540 --> 00:07:29.740
-Right around there, yeah.
-
-00:07:29.740 --> 00:07:34.700
-You would naturally assume the math dictates they get that maximum 83% match.
-
-00:07:34.700 --> 00:07:40.940
-Any standard mathematical application of the formula would guarantee them the 83% rate.
-
-00:07:40.940 --> 00:07:43.180
-But section 1108G strikes again.
-
-00:07:43.180 --> 00:07:44.180
-Oh boy.
-
-00:07:44.180 --> 00:07:49.620
-Because they are a territory, Congress explicitly excluded them from the per capita formula.
-
-00:07:49.620 --> 00:07:50.620
-Excluded them.
-
-00:07:50.620 --> 00:07:51.620
-So what is it?
-
-00:07:51.620 --> 00:07:55.140
-Their FMAP is not calculated based on economic reality at all.
-
-00:07:55.140 --> 00:07:57.860
-It is permanently fixed by federal statute.
-
-00:07:57.860 --> 00:08:00.580
-And that statutory baseline rate is just 55%.
-
-00:08:00.580 --> 00:08:02.380
-Wait, 55%.
-
-00:08:02.380 --> 00:08:07.500
-When their economic demographics mathematically scream 83%, they are hard coded into the law
-
-00:08:07.500 --> 00:08:08.500
-at 55%.
-
-00:08:08.500 --> 00:08:09.500
-Yes.
-
-00:08:09.500 --> 00:08:10.980
-That is, wow.
-
-00:08:10.980 --> 00:08:13.900
-So not only is the total amount of money they can receive strictly limited by the
-
-00:08:13.900 --> 00:08:18.260
-gift card cap, but the percentage the federal government chips in for every medical
-
-00:08:18.260 --> 00:08:22.060
-bill before the cap is hit is artificially suppressed.
-
-00:08:22.060 --> 00:08:26.380
-So the local government has to drain its own limited resources much faster to cover
-
-00:08:26.380 --> 00:08:28.980
-their 45% share of every medical bill.
-
-00:08:28.980 --> 00:08:33.340
-As a listener, you have to be asking yourself, how is this even remotely sustainable?
-
-00:08:33.340 --> 00:08:37.500
-You have a local economy trying to recover from hurricanes, earthquakes and a massive
-
-00:08:37.500 --> 00:08:39.620
-debt crisis.
-
-00:08:39.620 --> 00:08:43.740
-And they are suddenly expected to shoulder almost half the cost of healthcare for 1.3
-
-00:08:43.740 --> 00:08:48.220
-million people and then 100% of the cost once that arbitrary cap is hit.
-
-00:08:48.220 --> 00:08:49.220
-It's not sustainable.
-
-00:08:49.220 --> 00:08:51.100
-It's not just a recipe for collapse.
-
-00:08:51.100 --> 00:08:53.980
-It is an active state of collapse.
-
-00:08:53.980 --> 00:08:55.460
-And Congress knows this.
-
-00:08:55.460 --> 00:08:56.300
-They know it.
-
-00:08:56.300 --> 00:08:58.420
-They've known it for years.
-
-00:08:58.420 --> 00:09:04.020
-The system as permanently designed is completely non-viable, which is why instead of
-
-00:09:04.020 --> 00:09:08.380
-actually rewriting the underlying law, Congress has spent the last decade applying
-
-00:09:08.380 --> 00:09:12.980
-temporary multi-year patches just to keep the system on life support.
-
-00:09:12.980 --> 00:09:16.140
-Which brings us to the lifeline that is currently keeping the lights on in
-
-00:09:16.140 --> 00:09:18.180
-Puerto Rican hospitals right now.
-
-00:09:18.180 --> 00:09:20.860
-Let's dig into this 2022 patch.
-
-00:09:20.860 --> 00:09:24.780
-Because understanding how this patch was negotiated is so crucial to understanding
-
-00:09:24.940 --> 00:09:28.060
-why the September 2027 deadline is so terrifying.
-
-00:09:28.060 --> 00:09:32.300
-Yeah, in late 2022, Puerto Rico was staring down another one of these exact
-
-00:09:32.300 --> 00:09:33.500
-fiscal cliffs.
-
-00:09:33.500 --> 00:09:36.420
-Jennifer Gonzalez-Colon who is the resident commissioner representing Puerto
-
-00:09:36.420 --> 00:09:40.060
-Rico and Congress at the time and who is now the governor, of course she
-
-00:09:40.060 --> 00:09:42.700
-engaged in massive negotiations to secure a bridge.
-
-00:09:42.700 --> 00:09:46.300
-And this was wrapped into the Consolidated Appropriations Act for
-
-00:09:46.300 --> 00:09:47.300
-2023, right?
-
-00:09:47.300 --> 00:09:48.940
-That massive federal funding package.
-
-00:09:48.940 --> 00:09:49.540
-Yes.
-
-00:09:49.540 --> 00:09:52.500
-What did she actually walk away with from those negotiations?
-
-00:09:52.540 --> 00:09:55.020
-Because the numbers here are just staggering.
-
-00:09:55.020 --> 00:09:59.780
-She secured roughly $19.4 billion over five years.
-
-00:09:59.780 --> 00:10:01.220
-$19.4 billion.
-
-00:10:01.220 --> 00:10:04.860
-It was an unprecedented temporary injection of funds.
-
-00:10:04.860 --> 00:10:07.420
-And the legislation did two really vital things.
-
-00:10:07.420 --> 00:10:10.180
-First, it vastly expanded the size of the gift card.
-
-00:10:10.180 --> 00:10:11.420
-Okay, so a bigger cap.
-
-00:10:11.420 --> 00:10:11.940
-Right.
-
-00:10:11.940 --> 00:10:17.100
-For fiscal year 2027, the cap is elevated to roughly $4.2 billion.
-
-00:10:17.100 --> 00:10:20.300
-A number that was actually designed to last the entire year without running out.
-
-00:10:20.300 --> 00:10:21.780
-Okay, so they pumped up the cap.
-
-00:10:21.780 --> 00:10:24.100
-What about that matching rate, the FMAP?
-
-00:10:24.100 --> 00:10:29.780
-Second, the legislation temporarily suspended the punishing 55% statutory FMAP
-
-00:10:29.780 --> 00:10:33.340
-and raised Puerto Rico's match rate to 76%.
-
-00:10:33.340 --> 00:10:37.340
-Wow, okay, so they aren't at the 83% they mathematically deserve,
-
-00:10:37.340 --> 00:10:43.620
-but jumping from 55% to 76% is a massive relief valve for the local treasury.
-
-00:10:43.620 --> 00:10:44.380
-Huge.
-
-00:10:44.380 --> 00:10:48.340
-I mean, they went from having to pay 45 cents on every dollar down to 24 cents
-
-00:10:48.340 --> 00:10:48.940
-on every dollar.
-
-00:10:48.940 --> 00:10:49.500
-Exactly.
-
-00:10:49.500 --> 00:10:51.700
-It entirely stabilized the system.
-
-00:10:51.700 --> 00:10:54.260
-But this is where the bureaucratic time bomb is planted.
-
-00:10:54.260 --> 00:10:55.300
-The expiration date.
-
-00:10:55.300 --> 00:10:58.180
-Yes, that $19.4 billion.
-
-00:10:58.180 --> 00:11:02.860
-The $4.2 billion annual cap, the 76% matching rate,
-
-00:11:02.860 --> 00:11:07.620
-every single piece of that stabilization was written with a hard expiration date,
-
-00:11:07.620 --> 00:11:09.260
-September 30, 2027.
-
-00:11:09.260 --> 00:11:13.060
-So if we fast forward to October 1, 2027 and Congress has been deadlocked,
-
-00:11:13.060 --> 00:11:17.180
-distracted, or simply hasn't passed a new law, what happens?
-
-00:11:17.180 --> 00:11:19.740
-The statutes instantly revert to their permanent baseline.
-
-00:11:19.740 --> 00:11:20.260
-Instantly.
-
-00:11:20.260 --> 00:11:20.940
-Instantly.
-
-00:11:20.980 --> 00:11:23.900
-The elevated $4.2 billion cap vanishes,
-
-00:11:23.900 --> 00:11:27.300
-replaced by the original statutory limit, which is roughly $500 million.
-
-00:11:27.300 --> 00:11:28.340
-Oh my God.
-
-00:11:28.340 --> 00:11:31.980
-And the FMP crashes from 76% right back down to 55%.
-
-00:11:31.980 --> 00:11:36.540
-I really want to make sure the sheer violence of that drop registers.
-
-00:11:36.540 --> 00:11:42.020
-They go from having a $4.2 billion gift card covering 76% of costs
-
-00:11:42.020 --> 00:11:46.180
-to a $500 million gift card covering only 55%.
-
-00:11:46.180 --> 00:11:46.820
-Yeah.
-
-00:11:46.820 --> 00:11:48.180
-That isn't just a budget cut.
-
-00:11:48.180 --> 00:11:51.060
-That is the complete annihilation of the health care budget
-
-00:11:51.060 --> 00:11:53.140
-for a population the size of San Diego.
-
-00:11:53.140 --> 00:11:58.100
-It would instantly blow a multi-billion dollar hole in the island's budget,
-
-00:11:58.100 --> 00:12:01.620
-a hole they legally cannot fill because of their debt restructuring,
-
-00:12:01.620 --> 00:12:02.460
-which we'll get into.
-
-00:12:02.460 --> 00:12:02.980
-Right.
-
-00:12:02.980 --> 00:12:06.300
-It would force the immediate suspension of medical coverage
-
-00:12:06.300 --> 00:12:07.860
-for hundreds of thousands of people.
-
-00:12:07.860 --> 00:12:13.020
-But the federal government didn't just hand over that $19.4 billion in 2022
-
-00:12:13.020 --> 00:12:13.860
-and wish them luck.
-
-00:12:13.860 --> 00:12:15.020
-No, absolutely not.
-
-00:12:15.020 --> 00:12:17.460
-Reading through the documents, Congress treated Puerto Rico
-
-00:12:17.460 --> 00:12:20.420
-with a level of suspicion and required bureaucratic hurdles
-
-00:12:20.420 --> 00:12:22.700
-that you rarely see applied to the 50 states.
-
-00:12:22.700 --> 00:12:25.940
-They attached incredibly strict conditions to this money.
-
-00:12:25.940 --> 00:12:27.580
-Yeah, let's break down these conditions
-
-00:12:27.580 --> 00:12:31.020
-because they reveal a lot about how Congress views the territory.
-
-00:12:31.020 --> 00:12:33.020
-First was a physician payment floor.
-
-00:12:33.020 --> 00:12:33.620
-Right.
-
-00:12:33.620 --> 00:12:37.180
-To unlock an extra $300 million in federal funding each year,
-
-00:12:37.180 --> 00:12:41.220
-Puerto Rico was legally mandated to establish a minimum payment floor
-
-00:12:41.220 --> 00:12:41.980
-for doctors.
-
-00:12:41.980 --> 00:12:42.620
-OK.
-
-00:12:42.620 --> 00:12:46.220
-Initially, they had to prove they were paying providers at least 70%
-
-00:12:46.220 --> 00:12:49.340
-of what Medicare Part B would pay for the exact and same services
-
-00:12:49.340 --> 00:12:50.780
-on the mainland.
-
-00:12:50.780 --> 00:12:54.540
-Later, that requirement was bumped up to 75%.
-
-00:12:54.540 --> 00:12:56.220
-I want to pause on this.
-
-00:12:56.220 --> 00:12:59.380
-Why is the federal government micromanaging
-
-00:12:59.380 --> 00:13:04.060
-how much a local territory pays its pediatricians or cardiologists?
-
-00:13:04.060 --> 00:13:06.100
-Because of the medical brain chain.
-
-00:13:06.100 --> 00:13:08.820
-Congress realized that if they just dumped money into the system
-
-00:13:08.820 --> 00:13:11.220
-without mandating provider rates,
-
-00:13:11.220 --> 00:13:15.540
-the local government might use the funds to cover structural deficits
-
-00:13:15.540 --> 00:13:17.860
-rather than paying doctors a competitive wage.
-
-00:13:17.860 --> 00:13:18.500
-Right.
-
-00:13:18.500 --> 00:13:20.420
-And if you were a doctor in Puerto Rico
-
-00:13:20.420 --> 00:13:23.820
-carrying hundreds of thousands of dollars in medical school debt
-
-00:13:23.820 --> 00:13:26.660
-and you're being reimbursed at a fraction of what you'd make in Texas.
-
-00:13:26.660 --> 00:13:27.460
-You'd buy a plane ticket.
-
-00:13:27.460 --> 00:13:28.900
-You'd go out and buy a plane ticket.
-
-00:13:28.900 --> 00:13:31.540
-Congress forced the territory to raise those rates
-
-00:13:31.540 --> 00:13:33.740
-to keep the medical professionals on the island.
-
-00:13:33.740 --> 00:13:34.860
-OK, that makes sense.
-
-00:13:34.860 --> 00:13:37.740
-It's essentially a federally mandated retention bonus.
-
-00:13:37.740 --> 00:13:38.420
-It's exactly.
-
-00:13:38.420 --> 00:13:39.580
-What was the next hurdle?
-
-00:13:39.580 --> 00:13:41.580
-Program integrity.
-
-00:13:41.580 --> 00:13:44.620
-To unlock another $75 million,
-
-00:13:44.620 --> 00:13:47.940
-Puerto Rico had to designate specific high-level officials
-
-00:13:47.940 --> 00:13:50.940
-responsible for program integrity and procurement oversight.
-
-00:13:50.940 --> 00:13:52.140
-Like named individuals.
-
-00:13:52.140 --> 00:13:52.940
-Yes.
-
-00:13:52.940 --> 00:13:55.460
-Congress wanted named individuals they could hold accountable
-
-00:13:55.460 --> 00:13:58.020
-to ensure the massive health care contracts being handed out
-
-00:13:58.020 --> 00:14:01.060
-to private insurance companies were clean, transparent,
-
-00:14:01.060 --> 00:14:03.220
-and actively monitored for fraud.
-
-00:14:03.220 --> 00:14:05.740
-And then we get to the most technologically
-
-00:14:05.740 --> 00:14:10.020
-and honestly bureaucratically complex requirement.
-
-00:14:10.020 --> 00:14:12.020
-The asset verification penalty.
-
-00:14:12.020 --> 00:14:13.500
-Oh, this one is wild.
-
-00:14:13.500 --> 00:14:17.100
-This one fascinated me because of how hard it is to actually execute.
-
-00:14:17.100 --> 00:14:18.780
-It was a massive mandate.
-
-00:14:18.780 --> 00:14:22.140
-Congress required that by January 1st, 2026,
-
-00:14:22.140 --> 00:14:25.820
-Puerto Rico had to implement a fully electronic asset verification
-
-00:14:25.820 --> 00:14:27.860
-system for Medicaid applicants.
-
-00:14:27.860 --> 00:14:30.140
-Let's explain what that actually means on the ground.
-
-00:14:30.140 --> 00:14:31.940
-When someone applies for Medicaid,
-
-00:14:31.940 --> 00:14:34.340
-they have to prove they fall below a certain income
-
-00:14:34.340 --> 00:14:35.660
-and asset threshold, right?
-
-00:14:35.660 --> 00:14:36.460
+00:13:42.720 --> 00:13:43.560
 Correct.
 
-00:14:36.460 --> 00:14:38.500
-Historically, this meant an applicant brought in
+00:13:43.560 --> 00:13:46.360
+This is the document where Mitchell explicitly flags
 
-00:14:38.500 --> 00:14:40.860
-physical bank statements and case workers
+00:13:46.360 --> 00:13:48.120
+the Puerto Rico Medicaid expiration
 
-00:14:40.860 --> 00:14:42.220
-manually verified them.
+00:13:48.120 --> 00:13:50.040
+as a must-act item for Congress.
 
-00:14:42.220 --> 00:14:43.260
-Lots of paperwork.
-
-00:14:43.260 --> 00:14:47.340
-It was slow, prone to human error, and vulnerable to fraud.
-
-00:14:47.340 --> 00:14:51.140
-An electronic asset verification system, or AVS,
-
-00:14:51.140 --> 00:14:53.500
-requires building an IT infrastructure that
-
-00:14:53.500 --> 00:14:56.900
-uses API's application programming interfaces
-
-00:14:56.900 --> 00:15:00.580
-to directly and instantly paying financial institutions
-
-00:15:00.580 --> 00:15:04.260
-to verify the applicant's bank balances in real time.
-
-00:15:04.260 --> 00:15:06.540
-Building a secure government database
-
-00:15:06.540 --> 00:15:10.820
-that can seamlessly talk to every major bank on the island
-
-00:15:10.820 --> 00:15:13.020
-is a colossal IT project.
-
-00:15:13.020 --> 00:15:13.900
-It is.
-
-00:15:13.900 --> 00:15:16.380
-And the penalty for failing to do it was brutal.
-
-00:15:16.380 --> 00:15:18.300
-It was a compounding financial punishment.
-
-00:15:18.300 --> 00:15:18.500
-Right.
-
-00:15:18.500 --> 00:15:21.540
-If they failed to have the system operational by the deadline,
-
-00:15:21.540 --> 00:15:23.940
-their FMAP rate would be incrementally reduced
-
-00:15:23.940 --> 00:15:24.820
-every single quarter.
-
-00:15:24.820 --> 00:15:25.300
+00:13:50.040 --> 00:13:50.880
 Wow.
 
-00:15:25.300 --> 00:15:27.060
-They would literally bleed matching funds
+00:13:50.880 --> 00:13:54.120
+She meticulously lists the exact lines of statutory code
 
-00:15:27.060 --> 00:15:28.220
-until they fixed it.
+00:13:54.120 --> 00:13:55.240
+that will simply vanish
 
-00:15:28.220 --> 00:15:29.660
-So you have a territory recovering
+00:13:55.240 --> 00:13:58.120
+if Congress fails to pass new legislation.
 
-00:15:29.660 --> 00:15:31.380
-from natural disasters struggling
+00:13:58.120 --> 00:13:59.600
+By putting this on the public record
 
-00:15:31.380 --> 00:15:34.700
-with basic grid infrastructure, and Congress tells them,
+00:13:59.600 --> 00:14:01.520
+in an official CRS report,
 
-00:15:34.700 --> 00:15:37.020
-build a state-of-the-art financial API network
+00:14:01.520 --> 00:14:04.160
+Mitchell ensures that Congress cannot claim ignorance.
 
-00:15:37.020 --> 00:15:39.060
-or we start slashing your health care budget.
+00:14:04.160 --> 00:14:05.640
+So no one can say they didn't know.
 
-00:15:39.060 --> 00:15:39.980
-Basically, yeah.
+00:14:05.640 --> 00:14:06.480
+Exactly.
 
-00:15:39.980 --> 00:15:41.420
-As a listener, you might expect
+00:14:06.480 --> 00:14:08.720
+No lawmaker can wake up in November 2027
 
-00:15:41.420 --> 00:15:43.340
-this is where the system completely fell apart.
+00:14:08.720 --> 00:14:09.920
+and say, oh, I didn't realize
 
-00:15:43.340 --> 00:15:45.940
-But according to the internal reports we were reviewing,
+00:14:09.920 --> 00:14:11.400
+the funding was gonna disappear.
 
-00:15:45.940 --> 00:15:47.140
-they actually pulled it off.
+00:14:11.400 --> 00:14:12.920
+The CRS told him exactly when
 
-00:15:47.140 --> 00:15:49.740
-That is one of the most remarkable parts of this story.
+00:14:12.920 --> 00:14:14.440
+and how the trap door opens.
 
-00:15:49.740 --> 00:15:52.420
-They successfully built and launched the system.
+00:14:14.440 --> 00:14:16.160
+All right, well, let's look down that trap door then.
 
-00:15:52.420 --> 00:15:53.140
-Incredible.
+00:14:16.160 --> 00:14:18.480
+Let's look at the math that Mitchell has mapped out
 
-00:15:53.140 --> 00:15:55.660
-The federal centers for Medicare and Medicaid services,
+00:14:18.480 --> 00:14:21.000
+for October 1st, 2027.
 
-00:15:55.660 --> 00:15:59.700
-CMS, officially approved their AVS implementation
+00:14:21.000 --> 00:14:23.120
+If we hit fiscal year 2028
 
-00:15:59.700 --> 00:16:02.180
-in June, 2026.
+00:14:23.120 --> 00:14:24.760
+and a totally gridlocked Congress
 
-00:16:02.180 --> 00:16:04.180
-They dodged the penalty entirely.
+00:14:24.760 --> 00:14:26.600
+has done absolutely nothing,
 
-00:16:04.180 --> 00:16:04.660
+00:14:26.600 --> 00:14:29.520
+what exactly happens to the 1.3 million people
+
+00:14:29.520 --> 00:14:31.000
+on Plan Vital?
+
+00:14:31.000 --> 00:14:33.080
+So four very specific,
+
+00:14:33.080 --> 00:14:37.040
+very vital statutory provisions evaporate overnight.
+
+00:14:37.040 --> 00:14:39.960
+First, Social Security Act section 1108G.
+
+00:14:39.960 --> 00:14:41.160
+Okay, what is that one?
+
+00:14:41.160 --> 00:14:42.000
+This is the provision
+
+00:14:42.000 --> 00:14:44.360
+that temporarily elevated the funding cap.
+
+00:14:44.360 --> 00:14:46.640
+It is the provision that gave them the bigger bucket,
+
+00:14:46.640 --> 00:14:49.720
+allowing them to draw down roughly $3.8 billion
+
+00:14:49.720 --> 00:14:52.640
+in federal funds for fiscal year 2027.
+
+00:14:52.640 --> 00:14:53.480
+Gone.
+
+00:14:53.480 --> 00:14:54.320
+Gone.
+
+00:14:54.320 --> 00:14:56.880
+Second is section 1905 FF2.
+
+00:14:56.880 --> 00:14:58.160
+This is a provision that provided
+
+00:14:58.160 --> 00:15:01.440
+the temporary 76% FMAP matching rate.
+
+00:15:01.440 --> 00:15:03.680
+Without it, the match rate instantly drops back down
+
+00:15:03.680 --> 00:15:06.640
+to that punishing permanent law baseline of 55%.
+
+00:15:06.640 --> 00:15:08.000
+So the bucket is smaller
+
+00:15:08.000 --> 00:15:09.760
+and the local government suddenly has to pay
+
+00:15:09.760 --> 00:15:11.880
+a massive chunk of the water bill themselves
+
+00:15:11.880 --> 00:15:13.480
+all literally on the same day.
+
+00:15:13.520 --> 00:15:15.200
+Yes, it's a double hit.
+
+00:15:15.200 --> 00:15:20.200
+Third, sections 1108(g)(12) and (13) disappear.
+
+00:15:20.200 --> 00:15:22.320
+Now these were highly targeted provisions.
+
+00:15:22.320 --> 00:15:24.880
+They provided an extra $300 million
+
+00:15:24.880 --> 00:15:28.120
+specifically to establish a payment floor for physicians
+
+00:15:28.120 --> 00:15:31.600
+and an extra $75 million earmarked exclusively
+
+00:15:31.600 --> 00:15:33.600
+for program integrity efforts
+
+00:15:33.600 --> 00:15:36.400
+like fighting fraud and upgrading data systems.
+
+00:15:36.400 --> 00:15:38.560
+Okay, so the money that actually keeps doctors
+
+00:15:38.560 --> 00:15:39.720
+on the island and the money
+
+00:15:39.720 --> 00:15:42.760
+that proves the system isn't wasting funds,
+
+00:15:42.760 --> 00:15:44.240
+both of those vanished too.
+
+00:15:44.240 --> 00:15:45.080
+Completely.
+
+00:15:45.080 --> 00:15:48.080
+And the fourth line that expires is section 1108.
+
+00:15:48.080 --> 00:15:50.160
+This is the annual reporting requirement.
+
+00:15:50.160 --> 00:15:51.440
+It mandated that Puerto Rico
+
+00:15:51.440 --> 00:15:53.880
+submit extensive documentation to Congress
+
+00:15:53.880 --> 00:15:55.960
+detailing exactly how they were spending the money.
+
+00:15:55.960 --> 00:15:56.960
+Which I mean, that sounds like
+
+00:15:56.960 --> 00:15:58.640
+just losing a paperwork burden,
+
+00:15:58.640 --> 00:15:59.960
+but from what we'll discuss later,
+
+00:15:59.960 --> 00:16:02.080
+that reporting requirement was actually Puerto Rico's
+
+00:16:02.080 --> 00:16:04.520
+best weapon to prove they were doing a good job.
+
+00:16:04.520 --> 00:16:05.760
+If that requirement vanishes,
+
+00:16:05.760 --> 00:16:08.280
+Congress just loses its window into the system.
+
+00:16:08.280 --> 00:16:09.120
+Exactly.
+
+00:16:09.120 --> 00:16:10.480
+Congress goes blind.
+
+00:16:10.480 --> 00:16:11.720
+So when you put all four of those
+
+00:16:11.720 --> 00:16:13.320
+expiring provisions together,
+
+00:16:13.320 --> 00:16:17.040
+you trigger a terrifying statutory recalculation.
+
+00:16:17.040 --> 00:16:19.120
+If Congress lets the clock run out,
+
+00:16:19.120 --> 00:16:22.240
+the funding for fiscal year 2028 is not calculated
+
+00:16:22.240 --> 00:16:25.520
+based on the $3.8 billion from 2027.
+
+00:16:25.520 --> 00:16:27.560
+Wait, if it isn't based on the previous year,
+
+00:16:27.560 --> 00:16:28.600
+what is it based on?
+
+00:16:28.600 --> 00:16:31.720
+By law, as strictly documented by the CRS,
+
+00:16:31.720 --> 00:16:34.520
+the funding formula reverts back to a calculation
+
+00:16:34.520 --> 00:16:37.080
+based on the fiscal year 2019 baseline.
+
+00:16:37.080 --> 00:16:40.600
+2019, but that is before the global pandemic.
+
+00:16:40.640 --> 00:16:43.640
+That's before years of massive medical inflation.
+
+00:16:43.640 --> 00:16:47.520
+That's before the entire 2022 funding deal even existed.
+
+00:16:47.520 --> 00:16:49.800
+It is a totally devastating reversion.
+
+00:16:49.800 --> 00:16:51.680
+If that happens, the federal cap to lot
+
+00:16:51.680 --> 00:16:54.600
+met plummets from roughly $3.8 billion
+
+00:16:54.600 --> 00:16:57.400
+down to approximately $500 million.
+
+00:16:57.400 --> 00:16:58.320
+I just want to repeat that
+
+00:16:58.320 --> 00:16:59.680
+so the listeners really grasp it.
+
+00:16:59.680 --> 00:17:02.720
+I dropped from $3.8 billion to $500 million.
+
+00:17:02.720 --> 00:17:03.720
+That isn't a budget cut.
+
+00:17:03.720 --> 00:17:05.360
+That is the complete obliteration
+
+00:17:05.360 --> 00:17:06.320
+of a healthcare system.
+
+00:17:06.320 --> 00:17:07.680
+It is, and the scary thing is,
+
+00:17:07.680 --> 00:17:09.840
+we don't have to guess about the impact
+
+00:17:09.840 --> 00:17:11.840
+because the Financial Oversight and Management Board
+
+00:17:11.840 --> 00:17:14.880
+for Puerto Rico, the FOMB, has already sounded the alarm.
+
+00:17:14.880 --> 00:17:17.200
+Right, the FOMB is the federal board
+
+00:17:17.200 --> 00:17:19.200
+that oversees the island's finances
+
+00:17:19.200 --> 00:17:22.040
+and actually certifies their budgets, right?
+
+00:17:22.040 --> 00:17:22.880
+Correct.
+
+00:17:22.880 --> 00:17:26.440
+On June 29, 2026, the FOMB certified
+
+00:17:26.440 --> 00:17:29.920
+the fiscal year 2027 Commonwealth budget.
+
+00:17:29.920 --> 00:17:32.200
+And in that highly scrutinized document,
+
+00:17:32.200 --> 00:17:34.480
+they explicitly named the Medicaid cliff
+
+00:17:34.480 --> 00:17:36.920
+as one of the most material fiscal risks
+
+00:17:36.920 --> 00:17:38.120
+facing the entire island.
+
+00:17:38.120 --> 00:17:39.040
 Wow.
 
-00:16:04.660 --> 00:16:08.620
-They successfully implemented the 75% physician payment floor.
+00:17:39.040 --> 00:17:40.680
+They noted that because Puerto Rico
 
-00:16:08.620 --> 00:16:10.460
-They installed the integrity leads.
+00:17:40.680 --> 00:17:43.280
+is subject to this rigid statutory cap,
 
-00:16:10.460 --> 00:16:13.020
-They jumped through every single hoop.
+00:17:43.280 --> 00:17:45.120
+any healthcare expenditure that exceeds
 
-00:16:13.020 --> 00:16:15.620
-And there is one specific metric in these documents
+00:17:45.120 --> 00:17:48.120
+that $500 million limit in 2028
 
-00:16:15.620 --> 00:16:16.980
-that absolutely blew my mind.
+00:17:48.120 --> 00:17:49.880
+would have to be financed entirely
 
-00:16:16.980 --> 00:16:18.700
-It's the PRM rate.
+00:17:49.880 --> 00:17:51.560
+by the local government's general fund.
 
-00:16:18.700 --> 00:16:18.980
-Yes.
+00:17:51.560 --> 00:17:53.040
+And the local government doesn't just have
 
-00:16:18.980 --> 00:16:20.980
-The payment error rate measurement.
+00:17:53.040 --> 00:17:55.320
+an extra $3 billion lying around.
 
-00:16:20.980 --> 00:16:22.300
-This is the federal government's audit
+00:17:55.320 --> 00:17:56.480
+They absolutely do not.
 
-00:16:22.300 --> 00:16:25.540
-of how many improper payments a Medicaid system makes,
+00:17:56.480 --> 00:17:57.920
+The margins are so tight
 
-00:16:25.540 --> 00:16:29.340
-whether through fraud, waste, or just clerical errors.
+00:17:57.920 --> 00:18:00.080
+that the FOMB actually wrote control language
 
-00:16:29.340 --> 00:16:32.020
-It is the gold standard metric for congressional oversight
+00:18:00.080 --> 00:18:01.560
+into the budget resolution,
 
-00:16:32.020 --> 00:16:34.820
-committees assessing how well a state or territory
+00:18:01.560 --> 00:18:03.280
+requiring that any proposed changes
 
-00:16:34.820 --> 00:16:36.060
-is managing federal funds.
+00:18:03.280 --> 00:18:06.440
+to Medicaid benefits, literally any changes at all,
 
-00:16:36.060 --> 00:16:36.340
-Right.
+00:18:06.440 --> 00:18:08.880
+have to be reviewed and approved by the FOMB first.
 
-00:16:36.340 --> 00:16:39.140
-So the national average for improper Medicaid payments
+00:18:08.880 --> 00:18:11.240
+So if you were an American citizen on Plan Vidal,
 
-00:16:39.140 --> 00:16:41.900
-across the 50 states is 5.09%.
+00:18:11.240 --> 00:18:13.880
+what does that $500 million reversion look like for you?
 
-00:16:41.900 --> 00:16:42.260
-Wow.
+00:18:13.880 --> 00:18:15.520
+It means they have to kick hundreds of thousands
 
-00:16:42.260 --> 00:16:45.100
-Puerto Rico's rate, 2.51%.
+00:18:15.520 --> 00:18:17.600
+of people off the eligibility rolls, right?
 
-00:16:45.100 --> 00:16:45.820
-It's amazing.
+00:18:17.600 --> 00:18:19.360
+It means slashing the benefits
 
-00:16:45.820 --> 00:16:48.140
-They are running a system with less than half
+00:18:19.360 --> 00:18:21.720
+for the people who manage to remain.
 
-00:16:48.140 --> 00:16:50.220
-the error rate of the national average,
+00:18:21.720 --> 00:18:23.880
+It means hospitals facing such massive
 
-00:16:50.220 --> 00:16:53.740
-all while operating under a constantly looming fiscal cliff.
+00:18:23.880 --> 00:18:25.880
+uncompensated care costs
 
-00:16:53.740 --> 00:16:54.940
-How do they achieve that?
+00:18:25.880 --> 00:18:28.080
+that they simply have to close their doors.
 
-00:16:54.940 --> 00:16:57.820
-When you are operating on a capped gift card,
+00:18:28.080 --> 00:18:31.560
+And without that $300 million physician payment floor,
 
-00:16:57.820 --> 00:17:00.660
-you literally cannot afford a single mistake.
+00:18:31.560 --> 00:18:33.200
+doctors and nurses will just pack up
 
-00:17:00.660 --> 00:17:01.220
-Right.
+00:18:33.200 --> 00:18:34.880
+and leave the island for jobs on the mainland
 
-00:17:01.220 --> 00:17:03.100
-In an open-ended state system,
+00:18:34.880 --> 00:18:36.200
+where they can actually make a living.
 
-00:17:03.100 --> 00:17:06.460
-an improper payment is bad, but it doesn't necessarily
+00:18:36.200 --> 00:18:38.680
+Which brings us to a highly pragmatic
 
-00:17:06.460 --> 00:17:09.060
-bankrupt the state because the federal funds keep flowing.
+00:18:38.680 --> 00:18:42.440
+incredibly cynical but very effective argument
 
-00:17:09.060 --> 00:17:10.220
-But in Puerto Rico,
+00:18:42.440 --> 00:18:44.800
+that is currently circulating in Washington, DC
 
-00:17:10.220 --> 00:17:13.660
-every wasted dollar is a dollar stolen from the cap.
+00:18:44.800 --> 00:18:46.680
+regarding this exact cliff.
 
-00:17:13.660 --> 00:17:17.100
-It forces hyper-conservative, highly scrutinized
+00:18:46.680 --> 00:18:47.600
+Okay, let's hear it.
 
-00:17:17.100 --> 00:17:18.500
-payout mechanisms.
+00:18:47.600 --> 00:18:51.360
+It is about the mainland cost of this collapse.
 
-00:17:18.500 --> 00:17:21.300
-This compliance record feels like a massive
+00:18:51.360 --> 00:18:53.800
+Because the 1.3 million people on Plan Vidal
 
-00:17:21.300 --> 00:17:23.300
-strategic weapon for them right now.
+00:18:53.800 --> 00:18:55.160
+are American citizens.
 
-00:17:23.300 --> 00:17:25.180
-It is their entire argument.
+00:18:55.160 --> 00:18:57.480
+If the healthcare system on the island collapses,
 
-00:17:25.180 --> 00:17:27.700
-When they go to Congress in 2027,
+00:18:57.480 --> 00:18:59.560
+they don't just stop needing dialysis
 
-00:17:27.700 --> 00:17:30.980
-they aren't just begging for money based on need.
+00:18:59.560 --> 00:19:01.120
+or insulin or cancer treatments.
 
-00:17:30.980 --> 00:17:32.780
-They are walking into committee rooms
+00:19:01.120 --> 00:19:02.760
+Right, they're citizens.
 
-00:17:32.780 --> 00:17:35.420
-with Allison Mitchell's CRS reports
+00:19:02.760 --> 00:19:03.960
+They can just buy a plane ticket,
 
-00:17:35.460 --> 00:17:37.260
-validating their compliance.
+00:19:03.960 --> 00:19:06.240
+land in Orlando or Philadelphia or New York
 
-00:17:37.260 --> 00:17:37.700
+00:19:06.240 --> 00:19:07.840
+and walk right into a hospital.
+
+00:19:07.840 --> 00:19:08.920
+Precisely.
+
+00:19:08.920 --> 00:19:12.080
+And when they migrate to the mainland United States,
+
+00:19:12.080 --> 00:19:14.160
+they enroll in the Medicaid programs
+
+00:19:14.160 --> 00:19:16.000
+of those specific states.
+
+00:19:16.000 --> 00:19:19.760
+And our sources highlight a startling economic reality
+
+00:19:19.760 --> 00:19:22.440
+that really changes the political calculus here.
+
+00:19:22.440 --> 00:19:24.160
+When a Puerto Rican citizen migrates
+
+00:19:24.160 --> 00:19:26.160
+to the mainland for health services,
+
+00:19:26.160 --> 00:19:27.720
+the cost to the federal government
+
+00:19:27.720 --> 00:19:30.080
+to treat them at standard state Medicaid rates
+
+00:19:30.080 --> 00:19:33.360
+is estimated at $165 million annually.
+
+00:19:33.360 --> 00:19:34.880
+Okay, $165 million.
+
+00:19:34.880 --> 00:19:36.120
+And now contrast that
+
+00:19:36.120 --> 00:19:37.680
+with what it costs the federal government
+
+00:19:37.680 --> 00:19:39.640
+to treat those exact same citizens
+
+00:19:39.640 --> 00:19:40.960
+if they stay on the island.
+
+00:19:40.960 --> 00:19:43.200
+That cost is roughly $44 million.
+
+00:19:43.200 --> 00:19:44.920
+I wanna make sure I'm doing the math right here.
+
+00:19:44.920 --> 00:19:47.400
+It literally costs the federal government
+
+00:19:47.400 --> 00:19:49.000
+nearly four times as much money
+
+00:19:49.000 --> 00:19:51.160
+to force these citizens to migrate
+
+00:19:51.160 --> 00:19:53.480
+to Florida or Pennsylvania for care,
+
+00:19:53.480 --> 00:19:55.400
+rather than just adequately funding the system
+
+00:19:55.400 --> 00:19:56.560
+where they currently live.
+
+00:19:56.560 --> 00:19:58.440
+That is exactly what the data shows.
+
+00:19:58.440 --> 00:20:01.320
+From a purely fiscal mathematical standpoint,
+
+00:20:01.320 --> 00:20:03.320
+letting the Puerto Rican healthcare system collapse
+
+00:20:03.320 --> 00:20:05.960
+is a massive inefficiency for the federal taxpayer.
+
+00:20:05.960 --> 00:20:07.440
+That is mind boggling.
+
+00:20:07.440 --> 00:20:10.240
+But I imagine that is a very powerful tool
+
+00:20:10.240 --> 00:20:12.760
+for the Puerto Rican delegation in Congress
+
+00:20:12.760 --> 00:20:15.080
+because they can sit down with the fiscal hawk
+
+00:20:15.080 --> 00:20:16.440
+who wants to cut spending and say,
+
+00:20:16.440 --> 00:20:18.800
+look, if you drop us off this cliff,
+
+00:20:18.800 --> 00:20:21.320
+you are actually gonna spend four times as much money
+
+00:20:21.320 --> 00:20:24.120
+dealing with the fallout in your own home states.
+
+00:20:24.120 --> 00:20:25.560
+It is a profound argument.
+
+00:20:25.560 --> 00:20:26.400
 Yeah.
 
-00:17:37.700 --> 00:17:39.500
-They can look lawmakers in the eye and say,
+00:20:26.400 --> 00:20:27.840
+It shakes the entire conversation
 
-00:17:39.500 --> 00:17:41.860
-you give us the strictest conditions in the country
+00:20:27.840 --> 00:20:32.440
+from territorial aid to domestic fiscal responsibility.
 
-00:17:41.860 --> 00:17:44.780
-and we outperform the national average on financial integrity,
+00:20:32.440 --> 00:20:35.080
+Okay, I see the cliff, I see the CRS math,
 
-00:17:44.780 --> 00:17:46.500
-now give us a permanent system.
+00:20:35.080 --> 00:20:37.160
+I see the terrible human and financial cost
 
-00:17:46.500 --> 00:17:48.020
-That makes total logical sense.
+00:20:37.160 --> 00:20:38.760
+at the trap door opening.
 
-00:17:48.020 --> 00:17:49.980
-You prove you can handle the responsibility,
+00:20:38.760 --> 00:20:40.240
+But I wanna push back on this for a minute
 
-00:17:49.980 --> 00:17:51.260
-you get the permanent fix.
+00:20:40.240 --> 00:20:41.920
+because I know how congressional committees think.
 
-00:17:51.260 --> 00:17:52.020
-Good think.
+00:20:41.920 --> 00:20:42.960
+Okay, go ahead.
 
-00:17:52.020 --> 00:17:53.700
-But this is Washington, D.C.,
+00:20:42.960 --> 00:20:47.440
+When Congress passed that massive $19.4 billion package
 
-00:17:53.700 --> 00:17:56.180
-where logic often goes to die.
+00:20:47.440 --> 00:20:50.040
+back in 2022, they didn't do it blindly,
 
-00:17:56.180 --> 00:17:58.620
-Left pivot to a part of the legislative history
+00:20:50.040 --> 00:20:51.600
+they attached a lot of strings,
 
-00:17:58.620 --> 00:18:00.820
-that frankly feels a bit maddening
+00:20:51.600 --> 00:20:53.800
+they essentially looked at Puerto Rico and said,
 
-00:18:00.820 --> 00:18:01.900
-when you first read it.
+00:20:53.800 --> 00:20:55.560
+we will give you this elevated funding,
 
-00:18:01.900 --> 00:18:04.420
-We need to talk about the geographic discrepancies.
+00:20:55.560 --> 00:20:58.280
+but you have a history of administrative chaos.
 
-00:18:04.420 --> 00:18:05.900
-Ah, yes.
+00:20:58.280 --> 00:20:59.640
+You have to clean up your act,
 
-00:18:05.900 --> 00:18:08.460
-The tale of the five territories.
+00:20:59.640 --> 00:21:01.040
+you have to prove you can manage
 
-00:18:08.460 --> 00:18:10.580
-This is where the politics of federal funding
+00:21:01.040 --> 00:21:02.960
+a modern healthcare system.
 
-00:18:10.580 --> 00:18:13.060
-really clash with the realities of health care need.
+00:21:02.960 --> 00:21:05.960
+Yes, the famous congressional homework.
 
-00:18:13.060 --> 00:18:17.500
-So when Congress passed that massive 2022 package,
+00:21:06.000 --> 00:21:08.760
+Right, so did they actually do the homework?
 
-00:18:17.500 --> 00:18:20.420
-we know they gave Puerto Rico a temporary patch,
+00:21:08.760 --> 00:21:11.880
+Because if Puerto Rico walks into a committee room in 2027
 
-00:18:20.420 --> 00:18:24.620
-bumping their FMAP up to 76% until 2027.
+00:21:11.880 --> 00:21:13.240
+asking for parity,
 
-00:18:24.620 --> 00:18:25.300
-Right.
+00:21:13.240 --> 00:21:15.920
+the first thing any skeptical lawmaker will ask is,
 
-00:18:25.300 --> 00:18:27.580
-But Puerto Rico wasn't the only territory
+00:21:15.920 --> 00:21:17.040
+why should we trust you
 
-00:18:27.580 --> 00:18:28.940
-in that legislation, was it?
+00:21:17.040 --> 00:21:19.760
+with permanent open-ended funding?
 
-00:18:28.940 --> 00:18:29.580
-No.
+00:21:19.760 --> 00:21:22.160
+That is the exact hurdle they have to clear.
 
-00:18:29.580 --> 00:18:32.500
-The legislation also covered the U.S. Virgin Islands,
+00:21:22.160 --> 00:21:24.920
+And the answer, which is meticulously documented
 
-00:18:32.500 --> 00:18:35.260
-Guam, American Samoa, and the Commonwealth
+00:21:24.920 --> 00:21:26.920
+in the annual reports submitted to Congress
 
-00:18:35.260 --> 00:18:36.700
-of the Northern Mariana Islands.
+00:21:26.920 --> 00:21:30.080
+under that expiring section 1108(g)
 
-00:18:36.700 --> 00:18:38.780
-And what did Congress give those four territories
+00:21:30.080 --> 00:21:32.000
+is a resounding yes.
 
-00:18:38.780 --> 00:18:40.180
-in that exact same bill?
+00:21:32.000 --> 00:21:32.840
+Really?
 
-00:18:40.180 --> 00:18:42.260
-Congress granted all four of those territories
+00:21:32.840 --> 00:21:35.360
+Yes, Puerto Rico has rigorously complied
 
-00:18:42.260 --> 00:18:44.460
-a permanent FMAP of 83%.
+00:21:35.400 --> 00:21:37.920
+with the requirements of the 2022 deal.
 
-00:18:44.460 --> 00:18:46.540
-Wait, I want to make sure I'm understanding this correctly.
+00:21:37.920 --> 00:21:42.000
+In fact, they have executed such a massive structural overhaul
 
-00:18:46.540 --> 00:18:47.180
-I know.
+00:21:42.000 --> 00:21:43.360
+that they have turned what used to be
 
-00:18:47.180 --> 00:18:49.100
-Puerto Rico, which has the highest poverty rate
+00:21:43.360 --> 00:21:45.040
+their biggest vulnerabilities
 
-00:18:49.100 --> 00:18:51.020
-and the largest vulnerable population,
+00:21:45.040 --> 00:21:47.800
+into their strongest argument for permanent parity.
 
-00:18:51.020 --> 00:18:54.260
-gets a temporary match of 76% that threatens to expire
+00:21:47.800 --> 00:21:49.200
+Okay, that's a pretty big claim.
 
-00:18:54.260 --> 00:18:55.380
-and bankrupt them.
+00:21:49.200 --> 00:21:51.320
+Let's dig into the actual deliverables then.
 
-00:18:55.380 --> 00:18:58.020
-But the U.S. Virgin Islands right next door
+00:21:51.320 --> 00:21:53.560
+What were they mandated to do and how did they do it?
 
-00:18:58.020 --> 00:19:02.660
-gets the maximum 83% match written into law permanently.
+00:21:53.560 --> 00:21:56.000
+What one of the most technologically difficult hurdles
 
-00:19:02.660 --> 00:19:06.340
-How on earth does a lawmaker justify that discrepancy?
+00:21:56.000 --> 00:21:59.640
+was the mandate to implement an electronic asset tracker
 
-00:19:06.340 --> 00:19:08.060
-Well, if you look at it purely through the lens
+00:21:59.640 --> 00:22:00.880
+in bureaucratic terms,
 
-00:19:08.060 --> 00:19:11.500
-of health care equity, it is entirely unjustifiable.
+00:22:00.880 --> 00:22:03.720
+an asset verification system or AVS.
 
-00:19:11.500 --> 00:19:13.940
-But if you look at it through the lens of the Congressional
+00:22:03.720 --> 00:22:05.200
+What does that actually mean for the listener?
 
-00:19:13.940 --> 00:19:18.140
-Budget Office, the CBO, it makes complete brutal sense.
+00:22:05.200 --> 00:22:06.040
+Why is that hard?
 
-00:19:18.140 --> 00:19:20.180
-We have to understand how legislation is actually
+00:22:06.040 --> 00:22:09.040
+Historically, verifying someone's financial assets
 
-00:19:20.180 --> 00:19:21.380
-scored in Washington.
+00:22:09.040 --> 00:22:10.880
+to see if they qualify for Medicaid
 
-00:19:21.380 --> 00:19:23.380
-OK, explain this scoring process,
+00:22:10.880 --> 00:22:14.160
+was this highly manual, paper-based process.
 
-00:19:23.380 --> 00:19:25.020
-because I think a lot of people here
+00:22:14.160 --> 00:22:15.960
+You either take the applicant's word for it
 
-00:19:25.020 --> 00:19:28.100
-see the CBO score on the news, but don't understand
+00:22:15.960 --> 00:22:18.640
+or you wait for physical bank statements to arrive.
 
-00:19:28.100 --> 00:19:31.300
-the mechanics of how it literally kills bills.
+00:22:18.640 --> 00:22:21.000
+Which takes forever and is prone to errors.
 
-00:19:31.300 --> 00:19:34.620
-The CBO acts as the official accountant for Congress.
-
-00:19:34.620 --> 00:19:36.860
-Whenever a piece of legislation is proposed,
-
-00:19:36.860 --> 00:19:38.860
-the CBO calculates exactly how much
-
-00:19:38.860 --> 00:19:41.500
-it will cost the federal government over a 10-year window.
-
-00:19:41.500 --> 00:19:42.660
-A 10-year window, OK.
-
-00:19:42.660 --> 00:19:45.100
-Congress operates under strict budgetary rules,
-
-00:19:45.100 --> 00:19:47.940
-often called pay as you go or PY go.
-
-00:19:47.940 --> 00:19:50.020
-If a bill is projected to add massive costs
-
-00:19:50.020 --> 00:19:52.060
-to the federal deficit, lawmakers either
-
-00:19:52.060 --> 00:19:53.860
-have to raise taxes to pay for it,
-
-00:19:53.860 --> 00:19:56.220
-cut funding from somewhere else, or find the votes
-
-00:19:56.220 --> 00:19:57.900
-to bypass their own budgetary rules,
-
-00:19:57.900 --> 00:19:59.300
-which is incredibly difficult.
-
-00:19:59.300 --> 00:20:02.220
-So it all comes down to the raw price tag over 10 years.
-
-00:20:02.220 --> 00:20:03.180
+00:22:21.000 --> 00:22:22.080
 Exactly.
 
-00:20:03.180 --> 00:20:04.780
-Now let's look at the populations.
+00:22:22.080 --> 00:22:24.880
+Congress demanded that Puerto Rico build a system
 
-00:20:04.780 --> 00:20:08.780
-The US Virgin Islands has roughly 100,000 residents total.
+00:22:24.880 --> 00:22:28.600
+that electronically and securely cross references
 
-00:20:08.780 --> 00:20:11.140
-American Samoa has less than 50,000.
+00:22:28.600 --> 00:22:30.560
+and applicants stated income
 
-00:20:11.140 --> 00:20:12.380
-Very small.
+00:22:30.560 --> 00:22:33.840
+with financial institutions in real time to prevent fraud.
 
-00:20:12.380 --> 00:20:15.580
-When the CBO scores the cost of giving those territories
+00:22:33.880 --> 00:22:35.920
+It is a massive IT lift.
 
-00:20:15.580 --> 00:20:18.380
-a permanent 83% open-ended match,
+00:22:35.920 --> 00:22:37.440
+It requires deep coordination
 
-00:20:18.380 --> 00:20:20.620
-the total dollar amount over 10 years
+00:22:37.440 --> 00:22:39.560
+between local government agencies, banks,
 
-00:20:20.620 --> 00:20:21.860
-is relatively minuscule.
+00:22:39.560 --> 00:22:40.840
+and federal databases.
 
-00:20:21.860 --> 00:20:22.860
-It's a rounding error.
+00:22:40.840 --> 00:22:42.160
+And did they get it online?
 
-00:20:22.860 --> 00:20:25.500
-It's essentially a rounding error in a multi-trillion dollar
-
-00:20:25.500 --> 00:20:26.740
-federal budget.
-
-00:20:26.740 --> 00:20:29.020
-Wallmakers can easily absorb that cost
-
-00:20:29.020 --> 00:20:30.940
-in a massive omnibus spending bill
-
-00:20:30.940 --> 00:20:32.140
-without triggering alarms.
-
-00:20:32.140 --> 00:20:35.220
-But Puerto Rico has 1.3 million beneficiaries
-
-00:20:35.220 --> 00:20:36.620
-on Medicaid alone.
-
-00:20:36.620 --> 00:20:37.460
-Right.
-
-00:20:37.460 --> 00:20:39.500
-If the CBO scores a bill that gives Puerto Rico
-
-00:20:39.500 --> 00:20:42.780
-a permanent 83% match, the 10-year cost
-
-00:20:42.780 --> 00:20:45.860
-explodes into the tens of billions of dollars.
-
-00:20:45.860 --> 00:20:47.180
-Suddenly it's not a rounding error.
-
-00:20:47.180 --> 00:20:48.620
-It's a massive budget item that
-
-00:20:48.620 --> 00:20:51.500
-requires offsetting cuts or new revenues.
-
-00:20:51.500 --> 00:20:53.380
-And during a lame duck congressional session,
-
-00:20:53.380 --> 00:20:56.140
-which is when the 2022 patch was negotiated,
-
-00:20:56.140 --> 00:20:58.340
-finding offsets for tens of billions of dollars
-
-00:20:58.340 --> 00:21:00.380
-is just politically impossible.
-
-00:21:00.380 --> 00:21:02.300
-So the lawmakers compromised.
-
-00:21:02.300 --> 00:21:04.820
-They gave the small territories the permanent maximum rate
-
-00:21:04.820 --> 00:21:05.900
-because it was cheap.
-
-00:21:05.900 --> 00:21:09.260
-And they forced Puerto Rico to take a lower, temporary rate
-
-00:21:09.260 --> 00:21:11.500
-because it was the only way to get the math to fit
-
-00:21:11.500 --> 00:21:13.180
-inside the political window they had.
-
-00:21:13.180 --> 00:21:14.900
-That is exactly what happened.
-
-00:21:14.900 --> 00:21:16.900
-It wasn't malice against Puerto Rico.
-
-00:21:16.900 --> 00:21:19.620
-It was the mechanical reality of congressional budget
-
-00:21:19.620 --> 00:21:20.420
-scoring.
-
-00:21:20.420 --> 00:21:23.300
-The smaller territory slipped through the budgetary cracks
-
-00:21:23.300 --> 00:21:25.380
-while Puerto Rico's sheer size made them
-
-00:21:25.380 --> 00:21:27.020
-a target for fiscal hawks.
-
-00:21:27.020 --> 00:21:29.100
-But out in the real world, past the spreadsheets
-
-00:21:29.100 --> 00:21:31.300
-and the CBO scores, this disparity
-
-00:21:31.300 --> 00:21:33.260
-has devastating consequences.
-
-00:21:33.260 --> 00:21:33.900
-Absolutely.
-
-00:21:33.900 --> 00:21:35.540
-It isn't just a political oddity.
-
-00:21:35.540 --> 00:21:38.780
-It directly impacts human lives and drives a phenomenon
-
-00:21:38.780 --> 00:21:40.700
-that the sources highlight repeatedly.
-
-00:21:40.700 --> 00:21:42.580
-Let's look at the actual human impact
-
-00:21:42.580 --> 00:21:44.980
-of this structural underfunding.
-
-00:21:44.980 --> 00:21:47.300
-The demographic data provided by the Puerto Rico
-
-00:21:47.300 --> 00:21:50.540
-Federal Affairs Administration, or PRFAA,
-
-00:21:50.540 --> 00:21:52.980
-paints a very sobering picture.
-
-00:21:52.980 --> 00:21:55.380
-Puerto Rico is not just a large population.
-
-00:21:55.380 --> 00:21:57.580
-It is a highly vulnerable one.
-
-00:21:57.580 --> 00:22:00.780
-Between 60% to 70% of the island's population
-
-00:22:00.780 --> 00:22:04.140
-has at least one critical chronic health condition.
-
-00:22:04.140 --> 00:22:06.420
-We're talking about high rates of diabetes,
-
-00:22:06.420 --> 00:22:07.980
-hypertension, and asthma.
-
-00:22:07.980 --> 00:22:09.900
-You have a population that desperately needs
-
-00:22:09.900 --> 00:22:12.820
-robust, uninterrupted preventative care.
-
-00:22:12.820 --> 00:22:14.620
-And they are relying on a system
-
-00:22:14.620 --> 00:22:16.580
-built on temporary gift cards.
-
-00:22:16.580 --> 00:22:17.340
-Yes.
-
-00:22:17.340 --> 00:22:18.860
-And importantly, the sources point out
-
-00:22:18.860 --> 00:22:22.140
-that this funding crisis isn't limited to just Medicaid.
-
-00:22:22.140 --> 00:22:22.460
-No.
-
-00:22:22.460 --> 00:22:24.180
-It bleeds heavily into Medicare as well,
-
-00:22:24.180 --> 00:22:26.180
-specifically Medicare Advantage.
-
-00:22:26.180 --> 00:22:28.140
-This is a crucial parallel track.
-
-00:22:28.140 --> 00:22:28.940
-OK.
-
-00:22:28.940 --> 00:22:32.540
-Over 670,000 seniors in Puerto Rico
-
-00:22:32.540 --> 00:22:35.340
-rely on Medicare Advantage for their health care.
-
-00:22:35.340 --> 00:22:37.740
-These are American citizens who paid Medicare taxes
-
-00:22:37.740 --> 00:22:39.300
-their entire working lives.
-
-00:22:39.300 --> 00:22:41.180
-And how does the funding for Medicare Advantage
-
-00:22:41.180 --> 00:22:43.300
-in Puerto Rico compare to the mainland?
-
-00:22:43.300 --> 00:22:44.820
-The base rates the federal government
-
-00:22:44.820 --> 00:22:46.900
-pays to Medicare Advantage plans in Puerto Rico
-
-00:22:46.900 --> 00:22:49.740
-are roughly 41% below the national average.
-
-00:22:49.740 --> 00:22:52.940
-41% less for the exact same federal program.
-
-00:22:52.940 --> 00:22:53.740
-Why?
-
-00:22:53.740 --> 00:22:55.500
-Is there a different cap for Medicare?
-
-00:22:55.500 --> 00:22:57.260
-The mechanism is different.
-
-00:22:57.260 --> 00:22:59.860
-But the root cause is connected.
-
-00:22:59.860 --> 00:23:01.460
-Medicare Advantage benchmarks,
-
-00:23:01.460 --> 00:23:03.860
-the rates the government pays the private plans,
-
-00:23:03.860 --> 00:23:06.580
-are heavily influenced by the historic costs
-
-00:23:06.580 --> 00:23:09.140
-of traditional fee-for-service Medicare
-
-00:23:09.140 --> 00:23:11.020
-in that specific geographic area.
-
-00:23:11.020 --> 00:23:12.660
-So because they spent less in the past,
-
-00:23:12.660 --> 00:23:13.900
-they get less now?
-
-00:23:13.900 --> 00:23:14.980
-Exactly.
-
-00:23:14.980 --> 00:23:16.540
-Because Puerto Rico's health care system
-
-00:23:16.540 --> 00:23:18.100
-has been structurally underfunded
-
-00:23:18.100 --> 00:23:19.900
-across the board for decades,
-
-00:23:19.900 --> 00:23:21.780
-the historical fees paid for services
-
-00:23:21.780 --> 00:23:23.740
-are artificially low.
-
-00:23:23.740 --> 00:23:25.260
-A doctor visit in San Juan
-
-00:23:25.260 --> 00:23:27.980
-simply costs less on paper than one in Miami,
-
-00:23:27.980 --> 00:23:30.260
-because the system couldn't afford to pay more.
-
-00:23:30.260 --> 00:23:31.500
-It's a vicious cycle.
-
-00:23:31.500 --> 00:23:33.420
-Because they were underfunded in the past,
-
-00:23:33.420 --> 00:23:35.580
-their historical costs look low.
-
-00:23:35.580 --> 00:23:37.700
-And because their historical costs look low,
-
-00:23:37.700 --> 00:23:39.500
-the federal government uses that data
-
-00:23:39.500 --> 00:23:41.700
-to justify underfunding them in the present.
-
-00:23:41.700 --> 00:23:42.500
-Exactly.
-
-00:23:42.500 --> 00:23:42.820
-Yeah.
-
-00:23:42.860 --> 00:23:44.140
-And the geographic disparity
-
-00:23:44.140 --> 00:23:46.140
-slaps them in the face here too.
-
-00:23:46.140 --> 00:23:48.140
-The Medicare Advantage funding in Puerto Rico
-
-00:23:48.140 --> 00:23:50.420
-is roughly 20% below the funding levels
-
-00:23:50.420 --> 00:23:52.380
-in the neighboring U.S. Virgin Islands.
-
-00:23:52.380 --> 00:23:53.220
-Unbelievable.
-
-00:23:53.220 --> 00:23:55.740
-Again, a discrepancy driven purely by location,
-
-00:23:55.740 --> 00:23:57.500
-not by the needs of the seniors.
-
-00:23:57.500 --> 00:23:59.580
-Which leads to the most painful statistic
-
-00:23:59.580 --> 00:24:01.340
-in all of these documents.
-
-00:24:01.340 --> 00:24:02.740
-When you chronically starve
-
-00:24:02.740 --> 00:24:04.140
-a health care system of funding,
-
-00:24:04.140 --> 00:24:05.820
-when you pay doctors less,
-
-00:24:05.820 --> 00:24:08.060
-when you can't upgrade hospital equipment
-
-00:24:08.060 --> 00:24:09.340
-because you don't know if your budget
-
-00:24:09.340 --> 00:24:11.700
-will exist next year,
-
-00:24:11.700 --> 00:24:13.420
-what do the patients do?
-
-00:24:13.420 --> 00:24:14.420
-They leave.
-
-00:24:14.420 --> 00:24:17.300
-The phenomenon is known as health care emigration.
-
-00:24:17.300 --> 00:24:18.820
-And the numbers are stark.
-
-00:24:18.820 --> 00:24:20.500
-According to the internal data,
-
-00:24:20.500 --> 00:24:23.100
-33% of all Puerto Ricans
-
-00:24:23.100 --> 00:24:25.420
-who emigrate to the mainland United States
-
-00:24:25.420 --> 00:24:28.300
-do so specifically seeking better health services.
-
-00:24:28.300 --> 00:24:29.380
-33%.
-
-00:24:29.380 --> 00:24:31.900
-One out of every three people packing up their lives
-
-00:24:31.900 --> 00:24:33.420
-and leaving the island is doing it
-
-00:24:33.420 --> 00:24:35.660
-simply because they cannot get the medical care
-
-00:24:35.660 --> 00:24:36.860
-they need to survive.
-
-00:24:36.860 --> 00:24:38.980
-Think about the sociological impact of that.
-
-00:24:38.980 --> 00:24:40.700
-Families are fractured.
-
-00:24:40.700 --> 00:24:43.460
-The elderly who need familial support the most
-
-00:24:43.460 --> 00:24:45.700
-are forced to move thousands of miles away
-
-00:24:45.700 --> 00:24:48.100
-to Florida, New York, or Texas,
-
-00:24:48.100 --> 00:24:51.940
-simply to access a functioning health care safety net.
-
-00:24:51.940 --> 00:24:53.420
-It hauls out the community.
-
-00:24:53.420 --> 00:24:54.940
-But here is where the story shifts
-
-00:24:54.940 --> 00:24:57.540
-from tragic to absolutely infuriating
-
-00:24:57.540 --> 00:24:58.620
-from a taxpayer perspective.
-
-00:24:58.620 --> 00:24:59.780
-Well, the financial paradox.
-
-00:24:59.780 --> 00:25:02.340
-Yes, I wanna dive into the financial paradox
-
-00:25:02.340 --> 00:25:05.940
-of this emigration because the math the PRFAA presents
-
-00:25:05.940 --> 00:25:07.140
-is mind-boggling.
-
-00:25:07.140 --> 00:25:10.500
-It is the ultimate example of a broken federal policy.
-
-00:25:10.540 --> 00:25:11.340
-Let's look at the numbers.
-
-00:25:11.340 --> 00:25:13.380
-When a Puerto Rican resident realizes
-
-00:25:13.380 --> 00:25:16.660
-their local clinic can't treat their chronic condition,
-
-00:25:16.660 --> 00:25:18.020
-they move to the mainland.
-
-00:25:18.020 --> 00:25:18.860
-Right.
-
-00:25:18.860 --> 00:25:21.260
-The moment they establish residency in Florida
-
-00:25:21.260 --> 00:25:24.020
-or Pennsylvania, they are instantly absorbed
-
-00:25:24.020 --> 00:25:26.740
-into that state's open-ended health care system.
-
-00:25:26.740 --> 00:25:28.180
-They get full Medicaid
-
-00:25:28.180 --> 00:25:30.180
-or standard Medicare Advantage rates.
-
-00:25:30.180 --> 00:25:31.020
-Automatically.
-
-00:25:31.020 --> 00:25:31.940
-According to the data,
-
-00:25:31.940 --> 00:25:34.980
-caring for that specific migrated population
-
-00:25:34.980 --> 00:25:36.180
-costs the federal government
-
-00:25:36.180 --> 00:25:39.740
-approximately $165 million annually.
-
-00:25:39.740 --> 00:25:43.500
-Okay, $165 million spent on the mainland.
-
-00:25:43.500 --> 00:25:46.260
-Now, if the federal government had just funded Puerto Rico
-
-00:25:46.260 --> 00:25:47.780
-equitably in the first place,
-
-00:25:47.780 --> 00:25:49.380
-allowing those people to stay home
-
-00:25:49.380 --> 00:25:51.660
-and receive care from their local doctors,
-
-00:25:51.660 --> 00:25:53.540
-treating that exact same group of patients
-
-00:25:53.540 --> 00:25:56.780
-would have cost the federal government $44 million.
-
-00:25:56.780 --> 00:25:58.020
-I wanna make sure you really
-
-00:25:58.020 --> 00:26:00.820
-absorbed the absurdity of those figures.
-
-00:26:00.820 --> 00:26:05.220
-To save $34 million on the Puerto Rico budget ledger,
-
-00:26:05.220 --> 00:26:07.900
-the federal government actively incentivizes
-
-00:26:07.940 --> 00:26:09.740
-six citizens to migrate.
-
-00:26:09.740 --> 00:26:10.580
-Right.
-
-00:26:10.580 --> 00:26:11.620
-And when they migrate,
-
-00:26:11.620 --> 00:26:15.180
-the federal government ends up paying $165 million
-
-00:26:15.180 --> 00:26:16.980
-to treat them in mainland hospitals.
-
-00:26:16.980 --> 00:26:19.660
-They are paying nearly four times as much money
-
-00:26:19.660 --> 00:26:21.180
-for the exact same care,
-
-00:26:21.180 --> 00:26:24.260
-simply because the patient changed zip codes.
-
-00:26:24.260 --> 00:26:25.100
-Yeah.
-
-00:26:25.100 --> 00:26:27.700
-It is beyond penny-wise and pound-foolish.
-
-00:26:27.700 --> 00:26:30.620
-It is institutional financial malpractice.
-
-00:26:30.620 --> 00:26:32.860
-It reveals the massive inefficiency
-
-00:26:32.860 --> 00:26:35.940
-of trying to manage a unified national citizenry
-
-00:26:35.980 --> 00:26:38.900
-with fractured localized funding silos.
-
-00:26:38.900 --> 00:26:40.900
-When you squeeze the balloon in Puerto Rico,
-
-00:26:40.900 --> 00:26:41.900
-the air doesn't disappear,
-
-00:26:41.900 --> 00:26:43.340
-it just pops out in Florida,
-
-00:26:43.340 --> 00:26:45.140
-where everything is vastly more expensive.
-
-00:26:45.140 --> 00:26:47.980
-The federal taxpayer is actively losing money
-
-00:26:47.980 --> 00:26:50.620
-by refusing to fund Puerto Rico's healthcare system
-
-00:26:50.620 --> 00:26:51.700
-equitably. Without a doubt.
-
-00:26:51.700 --> 00:26:54.380
-So we have a system operating on a temporary gift card,
-
-00:26:54.380 --> 00:26:56.580
-chronically underfunded, hemorrhaging doctors,
-
-00:26:56.580 --> 00:26:58.620
-forcing sick people to flee the island,
-
-00:26:58.620 --> 00:27:02.340
-and costing federal taxpayers quadruple in the long run.
-
-00:27:02.340 --> 00:27:04.380
-In the middle of this absolute chaos,
-
-00:27:04.380 --> 00:27:05.900
-someone actually has to sit down,
-
-00:27:05.900 --> 00:27:07.260
-look at the balance sheets,
-
-00:27:07.260 --> 00:27:10.180
-and try to write a legal budget for the territory,
-
-00:27:10.180 --> 00:27:11.980
-which brings us to the financial oversight
-
-00:27:11.980 --> 00:27:14.300
-and management board, the FOMB.
-
-00:27:14.300 --> 00:27:16.460
-The FOMB is the elephant in the room
-
-00:27:16.460 --> 00:27:18.100
-in Puerto Rican politics.
-
-00:27:18.100 --> 00:27:18.940
-Yeah.
-
-00:27:18.940 --> 00:27:19.780
-To understand their role,
-
-00:27:19.780 --> 00:27:21.700
-we have to touch briefly on PROMESSA.
-
-00:27:21.700 --> 00:27:24.300
-Right. The federal law passed in 2016.
-
-00:27:24.300 --> 00:27:26.620
-Because Puerto Rico is a territory,
-
-00:27:26.620 --> 00:27:29.700
-it couldn't declare traditional municipal bankruptcy
-
-00:27:29.700 --> 00:27:33.620
-when it amassed over $70 billion in unpayable debt.
-
-00:27:33.620 --> 00:27:35.220
-So Congress passed PROMESSA,
-
-00:27:35.220 --> 00:27:37.940
-which created this unelected, federally appointed,
-
-00:27:37.940 --> 00:27:39.940
-financial oversight and management board.
-
-00:27:39.940 --> 00:27:41.220
-And they have a lot of power.
-
-00:27:41.220 --> 00:27:42.580
-The board has supreme authority
-
-00:27:42.580 --> 00:27:44.300
-over Puerto Rico's finances.
-
-00:27:44.300 --> 00:27:46.860
-The elected local government can propose budgets,
-
-00:27:46.860 --> 00:27:48.900
-but the FOMB has to certify them.
-
-00:27:48.900 --> 00:27:51.460
-If the FOMB says no, the budget doesn't pass.
-
-00:27:51.460 --> 00:27:53.700
-They are essentially the federally mandated parents
-
-00:27:53.700 --> 00:27:54.580
-holding the checkbook.
-
-00:27:54.580 --> 00:27:55.780
-Yes, exactly.
-
-00:27:55.780 --> 00:27:57.980
-In June, 2026, the documents show
-
-00:27:57.980 --> 00:28:02.740
-the FOMB certified a $33.6 billion consolidated budget
-
-00:28:02.740 --> 00:28:04.900
-for fiscal year 2027.
-
-00:28:04.900 --> 00:28:07.420
-And in their highly detailed certification documents,
-
-00:28:07.420 --> 00:28:09.340
-they slapped a massive warning label
-
-00:28:09.340 --> 00:28:10.700
-on the healthcare system.
-
-00:28:10.700 --> 00:28:11.700
+00:22:42.160 --> 00:22:43.080
 They did.
 
-00:28:11.700 --> 00:28:14.100
-They explicitly designated Medicaid
+00:22:43.080 --> 00:22:46.040
+According to the internal roadmap and federal filings,
 
-00:28:14.100 --> 00:28:16.260
-as the top material fiscal risk
+00:22:46.040 --> 00:22:48.560
+the federal centers for Medicare and Medicaid services
 
-00:28:16.260 --> 00:28:18.500
-for the entire island's budget.
+00:22:48.560 --> 00:22:50.480
+officially approved their system plan
 
-00:28:18.500 --> 00:28:19.860
-And you can understand why,
+00:22:50.480 --> 00:22:52.640
+on June 16th, 2026,
 
-00:28:19.860 --> 00:28:22.020
-given the structural mechanics we've discussed,
+00:22:52.640 --> 00:22:56.280
+with it becoming fully effective on January 1st, 2026.
 
-00:28:22.020 --> 00:28:24.140
-the FOMB isn't looking at healthcare
+00:22:56.280 --> 00:22:57.800
+They check one of the biggest boxes
 
-00:28:24.140 --> 00:28:25.820
-from a medical perspective.
+00:22:57.800 --> 00:22:59.640
+Alison Mitchell had flagged in her report.
 
-00:28:25.820 --> 00:28:27.340
-They are looking at it purely
+00:22:59.640 --> 00:23:00.480
+That is huge.
 
-00:28:27.340 --> 00:28:29.180
-through the lens of risk exposure.
+00:23:00.480 --> 00:23:01.320
+What about the doctors?
 
-00:28:29.180 --> 00:28:31.180
-And the risk comes from how Medicaid
+00:23:01.320 --> 00:23:03.560
+We mentioned that extra $300 million
 
-00:28:31.180 --> 00:28:32.740
-is actually administered on the ground.
+00:23:03.560 --> 00:23:05.560
+was meant to establish a physician payment floor.
 
-00:28:32.740 --> 00:28:34.500
-Let's explain MCOs.
+00:23:05.560 --> 00:23:07.040
+Did that actually happen?
 
-00:28:34.500 --> 00:28:37.300
-In Puerto Rico, the government doesn't pay doctors
+00:23:07.040 --> 00:23:07.880
+It did.
 
-00:28:37.300 --> 00:28:39.380
-directly for Medicaid services.
+00:23:07.880 --> 00:23:09.760
+For years, Puerto Rico was basically
 
-00:28:39.380 --> 00:28:42.340
-They use managed care organizations, or MCOs.
+00:23:09.760 --> 00:23:11.160
+hemorrhaging medical professionals
 
-00:28:42.340 --> 00:28:43.820
-These are private insurance companies.
+00:23:11.160 --> 00:23:13.440
+because the local Medicaid reimbursement rates
 
-00:28:43.820 --> 00:28:44.660
-Okay.
+00:23:13.440 --> 00:23:15.880
+were just so abysmal compared to the mainland,
 
-00:28:44.660 --> 00:28:47.220
-The government pays a fixed monthly premium per person
+00:23:15.880 --> 00:23:18.080
+a doctor simply couldn't keep a clinic open.
 
-00:28:47.220 --> 00:28:50.260
-to the MCO, and the MCO assumes the risk
-
-00:28:50.260 --> 00:28:52.060
-of paying the actual medical bills.
-
-00:28:52.060 --> 00:28:53.980
-But the FOMB noted that the costs
-
-00:28:53.980 --> 00:28:56.860
-of these MCO contracts are rising aggressively.
-
-00:28:56.860 --> 00:28:58.540
-Because the underlying cost of healthcare
-
-00:28:58.540 --> 00:28:59.740
-is rising everywhere.
-
-00:28:59.740 --> 00:29:01.060
-You have general inflation,
-
-00:29:01.060 --> 00:29:03.220
-highly expensive new pharmaceutical treatments,
-
-00:29:03.340 --> 00:29:04.940
-an aging population, and the fact
-
-00:29:04.940 --> 00:29:06.180
-that Puerto Rico is being forced
-
-00:29:06.180 --> 00:29:09.100
-to raise provider payment rates to stop the brain drain.
-
-00:29:09.100 --> 00:29:11.180
-Right, the 75% floor we talked about.
-
-00:29:11.180 --> 00:29:13.220
-Right, all of this drives up the premiums
-
-00:29:13.220 --> 00:29:15.300
-the MCOs demand from the government.
-
-00:29:15.300 --> 00:29:18.860
-And here is where the FOMB starts sweating.
-
-00:29:18.860 --> 00:29:21.180
-If this were a 50-state model,
-
-00:29:21.180 --> 00:29:23.500
-an increase in MCO costs would be split
-
-00:29:23.500 --> 00:29:25.940
-with the federal government through that open tab.
-
-00:29:25.940 --> 00:29:27.500
-But Puerto Rico has the gift card.
-
-00:29:27.500 --> 00:29:28.340
+00:23:18.080 --> 00:23:18.920
 Right.
 
-00:29:28.340 --> 00:29:29.860
-If the MCO contracts suddenly jump
+00:23:18.920 --> 00:23:21.000
+So Congress mandated a floor
 
-00:29:29.860 --> 00:29:32.660
-by $500 million due to medical inflation,
+00:23:21.000 --> 00:23:23.120
+and Puerto Rico successfully implemented
 
-00:29:32.700 --> 00:29:34.100
-the federal cap doesn't budge.
+00:23:23.120 --> 00:23:24.720
+a directed payment arrangement
 
-00:29:34.100 --> 00:29:34.940
+00:23:24.720 --> 00:23:26.840
+that permanently sets the reimbursement floor
+
+00:23:26.840 --> 00:23:29.720
+at 75% of the Medicare Part B rate.
+
+00:23:29.720 --> 00:23:32.480
+So a doctor treating a vulnerable patient
+
+00:23:32.480 --> 00:23:35.120
+on Plan Vital now has a predictable,
+
+00:23:35.120 --> 00:23:37.280
+sustainable baseline of income.
+
+00:23:37.280 --> 00:23:38.120
 Exactly.
 
-00:29:34.940 --> 00:29:36.620
-The territory is legally on the hook
+00:23:38.120 --> 00:23:40.040
+It stabilized the workforce.
 
-00:29:36.620 --> 00:29:38.980
-for 100% of that overage.
+00:23:40.040 --> 00:23:42.600
+But the absolute centerpiece of their homework,
 
-00:29:38.980 --> 00:29:40.940
-For a financial control board tasked
+00:23:42.600 --> 00:23:44.200
+the statistic that is gonna be printed
 
-00:29:40.940 --> 00:29:42.700
-with maintaining a delicately balanced
+00:23:44.200 --> 00:23:46.320
+on every single lobbying flyer handed out
 
-00:29:42.700 --> 00:29:44.500
-post-bankruptcy budget,
+00:23:46.320 --> 00:23:48.440
+in Washington over the next 13 months,
 
-00:29:44.500 --> 00:29:46.420
-an uncapped liability colliding
+00:23:48.440 --> 00:23:49.800
+is their payment error rate.
 
-00:29:46.420 --> 00:29:48.220
-with a capped federal revenue stream
+00:23:49.800 --> 00:23:51.080
+Okay, tell me about this error rate.
 
-00:29:48.220 --> 00:29:49.340
-is their worst nightmare.
+00:23:51.080 --> 00:23:52.000
+How is it measured?
 
-00:29:49.340 --> 00:29:51.300
-Which explains the incredibly aggressive
+00:23:52.000 --> 00:23:53.480
+It's called the PRM rate.
 
-00:29:51.300 --> 00:29:53.580
-control language the FOMB inserted
+00:23:53.480 --> 00:23:54.960
+It is a rigorous federal audit
 
-00:29:53.580 --> 00:29:56.460
-into the 2027 budget resolution.
+00:23:54.960 --> 00:23:57.080
+that measures improper payments in Medicaid
 
-00:29:56.460 --> 00:29:57.820
-They didn't just certify the numbers.
+00:23:57.080 --> 00:23:59.040
+across every state and territory.
 
-00:29:57.820 --> 00:29:59.300
-They tied the government's hands.
+00:23:59.040 --> 00:24:02.000
+It measures everything from outright fraud to waste
 
-00:29:59.300 --> 00:30:00.140
-What did they do?
+00:24:02.000 --> 00:24:04.400
+to simple administrative clerical mistakes.
 
-00:30:00.140 --> 00:30:02.140
-They instituted a hard lock on the system.
+00:24:04.400 --> 00:24:06.120
+If you wanna know how tightly a jurisdiction
 
-00:30:02.140 --> 00:30:04.540
-The FOMB mandated that any proposed changes
+00:24:06.120 --> 00:24:07.640
+runs its health care budget,
 
-00:30:04.540 --> 00:30:06.820
-to Medicaid benefits, any expansion of coverage,
+00:24:07.640 --> 00:24:09.080
+you look at the PRM rate.
 
-00:30:06.820 --> 00:30:08.540
-any alteration to services,
+00:24:09.080 --> 00:24:11.280
+So after all the historical concerns
 
-00:30:08.540 --> 00:30:11.260
-must be rigorously reviewed for its fiscal impact.
+00:24:11.280 --> 00:24:12.480
+about mismanagement,
 
-00:30:11.260 --> 00:30:12.100
-It's okay.
+00:24:12.480 --> 00:24:15.280
+what did Puerto Rico score on their federal audit?
 
-00:30:12.100 --> 00:30:13.060
-And it cannot be implemented
+00:24:15.280 --> 00:24:18.640
+Puerto Rico's payment error rate came in at 2.51%.
 
-00:30:13.060 --> 00:30:14.780
-until it is explicitly approved
+00:24:18.640 --> 00:24:20.400
+Okay, 2.51%.
 
-00:30:14.780 --> 00:30:16.300
-by both the local office of management
+00:24:20.400 --> 00:24:22.360
+Out of context, that sounds low,
 
-00:30:16.300 --> 00:30:18.860
-and budget and the oversight board itself.
+00:24:22.360 --> 00:24:23.480
+but what's the baseline?
 
-00:30:18.860 --> 00:30:21.620
-It's like a parent putting a hard spend alert freeze
+00:24:23.480 --> 00:24:25.720
+How do the 50 states perform?
 
-00:30:21.620 --> 00:30:23.500
-on a teenager's debit card
+00:24:25.760 --> 00:24:29.360
+The national average for the 50 states is 5.09%.
 
-00:30:23.500 --> 00:30:26.140
-because there's absolutely no overdraft protection.
+00:24:29.360 --> 00:24:30.200
+Wait, hold on.
 
-00:30:26.140 --> 00:30:26.980
-Exactly.
+00:24:30.200 --> 00:24:31.160
+Puerto Rico's error rate
 
-00:30:26.980 --> 00:30:28.780
-If you try to swipe for a new benefit,
+00:24:31.160 --> 00:24:33.120
+is less than half the national average.
 
-00:30:28.780 --> 00:30:30.140
-the transaction is denied
-
-00:30:30.140 --> 00:30:31.820
-until the board reviews the receipt.
-
-00:30:31.820 --> 00:30:35.340
-They are terrified that a well-meaning local politician
-
-00:30:35.340 --> 00:30:37.180
-might expand a health benefit
-
-00:30:37.180 --> 00:30:39.300
-that accidentally pushes the total cost
-
-00:30:39.300 --> 00:30:40.860
-over the federal cap,
-
-00:30:40.860 --> 00:30:42.940
-instantly blowing a catastrophic hole
-
-00:30:42.940 --> 00:30:44.740
-in the certified budget.
-
-00:30:44.740 --> 00:30:47.220
-But the FOMB documents also highlight
-
-00:30:47.220 --> 00:30:49.620
-a massive vulnerability Puerto Rico has
-
-00:30:49.620 --> 00:30:52.740
-when it tries to lobby Washington for a permanent fix.
-
-00:30:52.740 --> 00:30:55.220
-And this is a point that opponents in Congress
-
-00:30:55.220 --> 00:30:56.380
-use relentlessly.
-
-00:30:56.380 --> 00:30:57.220
+00:24:33.120 --> 00:24:34.240
 Yes.
 
-00:30:57.220 --> 00:30:59.180
-The FOMB explicitly notes
+00:24:34.240 --> 00:24:36.320
+They are performing significantly better
 
-00:30:59.180 --> 00:31:00.220
-that the Puerto Rican government
+00:24:36.320 --> 00:24:39.200
+on payment integrity than the average US state.
 
-00:31:00.220 --> 00:31:02.580
-has not delivered audited financial statements
+00:24:39.200 --> 00:24:41.760
+They are running a tighter ship than jurisdictions
 
-00:31:02.580 --> 00:31:04.500
-since fiscal year 2022.
+00:24:41.760 --> 00:24:43.840
+with vast open-ended funding
 
-00:31:04.500 --> 00:31:06.300
-Yes, the financial reporting lag.
+00:24:43.840 --> 00:24:45.800
+and massive administrative budgets.
 
-00:31:06.300 --> 00:31:07.940
-This is the Achilles' heel
+00:24:45.800 --> 00:24:47.240
+How is that even possible?
 
-00:31:07.940 --> 00:31:09.820
-of their entire lobbying effort.
+00:24:47.240 --> 00:24:49.320
+How does a territory in a perpetual state
 
-00:31:09.820 --> 00:31:11.620
-I need to understand why this is happening.
+00:24:49.320 --> 00:24:52.600
+of fiscal crisis build a tighter anti-fraud system
 
-00:31:11.620 --> 00:31:12.980
-The sources mentioned the government
+00:24:52.600 --> 00:24:54.120
+than wealthy mainland states?
 
-00:31:12.980 --> 00:31:14.500
-is slowly transitioning to something
+00:24:54.120 --> 00:24:55.280
+It wasn't an accident.
 
-00:31:14.500 --> 00:31:17.540
-called modified accrual accounting.
+00:24:55.280 --> 00:24:56.560
+And it certainly wasn't easy.
 
-00:31:17.540 --> 00:31:18.420
-What does that mean?
+00:24:56.560 --> 00:24:58.440
+If you look at the Medicaid annual reports
 
-00:31:18.420 --> 00:31:20.060
-And why is it taking four years
+00:24:58.440 --> 00:25:01.720
+from October 2021 through the recent updates,
 
-00:31:20.060 --> 00:31:21.980
-to figure out how much money they have?
+00:25:01.720 --> 00:25:04.120
+they detail a relentless structural overhaul
 
-00:31:21.980 --> 00:31:24.300
-It's a massive systemic overhaul.
+00:25:04.120 --> 00:25:05.360
+of their internal plumbing.
 
-00:31:25.140 --> 00:31:27.340
-Historically, many parts of the Puerto Rican government
+00:25:05.360 --> 00:25:06.440
+Give me an example of the plumbing.
 
-00:31:27.340 --> 00:31:30.780
-operated on essentially a cash basis accounting system.
+00:25:06.440 --> 00:25:07.480
+What did they change?
 
-00:31:30.780 --> 00:31:31.620
+00:25:07.480 --> 00:25:10.360
+They completely revolutionized their contracting.
+
+00:25:10.360 --> 00:25:12.760
+Historically, decentralized procurement
+
+00:25:12.760 --> 00:25:15.800
+can be a massive breeding ground for waste.
+
+00:25:15.800 --> 00:25:17.120
+They brought in centralized,
+
+00:25:17.120 --> 00:25:20.040
+highly competitive procurement processes.
+
+00:25:20.040 --> 00:25:22.440
+They implemented continuous improvement protocols
+
+00:25:22.440 --> 00:25:24.360
+for finding fraud and abuse.
+
+00:25:24.360 --> 00:25:25.200
 Okay.
 
-00:31:31.620 --> 00:31:33.580
-Cash basis is simple.
+00:25:25.200 --> 00:25:26.880
+They set up incredibly strict,
 
-00:31:33.580 --> 00:31:36.740
-You record revenue when the cash hit the bank
+00:25:26.880 --> 00:25:29.240
+centralized data governance
 
-00:31:36.740 --> 00:31:39.780
-and you record an expense when the check clears.
+00:25:29.240 --> 00:25:30.960
+over the managed care companies
 
-00:31:39.780 --> 00:31:40.860
-Which is how most people
+00:25:30.960 --> 00:25:33.480
+that actually deliver the services to the patients.
 
-00:31:40.860 --> 00:31:42.300
-run their personal checking accounts.
+00:25:33.480 --> 00:25:35.440
+So they basically took away the ability
 
-00:31:42.300 --> 00:31:43.140
+00:25:35.440 --> 00:25:36.800
+for individual agencies
+
+00:25:36.800 --> 00:25:38.680
+to just hand out fragmented contracts.
+
+00:25:38.680 --> 00:25:39.760
+Exactly.
+
+00:25:39.760 --> 00:25:40.720
+The report even notes
+
+00:25:40.720 --> 00:25:43.360
+that they routed non-professional services,
+
+00:25:43.360 --> 00:25:44.480
+things like office cleaning
+
+00:25:44.480 --> 00:25:46.760
+and security for health department buildings,
+
+00:25:46.760 --> 00:25:49.320
+through the Puerto Rico General Services Administration
+
+00:25:49.320 --> 00:25:51.840
+to ensure forced competitive bidding.
+
+00:25:51.840 --> 00:25:54.560
+They tightened every single nut and bolt in the machine.
+
+00:25:54.560 --> 00:25:56.280
+And from a strategic standpoint,
+
+00:25:56.280 --> 00:25:57.680
+this just fundamentally changes
+
+00:25:57.680 --> 00:25:59.560
+the conversation in Washington.
+
+00:25:59.560 --> 00:26:02.200
+By doing this meticulous, documented homework,
+
+00:26:02.200 --> 00:26:03.520
+they have completely stripped away
+
+00:26:03.520 --> 00:26:05.240
+the traditional excuses.
+
+00:26:05.240 --> 00:26:08.280
+A lawmaker can no longer point to a lack of data
+
+00:26:08.280 --> 00:26:09.840
+or a high potential for fraud
+
+00:26:09.840 --> 00:26:11.640
+as a reason to deny funding.
+
+00:26:11.640 --> 00:26:12.880
+Precisely.
+
+00:26:12.880 --> 00:26:15.600
+Puerto Rico can now walk into a committee room,
+
+00:26:15.600 --> 00:26:18.040
+slide that 2.51% error rate
+
+00:26:18.040 --> 00:26:19.960
+and the approved electronic asset tracker
+
+00:26:19.960 --> 00:26:20.880
+across the table,
+
+00:26:20.880 --> 00:26:23.240
+and say, look, we manage our federal dollars
+
+00:26:23.240 --> 00:26:25.400
+better than half the states you represent.
+
+00:26:25.400 --> 00:26:27.240
+Now fund us like one.
+
+00:26:27.240 --> 00:26:29.360
+Okay, so if the homework is done
+
+00:26:29.360 --> 00:26:31.240
+and they have the data to prove it,
+
+00:26:31.240 --> 00:26:33.360
+what exactly is the demand?
+
+00:26:33.360 --> 00:26:36.400
+We know the cliff is looming in October, 2027.
+
+00:26:36.400 --> 00:26:38.920
+Are they just gonna ask for another five-year band aid
+
+00:26:38.920 --> 00:26:40.760
+to push the problem down the road again?
+
+00:26:40.760 --> 00:26:41.680
+Absolutely not.
+
+00:26:41.680 --> 00:26:43.000
+They are playing for keeps this time.
+
+00:26:43.000 --> 00:26:45.400
+They want a permanent structural fix.
+
+00:26:45.400 --> 00:26:46.400
+But to get that,
+
+00:26:46.400 --> 00:26:47.840
+they realized they had to fix
+
+00:26:47.840 --> 00:26:50.440
+a major political problem of their own first.
+
+00:26:50.440 --> 00:26:51.360
+What problem?
+
+00:26:51.360 --> 00:26:52.520
+Freelancing.
+
+00:26:52.520 --> 00:26:53.840
+What do you mean by freelancing?
+
+00:26:53.840 --> 00:26:54.760
+Well, in the past,
+
+00:26:54.760 --> 00:26:56.840
+when Puerto Rico needed federal funding,
+
+00:26:56.840 --> 00:26:58.680
+you would have the local hospital association
+
+00:26:58.680 --> 00:27:00.200
+asking for one thing,
+
+00:27:00.200 --> 00:27:01.960
+the pharmacies asking for something else,
+
+00:27:01.960 --> 00:27:03.800
+the local governor floating one number,
+
+00:27:03.800 --> 00:27:06.040
+and the representative in Washington
+
+00:27:06.040 --> 00:27:07.960
+negotiating a totally different number.
+
+00:27:07.960 --> 00:27:09.920
+And if you are a congressional staffer
+
+00:27:09.920 --> 00:27:11.400
+looking at four different demands
+
+00:27:11.400 --> 00:27:12.600
+from the same territory,
+
+00:27:12.600 --> 00:27:13.440
+you just throw your hands up
+
+00:27:13.440 --> 00:27:15.280
+and say, come back when you figure out what you want.
+
+00:27:15.280 --> 00:27:16.160
+Exactly.
+
+00:27:16.160 --> 00:27:19.440
+A fragmented ask is a dead ask in DC.
+
+00:27:19.440 --> 00:27:21.360
+So to prevent this,
+
+00:27:21.360 --> 00:27:23.760
+Governor Jennifer Gonzalez signed executive order
+
+00:27:23.760 --> 00:27:28.520
+2026-006 on February 5, 2026.
+
+00:27:28.520 --> 00:27:30.880
+What does the order actually do mechanically?
+
+00:27:30.880 --> 00:27:34.040
+It legally established a multi-sector working group.
+
+00:27:34.040 --> 00:27:36.520
+This is not just a bunch of bureaucrats in a back room.
+
+00:27:36.520 --> 00:27:39.280
+It mandates that the local Department of Health,
+
+00:27:39.280 --> 00:27:41.040
+the fiscal advisory agencies,
+
+00:27:41.040 --> 00:27:42.680
+the hospital associations,
+
+00:27:42.680 --> 00:27:44.640
+the medical associations, the pharmacies,
+
+00:27:44.640 --> 00:27:45.600
+and crucially,
+
+00:27:45.600 --> 00:27:47.760
+the resident commissioner in Washington,
+
+00:27:47.760 --> 00:27:50.160
+currently, Pablo Jose Hernandez Herrera,
+
+00:27:50.160 --> 00:27:52.000
+all have to sit at the exact same table.
+
+00:27:52.000 --> 00:27:54.760
+They literally locked the entire healthcare ecosystem
+
+00:27:54.760 --> 00:27:56.480
+in a room and told them they couldn't leave
+
+00:27:56.480 --> 00:27:57.880
+until they agreed on one number.
+
+00:27:57.880 --> 00:27:58.840
+Yes.
+
+00:27:58.840 --> 00:28:00.680
+The executive order explicitly aims
+
+00:28:00.680 --> 00:28:02.440
+to create a single voice.
+
+00:28:02.440 --> 00:28:04.520
+No one goes to DC in freelances.
+
+00:28:04.520 --> 00:28:06.280
+They present a unified strategy.
+
+00:28:06.280 --> 00:28:08.640
+So what did the single voice decide to ask for?
+
+00:28:08.640 --> 00:28:10.160
+Let's talk about tier A,
+
+00:28:10.160 --> 00:28:11.880
+the absolute best case scenario.
+
+00:28:11.880 --> 00:28:13.840
+Tier A is structural parity.
+
+00:28:13.840 --> 00:28:15.120
+It is the holy grail.
+
+00:28:15.120 --> 00:28:17.760
+They want Congress to completely repeal
+
+00:28:17.760 --> 00:28:21.000
+the Section 1108G funding cap for Puerto Rico.
+
+00:28:21.000 --> 00:28:23.200
+Throw away the buckets, give them the garden hose.
+
+00:28:23.200 --> 00:28:24.040
+Exactly.
+
+00:28:24.040 --> 00:28:27.240
+Make the funding open-ended, just like the 50 states.
+
+00:28:27.240 --> 00:28:29.120
+And alongside repealing the cap,
+
+00:28:29.120 --> 00:28:31.440
+they want to secure a permanent matching rate,
+
+00:28:31.440 --> 00:28:33.760
+an FMAP of 83%.
+
+00:28:33.760 --> 00:28:36.040
+Based on the actual poverty levels of the island.
+
+00:28:36.040 --> 00:28:36.880
+Yes.
+
+00:28:36.880 --> 00:28:39.760
+And there is a profound inherent fairness argument
+
+00:28:39.760 --> 00:28:41.120
+they are leveraging here.
+
+00:28:41.120 --> 00:28:42.680
+It is an argument that is very hard
+
+00:28:42.680 --> 00:28:44.240
+for Congress to refute.
+
+00:28:44.240 --> 00:28:47.440
+When Congress passed that massive 2022 deal,
+
+00:28:47.440 --> 00:28:49.800
+they didn't just give temporary help to Puerto Rico.
+
+00:28:49.800 --> 00:28:52.000
+They actually permanently fixed the FMAP
+
+00:28:52.000 --> 00:28:53.680
+for the other four US territories.
+
+00:28:53.680 --> 00:28:54.520
+Wait, really?
+
+00:28:54.520 --> 00:28:58.160
+American Samoa, Guam, the Northern Mariana Islands,
+
+00:28:58.160 --> 00:28:59.800
+and the US Virgin Islands, they all got it.
+
+00:28:59.800 --> 00:29:00.640
+Yes.
+
+00:29:00.640 --> 00:29:01.960
+All four of those territories were granted
+
+00:29:01.960 --> 00:29:06.080
+a permanent 83% FMAP in that 2022 legislation.
+
+00:29:06.080 --> 00:29:07.800
+Puerto Rico is the sole outlier.
+
+00:29:07.800 --> 00:29:08.760
+That is wild.
+
+00:29:08.760 --> 00:29:10.120
+So as the governor noted
+
+00:29:10.120 --> 00:29:12.320
+at the recent health policy conference,
+
+00:29:12.320 --> 00:29:14.040
+they are literally just asking,
+
+00:29:14.040 --> 00:29:16.840
+why is the statutory math applied to Puerto Rico
+
+00:29:16.840 --> 00:29:18.880
+less favorable than the math applied
+
+00:29:18.880 --> 00:29:20.320
+to the US Virgin Islands?
+
+00:29:20.320 --> 00:29:21.520
+They just want the same treatment
+
+00:29:21.520 --> 00:29:22.440
+as the other territories?
+
+00:29:22.440 --> 00:29:23.280
+Exactly.
+
+00:29:23.280 --> 00:29:24.120
+It is a demand for equity
+
+00:29:24.120 --> 00:29:26.720
+within the territorial system itself.
+
+00:29:26.720 --> 00:29:29.160
+But because they know Washington is deeply resistant
+
+00:29:29.160 --> 00:29:31.120
+to open-ended entitlements,
+
+00:29:31.120 --> 00:29:34.440
+they developed a locked specific fallback demand.
+
+00:29:34.440 --> 00:29:37.440
+The May, 2026 fallback, what is it?
+
+00:29:37.440 --> 00:29:39.520
+If open-ended parity fails,
+
+00:29:39.520 --> 00:29:40.920
+the unified fallback demand
+
+00:29:40.920 --> 00:29:43.120
+is an initial capped allocation
+
+00:29:43.120 --> 00:29:48.120
+of $4.415 billion for fiscal year 2028.
+
+00:29:48.320 --> 00:29:50.280
+And it comes with a statutory guarantee
+
+00:29:50.280 --> 00:29:52.240
+that it grows by 5% annually
+
+00:29:52.240 --> 00:29:54.000
+to account for medical inflation,
+
+00:29:54.000 --> 00:29:57.040
+combined with a permanent 83% FMAP.
+
+00:29:57.040 --> 00:29:58.280
+Okay, so the pieces are on the board.
+
+00:29:58.280 --> 00:29:59.100
+They have the homework.
+
+00:29:59.100 --> 00:30:00.840
+They have the 2.51 error rate.
+
+00:30:00.840 --> 00:30:02.000
+They have the unified ask
+
+00:30:02.000 --> 00:30:04.120
+and they know exactly what Alison Mitchell's baseline
+
+00:30:04.120 --> 00:30:05.400
+says they have to overcome.
+
+00:30:05.400 --> 00:30:06.720
+The million dollar question,
+
+00:30:06.720 --> 00:30:08.760
+or rather the multi-billion dollar question,
+
+00:30:08.760 --> 00:30:10.600
+is how do they actually execute this?
+
+00:30:10.600 --> 00:30:12.080
+We know what they want.
+
+00:30:12.080 --> 00:30:13.440
+But how do they navigate
+
+00:30:13.440 --> 00:30:16.440
+a polarized, slow-moving Congress
+
+00:30:16.440 --> 00:30:19.680
+to pass this before the trapdoor opens in 13 months?
+
+00:30:19.680 --> 00:30:22.160
+This is where we transition from policy analysis
+
+00:30:22.160 --> 00:30:25.640
+to pure legislative tactical warfare.
+
+00:30:25.640 --> 00:30:27.640
+The internal roadmap documents
+
+00:30:27.640 --> 00:30:30.360
+detail a meticulously-calendered,
+
+00:30:30.360 --> 00:30:33.080
+step-by-step operational strategy.
+
+00:30:33.080 --> 00:30:34.960
+They have converted the statutory math
+
+00:30:34.960 --> 00:30:36.760
+into a four-phase war plan.
+
+00:30:36.760 --> 00:30:38.160
+Okay, let's break down the calendar.
+
+00:30:38.160 --> 00:30:39.120
+Phase one is right now.
+
+00:30:39.120 --> 00:30:40.360
+It runs through the end of this month,
+
+00:30:40.360 --> 00:30:42.200
+September 30, 2026.
+
+00:30:42.200 --> 00:30:43.920
+What is the immediate mission?
+
+00:30:43.920 --> 00:30:46.680
+The immediate mission is stability and table setting.
+
+00:30:46.680 --> 00:30:48.080
+They must secure and confirm
+
+00:30:48.080 --> 00:30:50.360
+the fiscal year 2026 certifications
+
+00:30:50.360 --> 00:30:52.400
+for that extra 300 million for doctors
+
+00:30:52.400 --> 00:30:54.440
+and 75 million for integrity.
+
+00:30:54.440 --> 00:30:55.400
+If they let those lapse,
+
+00:30:55.400 --> 00:30:56.800
+the system starts bleeding early.
+
+00:30:56.800 --> 00:30:57.640
 Right.
 
-00:31:43.140 --> 00:31:44.580
-But it is a disastrous way
+00:30:57.640 --> 00:30:59.160
+Second, they must physically file
 
-00:31:44.580 --> 00:31:45.980
-to run a complex government
+00:30:59.160 --> 00:31:01.520
+that section 1108 annual report on time.
 
-00:31:45.980 --> 00:31:48.100
-because it hides long-term liabilities.
+00:31:01.520 --> 00:31:02.760
+They have to turn the homework in.
 
-00:31:48.100 --> 00:31:48.940
-No, so.
+00:31:02.760 --> 00:31:04.000
+They turn the homework in,
 
-00:31:48.940 --> 00:31:50.300
-Well, if you owe a billion dollars
+00:31:04.000 --> 00:31:05.720
+proving the low error rate.
 
-00:31:50.300 --> 00:31:52.180
-in pension payouts next year
+00:31:05.720 --> 00:31:08.040
+Then they take their two-page summary,
 
-00:31:52.180 --> 00:31:55.220
-or you have massive pending MCO contracts,
+00:31:08.080 --> 00:31:10.400
+attach Allison Mitchell's CRS PDFs
 
-00:31:55.220 --> 00:31:56.860
-cash accounting doesn't show that debt
+00:31:10.400 --> 00:31:11.760
+to prove the baseline,
 
-00:31:56.860 --> 00:31:58.300
-until the day you write the check.
+00:31:11.760 --> 00:31:13.280
+attach the governor's executive order
 
-00:31:58.300 --> 00:31:59.220
+00:31:13.280 --> 00:31:14.640
+to prove they are unified,
+
+00:31:14.640 --> 00:31:17.360
+and they physically deliver these packets
+
+00:31:17.360 --> 00:31:19.840
+to the staffs of the key committees,
+
+00:31:19.840 --> 00:31:21.560
+energy and commerce in the house,
+
+00:31:21.560 --> 00:31:22.920
+and finance in the Senate.
+
+00:31:22.920 --> 00:31:25.120
+Now, I noticed a very specific,
+
+00:31:25.120 --> 00:31:28.400
+bolded tactical note in the roadmap for this phase.
+
+00:31:28.400 --> 00:31:29.880
+It says, do not hang this
+
+00:31:29.880 --> 00:31:32.160
+on the October continuing resolution.
+
+00:31:32.160 --> 00:31:33.880
+Why would they avoid that?
+
+00:31:33.880 --> 00:31:35.760
+A continuing resolution, a CR,
+
+00:31:35.760 --> 00:31:38.480
+is a must pass bill to keep the government open.
+
+00:31:38.480 --> 00:31:39.800
+If they need this fix,
+
+00:31:39.800 --> 00:31:40.680
+shouldn't they attach it
+
+00:31:40.680 --> 00:31:42.560
+to whatever train is leaving the station?
+
+00:31:42.560 --> 00:31:45.200
+It is a brilliant piece of legislative restraint.
+
+00:31:45.200 --> 00:31:46.760
+You have to understand the chaos
+
+00:31:46.760 --> 00:31:49.040
+of a pre-election continuing resolution.
+
+00:31:49.040 --> 00:31:51.880
+It is a messy last minute stopgap measure
+
+00:31:51.880 --> 00:31:54.440
+designed solely to prevent a government shutdown
+
+00:31:54.440 --> 00:31:56.280
+right before voters go to the polls.
+
+00:31:56.280 --> 00:31:57.240
+Everyone is panicking.
+
+00:31:57.240 --> 00:31:58.640
+Right, it's just keeping the lights on.
+
+00:31:58.640 --> 00:31:59.520
+Exactly.
+
+00:31:59.520 --> 00:32:02.200
+If you try to jam a highly complex,
+
+00:32:02.200 --> 00:32:04.680
+multi-billion dollar structural rewrite
+
+00:32:04.680 --> 00:32:07.480
+of territorial Medicaid into that chaotic environment,
+
+00:32:07.480 --> 00:32:08.920
+one of two things will happen.
+
+00:32:08.920 --> 00:32:10.360
+Either it gets stripped out entirely
+
+00:32:10.360 --> 00:32:12.800
+because it's too complicated for a quick vote,
+
+00:32:12.800 --> 00:32:16.800
+or worse, you panic and accept a terrible short-term patch
+
+00:32:16.800 --> 00:32:17.880
+just to get something.
+
+00:32:17.880 --> 00:32:18.720
 Oh, I see.
 
-00:31:59.220 --> 00:32:00.420
-Modified accrual accounting
+00:32:18.720 --> 00:32:20.320
+And if you accept a six-month patch,
 
-00:32:00.420 --> 00:32:02.660
-is the standard for modern governments.
+00:32:20.320 --> 00:32:22.680
+you ruin your momentum for a permanent fix.
 
-00:32:02.660 --> 00:32:04.380
-It requires recognizing revenues
+00:32:22.680 --> 00:32:25.240
+The strategy is to keep their powder dry
 
-00:32:04.380 --> 00:32:06.140
-when they become available and measurable
+00:32:25.240 --> 00:32:27.360
+and wait for a proper legislative vehicle.
 
-00:32:06.140 --> 00:32:08.420
-and crucially recording expenditures
+00:32:27.360 --> 00:32:28.440
+Okay, that makes total sense.
 
-00:32:08.420 --> 00:32:10.100
-when the legal liability is incurred,
+00:32:28.440 --> 00:32:31.120
+So they survive the fall, they don't jump on the CR.
 
-00:32:10.100 --> 00:32:12.060
-not just when the cash changes hands.
+00:32:31.120 --> 00:32:32.720
+That brings us to phase two.
 
-00:32:12.060 --> 00:32:13.580
-So they are trying to transition
+00:32:32.720 --> 00:32:36.360
+October 2026 through January 3, 2027.
 
-00:32:13.580 --> 00:32:17.140
-a massive historically fragmented government bureaucracy
+00:32:36.360 --> 00:32:38.120
+This is the post-election period.
 
-00:32:17.140 --> 00:32:18.460
-from a simple checkbook
+00:32:38.120 --> 00:32:40.120
+The infamous lame duck session.
 
-00:32:18.460 --> 00:32:21.740
-to a highly complex predictive accounting standard.
+00:32:40.120 --> 00:32:42.000
+Why is a lame duck session so unique
 
-00:32:21.740 --> 00:32:22.740
+00:32:42.000 --> 00:32:43.720
+for this kind of strategy?
+
+00:32:43.720 --> 00:32:45.880
+Because half the room just lost their elections
+
+00:32:45.880 --> 00:32:47.400
+or they are retiring.
+
+00:32:47.400 --> 00:32:49.920
+The political pressure is suddenly very different.
+
+00:32:49.920 --> 00:32:51.760
+The roadmap dictates that Puerto Rico
+
+00:32:51.760 --> 00:32:55.640
+needs to have highly detailed legislative discussion drafts
+
+00:32:55.640 --> 00:32:58.760
+circulating among committee staff before Thanksgiving.
+
+00:32:58.760 --> 00:33:01.560
+They want to attempt to get a lame duck bridge passed,
+
+00:33:01.560 --> 00:33:04.600
+perhaps a strong down payment on their ultimate ask,
+
+00:33:04.600 --> 00:33:08.120
+negotiated by members who no longer fear primary challengers.
+
+00:33:08.120 --> 00:33:10.760
+And this is where that single voice executive order
+
+00:33:10.760 --> 00:33:12.400
+is truly tested, right?
+
+00:33:12.400 --> 00:33:13.640
+The roadmap says the governor
+
+00:33:13.640 --> 00:33:16.520
+and the resident commissioner must appear together in DC,
+
+00:33:16.520 --> 00:33:18.480
+repeating the exact same number.
+
+00:33:18.480 --> 00:33:21.160
+If there is even a sliver of daylight between them,
+
+00:33:21.160 --> 00:33:23.720
+committee staffers will exploit it to delay the bill.
+
+00:33:23.720 --> 00:33:24.960
+Exactly.
+
+00:33:24.960 --> 00:33:27.200
+And crucially, they must keep Medicaid
+
+00:33:27.200 --> 00:33:30.200
+entirely separated from the political status debate.
+
+00:33:30.200 --> 00:33:32.320
+The statehood versus independence debate.
+
+00:33:32.320 --> 00:33:33.240
 Yes.
 
-00:32:22.740 --> 00:32:25.300
-It requires reconciling thousands
+00:33:33.240 --> 00:33:36.040
+Whether a lawmaker supports statehood, independence,
 
-00:32:25.300 --> 00:32:27.060
-of separate agency accounts,
+00:33:36.040 --> 00:33:37.680
+or maintaining the commonwealth,
 
-00:32:27.060 --> 00:32:29.340
-integrating disparate IT systems
+00:33:37.680 --> 00:33:39.560
+the roadmap demands that Medicaid funding
 
-00:32:29.340 --> 00:32:31.780
-and tracking down historic liabilities
+00:33:39.560 --> 00:33:43.640
+be treated as an isolated life or death civic necessity.
 
-00:32:31.780 --> 00:32:33.100
-that were never properly recorded.
+00:33:43.640 --> 00:33:46.400
+If it gets tangled in the status debate, it dies.
 
-00:32:33.100 --> 00:32:34.380
-That sounds awful.
+00:33:46.400 --> 00:33:50.280
+All right, phase three, January to April, 2027,
 
-00:32:34.380 --> 00:32:36.780
-It is a forensic accounting nightmare,
+00:33:50.280 --> 00:33:53.040
+the new Congress is seated and sworn in.
 
-00:32:36.780 --> 00:32:39.140
-which is why they are four years behind
+00:33:53.040 --> 00:33:54.600
+The clock is really ticking now.
 
-00:32:39.140 --> 00:32:42.060
-in producing official audited financial statements.
+00:33:54.600 --> 00:33:56.120
+This is the heavy lifting phase.
 
-00:32:42.060 --> 00:32:44.660
-But think about how that looks in Washington.
+00:33:56.120 --> 00:33:58.520
+This is when you push for formal committee markups
 
-00:32:44.660 --> 00:32:46.500
-Try to put yourself in the shoes
+00:33:58.520 --> 00:33:59.760
+in public hearings.
 
-00:32:46.500 --> 00:32:49.260
-of a local official heading to Capitol Hill.
+00:33:59.800 --> 00:34:02.280
+This is when you force the congressional budget office,
 
-00:32:49.260 --> 00:32:51.020
-Imagine walking into a bank
+00:34:02.280 --> 00:34:04.960
+the CBO, to officially score the cost
 
-00:32:51.020 --> 00:32:53.060
-to ask for a multi-billion-dollar
+00:34:04.960 --> 00:34:06.320
+of the different funding tiers.
 
-00:32:53.060 --> 00:32:55.540
-permanent open-ended mortgage renewal.
+00:34:06.320 --> 00:34:08.880
+You make the math official on the congressional record.
 
-00:32:55.540 --> 00:32:56.380
-Right.
+00:34:08.880 --> 00:34:09.720
+Yes.
 
-00:32:56.380 --> 00:32:57.220
-The loan officer says,
+00:34:09.720 --> 00:34:13.680
+And this is when you deploy the heavy artillery, the FOMB.
 
-00:32:57.220 --> 00:32:58.700
-okay, let's see your tax returns
+00:34:13.680 --> 00:34:16.160
+The strategy calls for the financial oversight board
 
-00:32:58.700 --> 00:33:00.740
-to prove your financial stability.
+00:34:16.160 --> 00:34:19.680
+to submit a formal stark letter to congressional leadership,
 
-00:33:00.740 --> 00:33:03.620
-And you hand them paperwork from 2022.
+00:34:19.680 --> 00:34:23.680
+clearly stating that a $3.5 billion Medicaid cut
 
-00:33:03.620 --> 00:33:05.780
-The loan officer would laugh you out of the building.
+00:34:23.680 --> 00:34:26.680
+will fundamentally break Puerto Rico's certified budgets.
 
-00:33:05.780 --> 00:33:07.420
-And that is exactly what skeptical
+00:34:26.680 --> 00:34:28.480
+That is a brilliant pressure point.
 
-00:33:07.420 --> 00:33:09.100
-congressional committee members do.
+00:34:28.520 --> 00:34:30.040
+Congress created the FOMB.
 
-00:33:09.100 --> 00:33:11.580
-It creates a massive credibility void.
+00:34:30.040 --> 00:34:31.280
+Congress told Puerto Rico,
 
-00:33:11.580 --> 00:33:14.460
-It's incredibly difficult for Puerto Rico's lobbyists
+00:34:31.280 --> 00:34:33.600
+you must balance your budgets under our oversight.
 
-00:33:14.460 --> 00:33:16.580
-to stand in front of the Senate Finance Committee
+00:34:33.600 --> 00:34:36.240
+So Puerto Rico uses the federal fiscal watchdogs
 
-00:33:16.580 --> 00:33:18.140
-and demand billions of dollars
+00:34:36.240 --> 00:34:37.520
+against Congress itself.
 
-00:33:18.140 --> 00:33:19.940
-in permanent open-ended funding
+00:34:37.520 --> 00:34:39.200
+They say, we followed your rules,
 
-00:33:19.940 --> 00:33:22.500
-when they cannot produce a current audited ledger
+00:34:39.200 --> 00:34:41.280
+but we mathematically cannot balance the budget
 
-00:33:22.500 --> 00:33:23.860
-of their own finances.
+00:34:41.280 --> 00:34:43.520
+if you drop this $3 billion cliff on us.
 
-00:33:23.860 --> 00:33:26.260
-It gives every fiscal hawk in Congress
+00:34:43.520 --> 00:34:44.840
+You have to fix it.
 
-00:33:26.260 --> 00:33:29.340
-an easy, legitimate sounding excuse to say no,
+00:34:44.840 --> 00:34:47.040
+It is using the architecture of federal control
 
-00:33:29.340 --> 00:33:31.220
-or to insist on keeping the funding
+00:34:47.040 --> 00:34:48.480
+to force federal action.
 
-00:33:31.220 --> 00:33:33.340
-strictly capped and temporary.
+00:34:48.480 --> 00:34:50.120
+Which brings us to phase four,
 
-00:33:33.340 --> 00:33:34.180
+00:34:50.120 --> 00:34:52.800
+May to September 30, 2027.
+
+00:34:52.800 --> 00:34:54.440
+The trapdoor is opening.
+
+00:34:54.440 --> 00:34:55.600
+The danger zone.
+
+00:34:55.600 --> 00:34:57.400
+If there is no standalone parity bill
+
+00:34:57.400 --> 00:34:59.680
+moving through the chambers by Memorial Day,
+
+00:34:59.680 --> 00:35:01.560
+the strategy fundamentally shifts.
+
+00:35:01.560 --> 00:35:04.480
+You abandon the dream of a beautiful, clean,
+
+00:35:04.480 --> 00:35:06.200
+standalone parity act.
+
+00:35:06.200 --> 00:35:07.800
+You shift into survival mode
+
+00:35:07.800 --> 00:35:10.920
+and you look for a massive vehicle to attach yourself to.
+
+00:35:10.920 --> 00:35:12.320
+You attempt to attach a rider
+
+00:35:12.320 --> 00:35:15.680
+to the massive must pass September vehicle.
+
+00:35:15.680 --> 00:35:19.880
+The roadmap refers to this as the year end extender bundle.
+
+00:35:19.880 --> 00:35:21.280
+I want to push back on this strategy
+
+00:35:21.280 --> 00:35:23.240
+because looking at what goes into this bundle,
+
+00:35:23.240 --> 00:35:24.400
+it is massive.
+
+00:35:24.400 --> 00:35:27.720
+It includes delayed disproportionate share hospital cuts
+
+00:35:27.720 --> 00:35:28.800
+for mainland states.
+
+00:35:28.800 --> 00:35:30.760
+The money follows the person program,
+
+00:35:30.760 --> 00:35:32.960
+billions in community health center funds.
+
+00:35:32.960 --> 00:35:35.720
+There are dozens of massive national healthcare provisions
+
+00:35:35.720 --> 00:35:36.560
+in this pile.
+
+00:35:36.560 --> 00:35:37.400
+There are, yeah.
+
+00:35:37.400 --> 00:35:39.640
+Given that Puerto Rico is asking for billions of dollars
+
+00:35:39.640 --> 00:35:40.960
+in a structural rewrite,
+
+00:35:40.960 --> 00:35:43.760
+doesn't getting bundled into this massive extender pile
+
+00:35:43.760 --> 00:35:46.080
+risk getting completely lost in the noise.
+
+00:35:46.080 --> 00:35:48.480
+It is a massive tactical gamble,
+
+00:35:48.480 --> 00:35:52.200
+but it is often the only way things get done in DC.
+
+00:35:52.240 --> 00:35:54.000
+Being a standalone bill means
+
+00:35:54.000 --> 00:35:57.120
+you are a singular isolated target.
+
+00:35:57.120 --> 00:35:59.160
+If a senator from a fifthly conservative state
+
+00:35:59.160 --> 00:36:01.600
+wants to make a point about federal spending,
+
+00:36:01.600 --> 00:36:05.160
+they can easily vote against a standalone bill for Puerto Rico.
+
+00:36:05.160 --> 00:36:07.040
+It costs them nothing politically at home.
+
+00:36:07.040 --> 00:36:08.160
+Right, they can just say
+
+00:36:08.160 --> 00:36:09.640
+they are saving taxpayer money.
+
+00:36:09.640 --> 00:36:10.680
 Exactly.
 
-00:33:34.180 --> 00:33:35.740
-So if we pull all this together,
+00:36:10.680 --> 00:36:13.280
+But being embedded in the extender pile
 
-00:33:35.740 --> 00:33:38.500
-the level of difficulty here is astronomical.
+00:36:13.280 --> 00:36:15.840
+provides a sort of legislative herd immunity.
 
-00:33:38.500 --> 00:33:39.820
-Puerto Rico is facing
+00:36:15.840 --> 00:36:18.160
+Herd immunity that perfectly describes it.
 
-00:33:39.820 --> 00:33:44.180
-a multi-billion-dollar fiscal cliff in 13 months.
+00:36:18.160 --> 00:36:20.280
+If that same senator wants to vote against
 
-00:33:44.180 --> 00:33:45.700
-Their living expenses are capped
+00:36:20.280 --> 00:36:22.240
+Puerto Rico's Medicaid funding,
 
-00:33:45.700 --> 00:33:48.020
-by an external federal board.
+00:36:22.240 --> 00:36:24.120
+but doing so means they also have to vote against
 
-00:33:48.020 --> 00:33:49.900
-Their neighbors just got unlimited lines
+00:36:24.120 --> 00:36:25.480
+funding the community health centers
 
-00:33:49.900 --> 00:33:52.820
-of credit, and they have to negotiate their survival
+00:36:25.480 --> 00:36:27.480
+in their own home state,
 
-00:33:52.820 --> 00:33:55.140
-with tax returns that are four years out of date.
+00:36:27.480 --> 00:36:30.120
+they will hold their nose, complain about the process,
 
-00:33:55.140 --> 00:33:58.020
-Which means they cannot afford a single tactical error.
+00:36:30.120 --> 00:36:32.360
+and vote yes on the entire bundle.
 
-00:33:58.020 --> 00:33:59.700
-They literally cannot wing this.
+00:36:32.360 --> 00:36:34.920
+The extender bundle is how Washington passes
 
-00:33:59.700 --> 00:34:01.660
-And according to the internal timelines we have,
+00:36:34.920 --> 00:36:36.680
+necessary things that nobody wants to take
 
-00:34:01.660 --> 00:34:03.660
-they are absolutely not winging it.
+00:36:36.680 --> 00:36:38.280
+a tough individual vote on.
 
-00:34:03.660 --> 00:34:06.300
-Let's look at the actual playbook for 2027.
+00:36:38.280 --> 00:36:39.440
+It provides camouflage.
 
-00:34:06.300 --> 00:34:08.340
-This is the operational strategy
+00:36:39.440 --> 00:36:41.560
+So if they are in that extender pile,
 
-00:34:08.340 --> 00:34:10.620
-the local government is currently executing,
+00:36:41.560 --> 00:36:45.320
+bargaining at the absolute 11th hour in September, 2027,
 
-00:34:10.620 --> 00:34:13.380
-which they are calling the one voice strategy.
+00:36:45.320 --> 00:36:47.360
+and structural parity is off the table,
 
-00:34:13.380 --> 00:34:15.460
-This is where we pivot from diagnosing
+00:36:47.360 --> 00:36:49.040
+what is the absolute floor?
 
-00:34:15.460 --> 00:34:16.820
-the structural disease
+00:36:49.040 --> 00:36:51.840
+What is the minimum acceptable rider they will agree to?
 
-00:34:16.820 --> 00:34:19.500
-to analyzing the real-time political cure
+00:36:51.840 --> 00:36:54.240
+The minimum survival package according to the strategy
 
-00:34:19.500 --> 00:34:21.340
-and the architect of this strategy
-
-00:34:21.340 --> 00:34:23.820
-is Governor Jennifer Gonzalez Cologne.
-
-00:34:23.820 --> 00:34:25.620
-Which gives them a unique advantage.
-
-00:34:25.620 --> 00:34:27.340
-She isn't just luring the ropes.
-
-00:34:27.340 --> 00:34:28.740
-As the former resident commissioner,
-
-00:34:28.740 --> 00:34:30.500
-she is the person who personally negotiated
-
-00:34:30.500 --> 00:34:31.940
-the 2022 patch.
-
-00:34:31.940 --> 00:34:33.300
-Yes, she knows exactly
-
-00:34:33.300 --> 00:34:35.260
-how the congressional machinery works.
-
-00:34:35.260 --> 00:34:37.660
-And more importantly, how it breaks down.
-
-00:34:37.660 --> 00:34:39.700
-She understands that in Washington,
-
-00:34:39.700 --> 00:34:42.460
-fractional lobbying guarantees failure.
-
-00:34:42.460 --> 00:34:44.380
-If the local Puerto Rican Department of Health
-
-00:34:44.380 --> 00:34:46.620
-goes to Congress asking for one thing,
-
-00:34:46.620 --> 00:34:48.700
-the hospital association asked for another,
-
-00:34:48.700 --> 00:34:51.660
-and the local health insurance administration, AC,
-
-00:34:51.660 --> 00:34:53.060
-asks for a third.
-
-00:34:53.060 --> 00:34:54.500
-Congress just ignores them?
-
-00:34:54.500 --> 00:34:56.740
-Congress simply throws up its hands,
-
-00:34:56.740 --> 00:34:58.900
-claims there is no local consensus,
-
-00:34:58.900 --> 00:35:00.180
-and ignores all of them.
-
-00:35:00.180 --> 00:35:03.220
-So to prevent that, in February, 2026,
-
-00:35:03.220 --> 00:35:06.340
-the governor signed executive order 2026006.
-
-00:35:06.340 --> 00:35:08.020
-Right, that executive order
-
-00:35:08.020 --> 00:35:10.900
-legally established the multi-sector task force.
-
-00:35:10.900 --> 00:35:14.140
-It forced every single stakeholder to the same table.
-
-00:35:14.140 --> 00:35:16.220
-The department of MOLF, ACs,
-
-00:35:16.220 --> 00:35:18.500
-the federal affairs office, PRFAA,
-
-00:35:18.540 --> 00:35:20.540
-the hospital associations, the pharmacy boards,
-
-00:35:20.540 --> 00:35:21.660
-and the medical associations.
-
-00:35:21.660 --> 00:35:22.700
-Everyone in one room?
-
-00:35:22.700 --> 00:35:23.540
-Everyone.
-
-00:35:23.540 --> 00:35:25.220
-The mandate was absolute.
-
-00:35:25.220 --> 00:35:27.260
-No one goes to Washington with a separate agenda.
-
-00:35:27.260 --> 00:35:29.140
-They hammer out their differences in San Juan,
-
-00:35:29.140 --> 00:35:31.020
-design a single unified strategy,
-
-00:35:31.020 --> 00:35:33.340
-and present exactly one set of demands to Congress,
-
-00:35:33.340 --> 00:35:34.300
-one voice.
-
-00:35:34.300 --> 00:35:37.740
-So what exactly is the unified demand?
-
-00:35:37.740 --> 00:35:39.780
-When they sit down with the House Energy
-
-00:35:39.780 --> 00:35:42.220
-and Commerce Committee, what is the official ask?
-
-00:35:42.220 --> 00:35:45.180
-They locked in their targets in May, 2026.
-
-00:35:45.180 --> 00:35:47.660
-The official ask has three distinct pillars.
-
-00:35:47.660 --> 00:35:49.020
-Okay, let's hear them.
-
-00:35:49.020 --> 00:35:53.780
-First, a base funding amount of $4.415 billion
-
-00:35:53.780 --> 00:35:55.740
-for fiscal year 2028.
-
-00:35:55.740 --> 00:35:56.940
-That's the new cap they want.
-
-00:35:56.940 --> 00:35:57.780
-Right.
-
-00:35:57.780 --> 00:36:01.780
-Second, an automatic 5% annual growth rate baked into the law
-
-00:36:01.780 --> 00:36:03.820
-to naturally adjust from medical inflation.
-
-00:36:03.820 --> 00:36:05.260
-So they don't have to come back and beg
-
-00:36:05.260 --> 00:36:07.380
-every time the cost of insulin goes up.
-
-00:36:07.380 --> 00:36:08.260
-And the third pillar.
-
-00:36:08.260 --> 00:36:09.260
-A holy grail.
-
-00:36:09.260 --> 00:36:13.940
-They are demanding the permanent 83% FMAP matching rate
-
-00:36:13.940 --> 00:36:15.980
-that the other territories already possess.
-
-00:36:15.980 --> 00:36:16.820
-Parity.
-
-00:36:16.820 --> 00:36:18.860
-No more patches, no more cliffs, parity.
-
-00:36:18.860 --> 00:36:21.220
-It's an aggressive ask, especially given the CBO
-
-00:36:21.220 --> 00:36:22.860
-scoring issues we discussed earlier.
-
-00:36:22.860 --> 00:36:23.700
-Very aggressive.
-
-00:36:23.700 --> 00:36:27.180
-Achieving it requires a flawless tactical execution.
-
-00:36:27.180 --> 00:36:29.060
-And the internal task force timeline
-
-00:36:29.060 --> 00:36:32.380
-reads like a military campaign, broken down month by month
-
-00:36:32.380 --> 00:36:34.260
-over the final 13 month window.
-
-00:36:34.260 --> 00:36:35.340
-Let's walk through this calendar.
-
-00:36:35.340 --> 00:36:37.900
-Okay, phase one is the immediate baseline phase,
-
-00:36:37.900 --> 00:36:39.500
-covering the period right now,
-
-00:36:39.500 --> 00:36:41.860
-leading up through September 2026.
-
-00:36:41.860 --> 00:36:44.460
-What is the primary objective here?
-
-00:36:44.460 --> 00:36:46.340
-Securing the perimeter.
-
-00:36:46.340 --> 00:36:48.700
-Before you ask for a permanent new deal,
-
-00:36:48.700 --> 00:36:51.900
-you must prove you executed the old deal perfectly.
-
-00:36:51.900 --> 00:36:54.620
-They are laser focused on confirming the certifications
-
-00:36:54.620 --> 00:36:56.060
-for the physician payment floor
-
-00:36:56.060 --> 00:36:58.340
-and the program integrity leads,
-
-00:36:58.340 --> 00:37:02.420
-ensuring they pull down that extra $375 million
-
-00:37:02.420 --> 00:37:03.940
-for FY 2026.
-
-00:37:03.940 --> 00:37:05.380
-This is also where Allison Mitchell
-
-00:37:05.380 --> 00:37:06.420
-comes back into play, right?
-
-00:37:06.420 --> 00:37:09.340
-Yes, the strategic deployment of information.
-
-00:37:09.340 --> 00:37:10.940
-They are physically hand delivering
-
-00:37:10.940 --> 00:37:13.700
-Mitchell's nonpartisan CRS reports,
-
-00:37:13.700 --> 00:37:16.980
-along with their pristine PRM error rate data
-
-00:37:16.980 --> 00:37:19.220
-and the one voice executive order
-
-00:37:19.220 --> 00:37:21.380
-directly to the key committee staff.
-
-00:37:21.380 --> 00:37:22.220
-Smart.
-
-00:37:22.220 --> 00:37:23.740
-They are establishing the baseline facts
-
-00:37:23.740 --> 00:37:25.540
-and proving their administrative competence
-
-00:37:25.540 --> 00:37:27.340
-before the political bloodbath begins.
-
-00:37:27.340 --> 00:37:28.700
-And the internal documents note
-
-00:37:28.700 --> 00:37:31.540
-a very specific tactical warning for this phase.
-
-00:37:31.540 --> 00:37:33.300
-Do not tie the Medicaid negotiation
-
-00:37:33.300 --> 00:37:35.020
-to the October continuing resolution.
-
-00:37:35.020 --> 00:37:38.020
-Yes, a continuing resolution or CR
-
-00:37:38.020 --> 00:37:39.620
-is a stop cap funding measure
-
-00:37:39.620 --> 00:37:41.740
-used to prevent a government shutdown
-
-00:37:41.740 --> 00:37:43.380
-when Congress fails to pass a budget.
-
-00:37:43.380 --> 00:37:44.540
-And we know how those go.
-
-00:37:44.540 --> 00:37:47.380
-The task force knows that CR debates are toxic,
-
-00:37:47.380 --> 00:37:50.100
-highly partisan and chaotic.
-
-00:37:50.100 --> 00:37:52.260
-If Puerto Rico's Medicaid fix gets lumped
-
-00:37:52.260 --> 00:37:54.900
-into a threat of a federal government shutdown,
-
-00:37:54.900 --> 00:37:56.420
-it becomes a political football.
-
-00:37:56.420 --> 00:37:57.780
-They want a standalone fix.
-
-00:37:57.780 --> 00:37:59.620
-They want to be evaluated on the merits,
-
-00:37:59.620 --> 00:38:02.660
-not used as leverage in a broader partisan war.
-
-00:38:02.660 --> 00:38:03.500
-Exactly.
-
-00:38:03.500 --> 00:38:05.260
-Which brings us to phase two,
-
-00:38:05.260 --> 00:38:09.540
-October 2026 through early January 2027,
-
-00:38:09.540 --> 00:38:11.020
-the lame duck session.
-
-00:38:11.020 --> 00:38:13.940
-This is notoriously the most unpredictable window
-
-00:38:13.940 --> 00:38:15.300
-in American politics.
-
-00:38:15.300 --> 00:38:17.340
-It occurs after the November elections,
-
-00:38:17.340 --> 00:38:18.980
-but before the newly elected Congress
-
-00:38:18.980 --> 00:38:20.500
-takes office in January.
-
-00:38:20.500 --> 00:38:23.020
-You have retiring lawmakers, shifting majorities,
-
-00:38:23.020 --> 00:38:25.820
-and a mad scramble to pass legacy legislation.
-
-00:38:25.820 --> 00:38:28.700
-What is Puerto Rico's goal during this chaos?
-
-00:38:28.700 --> 00:38:29.940
-They want a discussion draft
-
-00:38:29.940 --> 00:38:31.540
-of their permanent legislation circulating
-
-00:38:31.540 --> 00:38:33.100
-in committees before Thanksgiving.
-
-00:38:33.100 --> 00:38:34.700
-They're actively expanding the number
-
-00:38:34.700 --> 00:38:37.100
-of bipartisan signatures on their support letters.
-
-00:38:37.100 --> 00:38:39.340
-But crucially, their internal strategy
-
-00:38:39.340 --> 00:38:41.740
-dictates an absolute firewall.
-
-00:38:41.740 --> 00:38:43.580
-They must keep the Medicaid funding debate
-
-00:38:43.580 --> 00:38:46.540
-completely separated from the perennial toxic debate
-
-00:38:46.540 --> 00:38:48.300
-over Puerto Rico's political status,
-
-00:38:48.300 --> 00:38:50.340
-statehood versus independence.
-
-00:38:50.340 --> 00:38:53.060
-Because if the conversation shifts to statehood,
-
-00:38:53.060 --> 00:38:55.580
-the Medicaid funding instantly dies in committee.
-
-00:38:55.580 --> 00:38:56.420
-Exactly.
-
-00:38:56.420 --> 00:38:57.940
-It becomes an ideological battle
-
-00:38:57.940 --> 00:38:59.900
-rather than a healthcare necessity.
-
-00:38:59.900 --> 00:39:01.780
-Their secondary goal in the lame duck
-
-00:39:01.780 --> 00:39:04.940
-is attempting to negotiate a lame duck bridge.
-
-00:39:04.940 --> 00:39:06.620
-A preliminary deal secured
-
-00:39:06.620 --> 00:39:09.460
-before the new Congress resets the board entirely.
-
-00:39:09.460 --> 00:39:12.180
-And optics are heavily managed here.
-
-00:39:12.180 --> 00:39:14.340
-The plan explicitly states that the governor
-
-00:39:14.340 --> 00:39:15.900
-and the current resident commissioner
-
-00:39:15.900 --> 00:39:17.620
-will conduct joint appearances,
-
-00:39:17.620 --> 00:39:20.220
-presenting the exact same numbers.
-
-00:39:20.220 --> 00:39:21.180
-Total discipline.
-
-00:39:21.180 --> 00:39:23.180
-But let's be realistic, lame duck sessions
-
-00:39:23.180 --> 00:39:26.220
-rarely produce massive, multi-billion dollar
-
-00:39:26.220 --> 00:39:28.380
-permanent entitlement reforms.
-
-00:39:28.380 --> 00:39:31.100
-Assuming it fails, we roll into phase three.
-
-00:39:31.100 --> 00:39:34.780
-January through April, 2027, the new Congress.
-
-00:39:34.780 --> 00:39:36.140
-This is the grind.
-
-00:39:36.140 --> 00:39:37.700
-The heavy legislative lifting.
-
-00:39:37.700 --> 00:39:40.140
-They are strategizing for committee markups.
-
-00:39:40.140 --> 00:39:41.900
-They are prepping the local secretary of health
-
-00:39:41.900 --> 00:39:43.820
-for grueling congressional testimonies.
-
-00:39:43.820 --> 00:39:46.060
-And they are engaging in trench warfare
-
-00:39:46.060 --> 00:39:48.020
-with the congressional budget office
-
-00:39:48.020 --> 00:39:49.660
-over how the bill will be scored.
-
-00:39:49.660 --> 00:39:51.060
-And this is exactly when they detonate
-
-00:39:51.060 --> 00:39:54.020
-their most powerful piece of leverage, the FOMB.
-
-00:39:54.020 --> 00:39:56.340
-It is a brilliant, almost paradoxical
-
-00:39:56.340 --> 00:39:57.940
-use of the oversight board.
-
-00:39:57.940 --> 00:39:59.860
-The task force strategy dictates
-
-00:39:59.860 --> 00:40:03.180
-securing a formal, aggressive letter from the FOMB.
-
-00:40:03.180 --> 00:40:04.900
-What does the letter say?
-
-00:40:04.900 --> 00:40:07.660
-They want the federally appointed fiscal watchdogs
-
-00:40:07.660 --> 00:40:09.540
-to state plainly to Congress
-
-00:40:09.540 --> 00:40:13.580
-that if Puerto Rico faces a $3.5 billion Medicaid cut,
-
-00:40:13.580 --> 00:40:16.580
-the certified budgets will instantaneously collapse
-
-00:40:16.580 --> 00:40:19.260
-and the entire core mission of the promissal law will fail.
-
-00:40:19.260 --> 00:40:20.620
-It's political judo.
-
-00:40:20.620 --> 00:40:24.460
-Congress installed the FOMB to fix Puerto Rico's finances.
-
-00:40:24.460 --> 00:40:27.580
-Now Puerto Rico is using the FOMB to threaten Congress.
-
-00:40:27.580 --> 00:40:28.780
-They're essentially saying,
-
-00:40:28.780 --> 00:40:30.300
-if you don't fund our healthcare,
-
-00:40:30.300 --> 00:40:32.540
-your own hand-picked financial control board
-
-00:40:32.540 --> 00:40:35.100
-says the whole restructuring experiment is dead.
-
-00:40:35.100 --> 00:40:37.300
-It forces fiscal conservatives in Congress
-
-00:40:37.300 --> 00:40:39.860
-to choose between funding territorial healthcare
-
-00:40:39.860 --> 00:40:42.020
-or watching the historic bankruptcy restructure
-
-00:40:42.020 --> 00:40:43.980
-they engineered completely unravel.
-
-00:40:43.980 --> 00:40:45.380
-It is maximum leverage.
-
-00:40:45.380 --> 00:40:47.780
-Okay, phase four, the 11th hour,
-
-00:40:47.780 --> 00:40:49.820
-May through September, 2027.
-
-00:40:49.820 --> 00:40:51.060
-If Memorial Day passes
-
-00:40:51.060 --> 00:40:52.620
-and there is no standalone bill,
-
-00:40:52.620 --> 00:40:53.820
-CANIX sets in.
-
-00:40:53.820 --> 00:40:55.420
-What is the contingency plan?
-
-00:40:55.420 --> 00:40:59.300
-If permanence fails, you pivot to survival.
-
-00:40:59.300 --> 00:41:02.500
-The strategy dictates abandoning the standalone bill
-
-00:41:02.580 --> 00:41:04.620
-and attempting to attach a Medicaid rider
-
-00:41:04.620 --> 00:41:07.300
-to whatever must pass federal budget vehicle
-
-00:41:07.300 --> 00:41:10.020
-is moving in September, right before the deadline.
-
-00:41:10.020 --> 00:41:11.060
-They hold their nose
-
-00:41:11.060 --> 00:41:13.020
-and dive into the omnibus spending bills.
-
-00:41:13.020 --> 00:41:15.460
-What is their absolute bottom line?
-
-00:41:15.460 --> 00:41:17.780
-If they cannot get the permanent 83%,
-
-00:41:17.780 --> 00:41:19.780
-what is the minimum acceptable outcome
-
-00:41:19.780 --> 00:41:21.340
-before they walk away?
-
-00:41:21.340 --> 00:41:22.820
-According to the internal parameters,
-
-00:41:22.820 --> 00:41:23.900
-the absolute floor,
-
-00:41:23.900 --> 00:41:25.060
-the minimum acceptable rider
-
-00:41:25.060 --> 00:41:29.380
+00:36:54.240 --> 00:36:57.400
 is freezing the fiscal year 2027 funding levels,
 
-00:41:29.380 --> 00:41:31.580
-adjusting those levels strictly for medical inflation
+00:36:57.400 --> 00:36:59.520
+adding a mandatory bump for medical inflation
 
-00:41:31.620 --> 00:41:33.300
-and freezing the FMAP rate
+00:36:59.520 --> 00:37:01.800
+so the money doesn't lose its purchasing power,
 
-00:41:33.300 --> 00:41:35.500
-at either 76% or 83%
+00:37:01.800 --> 00:37:05.520
+and locking the FMAP at either 76 or 82%
 
-00:41:35.500 --> 00:41:36.900
-for at least two additional years.
+00:37:05.520 --> 00:37:07.040
+for at least two more years.
 
-00:41:36.900 --> 00:41:39.580
-So kicking the can down the road, another patch.
+00:37:07.040 --> 00:37:09.440
+So it's just another bucket, another Band-Aid.
 
-00:41:39.580 --> 00:41:40.780
-If they can't share the disease,
+00:37:09.440 --> 00:37:12.480
+It is, but it stops the trapdoor from opening.
 
-00:41:40.780 --> 00:41:41.900
-they will cite tooth and nail
+00:37:12.480 --> 00:37:14.440
+It prevents that catastrophic reversion
 
-00:41:41.900 --> 00:41:44.500
-for another temporary dose of pain medication
+00:37:14.440 --> 00:37:18.120
+to the 2019 baseline of $500 million.
 
-00:41:44.500 --> 00:41:45.940
-just to avoid the cliff.
+00:37:18.160 --> 00:37:20.560
+It keeps the system alive to fight another day.
 
-00:41:45.940 --> 00:41:47.500
-Looking at this entire timeline,
+00:37:20.560 --> 00:37:23.520
+Wow, we have covered an immense amount of ground today.
 
-00:41:47.500 --> 00:41:49.500
-it is exhausting just to read.
+00:37:23.520 --> 00:37:25.520
+Let's take a breath and do a quick recap.
 
-00:41:49.500 --> 00:41:51.420
-It isn't a political wish list.
+00:37:25.520 --> 00:37:26.800
+We are looking at a scenario
 
-00:41:51.420 --> 00:41:53.260
-It is a highly coordinated,
+00:37:26.800 --> 00:37:28.360
+with incredibly high stakes.
 
-00:41:53.260 --> 00:41:55.540
-multi-layered survival mechanism.
+00:37:28.360 --> 00:37:29.280
+Incredibly high.
 
-00:41:55.540 --> 00:41:56.940
-It represents the culmination
+00:37:29.280 --> 00:37:31.800
+1.3 million American citizens
 
-00:41:56.940 --> 00:42:00.260
-of years of deeply frustrating groundwork.
+00:37:31.800 --> 00:37:33.920
+whose access to basic healthcare relies
 
-00:42:00.260 --> 00:42:02.940
-Alison Mitchell mapped the statutory traps.
+00:37:33.920 --> 00:37:37.040
+on a rigid, outdated statutory formula.
 
-00:42:02.940 --> 00:42:06.460
-The governor wrote the blueprint for the 2022 escape hatch.
+00:37:37.040 --> 00:37:40.160
+They are facing a catastrophic multi-billion dollar drop
 
-00:42:06.460 --> 00:42:09.180
-And now this multi-sector task force
+00:37:40.160 --> 00:37:41.600
+in exactly 13 months
 
-00:42:09.180 --> 00:42:10.900
-is a discoke political apparatus
+00:37:41.600 --> 00:37:44.280
+because of how a specific section of the law is written,
 
-00:42:10.900 --> 00:42:13.420
-designed to force a reluctant Congress to act,
+00:37:44.280 --> 00:37:46.000
+but they aren't just waiting for it to happen.
 
-00:42:13.420 --> 00:42:15.180
-step by agonizing step,
+00:37:46.000 --> 00:37:48.640
+They have executed a massive administrative overhaul,
 
-00:42:15.180 --> 00:42:17.260
-month by month until the clock runs out.
+00:37:48.640 --> 00:37:51.440
+achieving a 2.51% error rate
 
-00:42:17.260 --> 00:42:18.220
-I want to take a step back
+00:37:51.440 --> 00:37:53.040
+that beats the national average.
 
-00:42:18.220 --> 00:42:20.260
-and bring all of this directly to you, the listener.
+00:37:53.040 --> 00:37:55.040
+They have formed a unified political front,
 
-00:42:20.260 --> 00:42:23.580
-We have covered an immense dense landscape today.
+00:37:55.040 --> 00:37:56.920
+and they are using the objective,
 
-00:42:23.580 --> 00:42:25.860
-We started with the fundamental plumbing of the law,
+00:37:56.920 --> 00:38:00.000
+unassailable math, CRS experts like Alison Mitchell
 
-00:42:25.860 --> 00:42:28.700
-the bizarre reality of section 1108G,
+00:38:00.000 --> 00:38:03.320
+to execute a 13-month legislative war plan.
 
-00:42:28.700 --> 00:42:30.940
-the closed tab versus the open tab,
+00:38:03.320 --> 00:38:05.920
+And if we step back and ask the ultimate question,
 
-00:42:30.940 --> 00:42:33.380
-and a statutory formula that ignores poverty
+00:38:05.920 --> 00:38:07.280
+you know, so what?
 
-00:42:33.380 --> 00:42:35.220
-and mandates a 55% match.
+00:38:07.280 --> 00:38:09.280
+Why does this matter to someone listening in Ohio
 
-00:42:35.220 --> 00:42:38.020
-We explored the mechanics of the 2022 patch,
+00:38:09.280 --> 00:38:10.960
+or Oregon or Maine?
 
-00:42:38.020 --> 00:42:40.940
-the looming terror of the September 2027 cliff,
+00:38:10.960 --> 00:38:14.200
+It matters because this is a profound real-time case study
 
-00:42:40.940 --> 00:42:42.580
-and the intense bureaucratic hurdles
+00:38:14.200 --> 00:38:15.640
+in how federal statutory math
 
-00:42:42.580 --> 00:42:44.940
-like the API-driven asset verification systems
+00:38:15.640 --> 00:38:18.200
+can literally make or break an entire regional economy.
 
-00:42:44.940 --> 00:42:46.460
-that Puerto Rico had to clear
+00:38:18.200 --> 00:38:19.040
+Right.
 
-00:42:46.460 --> 00:42:48.780
-just to prove they were worthy of temporary funding.
+00:38:19.040 --> 00:38:21.680
+Understanding the dry, highly technical work
 
-00:42:48.780 --> 00:42:51.460
-We looked at the maddening geographic discrepancies
+00:38:21.680 --> 00:38:23.040
+of people like Alison Mitchell,
 
-00:42:51.460 --> 00:42:52.940
-where CBO scoring rules
+00:38:23.040 --> 00:38:25.080
+the baseline formulas, the capped allotments,
 
-00:42:52.940 --> 00:42:55.580
-grant permanent stability to small territories,
+00:38:25.080 --> 00:38:26.360
+the expiration dates,
 
-00:42:55.580 --> 00:42:58.500
-while leaving 1.3 million Americans in Puerto Rico
+00:38:26.360 --> 00:38:28.000
+that is the secret key to understanding
 
-00:42:58.500 --> 00:42:59.540
-and Limbo.
+00:38:28.000 --> 00:38:30.280
+how American governance actually operates.
 
-00:42:59.540 --> 00:43:02.140
-We traced the paradox of healthcare emigration
+00:38:30.280 --> 00:38:31.600
+The true power in Washington
 
-00:43:02.140 --> 00:43:05.180
-where starving a local system of $44 million
+00:38:31.600 --> 00:38:33.600
+isn't in the speeches on the floor, you know?
 
-00:43:05.180 --> 00:43:08.300
-forces the federal taxpayer to spend $165 million
+00:38:33.600 --> 00:38:36.320
+It is in the math buried in those CRS PDFs.
 
-00:43:08.300 --> 00:43:10.620
-treating those same citizens on the mainland.
+00:38:36.320 --> 00:38:38.200
+It is entirely about the size of the bucket
 
-00:43:10.620 --> 00:43:14.060
-We examined the fiscal straitjacket applied by the FOMB,
+00:38:38.200 --> 00:38:39.240
+and who controls the water.
 
-00:43:14.060 --> 00:43:16.460
-the debilitating lack of audited financials
+00:38:39.240 --> 00:38:40.240
+That's exactly.
 
-00:43:16.460 --> 00:43:18.140
-due to the sluggish transition
+00:38:40.240 --> 00:38:41.600
+Well, I want to leave everyone listening
 
-00:43:18.140 --> 00:43:19.740
-to modified or cruel accounting,
+00:38:41.600 --> 00:38:44.160
+with a final, provocative thought to mull over.
 
-00:43:19.740 --> 00:43:23.900
-and finally the meticulous 13 month one voice strategy
+00:38:44.160 --> 00:38:45.640
+Something that builds on everything
 
-00:43:23.900 --> 00:43:26.100
-deployed to navigate this labyrinth.
+00:38:45.640 --> 00:38:46.640
+we've discussed today
 
-00:43:26.100 --> 00:43:28.340
-And as a listener, you might be asking yourself,
+00:38:46.640 --> 00:38:50.040
+about the realities of policy and human behavior.
 
-00:43:28.340 --> 00:43:29.580
-I don't live in Puerto Rico.
+00:38:50.040 --> 00:38:52.880
+Let's imagine the absolute worst-case scenario.
 
-00:43:29.580 --> 00:43:31.100
-I don't work in healthcare finance.
+00:38:52.880 --> 00:38:54.680
+Let's say the strategy fails.
 
-00:43:31.100 --> 00:43:33.100
-Why does this deep dive matter to me?
+00:38:54.680 --> 00:38:56.480
+Congress gets completely gridlocked,
 
-00:43:33.100 --> 00:43:36.380
-It matters because the situation is an absolute masterclass
+00:38:56.480 --> 00:38:58.280
+the extender pile collapses,
 
-00:43:36.380 --> 00:43:39.700
-in how obscure deeply buried federal statutory quirks
+00:38:58.280 --> 00:39:02.080
+and the October 2027 trapdoor opens.
 
-00:43:39.700 --> 00:43:41.660
-can dictate the economic survival
+00:39:02.080 --> 00:39:05.520
+Funding plummets to $500 million.
 
-00:43:41.660 --> 00:43:44.020
-and physical health of an entire region.
+00:39:05.520 --> 00:39:06.480
+The system breaks.
 
-00:43:44.020 --> 00:43:45.540
-It shows the incredible friction
+00:39:06.480 --> 00:39:07.560
+The system breaks.
 
-00:43:45.540 --> 00:43:47.580
-between rigid legislative formulas,
+00:39:07.560 --> 00:39:08.600
+And as we discussed,
 
-00:43:47.580 --> 00:43:50.220
-bureaucratic oversight and desperate human need.
+00:39:08.600 --> 00:39:10.560
+that means hundreds of thousands of Puerto Ricans
 
-00:43:50.220 --> 00:43:52.020
-It demonstrates that government policy
+00:39:10.560 --> 00:39:12.160
+who are American citizens
 
-00:43:52.020 --> 00:43:54.620
-is rarely about simple morality.
+00:39:12.160 --> 00:39:14.480
+might be forced to relocate to the U.S. mainland
 
-00:43:54.620 --> 00:43:56.700
-It is driven by CBO scores,
+00:39:14.480 --> 00:39:16.840
+simply to access lifesaving medical care
 
-00:43:56.700 --> 00:43:59.580
-jurisdictional disputes and the sheer momentum
+00:39:16.840 --> 00:39:18.920
+that they can no longer get on the island.
 
-00:43:59.580 --> 00:44:01.340
-of broken historical precedents.
+00:39:18.920 --> 00:39:20.280
+If that migration happens,
 
-00:44:01.340 --> 00:44:03.580
-I wanna leave you with a final thought to mull over,
+00:39:20.280 --> 00:39:22.080
+if hundreds of thousands of citizens
 
-00:44:03.580 --> 00:44:05.340
-one that transcends the spreadsheets
+00:39:22.080 --> 00:39:25.240
+suddenly move to Orlando or Philadelphia or Cleveland
 
-00:44:05.340 --> 00:44:07.100
-and the committee hearings.
+00:39:25.240 --> 00:39:28.120
+in late 2027 and early 2028,
 
-00:44:07.100 --> 00:44:10.660
-We often view American citizenship as a great equalizer,
+00:39:28.120 --> 00:39:30.960
+how might that sudden massive demographic
 
-00:44:10.660 --> 00:44:13.140
-but if a U.S. citizen's fundamental access
+00:39:30.960 --> 00:39:33.040
+and economic shift unexpectedly
 
-00:44:13.140 --> 00:44:14.900
-to life-saving healthcare
+00:39:33.040 --> 00:39:35.120
+alter the political and electoral map
 
-00:44:14.900 --> 00:44:16.820
-and the federal funding supporting it
+00:39:35.120 --> 00:39:37.880
+of critical swing states like Florida or Pennsylvania
 
-00:44:16.820 --> 00:44:19.020
-can fluctuate so wildly,
+00:39:37.880 --> 00:39:40.840
+heading right into the 2028 federal elections?
 
-00:44:19.020 --> 00:44:22.340
-can face catastrophic multi-billion dollar cliffs
+00:39:40.840 --> 00:39:44.600
+It is a fascinating and highly sobering hypothetical.
 
-00:44:22.340 --> 00:44:24.540
-simply based on whether they reside in a state
+00:39:44.600 --> 00:39:48.120
+It proves that the consequences of statutory neglect
 
-00:44:24.540 --> 00:44:26.180
-versus a territory,
+00:39:48.120 --> 00:39:51.440
+rarely stay confined to the territory they target.
 
-00:44:26.180 --> 00:44:27.740
-what does that actually reveal
+00:39:51.440 --> 00:39:53.280
+The math always spills over.
 
-00:44:27.740 --> 00:44:29.540
-about the true nature of federalism
+00:39:53.280 --> 00:39:54.520
+It always spills over.
 
-00:44:29.540 --> 00:44:31.660
-and equality in America today?
+00:39:54.520 --> 00:39:55.640
+The trapdoor is built.
 
-00:44:31.660 --> 00:44:33.660
-When mere geography dictates
+00:39:55.640 --> 00:39:58.000
+We know exactly when it is set to open.
 
-00:44:33.660 --> 00:44:36.100
-the structural integrity of your safety net,
+00:39:58.000 --> 00:40:00.040
+The only question left is whether Congress
 
-00:44:36.100 --> 00:44:38.820
-are we truly operating under one unified nation
+00:40:00.040 --> 00:40:01.640
+will finally dismantle it
 
-00:44:38.820 --> 00:44:40.540
-or are we operating parallel systems
+00:40:01.640 --> 00:40:03.080
+or just hand Puerto Rico
 
-00:44:40.540 --> 00:44:42.260
-where some citizens are simply deemed
+00:40:03.080 --> 00:40:05.920
+another temporary bucket of water as they fall.
 
-00:44:42.260 --> 00:44:44.060
-too expensive to fully protect?
+00:40:05.920 --> 00:40:07.800
+Thank you for joining us on this deep dive
 
-00:44:44.060 --> 00:44:45.620
-That is the structural paradox
+00:40:07.800 --> 00:40:09.840
+into the hidden mechanics of the policies
 
-00:44:45.620 --> 00:44:47.420
-at the heart of this entire crisis.
+00:40:09.840 --> 00:40:11.000
+that shape our world.
 
-00:44:47.420 --> 00:44:49.060
-And it's a question that goes far beyond
+00:40:11.000 --> 00:40:12.160
+Keep questioning the math.
 
-00:44:49.060 --> 00:44:50.620
-a single September deadline.
+00:40:12.160 --> 00:40:13.680
+Keep digging into the documents
 
-00:44:50.620 --> 00:44:51.460
-Until next time.
+00:40:13.680 --> 00:40:15.160
+and we will see you next time.
 
