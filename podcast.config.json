@@ -16,6 +16,7 @@
   "iheart_url": "https://www.iheart.com/podcast/343036242/",
   "copyright": "© 2026 The Healthcare Paradox",
   "cover_image": "assets/cover-v2.jpg",
+  "logo_image": "assets/logo-thp.png",
   "audio_bitrate": "128k",
   "loudness_normalize": true,
   "console_url": "https://epac-hub.github.io/CMS-Console/",
