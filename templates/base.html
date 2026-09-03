@@ -21,6 +21,7 @@
       {% if config.apple_url %}<a class="feed-link" href="{{ config.apple_url }}" title="Listen on Apple Podcasts">Apple</a>{% endif %}
       {% if config.amazon_url %}<a class="feed-link" href="{{ config.amazon_url }}" title="Listen on Amazon Music">Amazon</a>{% endif %}
       {% if config.iheart_url %}<a class="feed-link" href="{{ config.iheart_url }}" title="Listen on iHeartRadio">iHeart</a>{% endif %}
+      {% if config.youtube_url %}<a class="feed-link" href="{{ config.youtube_url }}" title="Watch on YouTube">YouTube</a>{% endif %}
       {% if config.console_url %}<a class="feed-link" href="{{ config.console_url }}" title="{{ config.console_label or 'Console' }}">{{ config.console_label or 'Console' }}</a>{% endif %}
       <a class="feed-link" href="{{ root }}feed.xml" title="RSS feed">RSS&nbsp;Feed</a>
     </nav>
@@ -32,7 +33,7 @@
 <footer class="site-footer">
   <div class="container">
     <p>&copy; {{ year }} {{ config.author or config.title }}{% if config.copyright %} &middot; {{ config.copyright }}{% endif %}</p>
-    <p>{% if config.spotify_url %}<a href="{{ config.spotify_url }}">Listen on Spotify</a> &middot; {% endif %}{% if config.apple_url %}<a href="{{ config.apple_url }}">Apple Podcasts</a> &middot; {% endif %}{% if config.amazon_url %}<a href="{{ config.amazon_url }}">Amazon Music</a> &middot; {% endif %}{% if config.iheart_url %}<a href="{{ config.iheart_url }}">iHeartRadio</a> &middot; {% endif %}<a href="{{ root }}feed.xml">Subscribe via RSS</a>{% if config.console_url %} &middot; <a href="{{ config.console_url }}">Explore the data: {{ config.console_label or 'Console' }}</a>{% endif %}</p>
+    <p>{% if config.spotify_url %}<a href="{{ config.spotify_url }}">Listen on Spotify</a> &middot; {% endif %}{% if config.apple_url %}<a href="{{ config.apple_url }}">Apple Podcasts</a> &middot; {% endif %}{% if config.amazon_url %}<a href="{{ config.amazon_url }}">Amazon Music</a> &middot; {% endif %}{% if config.iheart_url %}<a href="{{ config.iheart_url }}">iHeartRadio</a> &middot; {% endif %}{% if config.youtube_url %}<a href="{{ config.youtube_url }}">YouTube</a> &middot; {% endif %}<a href="{{ root }}feed.xml">Subscribe via RSS</a>{% if config.console_url %} &middot; <a href="{{ config.console_url }}">Explore the data: {{ config.console_label or 'Console' }}</a>{% endif %}</p>
   </div>
 </footer>
 </body>
