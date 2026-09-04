@@ -1,10 +1,8 @@
-Here's the healthcare paradox Washington still cannot explain: Puerto Rico receives 41% less Medicare funding than the states — and yet it delivers some of the strongest Medicare Advantage quality results in the nation.
+What is The Healthcare Paradox? It's the podcast that explains how America's healthcare system really works — the money, the rules, and the results — in plain English. No jargon. No spin. Just real data and real federal policy.
 
-How is that possible? And imagine what Puerto Rico could accomplish if Washington funded it fairly.
+Take one example nobody in Washington can explain: Puerto Rico receives 41% less Medicare funding than the states — and yet it delivers some of the strongest Medicare Advantage quality results in the nation. Less funding. Exceptional performance. How is that possible?
 
-That is exactly what The Healthcare Paradox explores: real data and real federal policy, explained in plain English — no jargon, no spin.
-
-Less funding. Exceptional performance. So ask the question Washington still has not answered: why is Puerto Rico funded differently?
+That's the kind of question we answer, episode by episode, with the numbers to back it up.
 
 New episodes are out now on Amazon Music, Apple Podcasts, Spotify, iHeartRadio, and YouTube — or wherever you listen to your podcasts.
 
