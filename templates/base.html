@@ -6,6 +6,7 @@
 <title>{% block title %}{{ config.title }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ config.description }}{% endblock %}">
 <link rel="alternate" type="application/rss+xml" title="{{ config.title }}" href="{{ root }}feed.xml">
+{% if canonical %}<link rel="canonical" href="{{ canonical }}">{% endif %}
 <link rel="icon" href="{{ root }}{{ config.logo_image or config.cover_image }}">
 <link rel="stylesheet" href="{{ root }}assets/styles.css">
 </head>
