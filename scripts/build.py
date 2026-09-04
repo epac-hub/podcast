@@ -148,7 +148,10 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
         el(item, "enclosure", url=f"{op3}/audio/{meta['dirname']}.mp3{rev}",
            length=meta["bytes"], type="audio/mpeg")
         el(item, f"{{{ITUNES}}}duration", int(meta["duration_seconds"]))
-        el(item, f"{{{ITUNES}}}episode", meta["number"])
+        # Trailers/bonus items numbered 0 carry no itunes:episode tag
+        # (Apple expects episode numbers to be positive integers).
+        if meta.get("number", 0) >= 1:
+            el(item, f"{{{ITUNES}}}episode", meta["number"])
         el(item, f"{{{ITUNES}}}episodeType", meta.get("episode_type", "full"))
         el(item, f"{{{ITUNES}}}explicit",
            "true" if meta.get("explicit") else "false")
