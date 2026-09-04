@@ -20,6 +20,7 @@
   "logo_image": "assets/logo-thp.png",
   "audio_bitrate": "128k",
   "loudness_normalize": true,
+  "convai_agent_id": "agent_6201ky1zwg24f5fsjzmy2gcbye9n",
   "console_url": "https://epac-hub.github.io/CMS-Console/",
   "console_label": "CMS Console"
 }

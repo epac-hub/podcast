@@ -36,5 +36,7 @@
     <p>{% if config.spotify_url %}<a href="{{ config.spotify_url }}">Listen on Spotify</a> &middot; {% endif %}{% if config.apple_url %}<a href="{{ config.apple_url }}">Apple Podcasts</a> &middot; {% endif %}{% if config.amazon_url %}<a href="{{ config.amazon_url }}">Amazon Music</a> &middot; {% endif %}{% if config.iheart_url %}<a href="{{ config.iheart_url }}">iHeartRadio</a> &middot; {% endif %}{% if config.youtube_url %}<a href="{{ config.youtube_url }}">YouTube</a> &middot; {% endif %}<a href="{{ root }}feed.xml">Subscribe via RSS</a>{% if config.console_url %} &middot; <a href="{{ config.console_url }}">Explore the data: {{ config.console_label or 'Console' }}</a>{% endif %}</p>
   </div>
 </footer>
+{% if config.convai_agent_id %}<script src="https://elevenlabs.io/convai-widget/index.js" async></script>
+<elevenlabs-convai agent-id="{{ config.convai_agent_id }}"></elevenlabs-convai>{% endif %}
 </body>
 </html>
