@@ -139,7 +139,11 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
         el(item, "title", meta["title"])
         page = f"{site}/episodes/{meta['dirname']}/"
         el(item, "link", page)
-        el(item, "guid", page, isPermaLink="true")
+        # GUIDs are pinned to guid_base (the original site) so episodes are
+        # never re-identified as new by platforms when site_url changes.
+        guid_base = config.get("guid_base", config["site_url"]).rstrip("/")
+        el(item, "guid", f"{guid_base}/episodes/{meta['dirname']}/",
+           isPermaLink="false")
         el(item, "description", meta.get("description") or meta["title"])
         el(item, "pubDate", email.utils.format_datetime(pub_datetime(meta)))
         # audio_rev bumps the enclosure URL when an episode's audio is
@@ -190,13 +194,16 @@ def build_site(config: dict, episodes: list[dict]) -> None:
            "year": datetime.date.today().year}
 
     (OUT / "index.html").write_text(
-        env.get_template("index.html").render(**ctx, root=""))
+        env.get_template("index.html").render(**ctx, root="",
+                                              canonical=f"{site}/"))
 
     for v in view:
         page_dir = OUT / "episodes" / v["dirname"]
         page_dir.mkdir(parents=True, exist_ok=True)
         (page_dir / "index.html").write_text(
-            env.get_template("episode.html").render(**ctx, ep=v, root="../../"))
+            env.get_template("episode.html").render(
+                **ctx, ep=v, root="../../",
+                canonical=f"{site}/episodes/{v['dirname']}/"))
 
 
 def main() -> None:
