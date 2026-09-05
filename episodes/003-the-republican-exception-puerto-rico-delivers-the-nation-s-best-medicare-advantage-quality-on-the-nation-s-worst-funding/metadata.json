@@ -5,11 +5,12 @@
   "description": "Medicare Advantage covers 96% of Puerto Rico's Medicare population, yet a hidden federal formula prices the island off a tiny fee-for-service remnant - mostly veterans and low utilizers. The inside story of the campaign that turned that statistical absurdity into a bipartisan administrative fix, and the fourteen House Republicans, led by physician Rep. Greg Murphy, who demanded the 0.70 benchmark floor.",
   "pubdate": "2026-08-28",
   "audio": "episode.mp3",
-  "duration_seconds": 1745,
-  "bytes": 27923154,
+  "duration_seconds": 1759,
+  "bytes": 28412960,
   "explicit": false,
   "season": null,
   "episode_type": "full",
   "transcript": "transcript.vtt",
-  "draft": false
+  "draft": false,
+  "audio_rev": 1
 }
