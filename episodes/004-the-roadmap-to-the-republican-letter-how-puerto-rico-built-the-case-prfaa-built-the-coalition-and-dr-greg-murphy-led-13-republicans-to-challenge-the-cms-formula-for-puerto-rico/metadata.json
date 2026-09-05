@@ -5,11 +5,12 @@
   "description": "The inside playbook behind the August 2026 Republican letter: how Puerto Rico built the case with CMS's own five-star data, how PRFAA built the coalition that walked Congress through the island's chambers, hospitals, physicians and pharmacies - and how Dr. Greg Murphy, surgeon and GOP Doctors Caucus co-chair, led 13 House Republicans to challenge the CMS formula that pays the nation's best-rated Medicare Advantage market roughly 41% below the national average.",
   "pubdate": "2026-08-30",
   "audio": "episode.mp3",
-  "duration_seconds": 1749,
-  "bytes": 27985012,
+  "duration_seconds": 1763,
+  "bytes": 28475295,
   "explicit": false,
   "season": null,
   "episode_type": "full",
   "transcript": "transcript.vtt",
-  "draft": false
+  "draft": false,
+  "audio_rev": 1
 }

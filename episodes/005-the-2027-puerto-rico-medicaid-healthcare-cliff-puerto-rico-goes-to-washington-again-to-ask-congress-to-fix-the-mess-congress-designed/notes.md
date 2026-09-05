@@ -33,3 +33,5 @@ state, are we one unified nation — or parallel systems where some citizens are
 deemed too expensive to fully protect?
 
 The federal data behind this show is browsable in the [CMS Console](https://epac-hub.github.io/CMS-Console/).
+
+Music: "News Theme" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0.
