@@ -130,6 +130,16 @@ audio { width: 100%; margin-top: 0.6rem; }
 .episode-page h1 { margin: 0.4rem 0 0.8rem; font-size: 1.7rem; line-height: 1.25; }
 .notes, .transcript { margin-top: 2rem; }
 .notes h2, .transcript h2 { font-size: 1.15rem; }
+.data-callout {
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+  margin: 1.4rem 0;
+  font-size: 0.98rem;
+}
+.data-callout a { font-weight: 700; }
 .transcript-body {
   background: var(--surface);
   border: 1px solid var(--border);

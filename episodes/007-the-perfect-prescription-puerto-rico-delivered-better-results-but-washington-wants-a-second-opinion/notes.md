@@ -4,6 +4,8 @@ In Medicare Advantage, federal funding follows the star ratings, and the stars a
 
 The federal data from 2020-2023 tells the story:
 
+<p class="data-callout">📊 <strong>Explore the data yourself.</strong> Every number in this episode comes straight from the federal figures — Puerto Rico's Medicare Advantage star ratings, prescription utilization, and gross drug-cost rankings against the national benchmark. See it all in the live <a href="https://epac-hub.github.io/CMS-Console/">CMS Console</a>.</p>
+
 - Ranked #1 of all 56 U.S. jurisdictions for both highest utilization and lowest gross drug costs
 - ~19% more prescriptions filled per year than the national benchmark
 - ~30% less per fill - about $63 vs. $89 nationally
