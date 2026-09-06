@@ -1,135 +1,112 @@
 Welcome back to our deep dive.
-So today we're digging into a pretty massive paradox
-in the US health care system.
+So today we're digging into a pretty massive paradox in the U.S. healthcare system.
 Yeah, it's a huge one.
-Right, because our mission today
-is to figure out how Puerto Rico built this
-like high performance pharmacy engine
-that completely beats the national average
-and you know why the federal government
-is basically forcing them to drive it on an empty tank.
-Well, to really understand that paradox
-we have to look at how Medicare Advantage plan
-funding actually works, you know, under the hood.
+Right, because our mission today is to figure out how Puerto Rico built this, like, high-performance
+pharmacy engine that completely beats the national average, and, you know, why the
+federal government is basically forcing them to drive it on an empty tank.
+Well, to really understand that paradox, we have to look at how Medicare Advantage
+plan funding actually works, you know, under the hood.
 Which comes down to the star ratings, right?
 Exactly.
-Those stars dictate how much federal funding a plan gets
-and they are heavily, heavily based
-on patient medication adherence.
+Those stars dictate how much federal funding a plan gets, and they are heavily, heavily
+based on patient medication adherence.
 Meaning are people actually taking their meds?
 Right.
-If patients aren't consistently
-taking their prescriptions for chronic issues,
-things like hypertension, diabetes, or high cholesterol,
-well, the plan on a star rating drops
+If patients aren't consistently taking their prescriptions for chronic issues, things
+like hypertension, diabetes, or high cholesterol, well, the plan on a star rating drops,
 and then the funding just dries up.
-Wow, OK, so jump back to 2013.
-The community pharmacies in Puerto Rico,
-they actually saw this tension early on.
-They did, it was really visionary.
-Yeah, specifically the asociación de farmacías
-de comunidad de Puerto Rico, or AFCPR.
-Under the presidency of Elliot Pacheco,
-their board of directors realized
-they needed a real systemic fix.
+Wow, okay.
+To jump back to 2013, the community pharmacies in Puerto Rico, they actually saw this
+tension early on.
+They did.
+It was really visionary.
+Yeah, specifically the asociación de farmacías de comunidad de Puerto Rico, or
+AFCPR.
+Under the presidency of Elliot Pacheco, their board of directors realized they
+needed a real systemic fix.
 And that's where the adherence program was born.
-I mean, the clinical protocol itself
-was elaborated by doctors of pharmacy Nuri Echeveria
-and Vixima Rodriguez, along with Elto Ricardo-Cintron.
-Right, and the crazy part is they didn't just keep it
-to themselves.
-No, they took this unified model
-straight to the Medicare Advantage plans to implement,
-which is a massive achievement.
-They identified the gap and completely shifted the focus
-from just handing over pills
-to actively managing the patient's care.
+I mean, the clinical protocol itself was elaborated by doctors of pharmacy
+Nuri Echeveria and Vixima Rodriguez, along with Elto Ricardo-Cintron.
+Right.
+And the crazy part is they didn't just keep it to themselves.
+No, they took this unified model straight to the Medicare Advantage plans
+to implement, which is a massive achievement.
+They identified the gap and completely shifted the focus from, you know, just
+handing over pills to actively managing the patient's care.
 I actually like to think of it like a racing pit crew.
-Oh, that's a good way to put it.
-Right, like instead of a patient
-making five different trips a month
-and inevitably forgetting a pill,
-these pharmacists act like the pit crew.
+Oh, well, that's a good way to put it.
+Right.
+Like instead of a patient making five different trips a month and
+inevitably forgetting a pill, these pharmacists act like the pit crew.
 They do medication synchronization.
-They do reconciliation.
-Making sure there are no bad drug interactions.
-Exactly, they get recognized
-and paid for clinically tuning the engine,
-not just handing the driver a box of spare parts.
-And the federal health data from 2020 to 2023
-shows us exactly how well
+They do reconciliation, making sure there are no bad drug interactions.
+Exactly.
+They get recognized and paid for clinically tuning the engine, not just
+handing the driver a box of spare parts.
+And the federal health data from 2020 to 2023 shows us exactly how well
 that pit crew approach actually works in practice.
 The numbers are pretty wild.
 They really are.
-Island residents fill about 19% more prescriptions annually
-than the national benchmark.
-Which, you know, you'd assume
-that kind of intensive care
-would drive costs through the roof.
+Island residents fill about 19% more prescriptions annually than
+the national benchmark.
+Which, you know, you'd assume that kind of intensive care would
+drive costs through the roof.
 But it doesn't.
-They're paying roughly 30% less per fill
-than the national average.
-We are talking about $63 per prescription
-versus $89 nationally.
-Wait, so they are ranked first among all 56
-U.S. jurisdictions for highest utilization
-and lowest gross drug costs.
+They're paying roughly 30% less per fill than the national average.
+We are talking about $63 per prescription versus $89 nationally.
+Wait, so they are ranked first among all 56 U.S.
+jurisdictions for highest utilization and lowest gross drug costs.
 Yes, exactly.
 Number one out of all 56.
 It's a staggering dual achievement.
 And, you know, we have to be really precise here.
-This isn't just patients buying meds
-because they have a lower price tag, not at all.
-Right, it's highly deliberate.
-Yeah, the pharmacy profile there
-focuses heavily on generic treatments
-for chronic conditions like thyroid and heart health.
+This isn't just patients buying meds because they have a lower price tag.
+Not at all.
+Right.
+It's highly deliberate.
+Yeah.
+The pharmacy profile there focuses heavily on generic treatments for
+chronic conditions like thyroid and heart health.
 It is fundamentally a culture of high medical adherence.
-Which brings us right back to the paradox
-you mentioned at the start.
+Which brings us right back to the paradox you mentioned at the start.
 The empty tank.
 Exactly.
-You had the most efficient, highly adherent jurisdiction
-in the country hitting these five-star performance levels.
+You had the most efficient, highly adherent jurisdiction in the country
+hitting these five star performance levels.
 But because of statutory limitations,
-Puerto Rico is legally boxed out of the low-income subsidies
-that residents in the other 50 states
-just get automatically.
+Puerto Rico is legally boxed out of the low income subsidies
+that residents in the other 50 states just get automatically.
 Hold on.
-I mean, if they are ranked number one
-for keeping costs low and adherence high,
+I mean, if they are ranked number one for keeping costs low and adherence high,
 shouldn't they be drowning in federal support?
 You would think so.
 But it's a statutory blind spot.
 The irony is sharp, honestly.
-The actual foregone assistance,
-meaning the money denied to these low-income patients,
-is estimated at $250 million annually.
-$250 million, wow.
-Yeah, and if you look at potential parity funding,
-treating them exactly like a state
-that a figure could reach up to $2 billion.
-So what does this mean for you listening, right,
-as someone navigating the health care system?
-It proves that this proactive community-level care works.
+The actual foregone assistance, meaning the money denied to these
+low-income patients is estimated at $250 million annually.
+$250 million?
+Wow.
+Yeah.
+And if you look at potential parity funding,
+treating them exactly like a state that a figure could reach up to $2 billion.
+So what does this mean for you listening, right?
+As someone navigating the health care system,
+it proves that this proactive community level care works.
 It gives us a clear blueprint.
 It does.
-And honestly, it serves as a firm recommendation
-to the federal government.
-They need to acknowledge how local providers
-in Puerto Rico successfully work together
-for the benefit of the patients to reach those five stars.
+And honestly, it serves as a firm recommendation to the federal government.
+They need to acknowledge how local providers in Puerto Rico
+successfully work together for the benefit of the patients to reach those five stars.
 Absolutely.
 It shouldn't be some underfunded anomaly.
 It needs to be used as a national model.
 And it's a strong recommendation to health plans,
-to other health care providers,
-and to patients to continue this proactive collaboration.
+to other health care providers and to patients to continue this proactive collaboration.
 Yeah, you have to keep the pit crew talking to the driver.
-So I will leave you with this final thought to mellow over.
+So I will leave you with this final thought to mull over.
 Consider what staggering heights of health care efficiency
-could be reached nationwide
-if local on-the-ground innovation
+could be reached nationwide if local on the ground innovation
 was actually matched by equitable federal funding.
-If it runs this well on empty,
-imagine what it could do with a full tank.
+If it runs this well on empty, imagine what it could do with a full tank.
+Find us on Spotify, Apple Podcasts, Amazon Music, I Heart Radio and YouTube.
+Wherever you get your podcasts, the health care paradox starts now.
