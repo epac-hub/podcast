@@ -1,0 +1,407 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.800
+Welcome back to our deep dive.
+
+00:00:01.800 --> 00:00:05.680
+So today we're digging into a pretty massive paradox
+
+00:00:05.680 --> 00:00:06.880
+in the US health care system.
+
+00:00:06.880 --> 00:00:08.020
+Yeah, it's a huge one.
+
+00:00:08.020 --> 00:00:09.680
+Right, because our mission today
+
+00:00:09.680 --> 00:00:13.040
+is to figure out how Puerto Rico built this
+
+00:00:13.040 --> 00:00:15.360
+like high performance pharmacy engine
+
+00:00:15.360 --> 00:00:18.240
+that completely beats the national average
+
+00:00:18.240 --> 00:00:20.520
+and you know why the federal government
+
+00:00:20.520 --> 00:00:23.400
+is basically forcing them to drive it on an empty tank.
+
+00:00:23.400 --> 00:00:25.360
+Well, to really understand that paradox
+
+00:00:25.360 --> 00:00:27.760
+we have to look at how Medicare Advantage plan
+
+00:00:27.760 --> 00:00:31.000
+funding actually works, you know, under the hood.
+
+00:00:31.000 --> 00:00:32.560
+Which comes down to the star ratings, right?
+
+00:00:32.560 --> 00:00:33.800
+Exactly.
+
+00:00:33.800 --> 00:00:38.320
+Those stars dictate how much federal funding a plan gets
+
+00:00:38.320 --> 00:00:39.880
+and they are heavily, heavily based
+
+00:00:39.880 --> 00:00:41.400
+on patient medication adherence.
+
+00:00:41.400 --> 00:00:43.640
+Meaning are people actually taking their meds?
+
+00:00:43.640 --> 00:00:44.240
+Right.
+
+00:00:44.240 --> 00:00:45.640
+If patients aren't consistently
+
+00:00:45.640 --> 00:00:48.640
+taking their prescriptions for chronic issues,
+
+00:00:48.640 --> 00:00:51.560
+things like hypertension, diabetes, or high cholesterol,
+
+00:00:51.560 --> 00:00:54.000
+well, the plan on a star rating drops
+
+00:00:54.000 --> 00:00:55.320
+and then the funding just dries up.
+
+00:00:55.320 --> 00:00:58.120
+Wow, OK, so jump back to 2013.
+
+00:00:58.120 --> 00:01:00.280
+The community pharmacies in Puerto Rico,
+
+00:01:00.280 --> 00:01:02.200
+they actually saw this tension early on.
+
+00:01:02.200 --> 00:01:03.680
+They did, it was really visionary.
+
+00:01:03.680 --> 00:01:06.080
+Yeah, specifically the asociación de farmacías
+
+00:01:06.080 --> 00:01:09.200
+de comunidad de Puerto Rico, or AFCPR.
+
+00:01:09.200 --> 00:01:10.800
+Under the presidency of Elliot Pacheco,
+
+00:01:10.800 --> 00:01:12.320
+their board of directors realized
+
+00:01:12.320 --> 00:01:14.760
+they needed a real systemic fix.
+
+00:01:14.760 --> 00:01:16.800
+And that's where the adherence program was born.
+
+00:01:16.800 --> 00:01:19.080
+I mean, the clinical protocol itself
+
+00:01:19.080 --> 00:01:22.280
+was elaborated by doctors of pharmacy Nuri Echeveria
+
+00:01:22.280 --> 00:01:25.960
+and Vixima Rodriguez, along with Elto Ricardo-Cintron.
+
+00:01:25.960 --> 00:01:27.800
+Right, and the crazy part is they didn't just keep it
+
+00:01:27.800 --> 00:01:28.640
+to themselves.
+
+00:01:28.640 --> 00:01:31.000
+No, they took this unified model
+
+00:01:31.000 --> 00:01:34.240
+straight to the Medicare Advantage plans to implement,
+
+00:01:34.240 --> 00:01:35.960
+which is a massive achievement.
+
+00:01:35.960 --> 00:01:39.560
+They identified the gap and completely shifted the focus
+
+00:01:39.560 --> 00:01:42.040
+from just handing over pills
+
+00:01:42.040 --> 00:01:44.640
+to actively managing the patient's care.
+
+00:01:44.640 --> 00:01:47.240
+I actually like to think of it like a racing pit crew.
+
+00:01:47.240 --> 00:01:48.400
+Oh, that's a good way to put it.
+
+00:01:48.400 --> 00:01:49.720
+Right, like instead of a patient
+
+00:01:49.720 --> 00:01:51.240
+making five different trips a month
+
+00:01:51.240 --> 00:01:53.240
+and inevitably forgetting a pill,
+
+00:01:53.240 --> 00:01:55.360
+these pharmacists act like the pit crew.
+
+00:01:55.360 --> 00:01:57.440
+They do medication synchronization.
+
+00:01:57.440 --> 00:01:58.880
+They do reconciliation.
+
+00:01:58.880 --> 00:02:00.600
+Making sure there are no bad drug interactions.
+
+00:02:00.600 --> 00:02:02.360
+Exactly, they get recognized
+
+00:02:02.360 --> 00:02:04.920
+and paid for clinically tuning the engine,
+
+00:02:04.920 --> 00:02:07.520
+not just handing the driver a box of spare parts.
+
+00:02:07.520 --> 00:02:11.080
+And the federal health data from 2020 to 2023
+
+00:02:11.080 --> 00:02:12.800
+shows us exactly how well
+
+00:02:12.800 --> 00:02:16.360
+that pit crew approach actually works in practice.
+
+00:02:16.360 --> 00:02:17.760
+The numbers are pretty wild.
+
+00:02:17.760 --> 00:02:18.720
+They really are.
+
+00:02:18.720 --> 00:02:23.200
+Island residents fill about 19% more prescriptions annually
+
+00:02:23.200 --> 00:02:24.880
+than the national benchmark.
+
+00:02:24.880 --> 00:02:26.400
+Which, you know, you'd assume
+
+00:02:26.400 --> 00:02:27.720
+that kind of intensive care
+
+00:02:27.720 --> 00:02:29.600
+would drive costs through the roof.
+
+00:02:29.600 --> 00:02:30.760
+But it doesn't.
+
+00:02:30.760 --> 00:02:34.640
+They're paying roughly 30% less per fill
+
+00:02:34.640 --> 00:02:35.880
+than the national average.
+
+00:02:35.880 --> 00:02:38.760
+We are talking about $63 per prescription
+
+00:02:38.760 --> 00:02:40.960
+versus $89 nationally.
+
+00:02:40.960 --> 00:02:43.720
+Wait, so they are ranked first among all 56
+
+00:02:43.720 --> 00:02:46.560
+U.S. jurisdictions for highest utilization
+
+00:02:46.560 --> 00:02:48.520
+and lowest gross drug costs.
+
+00:02:48.520 --> 00:02:49.840
+Yes, exactly.
+
+00:02:49.840 --> 00:02:51.680
+Number one out of all 56.
+
+00:02:51.680 --> 00:02:53.680
+It's a staggering dual achievement.
+
+00:02:53.680 --> 00:02:55.840
+And, you know, we have to be really precise here.
+
+00:02:55.840 --> 00:02:57.880
+This isn't just patients buying meds
+
+00:02:57.880 --> 00:03:00.280
+because they have a lower price tag, not at all.
+
+00:03:00.280 --> 00:03:01.440
+Right, it's highly deliberate.
+
+00:03:01.440 --> 00:03:02.800
+Yeah, the pharmacy profile there
+
+00:03:02.800 --> 00:03:04.960
+focuses heavily on generic treatments
+
+00:03:04.960 --> 00:03:07.760
+for chronic conditions like thyroid and heart health.
+
+00:03:07.760 --> 00:03:10.480
+It is fundamentally a culture of high medical adherence.
+
+00:03:10.480 --> 00:03:12.200
+Which brings us right back to the paradox
+
+00:03:12.200 --> 00:03:13.440
+you mentioned at the start.
+
+00:03:13.440 --> 00:03:14.480
+The empty tank.
+
+00:03:14.480 --> 00:03:15.320
+Exactly.
+
+00:03:15.320 --> 00:03:18.160
+You had the most efficient, highly adherent jurisdiction
+
+00:03:18.160 --> 00:03:22.080
+in the country hitting these five-star performance levels.
+
+00:03:22.080 --> 00:03:24.480
+But because of statutory limitations,
+
+00:03:24.480 --> 00:03:27.800
+Puerto Rico is legally boxed out of the low-income subsidies
+
+00:03:27.800 --> 00:03:29.760
+that residents in the other 50 states
+
+00:03:29.760 --> 00:03:31.080
+just get automatically.
+
+00:03:31.080 --> 00:03:32.000
+Hold on.
+
+00:03:32.000 --> 00:03:34.280
+I mean, if they are ranked number one
+
+00:03:34.280 --> 00:03:37.000
+for keeping costs low and adherence high,
+
+00:03:37.000 --> 00:03:38.720
+shouldn't they be drowning in federal support?
+
+00:03:38.720 --> 00:03:39.880
+You would think so.
+
+00:03:39.880 --> 00:03:42.000
+But it's a statutory blind spot.
+
+00:03:42.000 --> 00:03:43.960
+The irony is sharp, honestly.
+
+00:03:43.960 --> 00:03:46.000
+The actual foregone assistance,
+
+00:03:46.040 --> 00:03:49.560
+meaning the money denied to these low-income patients,
+
+00:03:49.560 --> 00:03:52.440
+is estimated at $250 million annually.
+
+00:03:52.440 --> 00:03:54.000
+$250 million, wow.
+
+00:03:54.000 --> 00:03:57.120
+Yeah, and if you look at potential parity funding,
+
+00:03:57.120 --> 00:03:58.600
+treating them exactly like a state
+
+00:03:58.600 --> 00:04:00.880
+that a figure could reach up to $2 billion.
+
+00:04:00.880 --> 00:04:02.960
+So what does this mean for you listening, right,
+
+00:04:02.960 --> 00:04:04.920
+as someone navigating the health care system?
+
+00:04:04.920 --> 00:04:08.760
+It proves that this proactive community-level care works.
+
+00:04:08.760 --> 00:04:10.480
+It gives us a clear blueprint.
+
+00:04:10.480 --> 00:04:11.440
+It does.
+
+00:04:11.440 --> 00:04:14.480
+And honestly, it serves as a firm recommendation
+
+00:04:14.480 --> 00:04:15.720
+to the federal government.
+
+00:04:15.720 --> 00:04:18.080
+They need to acknowledge how local providers
+
+00:04:18.080 --> 00:04:20.280
+in Puerto Rico successfully work together
+
+00:04:20.280 --> 00:04:23.160
+for the benefit of the patients to reach those five stars.
+
+00:04:23.160 --> 00:04:24.000
+Absolutely.
+
+00:04:24.000 --> 00:04:26.120
+It shouldn't be some underfunded anomaly.
+
+00:04:26.120 --> 00:04:28.320
+It needs to be used as a national model.
+
+00:04:28.320 --> 00:04:31.160
+And it's a strong recommendation to health plans,
+
+00:04:31.160 --> 00:04:32.440
+to other health care providers,
+
+00:04:32.440 --> 00:04:35.480
+and to patients to continue this proactive collaboration.
+
+00:04:35.480 --> 00:04:38.520
+Yeah, you have to keep the pit crew talking to the driver.
+
+00:04:38.520 --> 00:04:41.160
+So I will leave you with this final thought to mellow over.
+
+00:04:41.160 --> 00:04:44.160
+Consider what staggering heights of health care efficiency
+
+00:04:44.160 --> 00:04:46.000
+could be reached nationwide
+
+00:04:46.000 --> 00:04:48.200
+if local on-the-ground innovation
+
+00:04:48.200 --> 00:04:51.280
+was actually matched by equitable federal funding.
+
+00:04:51.280 --> 00:04:53.080
+If it runs this well on empty,
+
+00:04:53.080 --> 00:04:55.280
+imagine what it could do with a full tank.
+
