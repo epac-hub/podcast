@@ -112,6 +112,10 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
     el(ch, f"{{{ITUNES}}}summary", config["description"])
     el(ch, f"{{{ITUNES}}}explicit", "true" if config.get("explicit") else "false")
     el(ch, f"{{{ITUNES}}}type", "episodic")
+    # Podcasting 2.0 show GUID: permanent identity derived from the original
+    # feed URL; enables OP3/PodcastIndex show-level stats. Never change it.
+    if config.get("podcast_guid"):
+        el(ch, f"{{{PODCAST}}}guid", config["podcast_guid"])
     el(ch, f"{{{ITUNES}}}image", href=f"{site}/{config.get('cover_image', 'assets/cover.jpg')}")
     el(ch, "image")
     img = ch.find("image")
