@@ -1,15 +1,16 @@
 {
   "number": 0,
   "slug": "real-people-real-patients-real-outcomes",
-  "title": "The Healthcare Paradox \u2014 Official Trailer: Real People. Real Patients. Real Outcomes.",
-  "description": "96% of Puerto Rico's seniors are on Medicare Advantage. The island's plans score among the best in the nation on quality, and Washington pays them about 41% less than the states. Three voices from Bayam\u00f3n, Caguas and Carolina on what that looks like at the kitchen table, on the porch, and behind the pharmacy counter. Listen to The Healthcare Paradox. New episodes are out now on Amazon Music, Apple Podcasts, Spotify, iHeartRadio, and YouTube.",
+  "title": "The Healthcare Paradox — Official Trailer: Real People. Real Patients. Real Outcomes.",
+  "description": "96% of Puerto Rico's seniors are on Medicare Advantage. The island's plans score among the best in the nation on quality, and Washington pays them about 41% less than the states. Three voices from Bayamón, Caguas and Carolina on what that looks like at the kitchen table, on the porch, and behind the pharmacy counter. Listen to The Healthcare Paradox. New episodes are out now on Amazon Music, Apple Podcasts, Spotify, iHeartRadio, and YouTube.",
   "pubdate": "2026-09-06",
   "audio": "episode.mp3",
-  "duration_seconds": 71,
-  "bytes": 1603103,
+  "duration_seconds": 62,
+  "bytes": 1467548,
   "explicit": false,
   "season": null,
   "episode_type": "trailer",
   "transcript": "transcript.vtt",
-  "draft": false
+  "draft": false,
+  "audio_rev": 2
 }
