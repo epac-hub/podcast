@@ -46,3 +46,9 @@ This Reel is a dramatization created with AI for The Healthcare Paradox; the man
 Listen to The Healthcare Paradox. Link in bio.
 This Reel is a dramatization created with AI for The Healthcare Paradox; Carlos and his mother are not real people.
 #MedicareAdvantage #PuertoRico #MedicareSavingsProgram #Medicare #HealthcareParadox #Reels
+
+### 7. Yamilet, la cajera — promo/short/yamilet-medicaid-cliff-short.mp4
+"Who do I call?" A cashier in Caguas with two kids on Plan Vital: on October 1, 2027, the Consolidated Appropriations Act of 2023 resets Puerto Rico's Medicaid cap from about $4 billion a year to $500 million, and the federal match from 76% back to 55%. Up to a million people could lose coverage. The same law gave Guam and the Virgin Islands a permanent fix. Congress designed the cliff; Congress can erase it.
+Listen to The Healthcare Paradox. Link in bio.
+This Reel is a dramatization created with AI for The Healthcare Paradox; Yamilet is not a real person.
+#Medicaid #PuertoRico #MedicaidCliff #HealthcareParadox #Reels
