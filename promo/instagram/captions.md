@@ -52,3 +52,9 @@ This Reel is a dramatization created with AI for The Healthcare Paradox; Carlos 
 Listen to The Healthcare Paradox. Link in bio.
 This Reel is a dramatization created with AI for The Healthcare Paradox; Yamilet is not a real person.
 #Medicaid #PuertoRico #MedicaidCliff #HealthcareParadox #Reels
+
+### 8. Doña Carmen, la abuela — promo/short/dona-carmen-vital-short.mp4
+"Cuando la compra se acaba, la olla se queda vacía." Doña Carmen cocina todos los días para sus dos nietos, que dependen de Plan Vital. Washington le manda a la familia que más necesita la compra más chiquita, y con tope: el 1 de octubre de 2027 el Medicaid de Puerto Rico vuelve a caer de $4,000 millones a $500 millones. A Guam y a las Islas Vírgenes se lo arreglaron para siempre; a nosotros nos dieron cinco años y un reloj. Congreso: lo mismo para Puerto Rico, permanente.
+Escucha The Healthcare Paradox. Enlace en la bio.
+Dramatización creada con IA para The Healthcare Paradox; la persona no es real.
+#Medicaid #PuertoRico #PlanVital #Abuela #HealthcareParadox #Reels
