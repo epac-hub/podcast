@@ -58,3 +58,9 @@ This Reel is a dramatization created with AI for The Healthcare Paradox; Yamilet
 Escucha The Healthcare Paradox. Enlace en la bio.
 Dramatización creada con IA para The Healthcare Paradox; la persona no es real.
 #Medicaid #PuertoRico #PlanVital #Abuela #HealthcareParadox #Reels
+
+### 9. Dr. Luis Ortiz, el médico que se quedó — promo/short/dr-ortiz-medicaid-short.mp4
+"I'll have to leave. And I won't be the only one." Dr. Luis Ortiz, 32, internal medicine in Mayagüez, grew up in public housing, first in his family through college and med school, ten years of student loans still to pay. He turned down offers in the States to serve patients on Plan Vital, and he could because the Consolidated Appropriations Act of 2023 made Puerto Rico pay its doctors at least 75% of the Medicare rate. On October 1, 2027 that money runs out and the floor goes with it. Congress designed the cliff; Congress can erase it.
+Listen to The Healthcare Paradox. Link in bio.
+This Reel is a dramatization created with AI for The Healthcare Paradox; Dr. Luis Ortiz is not a real person.
+#Medicaid #PuertoRico #MedicaidCliff #HealthcareParadox #Reels
