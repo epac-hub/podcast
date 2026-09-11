@@ -64,3 +64,9 @@ Dramatización creada con IA para The Healthcare Paradox; la persona no es real.
 Listen to The Healthcare Paradox. Link in bio.
 This Reel is a dramatization created with AI for The Healthcare Paradox; Dr. Luis Ortiz is not a real person.
 #Medicaid #PuertoRico #MedicaidCliff #HealthcareParadox #Reels
+
+### 10. Marisol, la enfermera de emergencias — promo/short/marisol-nurse-medicaid-short.mp4
+"We did the homework. The punishment comes anyway." Marisol Rivera, 45, twenty-one years as an ER nurse in Bayamón. In 2023 Congress gave Puerto Rico's Medicaid five years of real money with conditions: pay doctors at least 75% of the Medicare rate, verify assets, go after fraud. Puerto Rico did all of it, and for five years her patients on Plan Vital could see a doctor before they ended up in her ER. On October 1, 2027 the law resets the money as if those five years never happened: about $4 billion a year down to $500 million. Up to a million people could lose coverage, and she knows where they will end up. Congress gave the other territories a permanent fix; Puerto Rico needs the same.
+Listen to The Healthcare Paradox. Link in bio.
+This Reel is a dramatization created with AI for The Healthcare Paradox; Marisol Rivera is not a real person.
+#Medicaid #PuertoRico #MedicaidCliff #Nurses #HealthcareParadox #Reels
