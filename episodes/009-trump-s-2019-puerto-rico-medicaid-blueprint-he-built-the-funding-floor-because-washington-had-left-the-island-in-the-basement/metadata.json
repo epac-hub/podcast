@@ -10,6 +10,6 @@
   "explicit": false,
   "season": null,
   "episode_type": "full",
-  "transcript": null,
+  "transcript": "transcript.vtt",
   "draft": false
 }
