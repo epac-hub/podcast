@@ -1,0 +1,1021 @@
+Imagine, um, imagine if you will, that you're just sitting at your kitchen table, right?
+Okay.
+And you have exactly $440 in cash sitting right in front of you.
+Just that specific amount.
+Yeah, the very specific stack of bills.
+Yeah.
+And with that cash, you were tasked with going out into our incredibly expensive modern
+world to purchase one full month of comprehensive, unlimited, life-saving health insurance.
+Good luck with that.
+Right.
+I mean, and I don't just mean for some perfectly healthy, invincible 20-something who, you know,
+maybe only goes to the doctor for a sprained ankle once a decade.
+Sure.
+I'm talking about coverage for anyone in your community.
+Yeah.
+An elderly neighbor with chronic diabetes and kidney failure, a kid with severe asthma
+who needs nebulizers constantly.
+The high utilization patients.
+Exactly.
+You take that $440 and you look absolutely anywhere in the continental United States.
+Who in the state can find a comprehensive, unlimited health insurance plan for only $440
+a month?
+Well, it's practically a mathematical impossibility.
+I mean, if you look at the current market across the mainland United States, $440 might
+get you, well, an incredibly bare-bones, catastrophic only plan.
+Yeah.
+It's kind of like a $10,000 deductible.
+Exactly.
+And that's assuming you're in peak physical condition and have zero preexisting needs,
+but for comprehensive coverage.
+Right.
+The real stuff.
+The kind that pays for ICU stays, oncology treatments, a full pharmacy tier.
+It's completely unheard of.
+You couldn't even cover the administrative overhead in some mainland markets for that
+amount.
+Okay.
+Let's unpack this right from the jump because if I tried to run a world-class five-star
+hospital system on the equivalent of a drive-through dollar menu budget, the entire
+infrastructure would implode on day one.
+It would be mathematically catastrophic.
+Yeah.
+The hospitals cannot buy a Ferrari with the budget of a bicycle.
+A health plan that cheap in the States would barely cover over-the-counter Advil-Colden
+Flu at your local pharmacy.
+Let alone the prescription strength mucinex.
+Exactly.
+Yet, as you sit there listening to us today on this deep dive, we are looking at a mountain
+of data that says in Puerto Rico, this unbelievably tight budget is not just some theoretical
+anomaly.
+No.
+It's the absolute unyielding reality of their entire healthcare system.
+It's just wild.
+And that specific reality, that incredibly tight margin, has birthed a very pervasive, very
+cynical narrative on the island, which kind of brings us to a famous and frankly highly
+weaponized quote from Dr. Victor Ramos.
+The former secretary of health down there, right?
+Yes.
+When discussing the insurance options available to the population, he famously described the
+coverage as, and I quote, plans que solo cubren medicinas de catarro.
+Health plans that only cover cold medicine.
+Man, it's such a striking image.
+It really is.
+It instantly conjures this idea of a system that is fundamentally broken and, well, deceptive.
+It suggests these massive insurance conglomerates are offering this grand illusion of health
+coverage.
+But when a patient actually gets sick.
+They're just handed some cough drops and told to go home and rest.
+Exactly.
+This is known colloquially as the catarro myth.
+The cold medicine myth.
+Right.
+It's the widespread assumption that because the per capita funding in Puerto Rico is
+so comparatively low to the mainland, the resulting insurance policies must just be
+functionally useless for anything serious.
+Like they assume the money is just being hoarded in some corporate vault and the patients
+are being abandoned.
+Exactly.
+But you and I have a stack of primary source data right here on the desk between us.
+We sure do.
+And what these audited financial filings say paints a picture that is vastly more
+complicated, mechanically fascinating, and honestly far more impressive than that
+soundbite implies.
+So that is our mission for you today on the Seabdive.
+We are completely stripping away the politics, the soundbites, and the assumptions.
+We have to.
+We are going to look strictly obsessively at the data.
+We are diving deep into the Plenias de Salud.
+Those are the sworn audited financial statements submitted under penalty of law to the Office
+of the Commissioner of Insurance or the OCS.
+Right.
+We want to find out if these are really just medicine as de catarro plans.
+We're going to uncover the actual operational mechanics of how these massive companies manage
+to give the best service.
+And survive in a market that is historically incredibly thin.
+Exactly.
+How they comply with some of the strictest solvency and liquidity regulations on the
+books and still deliver exceptional clinical results.
+To do this, we are going to focus our lens on the health plans that provide service
+across all the major tiers.
+So that means Medicare Advantage, right?
+Yes.
+Advantage and Medicare Platino, which, as we'll explain later, are dual eligible Medicare
+Advantage patients, but functionally operate exactly as standard Medicare Advantage patients.
+Plus Medicaid, which is known in Puerto Rico as Plan Vital.
+Exactly.
+Along with the commercial plans and everything else monitored by the OCS.
+We are leaving no stone unturned in these Plenias.
+Okay.
+Let's lay out the foundational math first.
+Because the sheer scale of the money moving around this island is staggering.
+And you really need to visualize it to understand the stakes.
+The numbers are massive.
+Yeah.
+According to the OCS sources, if you look at the market investment, in 2024, Puerto Rico
+saw a $15.33 billion invested in healthcare.
+And when we project into the full year of 2025, that number grows to $17.05 billion just
+within the Core 9 statutory market.
+And if we expand our view to give you a sense of the total market-wide footprint
+for 2025, looking at the comprehensive OCS Plenila, we are talking about $17.18 billion.
+$17.18 billion.
+Yes.
+In written premium across the entire medical expense landscape, $17 billion flowing into
+a relatively small geographic footprint.
+It sounds like an infinite pool of money.
+I mean, $17 billion, but here is where you have to do the division.
+This is where reality sets in.
+Right.
+You take that astronomical number and you divide it by Puerto Rico's total cover
+population.
+The math works out to roughly $5,325 annually per person.
+Which doesn't sound like a lot for a whole year of medical care.
+No, it really doesn't.
+And then you divide that by 12 months and there is our magic number, about $440 a month
+per person to keep an entire island's healthcare infrastructure breathing.
+What's fascinating here is the sheer velocity of that $440.
+What do you mean by velocity?
+Think about what a single dollar has to accomplish before it is exhausted.
+It is not just paying for a 15-minute primary care doctor's visit.
+Right.
+It's not just co-pays.
+That pool of funds has to cover catastrophic hospital stays, complex cardiovascular surgeries,
+lifetime chronic disease management.
+The incredibly escalating specialty pharmacy costs too.
+Exactly.
+Plus the maintenance of vast specialist networks and yes, the administrative overhead and
+technology infrastructure of the insurance companies themselves.
+And you realize the immense operational weight they're asking that $440 to carry.
+The mechanics of this market become one of the most compelling economic tight ropes you
+will ever study.
+It really is an actuarial marvel.
+And to truly understand how you stretch $440 across an entire population, you first
+have to look at the massive scale of the market itself.
+Because you can't just look at one isolated patient.
+You have to look at the collective risk pool.
+Right.
+Let's look at the actual landscape of these nearly 3 million covered lives.
+Because the shape of this market is completely alien compared to what you might be used to
+stateside.
+The sheer volume of human lives is the first key to unlocking this puzzle.
+The 2025 OCS Plenella reports exactly 2,999,355 covered lives.
+That is effectively the entire living population of the island.
+Pretty much yet.
+Virtually everyone is accounted for in this data.
+And out of that $17.18 billion in total premium we just mentioned, an astonishing $15.49 billion
+was paid directly out in medical claims.
+Wow.
+Okay, that claims $15.49 billion physically leaving the insurers bank accounts to pay
+medical providers.
+That is going to be the smoking gun later when we tackle the Katara myth directly.
+It absolutely will be.
+But for now, let's look at who makes up those 3 million lives.
+Because if you are listening to this in Texas or New York, your concept of how
+health insurance works is likely completely inverted here.
+It is a total paradigm shift.
+If we connect this to the bigger picture in the mainland United States, a massive foundational
+portion of health insurance is driven by the commercial sector.
+Right, like private employer groups.
+Exactly.
+You have the apples, the fords, the local manufacturing plants, all buying robust group
+plans for millions of employees.
+And that commercial money acts as a sort of stabilizing anchor for the whole healthcare
+sector in the states.
+Precisely.
+But in Puerto Rico, that market dominance is completely flipped.
+The market is overwhelmingly almost entirely driven by government and federal funds.
+The breakdown here is wild, and I want you to really let these percentages sink in.
+Yeah, read the stats on this.
+The data shows that 61.9% of all covered lives in the island rely strictly on federally
+funded covers.
+Let me read you the exact demographic breakdown from the filings.
+Go for it.
+So, right away the math tells a profound story.
+It really does.
+The commercial sector, those private employer groups and individual self-funded plans is
+a stark minority player in terms of volume.
+Over 40% of the island's entire population is on Medicaid.
+That is a colossal block of human beings operating on a very specific, tightly constrained, government-funded
+premium structure.
+It is.
+Here's where it gets really interesting.
+The money doesn't follow the volume evenly.
+You cannot just assume that because Medicaid has 40% of the people, they bring in 40%
+of the cash.
+No, absolutely not.
+You have to look at the average premiums per member per month, or what the actuaries
+call the PPM.
+And according to the sources, these PPM numbers vary wildly, like violently, across the different
+segments.
+They absolutely do.
+Let's look at the top tier of funding.
+Medicare Platino generates the highest premium per member per month, sitting at $1,443 PAMPM.
+Then you have the government retirees segment at $12,095 and the standard Medicare Advantage
+population at $996 a month.
+Okay, wait.
+I need to make sure you, the listener, caught that.
+Platino was bringing in over $1,400 a month per person.
+That's right.
+But we just established a few minutes ago that the island-wide average was only $440.
+So where is the massive financial drag coming from that pulls that $1,400 high down to
+a $440 average?
+Well, the drag comes from the massive base of the population.
+You have to contrast those higher Medicare numbers with plan vital, the Medicaid population
+we just mentioned.
+41%.
+The plan P.M. for plan vital patient is only $336.
+And the private individual plans are even lower, sitting at a staggering $214 a month.
+It looks like the market is constructed like an inverted pyramid.
+That's a great way to put it.
+The most medically expensive high-need patients, you know, the elderly, the dual-eligible
+who need constant care, they're at the very top of the structure, generating the highest
+premium.
+Right.
+The massive base of Medicaid patients runs on incredibly thin monthly margins.
+It's not like funding a boutique clinic.
+It is like running a massive high-speed rail network.
+You only survive through sheer, overwhelming volume.
+Right.
+If you were an insurance company and you only had a few hundred patients on plan vital,
+you would go bankrupt in a week, trying to cover hospital bills on $336 a month.
+That volume is the only way the actuarial math even begins to function.
+You need hundreds of thousands of lives on the Medicaid site to pool the risk.
+So you're basically crossing your fingers that enough of them stay out of the hospital.
+You are essentially betting that out of those hundreds of thousands of people, enough of
+them will stay healthy in any given month to cover the catastrophic costs of the
+few who get severely ill.
+That makes sense.
+It creates enough baseline cash flow to negotiate viable contracts with hospital networks.
+But you are entirely correct about the inverted pyramid structure.
+The financial gravity of this entire healthcare system pulls heavily, unavoidably, toward
+the top, toward those higher premium Medicare segments.
+Which means, if we truly want to know who is actually keeping the lights on in Puerto
+Rico's hospitals, who is actually funding the physical infrastructure, the MRI machines,
+the surgical suites, and the emergency rooms.
+We have to look at those high premium segments.
+Exactly.
+With the absolute giant in the room, we have to talk about Medicare.
+And this brings us to a structural reality that is fundamentally unique to Puerto Rico's
+healthcare ecosystem.
+This is wild, yeah.
+And we need to be incredibly straightforward and super clear here, because if you do not
+understand this next point, you do not understand the Puerto Rican market at all.
+So pay attention to this part.
+Medicare Advantage, including the Platino Medicare Advantage, is the one paying
+the bills for healthcare in Puerto Rico.
+One paying the bills.
+Let that sink in.
+Exactly.
+In the mainland United States, traditional Medicare, what the industry calls fee for
+service, or FFS, is a massive foundational safety net.
+Right.
+Millions of American seniors use traditional Medicare.
+In that system, the federal government just pays the doctor directly for every single
+service rendered.
+It is decentralized.
+But in Puerto Rico, traditional Medicare fee for service is virtually non-existent.
+Wait, I have to challenge this, because I really want you to explain the mechanics
+of that to the listener.
+Okay, sure.
+If I'm a senior living in Florida or Ohio, I can just hold up my red, white and blue
+Medicare card, go to almost any doctor, and the federal government simply pays the
+bill.
+You're saying that fundamental American safety net simply doesn't happen in Puerto
+Rico.
+How is that possible?
+It is statistically negligible.
+Over the years, due to complex demographic factors, distinct federal funding
+formulas applied to the territories and aggressive market adaptations, almost every
+single Medicare eligible senior in Puerto Rico has been enrolled into a privatized
+Medicare Advantage Plan.
+So the island essentially wholesale privatized its senior safety net.
+Yes.
+These privatized Advantage Plans and the Platino Plans completely shoulder the
+burden of the aging population.
+They are the primary interface between the federal government's money and the
+island's doctors.
+Let's define Platino for you, just so we are all speaking the exact same
+language here.
+Good idea.
+Platino patients are what we call dual eligible.
+That means they are highly vulnerable.
+They qualify for Medicare due to their advanced age or severe disability.
+And need they qualify for Medicaid because their income level falls below the
+poverty line.
+They are often the sickest of the sick, requiring immense resources.
+But the way the system is engineered in Puerto Rico, these Platino patients
+are functionally operating as Medicare Advantage patients.
+The privatized Advantage companies are the ones managing their care, not the
+local government.
+And when you look at the financial footprint of these plans and the OCS filings,
+the dominance is awe-inspiring.
+Let's look at the 2025 numbers.
+Well, let's hear them.
+Medicare Platinum represented 33.4% of the total premium in the entire market.
+That is $5.73 billion.
+Standard Medicare Advantage represented 19.0% of the premium, which is $3.27 billion.
+So if you do the math and you absolutely have to add them together
+because they are both managed under the exact same operational umbrellas by these
+Advantage companies, you get over 52% of the entire health care money in the system.
+Over half.
+$9 billion.
+Together, just those two segments control over half the money in the entire
+Puerto Rican health care ecosystem.
+This raises an important question, and it is perhaps the most critical
+question of this deep dive.
+What's that?
+What happens to a society's health care ecosystem when one single financial
+mechanism holds that much weight?
+Think about it.
+The entire hospital infrastructure, the vast networks of specialists,
+the clinical laboratories processing blood work.
+Their daily revenue stream is overwhelmingly existentially dependent
+on the reimbursement rates set by these Medicare Advantage and Platino contracts.
+Completely dependent.
+So if traditional Medicare fee-for-service doesn't exist here,
+then these Advantage plans aren't just an option like they are in the states.
+No, not at all.
+They aren't a luxury upgrade.
+They are the entire floorboards of the house.
+If the Advantage system sneezes, does the whole
+island's health care system catch a catastrophic cold?
+That is not a metaphor.
+It is an economic reality.
+If the federal funding for Medicare Advantage in Puerto Rico were to be
+significantly reduced, even by a few percentage points,
+the ripple effect wouldn't just hurt the quarterly profits of the insurance companies.
+It would be way worse than that.
+It would severely immediately destabilize the hospitals and the independent
+providers who rely on that $9 billion to keep their emergency rooms open?
+Because they use that money to cross-subsidize everything else, right?
+Exactly.
+The cross-subsidization is vital.
+The higher premiums generated from the Medicare Advantage population
+help maintain the broader physical hospital network
+that also serves the much lower funded Medicaid and commercial population.
+So without the Medicare Advantage money,
+the infrastructure collapses?
+Entirely.
+So since we know for a fact that Advantage and Platino are the undisputed
+engine of the market, we need to identify who exactly is behind the wheel here.
+We need names.
+Yeah.
+We are talking about a $9 billion federal pipeline for Medicare
+and a $17 billion market overall.
+Who are the corporate entities capturing this massive flow of cash?
+How big do you have to be to manage billions of dollars in medical risk?
+To find out, we have to analyze the market share dominance
+detailed in the OCS reports.
+And what you find is that this market is incredibly concentrated.
+It's not a bunch of small mom and pop insurers, is it?
+No, it is not a fragmented space with hundreds of small players.
+It is dominated by a handful of corporate heavyweights, MCS Advantage,
+MMM HealthCare, Triple S, First Medical, Humana, and Planetosluid Menonita.
+Let's look at the specific scale of these types.
+Managing nearly $5 billion means you are practically functioning
+as a sovereign financial entity.
+You are running vast IT networks, massive call centers,
+and employing armies of clinical reviewers.
+Then you have MMM HealthCare, which brought in $3.29 billion
+while managing 214,969 covered lives.
+Incredible.
+And on the Medicaid side of the spectrum,
+First Medical dominates the planned vital space,
+bringing in $1.62 billion with a massive volume
+of individual patients.
+And the year-over-year growth rates
+we are seeing in the filings are just as intense.
+Look at the top movers in premium growth from 2024 to 2025.
+The jumps are huge.
+MCS Advantage grew their premium by 31.2% in a single year.
+Imagine trying to scale your operations by 30% in 12 months.
+Unbelievable stress on the system.
+MCS Life grew by 16.2%.
+Triple S Salud grew by 12.8%.
+What's fascinating here is the strategic lane picking.
+These companies generally do not try to be everything
+to everyone because the margins are too punishing.
+They choose a lane where they can achieve
+the maximum possible operational scale.
+For instance, First Medical and Menonita
+lean heavily into the planned vital, the Medicaid side.
+So they focus purely on volume.
+Exactly.
+They have optimized their entire corporate structure
+to focus on managing massive populations
+on lower per member premiums.
+They are experts in volume.
+While companies like MCS and MMM
+put their heavy artillery, their specialized case managers,
+their chronic disease algorithms,
+squarely into the Medicare Advantage and Platino space.
+Yes.
+And this level of market dominance
+is not just a clever business strategy.
+It is a strict prerequisite for survival.
+Because of that $440 average we talked about.
+Precisely.
+Because the per patient premium in Puerto Rico
+is so incredibly low compared to the mainland,
+the only way a health insurance company can survive
+is by moving incredible volume.
+Right.
+You need massive scale to have the negotiating power
+to build provider networks.
+You need scale to spread your fixed administrative overhead.
+You need scale to absorb the statistical risk
+of catastrophic million-dollar ICU claims.
+So this isn't exactly a startup-friendly environment,
+is it?
+You can't just launch a boutique health insurance company
+in Puerto Rico, sign up a couple thousand patients,
+and hope for the best.
+You would be wiped out instantly.
+It's a game of absolute titans.
+You either move billions of dollars,
+or you get crushed under the weight
+of your own administrative costs.
+The barrier to entry isn't just regulatory red tape.
+It's purely mathematical.
+The math is unforgiving.
+If you don't have the sheer volume,
+you simply cannot make the math work on $440 a month.
+And that harsh reality is reflected
+in the steady consolidation we've
+seen on the island over the years.
+The market forces demand extreme efficiency.
+And efficiency at these suffocating price
+points demands immense scale.
+But here is the ultimate paradox
+of this entire deep dive.
+You hear about companies moving $4 billion,
+$3 billion in premium, and human nature
+makes you assume they must be printing money.
+You assume the executives are swimming
+in vaults of gold coins like Scrooge McDuck.
+But the data tells a completely different story.
+Even if you are a titan moving billions of dollars,
+it does not mean you are actually
+making a dime of profit.
+It sounds counterintuitive, but it's true.
+Let's look at the financial tightrope
+these companies are walking.
+Because when you look at the profitability ratios
+for the Core 9 statutory entities in 2025,
+it will give you financial whiplash.
+We really need to analyze the 2025 Core 9 statutory net
+income.
+These are the nine primary foundational health
+entities reporting their audited financials
+to the NAIC and OCS.
+Lay it on us.
+And the shocking reality is this.
+For all those billions of dollars
+flowing through the system, the aggregate net income
+for these massive companies combined was a loss.
+A loss of negative $19.8 million.
+Wait, I need to stop you there and make
+sure we are reading the exact same spreadsheet.
+We are.
+We just spent 20 minutes explaining that the market took
+in over $17 billion, with the Core 9 statutory entities
+representing over $17 billion of that total landscape.
+And you were telling me that at the end of the year,
+when all the hospital bills were paid,
+all the pharmacy claims settled,
+and all the lights were kept on,
+the entire industry combined was in the red.
+They lost nearly $20 million collectively.
+Yes.
+Out of the nine reporting entities,
+only five were actually profitable in 2025.
+The market is incredibly volatile,
+and the margin for error is essentially zero.
+It is a razor's edge.
+Let's contrast the winners and the losers here
+because the swings are violent.
+On the winning side, MCS Advantage had the largest gain.
+They posted a net income of $101.3 million.
+Which sounds like a lot.
+It does.
+Now, to the average person,
+$100 million sounds like a massive profit.
+Exactly.
+But remember, that is on $4.73 billion in premium.
+If you do the math,
+that is barely a 2.1% profit margin.
+Exactly.
+If a grocery store operated on a 2% margin,
+they'd be sweating.
+And then you look at the other side of the ledger
+where the volatility really shows its teeth.
+Triple S Advantage took a brutal loss
+of negative $86.6 million.
+And negative $86 million.
+Humana Health Plans of Puerto Rico
+lost negative $63.2 million.
+MMM Healthcare, despite bringing in
+over $3 billion in premium,
+posted a net loss of negative $8.9 million.
+I'm looking at these numbers and I am just floored.
+I have to push back and ask the practical question here.
+Right here.
+Triple S Advantage brought in over $1.5 billion in premiums,
+managed the care of all those patients,
+and still managed to lose $86 million.
+How does a business lose that much money
+in a single year on an island
+and keep its doors open the next morning?
+It's the multi-million dollar question.
+Why didn't the hospitals just stop accepting their cards?
+And it comes down to a fundamental misunderstanding
+of how insurance accounting works.
+When you ask how they survive an $86 million loss,
+you have to look beyond the income statement
+and look at the balance sheet.
+Oh, okay, so reserves.
+Yes.
+These companies are backed by massive corporate parents
+or they have built up significant capital surplus
+over decades of operation.
+So they dip into savings.
+When they take a loss like this,
+they survive by drawing down on their historical surplus
+or by receiving emergency capital injections
+from their mainland parent companies
+or through complex reinsurance treaties
+where they have essentially bought insurance for themselves
+against catastrophic losses.
+So they are bleeding their savings accounts dry
+just to fulfill their promises to the patients.
+But why did they lose so much money in the first place?
+How do you miscalculate $86 million?
+If we connect this to the bigger picture,
+it comes down to the brutal friction
+between estimating medical costs
+and managing administrative expenses.
+The estimation is hard, yeah.
+The companies have to predict the future.
+They use actuaries to calculate what they call IBNR,
+incurred, but not reported claims.
+Okay, give me an example of IBNR.
+Imagine a patient who spent three weeks
+in the ICU in November.
+The hospital might not actually send the final audited bill
+to the insurance company until February.
+The insurance company has to estimate, in December,
+exactly how much money they think they owe
+for that patient and reserve it.
+If their actuaries are wrong by even one or 2%
+across hundreds of thousands of patients,
+a projected $10 million profit
+instantly becomes a $40 million loss
+when the real bills finally arrive.
+Man, and that's just the medical side.
+What about the operational side?
+You can't just blame the hospitals for everything.
+Exactly.
+When your margins are kept by low federal funding rates,
+your internal corporate efficiency has to be flawless.
+Let's look at the administrative expense ratios in the data.
+What exactly does that measure?
+This is the percentage of premiums spent strictly
+on running the company, paying the staff,
+upgrading the IT systems, paying rent for the offices,
+marketing, all of that,
+before paying a single doctor for actual healthcare.
+Okay, looking at the data,
+MCS Advantage, the one that actually made a 2% profit,
+ran at an administrative ratio of 8.7%.
+3S Solud, which is their commercial and Medicaid arm,
+ran at an incredibly lean 6.9%.
+Extremely lean.
+But then you look at Humana,
+their administrative ratio ran at 17.2%.
+And there is the direct correlation.
+When the overall market margin is this thin,
+an administrative blow of 17%
+leads straight off a financial cliff.
+Right, into the red.
+For Humana, that 17.2% admin ratio
+contributed heavily to a $63 million deficit.
+You simply cannot spend 17 cents
+of every single dollar on administration
+when the medical claims from the hospitals
+require 85 to 90 cents of that dollar.
+The math breaks, you run out of pennies.
+It also shows how deeply precarious
+the pricing and claim estimations are year over year.
+Look at first medical in the filings.
+Yeah, that's a wild swing.
+In 2024, they swung a nearly negative $40 million loss.
+But in 2025, they managed to write the ship
+and post a $5.3 million profit.
+That is a $45 million swing in exactly 12 months.
+It's like trying to land a jumbo jet
+on a postage stamp during a hurricane.
+Seriously, if a new, incredibly costly
+specialty drug hits the market,
+or there's an unexpectedly bad flu season
+that puts thousands of seniors in the hospital,
+a $5 million profit instantly evaporates
+into a massive loss.
+It is the definition of a financial tightrope.
+And that exact question you asked earlier,
+how does a business lose $86 million
+and keep its doors open without the hospital's panicking
+is precisely why regulators do not just trust
+these corporate executives to figure it out
+on their own honor system.
+The government knows better.
+The government knows exactly how volatile this market is,
+and they know the catastrophic human cost
+if one of these companies actually defaults.
+Which means they require massive,
+legally binding financial safety nets.
+You cannot have a company managing
+the life or death healthcare
+of 300,000 vulnerable seniors
+suddenly go bankrupt and turn the lights off
+on a Tuesday afternoon.
+No, that would be a humanitarian crisis.
+So let's transition and dig into the liquidity,
+the physical guarantees,
+and how these companies must legally prove
+they won't collapse.
+Let's talk about financial compliance.
+The financial stability and compliance requirements
+mandated by the National Association
+of Insurance Commissioners, the NAIC,
+and the Puerto Rico OCS are incredibly strict.
+They don't mess around.
+They are meticulously designed
+to prevent systemic failure.
+To understand how they keep the market stable,
+we need to introduce a few specific terms
+from the financial filings
+that dictate a company's survival.
+Okay, let's unpack these terms
+because they are absolutely crucial.
+In the OCS reports, we see the term actidos admitidos,
+which translates to admitted assets.
+Then there's total depasivos,
+which are total liabilities.
+And finally, the most important one,
+capital E accidente,
+which translates to capital and surplus.
+Let's define the friction between those terms for you.
+Total liabilities are everything
+the insurance company legally owes.
+The bills.
+Primarily, this is the estimated medical claims
+they know they have to pay,
+plus those IB&R reserves we talked about earlier
+for claims that have happened,
+but haven't been billed yet.
+Got it.
+Admitted assets, on the other hand,
+are the highly liquid, incredibly secure funds
+the company actually has on hand
+to pay those bills right now.
+We are talking about cash, stable government bonds,
+things they can liquidate tomorrow morning.
+So they don't count the fancy office furniture,
+the CEO's company car,
+or the branding value of their logo.
+Exactly.
+The regulators do not care about your real estate investments
+if they take six months to sell.
+They only care about assets
+that can instantly reliably pay a hospital bill today.
+Makes sense.
+And capital and surplus is the ultimate cushion.
+It is the mathematical difference,
+the admitted assets minus the total liabilities.
+So just how much buffer they have.
+It is the absolute unvarnished measure
+of a company's financial health.
+If that surplus number drops below
+a certain strictly calculated regulatory threshold
+known as the risk-based capital requirement,
+the OCS steps in, seizes control,
+and essentially puts the company in receivership.
+But the regulators go even further
+than just looking at a spreadsheet once a quarter.
+They demand actual physical guarantees.
+The data highlights the depositoestapatorio in Puerto Rico,
+the statutory deposit.
+Yes, the literal physical guarantee companies
+must lock away with the government.
+Yeah.
+They are required to place millions of dollars
+in a restricted account that they cannot touch.
+For example, looking at the foreign insurers in the data,
+AIG is required to hold $2.6 million
+in a statutory deposit.
+And they can't touch it.
+Riverstone holds $3.5 million.
+Medco holds $2.5 million.
+And the massive domestic health organizations
+have their own incredibly strict deposit
+and reserve requirements
+based on their specific premium volume.
+It's essentially a financial hostage situation.
+Yeah.
+The government looks at these massive corporations
+and says, you can operate here.
+You can take these billions of dollars in premiums
+from our citizens and the federal government,
+but we are locking millions of your own cash in our vault
+just in case you mess up.
+It forces fiscal responsibility
+by keeping their feet continuously to the fire.
+Exactly.
+If you decide you're tired of losing money
+and you pack up and leave the island
+without paying the doctors,
+the government already has your deposit
+to start making the providers whole.
+Furthermore, Puerto Rico has entirely unique geographic
+and climatic vulnerabilities,
+which brings us to a very specific regulation,
+the catastrophe reserve requirements under chapter 25
+of the Puerto Rico insurance code.
+Right.
+Because when you are an island
+in the middle of the Caribbean,
+you don't just have to plan for bad flu seasons.
+You have to plan for hurricanes
+tearing the infrastructure apart.
+Exactly.
+Rule 72 of the insurance code mandates
+that certain insurers build
+and maintain a specific catastrophic reserve fund.
+This is money designed to protect
+against massive systemic island-wide shocks.
+Like Maria.
+Think about what happens
+when a category five hurricane hits.
+The power grid goes down.
+Hospitals are forced to run on diesel generators,
+which costs an absolute fortune.
+Right.
+And medical needs spike due to injuries
+while simultaneously the standard infrastructure
+to process claims and authorized treatments
+is completely damaged.
+Claims become highly unpredictable.
+The regulators force the companies to hoard capital
+specifically for those black swan events,
+ensuring that even in the dark,
+the money is there to pay for trauma care.
+So let's sort of summarize the reality
+of an insurance executive in Puerto Rico right now.
+You are managing federal funds
+that pay drastically less than the mainland rate.
+Drastically less.
+You are operating on a 2% profit margin
+if you are lucky,
+or actively losing tens of millions of dollars
+if you make a single miscalculation.
+And while all this is happening,
+the government is forcing you
+to lock up millions in cash reserves
+just to keep your license active.
+It is a wildly punishing environment.
+It sounds impossible.
+But it is punishing by design.
+These strict solvency regulations
+are designed to ruthlessly weed out weak players.
+If you cannot maintain your surplus,
+if you mismanage your administrative ratio
+like we saw earlier,
+the insurance commissioner has the authority
+and the absolute mandate to step in,
+take control of your operations
+and protect the patients
+and the providers from your failure.
+So the system prioritizes the stability
+of the hospital network
+above the profit margins of the insurers.
+100%.
+Okay, so we have established
+that the companies are highly regulated.
+We know they are moving billions of dollars
+but operating on razor thin margins.
+We know some are losing tens of millions of dollars
+a year, but this brings us
+to the most important part of the puzzle.
+The ultimate metric.
+Where is all that money actually going?
+If they aren't keeping it as profit
+and they are forced to hold vast amounts in reserves,
+how much is actually reaching the patients?
+To definitively find out
+if these are just cold medicine plans
+like Dr. Ramos said,
+we have to look at the undeniable metric
+in healthcare finance.
+The medical loss ratio or MLR?
+The medical loss ratio
+is the absolute core of this entire analysis.
+It is the inescapable truth of the data.
+Let's get into it.
+The MLR is the percentage of premium dollars
+that an insurance company spends directly
+on medical claims and quality improvements
+rather than administrative costs and profits.
+And we have a critical non-negotiable rule
+when analyzing this data for Puerto Rico.
+Yes, listen closely here
+because this is where a lot of analysts get the math wrong.
+When discussing the MLR for Medicare Advantage,
+you must add both the standard Medicare Advantage
+and D, the Medicare Advantage Platino numbers together.
+You cannot separate one from the other
+for the medical loss ratio.
+You absolutely cannot make that assumption
+because operationally, demographically, and financially,
+they are managed as a unified,
+singular risk pool by these companies.
+Let's walk through the exact math for you
+using the audited 2025 numbers.
+We take the combined Platino premium,
+which was $5.73 billion.
+Okay.
+We add the standard Medicare Advantage premium,
+which was $3.27 billion.
+That gives us a combined premium pool
+of approximately $9.0 billion.
+Now, for the most important number,
+the claims actually paid out.
+The combined Platino claims were $5.14 billion.
+The standard Medicare Advantage claims were $2.86 billion.
+Which means together,
+that is roughly $8.0 billion
+physically paid out to the hospitals,
+the doctors, and the pharmacies on the island.
+So when you divide that $8.0 billion in claims
+by the 9.8 billion in premium,
+the combined MLR for the Medicare space in Puerto Rico
+is nearly 89%.
+89%.
+Let's look at the overall market.
+Across all lines of business,
+in 2025, commercial, Medicaid, Medicare,
+there was $15.49 billion in claims paid
+out of $17.18 billion in premium.
+The overall market, MLR, was 90.2%.
+And if you isolate Plan Vital, the Medicaid population,
+the numbers become even more extreme.
+Oh man, yeah.
+The MLR for Plan Vital
+hit an astronomical 95.8% market-wide
+and 95.5% within the Core 9 reporting entities.
+Let me stop and just absorb the reality of that number.
+95.8%.
+Are they actually too efficient for their own good?
+It's a valid question.
+I want you to imagine running a restaurant
+and 95.8 cents of every single dollar
+a customer hands you
+has to be spent exclusively on the raw ingredients,
+the meat, and the vegetables.
+Nothing left over.
+That leaves you less than five cents
+to pay the chef,
+pay the waiters,
+pay the electric bill,
+pay the rent,
+and somehow eke out a profit.
+It's insane.
+If they are paying out 90 to 95 cents on the dollar
+for actual medical care
+and using the rest for their administration,
+which we saw earlier,
+is around seven to 10%.
+For the efficient companies there
+is practically zero margin for error.
+There is nothing left.
+That is the exact math that shatters the myth.
+I wanna break down what an 89%
+or a 95% MLR actually means in the real world
+to the patients on the ground.
+What does it mean?
+It means that for every single dollar of premium,
+the federal or local government
+pays the insurance company,
+89 to 95 cents goes directly immediately
+out the door to pay the doctors,
+to keep the hospital beds open,
+to pay for life-saving cardiovascular surgeries,
+and to pay for highly complex pharmacy drugs.
+And this brings us right back
+to the beginning of the show.
+To Dr. Victor Ramos' famous cynical quote,
+Plans que solo cubren medicinas de cataro.
+If a health plan truly only covered cold medicine,
+what would its MLR actually look like on a spreadsheet?
+It would be functionally microscopic.
+If a plan truly only covered Advil and Musenax,
+the MLR would be incredibly low.
+Like what, maybe 20%?
+Maybe 20 or 30% at best.
+Because cold medicine is incredibly cheap
+compared to actual medical care.
+The insurance company would collect their $440 a month,
+pay out $15 for cough syrup,
+and pocket the rest as massive,
+unprecedented corporate profit.
+But that is undeniably not what is happening.
+Not even close.
+The fact that the MLR is sitting at 90% or higher definitively
+mathematically proves that these plans
+are not just buying cold medicine.
+They're paying out billions.
+$15.49 billion to be exact.
+For chronic care, oncology, cardiology, ICU stays,
+and the most critical treatments available in modern medicine,
+you do not hit $15 billion by handing out cough drops.
+And we can even look at the very latest data
+to see this high efficiency trend continuing.
+What does Q1-2026 look like?
+Looking at the Q1-2026 data,
+the market MLR cooled slightly,
+but remains incredibly high at 83.1%.
+That represents $3.76 billion in claims
+paid out on $4.52 billion in premium
+in just the first three months of the year alone.
+The money never stops flowing to the providers.
+So these aren't cheap plans delivering nothing.
+That is a total misconception.
+They are incredibly ruthlessly efficient plans
+delivering almost everything on an impossibly tight budget.
+Yes.
+The companies aren't hoarding the money in offshore accounts.
+The money is flowing directly,
+constantly into the Puerto Rican healthcare infrastructure.
+This brings us back to the fundamental question
+we started with at the very beginning of this deep dive.
+Do these $440 a month plans
+actually take care of the people of Puerto Rico?
+Based strictly on the data,
+the billions of audited data points
+processed by the OCS and the NAIC,
+the story of the Plains Medicals to Catarro
+is a complete myth.
+It's mathematically untrue.
+It is a powerful political sandbite,
+but it is fundamentally mathematically untrue.
+Looking strictly at the numbers,
+these companies are delivering massive critical services
+to the population of Puerto Rico,
+paying out over $15 billion in claims
+to providers in a single year.
+This data is a powerful message.
+It is a message to the government
+and the insurance commissioner
+to strictly safeguard the financial solvency
+and fiscal responsibility of this highly fragile system.
+It's a message to everyone involved.
+It is a message to the providers
+and the insurance companies
+that they must maintain this delicate balance
+because there is absolutely no room for waste.
+And it is a message to the people
+and to you, our listeners who buy health insurance,
+that the system, though financially strained
+by massive federal funding disparities
+compared to the mainland,
+is functioning at maximum efficiency to deliver care.
+As we leave you today,
+I want to offer one final provocative thought
+for you to mull over.
+We saw in the federal context data
+that CMS, the Centers for Medicare and Medicaid Services,
+is currently looking at the 2027 Rate Book
+for Puerto Rico's municipalities.
+Every year, the federal government decides
+how much to adjust the funding
+for these Medicare Advantage plans.
+If the federal government decides
+to tighten those rates, even a fraction of a percent,
+what happens to a market that is already running
+on a 90% medical loss ratio
+and a collective negative profit margin?
+Where does the system find the money
+when there are no more efficiencies left to squeeze?
+That's a terrifying question.
+You hand a system $440 and ask for a miracle.
+Against all odds, they give you a miracle.
+But what happens next year when you hand them 430?
+So what does this all mean?
+I want to make this as clear as I possibly can
+based on everything we have unpacked today.
+Medicare Advantage is paying the bills
+for healthcare in Puerto Rico.
+Stay tuned to the Healthcare Paradox.
+Find us on Spotify, Apple Podcasts,
+Amazon Music, iHeartRadio, and YouTube.
+Wherever you get your podcasts,
+the Healthcare Paradox starts now.
