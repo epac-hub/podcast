@@ -55,6 +55,18 @@ Numbers that need a logged-in read go in a small JSON. Every key is optional; th
 `by_video` rows are `[videoId, views, minutes, label]`; the label is optional (it is derived from the
 public title when omitted). Spotify `episodes` rows are `[label, plays, note]`.
 
+Optional month-by-month inputs: `youtube.by_month` as `[["2026-09", views, minutes], ...]` (YouTube
+Analytics with `dimensions=month`, startDate on the 1st of the launch month) and `spotify.by_month` as
+`[["2026-09", plays], ...]`. When they are missing, the month table is derived from the weekly
+snapshots below.
+
+## Snapshots (reports/audience/snapshots/)
+
+Every `render` writes `reports/audience/snapshots/YYYY-MM-DD.json` with the cumulative totals of that
+day (feed downloads, YouTube views and subscribers, Spotify plays and followers). The month-by-month
+table uses the last snapshot of each month, so commit the snapshot together with the PDF each week.
+Pass `--no-snapshot` for a dry run.
+
 Where the logged-in numbers come from:
 
 - Spotify for Creators (`https://creators.spotify.com/dash/show/7K7Ub2NPG2Km4aGw0C25eN/overview`,

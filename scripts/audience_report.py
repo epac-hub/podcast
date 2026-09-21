@@ -319,7 +319,45 @@ def analyze_feed(rows, asof, episodes):
     a["app_total"] = sum(apps.values())
     a["browsers"] = browsers.most_common()
     a["web_total"] = sum(browsers.values())
+    a["by_month"] = collections.Counter(r["t"][:7] for r in rows)
     return a
+
+
+def month_label(ym):
+    return dt.date(int(ym[:4]), int(ym[5:7]), 1).strftime("%B %Y")
+
+
+def months_since_launch(asof):
+    cur, out = dt.date(int(LAUNCH[:4]), int(LAUNCH[5:7]), 1), []
+    while cur <= asof:
+        out.append(cur.strftime("%Y-%m"))
+        cur = (cur.replace(day=28) + dt.timedelta(days=4)).replace(day=1)
+    return out
+
+
+def load_snapshots(path):
+    """Weekly totals saved by earlier reports: [{date, feed_total, yt_views, yt_subs, sp_plays, sp_followers}]."""
+    snaps = []
+    for f in sorted(glob.glob(os.path.join(path, "*.json"))):
+        try:
+            snaps.append(json.load(open(f, encoding="utf-8")))
+        except Exception as e:  # noqa: BLE001
+            log("snapshot", f, "unreadable:", e)
+    return sorted(snaps, key=lambda s: s.get("date", ""))
+
+
+def monthly_from_snapshots(snaps, key, months):
+    """Per-month change of a cumulative counter, from the last snapshot of each month."""
+    out = {}
+    last_before = None
+    for ym in months:
+        in_month = [s for s in snaps if s.get("date", "")[:7] == ym and s.get(key) is not None]
+        if not in_month:
+            continue
+        end = in_month[-1][key]
+        out[ym] = (end - last_before[1], False) if last_before else (end, True)   # (value, cumulative_since_launch?)
+        last_before = (ym, end)
+    return out
 
 
 def analyze_youtube_public(yp, episodes):
@@ -442,6 +480,32 @@ def build_html(data, extra, asof):
     week_html = "".join(f'<div class="kpi"><div class="lab">{esc(l)}</div><div class="val">{v}</div><div class="foot">{esc(f)}</div></div>'
                         for l, v, f in week_items)
 
+    # ---- month by month (feed from OP3 rows; YouTube and Spotify from Analytics/dashboard or weekly snapshots)
+    months = months_since_launch(asof)
+    snaps = extra.get("_snapshots") or []
+    # snapshots mix Analytics and public counters; only compare like with like
+    yt_key = "yt_views" if snaps and all(s.get("yt_views_source") == "analytics" for s in snaps if s.get("yt_views") is not None) else "yt_public_views"
+    yt_month = {r[0]: (r[1], False) for r in (yta.get("by_month") or [])} or monthly_from_snapshots(snaps, yt_key, months)
+    sp_month = {r[0]: (r[1], False) for r in (sp.get("by_month") or [])} or monthly_from_snapshots(snaps, "sp_plays", months)
+    fol_month = monthly_from_snapshots(snaps, "followers", months)
+
+    def mcell(d, ym):
+        if ym not in d:
+            return '<td class="num"><span class="small">n/d</span></td>'
+        v, cum = d[ym]
+        return f'<td class="num">{fmt(v)}{"<div class=small>since launch</div>" if cum else ""}</td>'
+
+    month_rows = []
+    for ym in months:
+        lab = month_label(ym) + (" (to date)" if ym == asof.strftime("%Y-%m") else "")
+        month_rows.append(f'<tr><td><b>{esc(lab)}</b></td><td class="num">{fmt(feed["by_month"].get(ym, 0))}</td>'
+                          f'{mcell(yt_month, ym)}{mcell(sp_month, ym)}{mcell(fol_month, ym)}</tr>')
+    month_table = ('<table><thead><tr><th>Month</th><th class="num">Feed downloads</th><th class="num">YouTube views</th>'
+                   '<th class="num">Spotify plays</th><th class="num">New followers</th></tr></thead><tbody>'
+                   + "".join(month_rows) + "</tbody></table>")
+    month_note = ("YouTube and Spotify months come from " + ("YouTube Analytics and the creator dashboard." if yta.get("by_month") or sp.get("by_month") else
+                  "the weekly snapshots saved with each report (the change between the last reading of one month and the next); the first tracked month shows the total since launch.")
+                  + " Feed months are exact (OP3, one-day lag).")
     # ---- charts payload
     hb = [
         {"id": "c-feed", "rows": feed["by_episode"], "cls": "", "unit": "", "opts": {"aria": "Downloads per episode on the feed"}},
@@ -543,6 +607,11 @@ def build_html(data, extra, asof):
 </section>
 
 <section>
+  <h2>Month by month</h2>
+  <div class="card tablewrap">{month_table}<p class="note" style="margin-top:8px">{esc(month_note)}</p></div>
+</section>
+
+<section>
   <h2>Most listened episodes</h2>
   <div class="grid2">
     {card('On the feed (Apple, iHeart, Amazon, web)', 'Downloads per episode since launch. PR and US counts after the bar.', '<div id="c-feed"></div>')}
@@ -610,10 +679,34 @@ def render_pdf(html_path, pdf_path):
     log("wrote", pdf_path, os.path.getsize(pdf_path), "bytes")
 
 
+def snapshot_from(data, extra, asof):
+    """Cumulative totals worth keeping week to week (drives the month-by-month table)."""
+    feed_total = len(data["op3"]["rows"])
+    ytp = data.get("youtube_public", {})
+    yta = extra.get("youtube") or {}
+    sp = extra.get("spotify") or {}
+    yt_public = sum(v.get("views", 0) for v in ytp.get("videos", []))
+    yt_subs = yta.get("subscribers") or ytp.get("subscribers") or 0
+    snap = {"date": asof.isoformat(), "feed_total": feed_total,
+            "yt_views": yta.get("views_all") if yta.get("views_all") is not None else yt_public,
+            "yt_views_source": "analytics" if yta.get("views_all") is not None else "public",
+            "yt_public_views": yt_public, "yt_subs": yt_subs,
+            "sp_plays": sp.get("plays_all"), "sp_followers": sp.get("followers"),
+            "followers": yt_subs + (sp.get("followers") or 0)}
+    return snap
+
+
 def cmd_render(args):
     data = json.load(open(args.data, encoding="utf-8"))
     extra = json.load(open(args.extra, encoding="utf-8")) if args.extra and os.path.exists(args.extra) else {}
     asof = parse_date(args.asof or extra.get("asof") or data.get("asof") or dt.date.today().isoformat())
+    snap_dir = args.snapshots
+    if snap_dir and not args.no_snapshot:
+        os.makedirs(snap_dir, exist_ok=True)
+        snap = snapshot_from(data, extra, asof)
+        json.dump(snap, open(os.path.join(snap_dir, f"{asof.isoformat()}.json"), "w", encoding="utf-8"), indent=1)
+        log("snapshot saved", snap)
+    extra["_snapshots"] = load_snapshots(snap_dir) if snap_dir else []
     out = build_html(data, extra, asof)
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     open(args.out, "w", encoding="utf-8").write(out)
@@ -635,6 +728,9 @@ def main():
     r.add_argument("--out", required=True, help="HTML output path")
     r.add_argument("--pdf", default=None, help="PDF output path (needs playwright)")
     r.add_argument("--asof", default=None)
+    r.add_argument("--snapshots", default=os.path.join(ROOT, "reports", "audience", "snapshots"),
+                   help="folder of weekly totals (read for the month-by-month table; today's is written unless --no-snapshot)")
+    r.add_argument("--no-snapshot", action="store_true", help="do not write today's snapshot")
     r.set_defaults(fn=cmd_render)
     args = ap.parse_args()
     args.fn(args)
