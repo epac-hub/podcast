@@ -12,3 +12,6 @@ inbox/
 
 # personal Claude Code overrides
 .claude/settings.local.json
+
+# audience report output
+build/
