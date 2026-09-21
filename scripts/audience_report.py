@@ -410,15 +410,32 @@ def build_html(data, extra, asof):
         yt_video_rows.sort(key=lambda r: -r["value"])
     else:
         yt_video_rows = [{"label": r["label"], "value": r["value"]} for r in ytp["rows"]]
-    yt_views_line = (f"{fmt(yt_views_all)} views · {fmt(yt_minutes)} min watched" if yt_views_all is not None and yt_minutes is not None
-                     else f"{fmt(yt_views_all)} views" if yt_views_all is not None
-                     else f"{fmt(ytp['total'])} public views across {ytp['n_shorts'] + ytp['n_long']} videos")
-    yt_small = (f"{fmt(ytp['total'])} on the public counters: {fmt(ytp['shorts_views'])} on {ytp['n_shorts']} Shorts, "
-                f"{fmt(ytp['long_views'])} on {ytp['n_long']} episodes and trailers")
-    yt_kpi = fmt(yt_views_all) if yt_views_all is not None else fmt(ytp["total"])
-    yt_kpi_foot = ("YouTube Analytics since launch" if yt_views_all is not None else "public counters, since launch")
-    if ytp["total"]:
-        yt_kpi_foot += f" · {round(100 * ytp['shorts_views'] / ytp['total'])}% on Shorts"
+    # Two YouTube counters, always shown side by side and never in each other's slot:
+    # Analytics (every play, Shorts feed included) and the public per-video counters.
+    snaps_all = extra.get("_snapshots") or []
+    last_an = next((s for s in reversed(snaps_all) if s.get("yt_views_source") == "analytics" and s.get("yt_views") is not None), None)
+    if yt_views_all is not None:
+        an_val, an_date, an_min = yt_views_all, asof, yt_minutes
+    elif last_an:
+        an_val, an_date, an_min = last_an["yt_views"], parse_date(last_an["date"]), last_an.get("yt_minutes")
+    else:
+        an_val, an_date, an_min = None, None, None
+    pub_line = (f"Public counters today: {fmt(ytp['total'])} across {ytp['n_shorts'] + ytp['n_long']} videos "
+                f"({fmt(ytp['shorts_views'])} on {ytp['n_shorts']} Shorts, {fmt(ytp['long_views'])} on {ytp['n_long']} episodes and trailers)")
+    if an_val is not None:
+        yt_views_line = (f"Analytics: {fmt(an_val)} views" + (f" · {fmt(an_min)} min watched" if an_min is not None else "")
+                         + (f" (as of {short_date(an_date)})" if an_date != asof else ""))
+        yt_small = pub_line + ". Analytics counts every play, Shorts feed included; the public counters do not."
+        yt_kpi = fmt(an_val)
+        yt_kpi_foot = (f"Analytics, every play · as of {short_date(an_date)}" if an_date != asof else "Analytics, every play, since launch") \
+            + f" · public counters today: {fmt(ytp['total'])}"
+    else:
+        yt_views_line = f"{fmt(ytp['total'])} public views across {ytp['n_shorts'] + ytp['n_long']} videos"
+        yt_small = pub_line + ". Analytics (which also counts Shorts-feed plays) not read yet."
+        yt_kpi = fmt(ytp["total"])
+        yt_kpi_foot = "public counters, since launch"
+        if ytp["total"]:
+            yt_kpi_foot += f" · {round(100 * ytp['shorts_views'] / ytp['total'])}% on Shorts"
 
     # ---- Spotify
     sp_plays = sp.get("plays_all")
