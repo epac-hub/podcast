@@ -1,0 +1,576 @@
+So, in October 2027, the health coverage for about 1.3 million people in Puerto Rico is
+going to hit this massive mathematical wall.
+We're talking about the looming Medicaid cliff.
+Yes, the huge issue.
+Right.
+And today, for a deep dive, we are looking at this 40-page public finance briefing from
+September 2026.
+And it basically puts an exact price tag on what is going to cost the local government
+just to prevent a total collapse of that healthcare system.
+And that price tag is not small.
+No, it's really not.
+It's $4.849 billion in local funds.
+So welcome to the deep dive.
+We're going to be looking at this highly scrutinized report today.
+It's called El costo de la Enserquidumbre, or the cost of uncertainty.
+Yeah.
+And it is a really sobering piece of financial modeling.
+Yeah.
+And when you have a system that provides healthcare for roughly 40% of an entire population,
+and they are staring down this like artificial funding expiration date, you need absolute
+precision.
+You know?
+Exactly.
+And you know, we all know Puerto Rico's Medicaid operates on a completely different
+rule book than the 50 states, but actually seeing the math of how these specific legal
+mechanisms interact in this report, it's just staggering.
+It really is.
+But before we get into the exact local cost of this cliff, I think we should probably
+look at who actually ran these numbers.
+Because when you throw around a figure like $4.8 billion, the source really matters.
+Okay, let's unpack this.
+It matters immensely, yeah.
+So the organization behind this report is Espacio Subiertos.
+They're a research and transparency watchdog based in San Juan.
+Okay.
+And the report was authored by Angelica V. Morero Sanchez.
+She's their deputy research director, and she worked with a whole team of analysts.
+And you know, they are strictly looking at the public finance reality here.
+Their overarching mission is just transparency and public funds and holding the government
+accountable.
+Like a lobbying firm or a PAC trying to score points in Washington or anything?
+No, not at all.
+They are essentially auditors of public policy.
+And the timing of this release in September 2026 is critical.
+Right, because things were really heating up then.
+Oh, absolutely.
+You had the governor of Puerto Rico traveling to Washington, D.C. for meetings and the
+entire local healthcare sector, I mean, hospitals, doctors, insurers, they were all publicly
+sounding the alarm.
+They were basically saying they simply could not wait until 2027 to figure this out.
+It sounds like while the politicians were all just arguing about the temperature of
+the room, Espacio Subiertos walked in with a finely calibrated thermometer to just read
+the actual numbers.
+That's a perfect way to put it.
+September 2026 was a total boiling point.
+The rhetoric was incredibly heated.
+So Espacio Subiertos released this brief to just inject cold hard math into the
+debate.
+Just the facts.
+Right.
+They didn't want to rely on emotional advocacy.
+They definitively model the local financial burden on Puerto Rico if Congress simply does
+nothing.
+Okay.
+So to understand the temperature they actually recorded, we really need to briefly map out
+the mechanics of that bizarre rulebook we mentioned earlier.
+We do, yeah.
+Because it adds as the legal structure itself that's creating this cliff.
+So in the 50 states and D.C., Medicaid is funded through this open-ended matching
+share, right?
+The FMAP.
+Right.
+Federal Medical Assistance Percentage.
+Exactly.
+It's based on a state's per capita income.
+So if a state spends a dollar on a qualifying Medicaid service, the federal government covers
+a set percentage.
+Usually it's between what, 50 and 83 percent?
+Yep.
+That's the standard range.
+And crucially, there is absolutely no annual dollar ceiling on that.
+And that lack of a ceiling is the defining feature of state Medicaid.
+Let me think about it.
+If a state experiences an economic downturn or say a natural disaster or a public
+health emergency, and suddenly more people become eligible for Medicaid.
+The federal match just scales up automatically to meet the needs.
+Exactly.
+It just adjusts.
+So it's kind of like a discount coupon that never expires and has no maximum limit.
+The federal government just keeps paying their percentage no matter how high the total
+bill gets.
+That's a great analogy.
+But Puerto Rico has to navigate two overlapping restrictions that fundamentally alter how
+they can plan their budget.
+Right.
+It's totally different.
+They have a fixed temporary FMAP.
+So thanks to a 2023 federal law, it is currently set at 76 percent.
+But, and this is key, that elevated match rate is legally mandated to expire on September
+30, 2027.
+Ah, okay.
+So the coupon has a hard expiration date?
+Yes, it does.
+And the second restriction is far more severe.
+Yeah.
+Puerto Rico is subject to an absolute annual dollar ceiling, which is known as the section
+1108 allotment.
+The cap.
+Exactly.
+It is a strict federal cap.
+So once Puerto Rico's Medicaid program hits that ceiling, the federal matching just stops
+entirely.
+Wow.
+Yeah.
+From that exact moment forward, Puerto Rico has to pay 100 percent of any remaining
+Medicaid costs out of its own local general fund.
+So it's like an expiring coupon layered on top of a gift card.
+And once that gift card is empty, the coupon is utterly useless no matter what percentage
+it says on it.
+You're just paying full price.
+Exactly.
+You are on your own.
+You know, this isn't just some theoretical vulnerability either.
+I really want to bring up the historical context that was included in the sources because it
+proves how rigid this legal machine actually is.
+Like we saw a massive warning shot regarding the fiscal year 2022 budget.
+Oh, yeah.
+What's fascinating here is that that was a defining moment for public finance in Puerto
+Rico.
+Because right after the initial hurricane and COVID federal supplements ended, Puerto
+Rico faced a very similar reset, right?
+Right.
+The recovery formula was going to force Puerto Rico's funding cap back to a tiny base year
+from 2019.
+It would have dropped the annual cap to just over $400 million.
+Which is nothing for a program that size.
+Right.
+So the Centers for Medicare and Medicaid Services, CMS, they looked at this and
+essentially declared it an absurd result.
+They saw it was unworkable.
+Completely.
+Right.
+So CMS tried to implement a workaround.
+They bypassed 2019, used a 2020 base year instead, and attempted to assign Puerto
+Rico $2.943 billion to avert an immediate health care crisis.
+So on the surface, that just looks like the federal agency recognizing a mathematical
+glitch and fixing it administratively, you know?
+It does.
+But the government accountability office, the GAO, they stepped in and completely
+struck it down.
+Wait, really?
+Yeah.
+They ruled that CMS's administrative workaround was legally unauthorized.
+Wow.
+So CMS tried to help and the GAO said, nope, you can't do that.
+Exactly.
+The Congress then had to scramble and pass a whole new law to temporarily set the caps
+we have today.
+But, and this is the absolute crux of the crisis for 2027, when Congress wrote that
+new law, they deliberately closed that loophole.
+Oh, wow.
+Yeah.
+They explicitly wrote the statute so that CMS can never use an alternative base
+year again.
+The law literally forces the calculation back to that catastrophic 2019 base year
+for fiscal year 2028.
+So they basically locked the door and threw away the key.
+They did.
+And that rigid legal reality is what Espacio Sabierto has fed into their financial
+models, which leads us to scenario one in their report.
+The worst case scenario.
+Yes.
+Okay.
+This is what happens mechanically if Congress does absolutely nothing.
+Okay.
+So if Congress does nothing on October 1st, 2027, the FMAP drops from 76% to 55%.
+But the really devastating blow is the cap.
+Because of that forced recalculation back to the 2019 base year, the annual
+ceiling plunges from $3.825 billion down to an estimated $471 million.
+It's wild.
+That is essentially a business having its primary line of credit slashed by nearly 90% overnight
+based on some arbitrary algorithm from eight years prior.
+So what did Espacio Sabierto actually calculate based on that?
+They built what they call a hold coverage constant model.
+So they asked a very specific question.
+What exact dollar amount would it cost the local government to keep the current
+1.3 million enrollees covered with the exact same benefits they have today under these
+new brutal rules?
+Just keeping the lights on, no expansions, no catching up to the state parity, just
+the status quo.
+Exactly.
+And the number they arrived at is paralyzing.
+To maintain the current program, the local Puerto Rican government would have to somehow
+find $4.849 billion in local funds for that single fiscal year.
+$4.8 billion.
+Just to understand the gravity of that number, you really have to look at the entire
+Puerto Rican budget.
+I mean, that $4.849 billion, that would consume 35.4% of Puerto Rico's entire
+general fund.
+Over a third of all local tax revenues and resources.
+Yeah.
+That is the equivalent of the budgets for the Department of Education, the police
+force, the university system, the courts, and several other major agencies
+entirely combined just poured into Medicaid to fill a federal hole.
+It is mathematically impossible for the local government to absorb.
+It really is.
+And you know, Espacio Zabiertos' modeling reveals something highly counterintuitive
+about where that financial hole actually comes from.
+Because we focus a lot on the drop in the matching rate, right?
+From 76 down to 55%.
+Sure, people fix it on the percentage.
+But their analytical finding proves that the FMAP drop isn't actually the
+primary driver of the crisis.
+The cap is the true villain here.
+Right, because if you just run the numbers on the percentage, they
+don't look as catastrophic on their own.
+Exactly.
+So if Puerto Rico simply had a 55% FMAP, like a typical state, but with no cap,
+the federal government would pay $2.926 billion for that year.
+Right.
+But because the cap is legally locked at an estimated $471 million,
+it artificially creates an extra $2.46 billion hole.
+The cap is what creates the cliff.
+Raising the percentage match without lifting the cap just means Puerto Rico
+drains its tiny allotment even faster.
+And this actually brings up a point I really need to clarify.
+Because when this report dropped in September 2026, the media response was
+intense.
+Oh, I remember.
+I mean, I saw viral headlines everywhere claiming that this specific
+Espacio-Sabirito's report predicted like 700,000 to a million people
+in Puerto Rico were going to lose their health coverage.
+Wait, I saw those headlines too.
+Is that what EA calculated?
+No, not at all.
+When you read the actual methodology in the sources, that isn't
+what their math calculated.
+Precision is absolutely vital when dealing with public finance.
+And Espacio-Sabirito's did not calculate this enrollment.
+OK, so they didn't predict the million people losing coverage?
+No, they didn't build a demographic model,
+predicting exactly who loses coverage
+or how eligibility lines would be redrawn.
+That 700,000 to a million figure
+was actually just a secondary citation in their introduction.
+Oh, I see.
+They were simply quoting a warning
+that the local government and the hospital sector
+had already been publicly repeating for months.
+So the media basically took the local government's panic number
+and attributed it to this very dense, precise financial report
+just to give it more weight?
+Yes, which really obscures the actual value of the report.
+Espacio-Sabirito's model was purely financial.
+It was designed to calculate the exact dollar amount required
+to prevent that disenrollment.
+Got it.
+If the local government cannot instantly materialize $4.8-$4.9 billion,
+then yes, catastrophic disenrollment happens,
+provider rates get slashed, and doctors flee the island.
+But the report itself is just a price tag on the status quo.
+OK, so if scenario one is the cliff,
+what do they model for the alternatives?
+Because obviously, nobody in Washington or San Juan
+wants a complete systemic collapse.
+So this leads us to scenario two,
+which looks at what happens if Congress just
+applies a legislative band-aid.
+Right, so scenario two models a simple extension
+of the current rules, but adjusting the federal cap
+for inflation.
+Specifically, they use the standard medical inflation
+rate, the medical CPIU, which sits at roughly 2.6% a year.
+OK.
+In that scenario, the local cost drops dramatically
+from $4.8 billion down to $1.396 billion,
+which is about 10% of the general fund.
+I mean, that seems entirely manageable compared to 35%.
+So why doesn't Congress just index the cap to inflation
+and call it a day?
+Because Espacio Severto's points out
+a fatal flaw in the band-aid approach.
+Standard medical inflation just does not
+reflect the reality on the ground in Puerto Rico.
+Actual Medicaid costs, they're growing at about 5.7% a year.
+Wait, why is there such a massive discrepancy?
+Why is Puerto Rico's health care inflation
+running more than double the standard medical CPI?
+It really comes down to catching up
+on decades of deferred maintenance
+and artificially suppressed provider rates.
+Oh, because they've been underfunded for so long.
+Exactly.
+For years, doctors and hospitals in Puerto Rico
+have been paid significantly less than their mainland
+counterparts.
+To stop the massive exodus of medical professionals
+leaving the island, the local system
+has to rapidly increase reimbursement rates.
+Great.
+You have to pay doctors to keep them there.
+Exactly.
+And furthermore, the population is aging rapidly,
+which requires more complex care.
+So if the federal cap only grows at 2.6%,
+but the actual cost of providing care grows at 5.7%,
+the local government has to cover a wider and wider
+financial gap every single year.
+So the Band-Aid eventually rips.
+Exactly.
+It's a slow-motion cliff instead of an overnight one.
+OK, so if the Band-Aid approach fails
+because it ignores real-cost growth,
+Espacio-Sobillartos must have modeled a permanent fix.
+What does actual equality look like in their math?
+That is scenario three, the parody ask.
+They modeled what it would cost to Puerto Rico
+got the exact same deal as the 50 states.
+Which means?
+This means an 83% FMAP, which
+by the way, is the statutory maximum they would qualify for
+based on their local poverty levels and absolutely no cap.
+The permanent coupon with no gift card limit.
+Exactly.
+And in this parody scenario, the local cost
+drops to $905 million.
+That is only 6.6% of the general fund.
+Wow, that's a massive difference.
+It really is.
+It stabilizes the system.
+It makes budgeting predictable.
+And it aligns Puerto Rico's financial burden
+with states of similar economic demographics.
+And here's where it gets really interesting
+because we really need to pause and examine
+the status quo we keep mentioning.
+Because even right now, prior to the cliff
+with the elevated temporary funding they currently receive,
+Puerto Rico's Medicaid program is not
+operating at parity with the state.
+Not even close, no.
+The report details this massive benefit gap
+that is just physically impacting
+the healthcare infrastructure.
+Yeah, this is one of the most illuminating sections
+of the report.
+Because Puerto Rico has operated under these strict
+federal caps for decades, the local government
+has historically had to ration care.
+They simply didn't have the funding
+to offer a full state-like benefit package.
+Yeah, I saw in the sources that certain basic services
+were only just added in July 2024.
+Yes.
+I mean, think about the physical realities of this.
+Until July 2024, Puerto Rico's Medicaid
+did not cover non-emergency medical transportation.
+They did not cover durable medical equipment,
+which means basic necessities like wheelchairs
+or oxygen tanks for home use weren't covered.
+That is deeply tragic.
+They didn't cover home health aids
+and they didn't cover hospice care.
+I mean, those are mandatory foundational services
+in the 50 states.
+If you couldn't get coverage for a wheelchair
+or home health until 2024, how did the system even function?
+Well, it functioned by shifting the burden.
+If a patient can't get home health care or a wheelchair,
+they often just end up staying in a hospital bed
+far longer than medically necessary,
+simply because they cannot be safely discharged.
+Oh, man.
+So that creates a bottleneck in the hospitals.
+Exactly.
+Which in turn spikes the overall cost of care.
+This rationing of basic services
+is exactly why their healthcare inflation
+is running at 5.7%.
+And Espacio-Sobirto has calculated
+that just keeping those four new benefits
+they added in 2024 is gonna cost
+over $500 million in future years.
+Wait, that one-line item,
+just keeping wheelchairs and home health,
+costs more than the entire $471 million federal cap
+they would receive if they fall off the cliff in 2027.
+Precisely.
+And the rationing isn't just about services,
+it's about who actually gets them.
+Historically, Puerto Rico had to set
+its local poverty eligibility line
+significantly lower than the federal poverty line,
+just to limit the number of people
+who could enroll and drain the capped funds.
+Right.
+They finally moved that line up
+closer to federal parity in 2023,
+which costs $29 million a year.
+But even today, a massive piece of the puzzle
+is still missing.
+Long-term nursing facility care.
+Correct.
+Nursing home care is a massive mandatory expense
+in state Medicaid programs,
+but it is still largely absent from the Puerto Rican system.
+The infrastructure simply has been funded to support it.
+Okay, so we have the horrifying math of the cliff.
+We see why a simple inflation adjustment fails.
+And we see the systemic degradation
+caused by decades of rationing care.
+What is Espacio-Sobirto's actual plan?
+Because a transparency organization
+doesn't just publish a 40-page model of a crisis
+without presenting a concrete set of recommendations
+to avoid it.
+No, they don't.
+And their recommendations are fierce, highly specific,
+and entirely driven by the financial mechanics
+we just unpacked.
+They direct their demands at two distinct targets,
+the federal government in Washington
+and the local government in San Juan.
+Okay, let's start with Congress.
+What is the demand there?
+To the United States Congress,
+their first and absolute strongest preference
+is structural parity.
+The total elimination of the Section 1108 allotment cap
+and setting of the FMAP by the standard state formula,
+which would yield that 83% match,
+basically fixed the structural flaw permanently.
+But I mean, they are public finance auditors,
+which means they are realists.
+They know Congress might balk at full parity.
+Right, so they have contingency demand.
+If Congress refuses parity
+and will only pass an extension of the current rules,
+Espacio-Sobirto's demands three specific terms.
+Okay, what are they?
+First, the extension must be a minimum of five years.
+You cannot run a healthcare system
+on one or two year funding patches.
+Right.
+Second, the cap must be indexed
+to the actual Medicaid cost growth in Puerto Rico
+that 5.7%, not the artificially low 2.6% medical CPI.
+Otherwise, you're just guaranteeing
+a local deficit every single year.
+Exactly.
+And third, Congress most permanently rewrite the statute
+so it never ever snaps back
+to that catastrophic 2019 base year again.
+They want the trap dismantled
+so CMS doesn't have to try and find loopholes
+just to keep the system running.
+But they didn't just point fingers at Washington, right?
+Yeah.
+And this is where the public accountability aspect
+of their mission really shines.
+They had severe demands for the local government too.
+They were essentially telling San Juan,
+you know this cliff is in the statute,
+you cannot feign surprise when it happens.
+Oh, absolutely.
+Their demands for local transparency are rigorous.
+They focus heavily on ACES,
+the Administración de Seguros de Salud,
+which is the local agency
+that actually administers the Medicaid program
+known locally as Plan Vitao.
+Okay.
+Espacio Sabiertos demands that the Puerto Rican government,
+ACES and the health department,
+publish a concrete, highly detailed contingency plan
+before the fiscal year 2028 budget cycle even begins.
+So no improvising at the 11th hour
+when the funds dry up?
+No improvising.
+They want to know exactly what benefits will be cut,
+which eligibility rules will be rolled back.
+They also demand an exact accounting
+of the financial effects on Puerto Rico's 78 municipalities.
+Oh, right, because the local towns
+contribute to funding the system too.
+Yes.
+And if the federal money vanishes,
+the municipalities will bear a massive brunt of the fallout.
+Basically, EA is telling the local government,
+don't just stand on the beach watching the tsunami roll in,
+build an evacuation plan now
+and show the public exactly what it costs
+to build a seawall.
+That's spot on.
+And it goes further into institutional transparency too.
+Espacio Sabiertos is insisting
+on centralized accessible financial reporting.
+Currently, the financial oversight
+and management board for Puerto Rico
+requires internal financial reports from ACES.
+Espacio Sabiertos demands
+that those reports be made completely public.
+They want the raw data out in the open.
+Finally, they have a demand regarding pricing parity.
+Espacio Sabiertos insists
+that the local government officially calculate
+and publish the true total cost
+of providing full state-like mandatory services.
+So, stop guessing.
+Exactly. Stop relying on estimates.
+Price out the missing long-term nursing facility care.
+Price out what it would cost to align perfectly
+with the full federal poverty line.
+Put the real numbers on paper
+so that officials can take a factual undeniable bill
+to Congress when demanding parity.
+So, synthesizing all of this,
+Espacio Sabiertos utilized the critical heated window
+of September, 2026
+to cut through all the political noise
+and establish the actual math.
+They modeled the $4.849 billion
+local cost of the Medicaid cliff.
+They proved mathematically
+that the Section 1108 cap,
+not just the matching rate,
+is the true engine of this crisis.
+And they highlighted how decades of rationing care
+artificially suppresses the system.
+And finally, they laid out firm,
+unavoidable demands for congressional action
+and local government transparency.
+If we connect this to the bigger picture,
+it all cycles back to the title of their report,
+The Cost of Uncertainty.
+It isn't just a clever name for a white paper.
+It describes an active economic paralysis.
+Well, think about ACs trying to run plan vital.
+They contract with managed care organizations,
+insurers, to provide care.
+When ACs has absolutely no idea
+if its federal budget will drop by 90% in 13 months,
+they cannot sign long-term contracts.
+Right, you can't negotiate a multi-year deal
+if your funding might just evaporate next October.
+And it ripples down to the providers too.
+The system cannot attract or retain specialized doctors
+who are terrified they won't be reimbursed.
+Hospitals cannot plan to build new facilities,
+update their technology, or expand their wards.
+The uncertainty itself degrades the infrastructure
+before the cliff even arrives.
+So the threat of the cliff
+does as much damage to long-term planning
+as the cliff itself.
+Which leaves us with a fundamental question to consider.
+We spent an incredible amount of time in these reports
+arguing about FMAP formulas,
+allotment caps, base years, and matching rates.
+But ultimately, can a healthcare system
+ever truly make a population healthy
+if the system itself is chronically surviving month to month?
+Wow, yeah.
+A system fighting entirely for its own financial survival
+cannot focus on the physical survival of its patients.
+That is a heavy and necessary thought to leave on.
+To everyone listening,
+thank you for joining us on this deep dive.
+Keep exploring these sources,
+keep questioning the flow of public funds,
+and keep demanding transparency.
+We will see you next time.
+Find us on Spotify, Apple Podcasts,
+Amazon Music, iHeartRadio, and YouTube.
+Wherever you get your podcasts,
+the healthcare paradox starts now.
