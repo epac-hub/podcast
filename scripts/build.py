@@ -76,8 +76,14 @@ def fmt_duration(seconds: int) -> str:
 
 
 def pub_datetime(meta: dict) -> datetime.datetime:
+    """Publication instant in UTC: the episode's pubdate plus its optional
+    pubtime ("HH:MM", UTC). Episodes without a pubtime keep the historical
+    12:00 UTC convention. new_episode.py records the real ingest time so a
+    feed never advertises a release that is still in the future (Apple hides
+    such episodes until the timestamp passes)."""
     d = datetime.date.fromisoformat(meta["pubdate"])
-    return datetime.datetime(d.year, d.month, d.day, 12, 0, 0,
+    hh, mm = (meta.get("pubtime") or "12:00").split(":")
+    return datetime.datetime(d.year, d.month, d.day, int(hh), int(mm), 0,
                              tzinfo=datetime.timezone.utc)
 
 
@@ -136,7 +142,8 @@ def build_feed(config: dict, episodes: list[dict]) -> bytes:
             el(owner, f"{{{ITUNES}}}email", config["owner_email"])
     if episodes:
         el(ch, "lastBuildDate",
-           email.utils.format_datetime(pub_datetime(episodes[-1])))
+           email.utils.format_datetime(
+               max(pub_datetime(m) for m in episodes)))
 
     for meta in reversed(episodes):  # newest first
         item = el(ch, "item")
