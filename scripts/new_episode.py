@@ -108,6 +108,7 @@ def main() -> None:
         "title": args.title,
         "description": args.description,
         "pubdate": date,
+        "pubtime": datetime.datetime.now(datetime.timezone.utc).strftime("%H:%M"),
         "audio": "episode.mp3",
         "duration_seconds": audio_duration_seconds(dest),
         "bytes": dest.stat().st_size,
