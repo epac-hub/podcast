@@ -33,6 +33,6 @@ the background of government — dictating funding for education,
 infrastructure, healthcare — detached from the people they're supposed to
 serve? Who calibrated the machine, and what is it actually measuring?
 
-The federal data behind this episode is browsable in the [CMS Console](https://epac-hub.github.io/CMS-Console/).
+The federal data behind this episode is browsable in the [CMS Console](https://healthconsole.org).
 
 Music: "News Theme" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0.

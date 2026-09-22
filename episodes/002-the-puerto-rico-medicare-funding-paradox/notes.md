@@ -1,7 +1,7 @@
 A health system that gets straight A's on every federal test — the highest
 quality ratings, the best efficiency in the country — and receives the lowest
 funding of anyone in the class. This episode goes tab by tab through the [CMS
-Console](https://epac-hub.github.io/CMS-Console/) dashboard and the federal data behind it to unravel how that paradox
+Console](https://healthconsole.org) dashboard and the federal data behind it to unravel how that paradox
 is even possible.
 
 In this episode:
@@ -30,6 +30,6 @@ The closing question: if perfectly executed formulas can punish the
 best-performing health system in the country, what other perfectly legal
 blind spots are running unnoticed inside the machine?
 
-Explore the data yourself: the [CMS Console](https://epac-hub.github.io/CMS-Console/) — the interactive dashboard this episode walks through.
+Explore the data yourself: the [CMS Console](https://healthconsole.org) — the interactive dashboard this episode walks through.
 
 Music: "News Theme" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0.
