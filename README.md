@@ -22,8 +22,9 @@ docs/                      build output (generated; deployed to GitHub Pages)
 On every push to `main`, the GitHub Actions workflow
 (`.github/workflows/deploy.yml`) rebuilds `docs/` and deploys it to GitHub Pages:
 
-- Site: https://epac-hub.github.io/podcast/
-- Feed: https://epac-hub.github.io/podcast/feed.xml
+- Site: https://thehealthcareparadox.com
+- Feed: https://thehealthcareparadox.com/feed.xml (the same feed is served at https://epac-hub.github.io/podcast/feed.xml, the URL registered with the directories)
+- Data: https://healthconsole.org (CMS Console) and https://insurancepr.org (Puerto Rico Insurance Observatory)
 
 ## Adding an episode
 

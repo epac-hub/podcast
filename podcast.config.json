@@ -20,8 +20,10 @@
   "logo_image": "assets/logo-thp.png",
   "audio_bitrate": "128k",
   "loudness_normalize": true,
-  "console_url": "https://epac-hub.github.io/CMS-Console/",
+  "console_url": "https://healthconsole.org",
   "console_label": "CMS Console",
+  "observatory_url": "https://insurancepr.org",
+  "observatory_label": "Insurance Observatory",
   "podcast_guid": "4c677019-6c20-50d2-872c-31b06a0138b6",
   "guid_base": "https://epac-hub.github.io/podcast"
 }

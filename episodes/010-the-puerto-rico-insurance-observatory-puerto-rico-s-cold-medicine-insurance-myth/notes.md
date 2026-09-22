@@ -5,7 +5,7 @@ asthma, the ICU stay, the oncology regimen. On the mainland, $440 barely buys
 a catastrophic plan with a five-figure deductible. Out of that gap grew the
 island's most quoted cynical line, attributed to Dr. Víctor Ramos: *planes que
 solo cubren medicinas de catarro*, health plans that only cover cold medicine.
-This episode opens the Puerto Rico Insurance Observatory and reads the sworn,
+This episode opens the [Puerto Rico Insurance Observatory](https://insurancepr.org) and reads the sworn,
 audited **Planillas de Salud** filed with the Office of the Commissioner of
 Insurance (OCS) and the NAIC to test that myth against the numbers. No
 politics; only what the filings say.
@@ -77,6 +77,6 @@ miracle. It delivers one. What happens next year when you hand it $430?
 Listen to The Healthcare Paradox on Spotify, Apple Podcasts, Amazon Music,
 iHeartRadio, Pandora, and YouTube.
 
-The federal data behind this show is browsable in the [CMS Console](https://epac-hub.github.io/CMS-Console/).
+The filings behind this episode are browsable in the [Puerto Rico Insurance Observatory](https://insurancepr.org), and the federal data behind this show in the [CMS Console](https://healthconsole.org).
 
 Music: "News Theme" by Kevin MacLeod (incompetech.com), licensed under Creative Commons: By Attribution 4.0.

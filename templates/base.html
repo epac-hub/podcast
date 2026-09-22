@@ -24,6 +24,7 @@
       {% if config.iheart_url %}<a class="feed-link" href="{{ config.iheart_url }}" title="Listen on iHeartRadio">iHeart</a>{% endif %}
       {% if config.youtube_url %}<a class="feed-link" href="{{ config.youtube_url }}" title="Watch on YouTube">YouTube</a>{% endif %}
       {% if config.console_url %}<a class="feed-link" href="{{ config.console_url }}" title="{{ config.console_label or 'Console' }}">{{ config.console_label or 'Console' }}</a>{% endif %}
+      {% if config.observatory_url %}<a class="feed-link" href="{{ config.observatory_url }}" title="{{ config.observatory_label or 'Observatory' }}">{{ config.observatory_label or 'Observatory' }}</a>{% endif %}
       <a class="feed-link" href="{{ root }}feed.xml" title="RSS feed">RSS&nbsp;Feed</a>
     </nav>
   </div>
