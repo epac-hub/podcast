@@ -1,0 +1,384 @@
+Imagine trying to predict a massive national election, but you're only allowed to pull
+the residents of a single apartment building.
+Right.
+You'd be completely off.
+Exactly.
+I mean, you would just be a little bit off.
+Your entire model would be totally detached from reality.
+You're projecting the behavior of millions based on this tiny, isolated fraction of
+the population.
+Which is a terrible way to do math, obviously.
+Right.
+Apply that same logic to how the government funds healthcare for hundreds of thousands
+of really vulnerable people, and you start to see the outline of this very real, very urgent
+crisis.
+Welcome to the deep dive, by the way.
+Today we're opening up a stack of documents detailing this escalating bureaucratic and
+political battle over Medicare Advantage funding in Puerto Rico.
+And the stakes here, I mean, they really couldn't be higher.
+We were looking at a whole healthcare ecosystem that functions on a mathematical framework
+that is, frankly, entirely counterintuitive.
+It's a system intacting over half a million lives, but the mechanisms driving it seem
+caught in this bizarre bureaucratic paradox.
+And we have a fascinating set of sources to guide us through this for you today.
+The primary catalyst is this congressional letter from August 3, 2026.
+It was spearheaded by Representative Dr. Greg Murphy and signed by 13 other Republicans.
+Sent directly to HHS Secretary Robert F. Kennedy, Jr.
+Exactly.
+And we also have the official response from September 14, 2026 from CMS, the Centers for
+Medicare and Medicaid Services.
+That one was signed by Dr. Memedaz on behalf of the Secretary.
+Plus, we're looking at this extensive historical record documenting a decade of CMS policy
+actions.
+It's quite the paper trail.
+It really is.
+But before we get into the weeds, I do want to establish our ground rules here.
+These documents contain politically charged advocacy, you know, and really robust
+government defenses.
+Oh, absolutely.
+And it needs to be clear that we are totally impartial here.
+We aren't taking sides.
+We aren't endorsing any specific viewpoints left or right.
+Our goal is strictly to analyze the facts, the math, and the arguments laid out in the
+original text.
+Which is so necessary because underneath all that political back and forth is a really
+profound structural question about how data dictates human welfare.
+I mean, when you isolate the arithmetic from the politics, you find a formula that
+is incredibly difficult to defend.
+Just on a purely statistical level.
+Exactly.
+So let's start with the immediate standoff.
+We've got this August 2026 demand from Congressman Murphy and his colleagues, and then the September
+response from CMS.
+In the letter, the lawmakers are asking for a national minimum Medicare Advantage payment
+level for Puerto Rico.
+Basically a floor.
+Right.
+A benchmark floor.
+And they want it set at 70% of the national average for 2028.
+So why 70%, like what's their legal justification for demanding that specific number?
+Well, the 70% figure isn't just arbitrary.
+The lawmakers are pointing directly to the neighboring U.S. Virgin Islands.
+Oh, okay.
+Yeah.
+The Virgin Islands currently enjoys that 70% benchmark level.
+So the Republicans are arguing that under section 1876 of the Social Security Act, CMS
+actually has the statutory authority to treat Puerto Rico similarly.
+Which makes sense on paper.
+Right.
+And the gap they're trying to close is massive.
+Right now, Puerto Rico's Medicare Advantage benchmarks are sitting at about 41% below
+the national average.
+Yeah.
+41% below.
+And that gap, according to the letter, has just been widening continuously since 2012.
+So the lawmakers are essentially saying, you know, stop the bleeding.
+Set a concrete floor so the funding doesn't drop any further.
+Which brings us to the September 14 letter.
+Dr. Mehmet Oz responds for the administration.
+And he doesn't grant the 70% floor, does he?
+He does not.
+No.
+The response from CMS states they will, quote, take these views into account for
+the 2028 cycle.
+Standard government speak.
+Very much so.
+But they maintain that their current approach is specific to Puerto Rico and consistent with
+their statutory authorities and their assessment of the relevant data.
+So instead of granting the floor, the letter defends CMS's recent record.
+Defends it how?
+Well, by highlighting some specific incremental adjustments they've already made for the 2027
+calendar year.
+Okay.
+Incremental adjustments instead of a systemic fix.
+What kind of adjustments are we talking about here?
+One of the main things they highlight is an adjustment for the, quote, propensity of zero
+claims.
+Propensity of zero claims.
+Yeah.
+CMS acknowledges that beneficiaries in Puerto Rico generate zero medical claims at a much,
+much higher rate than the national average.
+So they directed the office of the actuary to bump up the calculations to
+reflect nationwide averages.
+Okay.
+And what did that actually do?
+It resulted in a 4.4% increase.
+They also point to a regulatory exception they made back in April, 2026.
+That one allowed certain dual eligible special needs plans to offer more than one plan in territories
+that lack standard Medicare savings programs.
+Hold on.
+I want to unpack that zero claims adjustment for a second.
+Yeah.
+Because it sounds like this really dry actuarial term, but there is real human behavior
+behind it, right?
+Oh, absolutely.
+Because if a population has a high propensity for zero claims, it doesn't mean they're
+super humanly healthy and just never need a doctor.
+Far from it.
+Actually, in a lot of underfunded healthcare markets, a high rate of zero claims is a symptom
+of poverty.
+It's a lack of access.
+If a senior is struggling financially and they face out-of-pocket costs or co-pays just
+to go see a specialist, they often simply don't go.
+They delay care entirely.
+And because they delay care, they literally don't generate a medical claim in the system.
+Exactly.
+They become invisible to the math.
+Which means the system looks at the data and says, oh, these people don't cost
+very much to treat.
+And then it lowers the funding even more.
+It is a totally vicious cycle.
+The poverty suppresses the data and the data justifies less funding.
+That is the exact trap.
+And CMS recognized this specific data distortion, which is why they applied that 4.4% bump.
+But to the 14 lawmakers writing that August letter, a 4.4% bump is basically a band-aid
+on a gunshot wound.
+Yeah.
+I mean, it feels like a tenant begging the landlord to fix a fundamentally cracked foundation
+because the house is sinking.
+And the landlord writes back saying, hey, we hear your concerns.
+And please note, we just put a fresh coat of paint on the mailbox.
+That's a great way to put it.
+I mean, the landlord isn't lying about the mailbox.
+Right.
+But they are completely ignoring the foundation.
+And that foundation is where the math gets truly staggering to really understand why
+Congressman Murphy and the others are calling this formula rigged.
+We have to look at the popularity of Medicare Advantage in Puerto Rico.
+All the numbers are wild.
+Over 670,000 seniors on the island are enrolled in Medicare Advantage.
+Yep.
+And according to the sources, that represents 96% of the entire Medicare eligible population
+there.
+96%.
+It is the highest participation rate in the entire nation by a mile.
+But here's the kicker.
+The funding formula for Medicare Advantage isn't actually based on the 96% who are
+in the program.
+No, it's not.
+By law, Medicare Advantage-based funding is tied to the cost of original Medicare.
+To traditional fee-for-service program.
+Exactly the FFS program in that specific geographic region.
+Let me stop you there, because this brings us right back to the apartment building analogy
+from the intro.
+If 96% of the seniors are in Medicare Advantage, that leaves only 4% in original Medicare.
+Which translates to about 29,000 people.
+Wait, so the budget for nearly 700,000 people is being dictated by the medical bills of just
+29,000 people.
+That's the math.
+Statistically, how can a 3% or 4% sample accurately capture the healthcare reality of
+an entire population?
+I mean, that makes no sense.
+No lawmakers argue it absolutely cannot.
+The Murphy letter explicitly states that 29,000 beneficiaries is just way too small
+a sample to reflect the true cost of a functional program.
+The data pool is incredibly shallow.
+It actually worked.
+And this distortion is magnified when you look at the unique vulnerabilities of this specific
+population because Puerto Rico doesn't have the same safety nets as the mainland.
+Right, they are missing massive pieces of the federal support structure.
+They really are.
+They don't have the Medicare Savings Program.
+They lack long-term services and supports.
+They are excluded from supplemental security income.
+And they don't even have the standard Supplemental Nutrition Assistance Program,
+right?
+SNAP.
+Exactly.
+No standard SNAP.
+Which completely changes the role of Medicare Advantage.
+If you're a low-income senior on the mainland, you have this whole web of federal programs
+to catch you.
+But if you're in Puerto Rico.
+If you're in Puerto Rico, and keep in mind, nearly half of these beneficiaries are dual-eligible
+for both Medicare and Medicaid, Medicare Advantage basically becomes the de facto
+safety net.
+It's the only thing keeping the system afloat.
+Right.
+And when your only safety net is funded by a formula based on a 3% data sample,
+you are perpetually starved of resources.
+And this isn't some new realization either.
+No.
+If we look at the historical document in the sources, we see a 12-year record of stakeholders
+pointing out this exact flaw.
+From calendar year 2016, all the way to 2027, there has been this continuous push on
+the administrative record for a benchmark floor.
+12 years of asking for the exact same thing.
+So if the formula is this obviously broken, and people have been flagging it for
+over a decade, how is CMS justified ignoring it?
+Have they just been giving the same denial every year?
+Well, no, that's the interesting part.
+The historical record shows that CMS's rationale for refusing the floor has constantly migrated.
+Migrated how?
+So in 2016, they claimed that setting a minimum benchmark simply wasn't permissible under
+statute.
+They said they didn't have the authority.
+But then by 2017 and 2018, the reasoning shifted entirely.
+Let me guess.
+They started arguing that the 3% fee for service data actually was sufficient to establish accurate
+benchmarks.
+Wait, so they flip-flopped from we don't have the legal power to actually the data
+is perfectly fine?
+It gets even more confusing.
+In 2019, they deferred entirely, saying they would just, quote, continue to analyze
+the issue.
+Then, from 2020 through 2024, they leaned on this dual argument, saying they had
+to follow the local data and claiming there was no evidence that costs should
+be higher.
+Unbelievable.
+Finally, in the most recent cycles, 2025 to 2027, they adopted a totally new phrasing,
+stating they have limited discretion to incorporate exceptions.
+So they act like the rulebook is written in stone, but they just keep swapping out the
+stone.
+It's incredibly evasive.
+But what about that statutory authority the lawmaker has mentioned, the part about
+treating Puerto Rico like the Virgin Islands?
+Right.
+That is section 1876A4.
+It's often referred to as the similar area clause.
+It essentially says that if you don't have good data for one area, you can use a similar
+area as a proxy.
+Which makes perfect sense for a 3% data pool.
+You'd think.
+But the historical record points out that despite stakeholders explicitly pressing this
+specific clause upon CMS in 2024, CMS has consistently failed to even address that
+specific text in their refusals.
+I have to challenge this premise that CMS has, quote, limited discretion because
+earlier you mentioned Dr. Oz highlighting adjustments they did make.
+I mean, if their hands are truly tied by the statute, how are they making those other
+changes?
+And this is exactly what the proven document in our sources explores.
+It details four major instances where CMS found the administrative authority to make
+significant changes without needing an act of Congress.
+So they can do it when they want to.
+Clearly.
+For instance, in 2012, CMS restricted the baseline calculation to only include beneficiaries
+who had both part A and part B of Medicare.
+They recognized that Puerto Rico's auto-enrollment rules were skewing the data, so they administratively
+chose to filter it.
+They just filtered the data on their own.
+Yep.
+And then in 2018, they made this massive administrative move regarding quality bonuses.
+They essentially reinterpreted a statute to classify 52 out of 78 municipalities in
+Puerto Rico as double bonus counties for star-rated plants.
+Wow.
+They found a way to read the existing law creatively to inject more funding into
+those specific areas.
+So that is the literal definition of administrative discretion.
+Yeah.
+They're finding ways to creatively interpret the statute to grant these temporary adjustments.
+But when 14 lawmakers ask for a permanent 70 percent floor, suddenly their hands are
+magically tied.
+They suddenly have limited discretion, right?
+It's like a referee who only aggressively enforces the rulebook when it penalizes
+the visiting team, but totally swallows the whistle for the home team.
+The documents point out this exact contradiction.
+It's basically an administrative cat and mouse game.
+CMS claims they have the authority for bandaids, but claims limited discretion when asked for
+systemic fixes.
+Which really brings it to the urgency of this August 2026 letter.
+If this cat and mouse game has been going on for 12 years, why did these lawmakers
+draw line in the sand right now?
+Like why is the 2028 rate announcement the hill they are willing to die on?
+Because there is a very real mechanical threat looming, and it revolves around
+something called the wage index cut.
+The 2028 rates are about to lock in a completely devastating reduction in funding.
+Okay.
+Stop right there and translate that for me.
+What exactly is a wage index, and how does it blow a hole in the budget?
+Sure.
+So a wage index is essentially a multiplier.
+CMS uses it to adjust health care payments based on the local cost of labor.
+You know, it costs more to hire a nurse in Manhattan than it does in rural Nebraska,
+right?
+Right.
+So the government adjusts the payments accordingly.
+But currently, Puerto Rico is facing a legally locked in 5% per year step down in its applied
+hospital wage index.
+A mandated 5% cut every year.
+What does that look like in real numbers?
+Well, the sources provide the specific math for San Juan.
+In fiscal year 2024, the wage index for San Juan was 0.6134.
+But by fiscal year 2027, it had plummeted to 0.5259.
+Wait, a drop from 0.61 to 0.52?
+In real terms, that means the government is essentially declaring that the value of a health
+care worker's labor in San Juan just dropped by over 14%.
+Accumulative 14.26% drop, to be exact.
+And keep in mind, this index applies to 62% of the total payment, which represents the
+labor-related share of health care costs.
+That is brutal.
+It gets worse.
+The documents project that this downward grind will continue through approximately
+fiscal year 2035, eventually dropping the index down to roughly 0.35.
+That is just a staggering loss of value.
+But wait, if this is a hospital wage index that dropped in 2027, why are the lawmakers
+panicking about the Medicare Advantage rates for 2028?
+Ah, because of the way the data lags.
+It's a lot like seeing a flash of lightning embracing for the thunder.
+Okay, I'm following.
+The flash happened in 2027 when the wage index dropped.
+But the thunder clap, the actual cut to the Medicare Advantage benchmarks, takes
+a year to hit.
+Why a year?
+Because the MA benchmarks rely on five years of fee for service claims.
+Before CMS calculates the averages, they reprice that historical data using the
+latest parameter.
+Oh, I see.
+Meaning that massive 14% devaluation of labor from 2027 gets completely baked into
+the math for 2028.
+Exactly.
+The thunder clap hits in 2028.
+The cuts aren't just some theoretical future possibility.
+The arithmetic is already processed and done.
+Wow.
+CMS admitted in their 2027 announcement that these wage index policies, quote, will
+contribute to declines in the MA rates for Puerto Rico.
+So the 14 lawmakers are desperately trying to get the administration to establish the
+70% floor before the 2028 rates lock in those devastating cuts.
+It sounds like we are looking at a system in absolute gridlock.
+Let's pull all these threads together for you listening.
+We've got over 670,000 seniors living in a territory that is already missing
+vital federal safety nets.
+96% of them have chosen Medicare Advantage, making it the highest
+participating, highest performing market of its kind in the entire nation.
+Absolutely.
+Yet their funding is trapped by this totally warped formula, relying on the
+medical bills of just 29,000 people.
+They are facing a locked in decade-long series of wage cuts that actively
+devalue their healthcare workers.
+And when lawmakers demand a permanent floor based on a nearby territory,
+the government defends its use of temporary administrative band-aids.
+It is a scenario where the internal logic of the funding model has entirely
+divorced itself from the reality of the healthcare environment it's actually
+supposed to support.
+Which leaves us with a really profound final thought to mull over.
+We've spent a lot of time today on the math and the history, but step
+back and consider the principles of our republic.
+In our system of government, we operate on the belief that we are
+all measured by results and merit.
+We design systems to reward efficiency, quality, and high adoption.
+That's the ideal.
+Right.
+Right.
+So imagine a scenario in a system supposedly built on merit, where the
+single market that overwhelmingly embraces that system, achieving an
+astonishing 96% participation rate, is systematically penalized with the
+lowest funding in the nation simply because it's an outlier.
+The math actively punishes their success.
+Exactly.
+The lawmakers and our sources are making a really strong
+recommendation to the administration to start penalizing the best
+performing market in the whole nation.
+They're urging Secretary Kennedy to use his administrative
+authority to fix a rigged formula.
+Because if the absolute best, most outstanding market is being rewarded
+as the worst, doesn't that make us pause and think that there is
+something completely wrong in the way we measure healthcare?
+It absolutely should.
+If the best results are being reimbursed the worst, how can we
+expect the worst, which is being reimbursed the best, to ever excel?
+This is the ultimate healthcare paradox.
+When strict adherence to a broken formula overrides common sense, it is no
+longer just a data error.
+It's a failure of government.
+Thanks for joining us on this deep dive.

@@ -1,0 +1,1154 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.500
+Imagine trying to predict a massive national election, but you're only allowed to pull
+
+00:00:11.500 --> 00:00:13.220
+the residents of a single apartment building.
+
+00:00:13.220 --> 00:00:14.220
+Right.
+
+00:00:14.220 --> 00:00:15.220
+You'd be completely off.
+
+00:00:15.220 --> 00:00:16.220
+Exactly.
+
+00:00:16.220 --> 00:00:17.460
+I mean, you would just be a little bit off.
+
+00:00:17.460 --> 00:00:20.580
+Your entire model would be totally detached from reality.
+
+00:00:20.580 --> 00:00:26.180
+You're projecting the behavior of millions based on this tiny, isolated fraction of
+
+00:00:26.180 --> 00:00:27.180
+the population.
+
+00:00:27.180 --> 00:00:29.300
+Which is a terrible way to do math, obviously.
+
+00:00:29.300 --> 00:00:30.300
+Right.
+
+00:00:30.700 --> 00:00:34.420
+Apply that same logic to how the government funds healthcare for hundreds of thousands
+
+00:00:34.420 --> 00:00:40.020
+of really vulnerable people, and you start to see the outline of this very real, very urgent
+
+00:00:40.020 --> 00:00:41.020
+crisis.
+
+00:00:41.020 --> 00:00:43.620
+Welcome to the deep dive, by the way.
+
+00:00:43.620 --> 00:00:48.540
+Today we're opening up a stack of documents detailing this escalating bureaucratic and
+
+00:00:48.540 --> 00:00:51.660
+political battle over Medicare Advantage funding in Puerto Rico.
+
+00:00:51.660 --> 00:00:53.780
+And the stakes here, I mean, they really couldn't be higher.
+
+00:00:53.780 --> 00:00:58.020
+We were looking at a whole healthcare ecosystem that functions on a mathematical framework
+
+00:00:58.020 --> 00:01:00.940
+that is, frankly, entirely counterintuitive.
+
+00:01:00.940 --> 00:01:05.260
+It's a system intacting over half a million lives, but the mechanisms driving it seem
+
+00:01:05.260 --> 00:01:08.460
+caught in this bizarre bureaucratic paradox.
+
+00:01:08.460 --> 00:01:11.820
+And we have a fascinating set of sources to guide us through this for you today.
+
+00:01:11.820 --> 00:01:17.780
+The primary catalyst is this congressional letter from August 3, 2026.
+
+00:01:17.780 --> 00:01:24.180
+It was spearheaded by Representative Dr. Greg Murphy and signed by 13 other Republicans.
+
+00:01:24.180 --> 00:01:27.380
+Sent directly to HHS Secretary Robert F. Kennedy, Jr.
+
+00:01:27.420 --> 00:01:28.420
+Exactly.
+
+00:01:28.420 --> 00:01:33.580
+And we also have the official response from September 14, 2026 from CMS, the Centers for
+
+00:01:33.580 --> 00:01:35.820
+Medicare and Medicaid Services.
+
+00:01:35.820 --> 00:01:38.980
+That one was signed by Dr. Memedaz on behalf of the Secretary.
+
+00:01:38.980 --> 00:01:44.180
+Plus, we're looking at this extensive historical record documenting a decade of CMS policy
+
+00:01:44.180 --> 00:01:45.180
+actions.
+
+00:01:45.180 --> 00:01:46.180
+It's quite the paper trail.
+
+00:01:46.180 --> 00:01:47.180
+It really is.
+
+00:01:47.180 --> 00:01:50.140
+But before we get into the weeds, I do want to establish our ground rules here.
+
+00:01:50.140 --> 00:01:54.340
+These documents contain politically charged advocacy, you know, and really robust
+
+00:01:54.340 --> 00:01:55.340
+government defenses.
+
+00:01:55.340 --> 00:01:56.340
+Oh, absolutely.
+
+00:01:56.340 --> 00:01:58.380
+And it needs to be clear that we are totally impartial here.
+
+00:01:58.380 --> 00:01:59.660
+We aren't taking sides.
+
+00:01:59.660 --> 00:02:02.700
+We aren't endorsing any specific viewpoints left or right.
+
+00:02:02.700 --> 00:02:06.500
+Our goal is strictly to analyze the facts, the math, and the arguments laid out in the
+
+00:02:06.500 --> 00:02:07.620
+original text.
+
+00:02:07.620 --> 00:02:11.620
+Which is so necessary because underneath all that political back and forth is a really
+
+00:02:11.620 --> 00:02:15.420
+profound structural question about how data dictates human welfare.
+
+00:02:15.420 --> 00:02:19.820
+I mean, when you isolate the arithmetic from the politics, you find a formula that
+
+00:02:19.820 --> 00:02:22.420
+is incredibly difficult to defend.
+
+00:02:22.420 --> 00:02:23.980
+Just on a purely statistical level.
+
+00:02:23.980 --> 00:02:24.980
+Exactly.
+
+00:02:24.980 --> 00:02:26.100
+So let's start with the immediate standoff.
+
+00:02:26.100 --> 00:02:31.300
+We've got this August 2026 demand from Congressman Murphy and his colleagues, and then the September
+
+00:02:31.300 --> 00:02:33.820
+response from CMS.
+
+00:02:33.820 --> 00:02:38.340
+In the letter, the lawmakers are asking for a national minimum Medicare Advantage payment
+
+00:02:38.340 --> 00:02:40.180
+level for Puerto Rico.
+
+00:02:40.180 --> 00:02:41.180
+Basically a floor.
+
+00:02:41.180 --> 00:02:42.180
+Right.
+
+00:02:42.180 --> 00:02:43.180
+A benchmark floor.
+
+00:02:43.180 --> 00:02:46.620
+And they want it set at 70% of the national average for 2028.
+
+00:02:46.620 --> 00:02:51.260
+So why 70%, like what's their legal justification for demanding that specific number?
+
+00:02:51.260 --> 00:02:53.940
+Well, the 70% figure isn't just arbitrary.
+
+00:02:53.940 --> 00:02:57.460
+The lawmakers are pointing directly to the neighboring U.S. Virgin Islands.
+
+00:02:57.460 --> 00:02:58.460
+Oh, okay.
+
+00:02:58.460 --> 00:02:59.460
+Yeah.
+
+00:02:59.460 --> 00:03:02.380
+The Virgin Islands currently enjoys that 70% benchmark level.
+
+00:03:02.380 --> 00:03:07.740
+So the Republicans are arguing that under section 1876 of the Social Security Act, CMS
+
+00:03:07.740 --> 00:03:10.980
+actually has the statutory authority to treat Puerto Rico similarly.
+
+00:03:10.980 --> 00:03:11.980
+Which makes sense on paper.
+
+00:03:11.980 --> 00:03:12.980
+Right.
+
+00:03:12.980 --> 00:03:15.660
+And the gap they're trying to close is massive.
+
+00:03:15.660 --> 00:03:20.380
+Right now, Puerto Rico's Medicare Advantage benchmarks are sitting at about 41% below
+
+00:03:20.380 --> 00:03:21.580
+the national average.
+
+00:03:21.580 --> 00:03:22.580
+Yeah.
+
+00:03:22.580 --> 00:03:23.580
+41% below.
+
+00:03:23.940 --> 00:03:29.100
+And that gap, according to the letter, has just been widening continuously since 2012.
+
+00:03:29.100 --> 00:03:32.620
+So the lawmakers are essentially saying, you know, stop the bleeding.
+
+00:03:32.620 --> 00:03:35.780
+Set a concrete floor so the funding doesn't drop any further.
+
+00:03:35.780 --> 00:03:38.180
+Which brings us to the September 14 letter.
+
+00:03:38.180 --> 00:03:41.620
+Dr. Mehmet Oz responds for the administration.
+
+00:03:41.620 --> 00:03:44.940
+And he doesn't grant the 70% floor, does he?
+
+00:03:44.940 --> 00:03:45.940
+He does not.
+
+00:03:45.940 --> 00:03:46.940
+No.
+
+00:03:46.940 --> 00:03:50.340
+The response from CMS states they will, quote, take these views into account for
+
+00:03:50.340 --> 00:03:51.980
+the 2028 cycle.
+
+00:03:51.980 --> 00:03:53.260
+Standard government speak.
+
+00:03:53.260 --> 00:03:54.460
+Very much so.
+
+00:03:54.460 --> 00:03:58.060
+But they maintain that their current approach is specific to Puerto Rico and consistent with
+
+00:03:58.060 --> 00:04:01.500
+their statutory authorities and their assessment of the relevant data.
+
+00:04:01.500 --> 00:04:05.820
+So instead of granting the floor, the letter defends CMS's recent record.
+
+00:04:05.820 --> 00:04:06.820
+Defends it how?
+
+00:04:06.820 --> 00:04:12.260
+Well, by highlighting some specific incremental adjustments they've already made for the 2027
+
+00:04:12.260 --> 00:04:13.260
+calendar year.
+
+00:04:13.260 --> 00:04:14.260
+Okay.
+
+00:04:14.260 --> 00:04:17.660
+Incremental adjustments instead of a systemic fix.
+
+00:04:17.660 --> 00:04:19.740
+What kind of adjustments are we talking about here?
+
+00:04:19.740 --> 00:04:24.380
+One of the main things they highlight is an adjustment for the, quote, propensity of zero
+
+00:04:24.380 --> 00:04:25.380
+claims.
+
+00:04:25.380 --> 00:04:26.820
+Propensity of zero claims.
+
+00:04:26.820 --> 00:04:27.820
+Yeah.
+
+00:04:27.820 --> 00:04:32.700
+CMS acknowledges that beneficiaries in Puerto Rico generate zero medical claims at a much,
+
+00:04:32.700 --> 00:04:35.700
+much higher rate than the national average.
+
+00:04:35.700 --> 00:04:39.900
+So they directed the office of the actuary to bump up the calculations to
+
+00:04:39.900 --> 00:04:41.460
+reflect nationwide averages.
+
+00:04:41.460 --> 00:04:42.460
+Okay.
+
+00:04:42.460 --> 00:04:43.460
+And what did that actually do?
+
+00:04:43.460 --> 00:04:46.100
+It resulted in a 4.4% increase.
+
+00:04:46.100 --> 00:04:50.820
+They also point to a regulatory exception they made back in April, 2026.
+
+00:04:50.820 --> 00:04:56.660
+That one allowed certain dual eligible special needs plans to offer more than one plan in territories
+
+00:04:56.660 --> 00:04:58.820
+that lack standard Medicare savings programs.
+
+00:04:58.820 --> 00:04:59.820
+Hold on.
+
+00:04:59.820 --> 00:05:01.780
+I want to unpack that zero claims adjustment for a second.
+
+00:05:01.780 --> 00:05:02.780
+Yeah.
+
+00:05:02.780 --> 00:05:06.780
+Because it sounds like this really dry actuarial term, but there is real human behavior
+
+00:05:06.780 --> 00:05:07.780
+behind it, right?
+
+00:05:07.780 --> 00:05:08.780
+Oh, absolutely.
+
+00:05:08.780 --> 00:05:12.060
+Because if a population has a high propensity for zero claims, it doesn't mean they're
+
+00:05:12.060 --> 00:05:14.820
+super humanly healthy and just never need a doctor.
+
+00:05:14.820 --> 00:05:15.820
+Far from it.
+
+00:05:15.860 --> 00:05:21.740
+Actually, in a lot of underfunded healthcare markets, a high rate of zero claims is a symptom
+
+00:05:21.740 --> 00:05:22.740
+of poverty.
+
+00:05:22.740 --> 00:05:23.980
+It's a lack of access.
+
+00:05:23.980 --> 00:05:28.820
+If a senior is struggling financially and they face out-of-pocket costs or co-pays just
+
+00:05:28.820 --> 00:05:31.660
+to go see a specialist, they often simply don't go.
+
+00:05:31.660 --> 00:05:33.340
+They delay care entirely.
+
+00:05:33.340 --> 00:05:37.580
+And because they delay care, they literally don't generate a medical claim in the system.
+
+00:05:37.580 --> 00:05:38.580
+Exactly.
+
+00:05:38.580 --> 00:05:39.580
+They become invisible to the math.
+
+00:05:39.580 --> 00:05:42.380
+Which means the system looks at the data and says, oh, these people don't cost
+
+00:05:42.380 --> 00:05:43.580
+very much to treat.
+
+00:05:43.580 --> 00:05:45.580
+And then it lowers the funding even more.
+
+00:05:45.580 --> 00:05:47.300
+It is a totally vicious cycle.
+
+00:05:47.300 --> 00:05:51.380
+The poverty suppresses the data and the data justifies less funding.
+
+00:05:51.380 --> 00:05:53.140
+That is the exact trap.
+
+00:05:53.140 --> 00:06:00.260
+And CMS recognized this specific data distortion, which is why they applied that 4.4% bump.
+
+00:06:00.260 --> 00:06:06.300
+But to the 14 lawmakers writing that August letter, a 4.4% bump is basically a band-aid
+
+00:06:06.300 --> 00:06:07.500
+on a gunshot wound.
+
+00:06:07.500 --> 00:06:08.500
+Yeah.
+
+00:06:08.500 --> 00:06:13.700
+I mean, it feels like a tenant begging the landlord to fix a fundamentally cracked foundation
+
+00:06:13.700 --> 00:06:15.460
+because the house is sinking.
+
+00:06:15.460 --> 00:06:18.760
+And the landlord writes back saying, hey, we hear your concerns.
+
+00:06:18.760 --> 00:06:22.020
+And please note, we just put a fresh coat of paint on the mailbox.
+
+00:06:22.020 --> 00:06:23.020
+That's a great way to put it.
+
+00:06:23.020 --> 00:06:26.020
+I mean, the landlord isn't lying about the mailbox.
+
+00:06:26.020 --> 00:06:27.020
+Right.
+
+00:06:27.020 --> 00:06:29.500
+But they are completely ignoring the foundation.
+
+00:06:29.500 --> 00:06:34.820
+And that foundation is where the math gets truly staggering to really understand why
+
+00:06:34.820 --> 00:06:38.940
+Congressman Murphy and the others are calling this formula rigged.
+
+00:06:38.940 --> 00:06:42.540
+We have to look at the popularity of Medicare Advantage in Puerto Rico.
+
+00:06:42.540 --> 00:06:44.060
+All the numbers are wild.
+
+00:06:44.060 --> 00:06:49.060
+Over 670,000 seniors on the island are enrolled in Medicare Advantage.
+
+00:06:49.060 --> 00:06:50.060
+Yep.
+
+00:06:50.060 --> 00:06:54.660
+And according to the sources, that represents 96% of the entire Medicare eligible population
+
+00:06:54.660 --> 00:06:55.660
+there.
+
+00:06:55.660 --> 00:06:56.660
+96%.
+
+00:06:56.660 --> 00:07:00.220
+It is the highest participation rate in the entire nation by a mile.
+
+00:07:00.220 --> 00:07:01.660
+But here's the kicker.
+
+00:07:01.660 --> 00:07:05.940
+The funding formula for Medicare Advantage isn't actually based on the 96% who are
+
+00:07:05.940 --> 00:07:06.940
+in the program.
+
+00:07:06.940 --> 00:07:08.020
+No, it's not.
+
+00:07:08.020 --> 00:07:12.860
+By law, Medicare Advantage-based funding is tied to the cost of original Medicare.
+
+00:07:12.860 --> 00:07:15.540
+To traditional fee-for-service program.
+
+00:07:15.540 --> 00:07:19.580
+Exactly the FFS program in that specific geographic region.
+
+00:07:19.580 --> 00:07:22.660
+Let me stop you there, because this brings us right back to the apartment building analogy
+
+00:07:22.660 --> 00:07:24.140
+from the intro.
+
+00:07:24.140 --> 00:07:31.900
+If 96% of the seniors are in Medicare Advantage, that leaves only 4% in original Medicare.
+
+00:07:31.900 --> 00:07:34.540
+Which translates to about 29,000 people.
+
+00:07:34.540 --> 00:07:39.900
+Wait, so the budget for nearly 700,000 people is being dictated by the medical bills of just
+
+00:07:39.900 --> 00:07:41.820
+29,000 people.
+
+00:07:41.820 --> 00:07:43.820
+That's the math.
+
+00:07:43.820 --> 00:07:49.340
+Statistically, how can a 3% or 4% sample accurately capture the healthcare reality of
+
+00:07:49.340 --> 00:07:50.340
+an entire population?
+
+00:07:50.340 --> 00:07:51.780
+I mean, that makes no sense.
+
+00:07:51.780 --> 00:07:54.220
+No lawmakers argue it absolutely cannot.
+
+00:07:54.220 --> 00:07:58.980
+The Murphy letter explicitly states that 29,000 beneficiaries is just way too small
+
+00:07:58.980 --> 00:08:02.220
+a sample to reflect the true cost of a functional program.
+
+00:08:02.220 --> 00:08:04.020
+The data pool is incredibly shallow.
+
+00:08:04.020 --> 00:08:05.180
+It actually worked.
+
+00:08:05.180 --> 00:08:09.100
+And this distortion is magnified when you look at the unique vulnerabilities of this specific
+
+00:08:09.100 --> 00:08:13.300
+population because Puerto Rico doesn't have the same safety nets as the mainland.
+
+00:08:13.300 --> 00:08:16.740
+Right, they are missing massive pieces of the federal support structure.
+
+00:08:16.740 --> 00:08:17.740
+They really are.
+
+00:08:17.740 --> 00:08:19.660
+They don't have the Medicare Savings Program.
+
+00:08:19.660 --> 00:08:22.140
+They lack long-term services and supports.
+
+00:08:22.140 --> 00:08:25.060
+They are excluded from supplemental security income.
+
+00:08:25.060 --> 00:08:28.500
+And they don't even have the standard Supplemental Nutrition Assistance Program,
+
+00:08:28.500 --> 00:08:29.500
+right?
+
+00:08:29.500 --> 00:08:30.500
+SNAP.
+
+00:08:30.500 --> 00:08:31.500
+Exactly.
+
+00:08:31.500 --> 00:08:32.820
+No standard SNAP.
+
+00:08:32.820 --> 00:08:36.220
+Which completely changes the role of Medicare Advantage.
+
+00:08:36.220 --> 00:08:40.660
+If you're a low-income senior on the mainland, you have this whole web of federal programs
+
+00:08:40.660 --> 00:08:41.660
+to catch you.
+
+00:08:41.660 --> 00:08:42.700
+But if you're in Puerto Rico.
+
+00:08:42.700 --> 00:08:48.060
+If you're in Puerto Rico, and keep in mind, nearly half of these beneficiaries are dual-eligible
+
+00:08:48.060 --> 00:08:52.500
+for both Medicare and Medicaid, Medicare Advantage basically becomes the de facto
+
+00:08:52.500 --> 00:08:53.500
+safety net.
+
+00:08:53.500 --> 00:08:55.580
+It's the only thing keeping the system afloat.
+
+00:08:55.580 --> 00:08:56.580
+Right.
+
+00:08:56.580 --> 00:09:01.380
+And when your only safety net is funded by a formula based on a 3% data sample,
+
+00:09:01.380 --> 00:09:04.700
+you are perpetually starved of resources.
+
+00:09:04.700 --> 00:09:06.700
+And this isn't some new realization either.
+
+00:09:06.700 --> 00:09:07.700
+No.
+
+00:09:07.700 --> 00:09:11.860
+If we look at the historical document in the sources, we see a 12-year record of stakeholders
+
+00:09:11.860 --> 00:09:13.900
+pointing out this exact flaw.
+
+00:09:13.900 --> 00:09:18.740
+From calendar year 2016, all the way to 2027, there has been this continuous push on
+
+00:09:18.740 --> 00:09:20.940
+the administrative record for a benchmark floor.
+
+00:09:20.940 --> 00:09:23.460
+12 years of asking for the exact same thing.
+
+00:09:23.460 --> 00:09:27.740
+So if the formula is this obviously broken, and people have been flagging it for
+
+00:09:27.740 --> 00:09:31.420
+over a decade, how is CMS justified ignoring it?
+
+00:09:31.420 --> 00:09:34.100
+Have they just been giving the same denial every year?
+
+00:09:34.100 --> 00:09:35.420
+Well, no, that's the interesting part.
+
+00:09:35.420 --> 00:09:41.540
+The historical record shows that CMS's rationale for refusing the floor has constantly migrated.
+
+00:09:41.540 --> 00:09:42.540
+Migrated how?
+
+00:09:42.540 --> 00:09:47.620
+So in 2016, they claimed that setting a minimum benchmark simply wasn't permissible under
+
+00:09:47.620 --> 00:09:48.620
+statute.
+
+00:09:48.620 --> 00:09:50.540
+They said they didn't have the authority.
+
+00:09:50.540 --> 00:09:55.260
+But then by 2017 and 2018, the reasoning shifted entirely.
+
+00:09:55.260 --> 00:09:56.260
+Let me guess.
+
+00:09:56.260 --> 00:10:01.580
+They started arguing that the 3% fee for service data actually was sufficient to establish accurate
+
+00:10:01.580 --> 00:10:02.580
+benchmarks.
+
+00:10:02.580 --> 00:10:06.660
+Wait, so they flip-flopped from we don't have the legal power to actually the data
+
+00:10:06.660 --> 00:10:07.660
+is perfectly fine?
+
+00:10:07.660 --> 00:10:09.460
+It gets even more confusing.
+
+00:10:09.460 --> 00:10:13.980
+In 2019, they deferred entirely, saying they would just, quote, continue to analyze
+
+00:10:13.980 --> 00:10:14.980
+the issue.
+
+00:10:14.980 --> 00:10:19.500
+Then, from 2020 through 2024, they leaned on this dual argument, saying they had
+
+00:10:19.500 --> 00:10:22.540
+to follow the local data and claiming there was no evidence that costs should
+
+00:10:22.540 --> 00:10:23.540
+be higher.
+
+00:10:23.540 --> 00:10:24.540
+Unbelievable.
+
+00:10:24.540 --> 00:10:30.700
+Finally, in the most recent cycles, 2025 to 2027, they adopted a totally new phrasing,
+
+00:10:30.700 --> 00:10:34.540
+stating they have limited discretion to incorporate exceptions.
+
+00:10:34.540 --> 00:10:38.340
+So they act like the rulebook is written in stone, but they just keep swapping out the
+
+00:10:38.340 --> 00:10:39.340
+stone.
+
+00:10:39.340 --> 00:10:40.340
+It's incredibly evasive.
+
+00:10:40.340 --> 00:10:44.100
+But what about that statutory authority the lawmaker has mentioned, the part about
+
+00:10:44.100 --> 00:10:46.260
+treating Puerto Rico like the Virgin Islands?
+
+00:10:46.260 --> 00:10:47.260
+Right.
+
+00:10:47.260 --> 00:10:50.260
+That is section 1876A4.
+
+00:10:50.260 --> 00:10:53.220
+It's often referred to as the similar area clause.
+
+00:10:53.220 --> 00:10:57.220
+It essentially says that if you don't have good data for one area, you can use a similar
+
+00:10:57.220 --> 00:10:58.460
+area as a proxy.
+
+00:10:58.460 --> 00:11:00.700
+Which makes perfect sense for a 3% data pool.
+
+00:11:00.700 --> 00:11:02.100
+You'd think.
+
+00:11:02.100 --> 00:11:06.300
+But the historical record points out that despite stakeholders explicitly pressing this
+
+00:11:06.300 --> 00:11:12.220
+specific clause upon CMS in 2024, CMS has consistently failed to even address that
+
+00:11:12.220 --> 00:11:14.420
+specific text in their refusals.
+
+00:11:14.420 --> 00:11:18.780
+I have to challenge this premise that CMS has, quote, limited discretion because
+
+00:11:18.780 --> 00:11:21.780
+earlier you mentioned Dr. Oz highlighting adjustments they did make.
+
+00:11:21.780 --> 00:11:25.340
+I mean, if their hands are truly tied by the statute, how are they making those other
+
+00:11:25.340 --> 00:11:26.340
+changes?
+
+00:11:26.340 --> 00:11:29.940
+And this is exactly what the proven document in our sources explores.
+
+00:11:29.940 --> 00:11:34.540
+It details four major instances where CMS found the administrative authority to make
+
+00:11:34.540 --> 00:11:38.300
+significant changes without needing an act of Congress.
+
+00:11:38.300 --> 00:11:39.820
+So they can do it when they want to.
+
+00:11:39.820 --> 00:11:40.820
+Clearly.
+
+00:11:40.820 --> 00:11:46.300
+For instance, in 2012, CMS restricted the baseline calculation to only include beneficiaries
+
+00:11:46.300 --> 00:11:49.380
+who had both part A and part B of Medicare.
+
+00:11:49.380 --> 00:11:54.220
+They recognized that Puerto Rico's auto-enrollment rules were skewing the data, so they administratively
+
+00:11:54.220 --> 00:11:55.340
+chose to filter it.
+
+00:11:55.340 --> 00:11:56.940
+They just filtered the data on their own.
+
+00:11:56.940 --> 00:11:57.940
+Yep.
+
+00:11:57.940 --> 00:12:02.620
+And then in 2018, they made this massive administrative move regarding quality bonuses.
+
+00:12:02.620 --> 00:12:07.980
+They essentially reinterpreted a statute to classify 52 out of 78 municipalities in
+
+00:12:07.980 --> 00:12:12.100
+Puerto Rico as double bonus counties for star-rated plants.
+
+00:12:12.100 --> 00:12:13.100
+Wow.
+
+00:12:13.100 --> 00:12:16.900
+They found a way to read the existing law creatively to inject more funding into
+
+00:12:16.900 --> 00:12:18.260
+those specific areas.
+
+00:12:18.260 --> 00:12:21.300
+So that is the literal definition of administrative discretion.
+
+00:12:21.300 --> 00:12:22.300
+Yeah.
+
+00:12:22.300 --> 00:12:26.500
+They're finding ways to creatively interpret the statute to grant these temporary adjustments.
+
+00:12:26.500 --> 00:12:31.020
+But when 14 lawmakers ask for a permanent 70 percent floor, suddenly their hands are
+
+00:12:31.020 --> 00:12:32.220
+magically tied.
+
+00:12:32.220 --> 00:12:34.020
+They suddenly have limited discretion, right?
+
+00:12:34.020 --> 00:12:37.980
+It's like a referee who only aggressively enforces the rulebook when it penalizes
+
+00:12:37.980 --> 00:12:42.540
+the visiting team, but totally swallows the whistle for the home team.
+
+00:12:42.540 --> 00:12:44.980
+The documents point out this exact contradiction.
+
+00:12:44.980 --> 00:12:48.140
+It's basically an administrative cat and mouse game.
+
+00:12:48.140 --> 00:12:53.300
+CMS claims they have the authority for bandaids, but claims limited discretion when asked for
+
+00:12:53.300 --> 00:12:54.900
+systemic fixes.
+
+00:12:54.900 --> 00:12:59.100
+Which really brings it to the urgency of this August 2026 letter.
+
+00:12:59.100 --> 00:13:03.060
+If this cat and mouse game has been going on for 12 years, why did these lawmakers
+
+00:13:03.060 --> 00:13:05.060
+draw line in the sand right now?
+
+00:13:05.060 --> 00:13:10.580
+Like why is the 2028 rate announcement the hill they are willing to die on?
+
+00:13:10.580 --> 00:13:13.940
+Because there is a very real mechanical threat looming, and it revolves around
+
+00:13:13.940 --> 00:13:16.180
+something called the wage index cut.
+
+00:13:16.180 --> 00:13:20.660
+The 2028 rates are about to lock in a completely devastating reduction in funding.
+
+00:13:20.660 --> 00:13:21.660
+Okay.
+
+00:13:21.660 --> 00:13:23.180
+Stop right there and translate that for me.
+
+00:13:23.180 --> 00:13:26.820
+What exactly is a wage index, and how does it blow a hole in the budget?
+
+00:13:26.820 --> 00:13:27.820
+Sure.
+
+00:13:27.820 --> 00:13:29.860
+So a wage index is essentially a multiplier.
+
+00:13:29.860 --> 00:13:34.020
+CMS uses it to adjust health care payments based on the local cost of labor.
+
+00:13:34.020 --> 00:13:37.780
+You know, it costs more to hire a nurse in Manhattan than it does in rural Nebraska,
+
+00:13:37.780 --> 00:13:38.780
+right?
+
+00:13:38.780 --> 00:13:39.780
+Right.
+
+00:13:39.780 --> 00:13:41.900
+So the government adjusts the payments accordingly.
+
+00:13:41.900 --> 00:13:48.140
+But currently, Puerto Rico is facing a legally locked in 5% per year step down in its applied
+
+00:13:48.140 --> 00:13:49.460
+hospital wage index.
+
+00:13:49.460 --> 00:13:52.700
+A mandated 5% cut every year.
+
+00:13:52.700 --> 00:13:54.460
+What does that look like in real numbers?
+
+00:13:54.460 --> 00:13:57.740
+Well, the sources provide the specific math for San Juan.
+
+00:13:57.740 --> 00:14:02.580
+In fiscal year 2024, the wage index for San Juan was 0.6134.
+
+00:14:02.580 --> 00:14:06.260
+But by fiscal year 2027, it had plummeted to 0.5259.
+
+00:14:06.260 --> 00:14:10.380
+Wait, a drop from 0.61 to 0.52?
+
+00:14:10.380 --> 00:14:13.900
+In real terms, that means the government is essentially declaring that the value of a health
+
+00:14:13.900 --> 00:14:18.340
+care worker's labor in San Juan just dropped by over 14%.
+
+00:14:18.340 --> 00:14:21.260
+Accumulative 14.26% drop, to be exact.
+
+00:14:21.260 --> 00:14:25.180
+And keep in mind, this index applies to 62% of the total payment, which represents the
+
+00:14:25.180 --> 00:14:26.980
+labor-related share of health care costs.
+
+00:14:26.980 --> 00:14:27.980
+That is brutal.
+
+00:14:27.980 --> 00:14:28.980
+It gets worse.
+
+00:14:28.980 --> 00:14:32.420
+The documents project that this downward grind will continue through approximately
+
+00:14:32.420 --> 00:14:37.860
+fiscal year 2035, eventually dropping the index down to roughly 0.35.
+
+00:14:37.860 --> 00:14:40.420
+That is just a staggering loss of value.
+
+00:14:40.420 --> 00:14:44.620
+But wait, if this is a hospital wage index that dropped in 2027, why are the lawmakers
+
+00:14:44.620 --> 00:14:47.620
+panicking about the Medicare Advantage rates for 2028?
+
+00:14:47.620 --> 00:14:50.380
+Ah, because of the way the data lags.
+
+00:14:50.380 --> 00:14:52.980
+It's a lot like seeing a flash of lightning embracing for the thunder.
+
+00:14:52.980 --> 00:14:54.060
+Okay, I'm following.
+
+00:14:54.060 --> 00:14:57.500
+The flash happened in 2027 when the wage index dropped.
+
+00:14:57.500 --> 00:15:01.660
+But the thunder clap, the actual cut to the Medicare Advantage benchmarks, takes
+
+00:15:01.660 --> 00:15:02.780
+a year to hit.
+
+00:15:02.780 --> 00:15:03.920
+Why a year?
+
+00:15:03.920 --> 00:15:08.320
+Because the MA benchmarks rely on five years of fee for service claims.
+
+00:15:08.320 --> 00:15:12.560
+Before CMS calculates the averages, they reprice that historical data using the
+
+00:15:12.560 --> 00:15:13.560
+latest parameter.
+
+00:15:13.560 --> 00:15:14.560
+Oh, I see.
+
+00:15:14.560 --> 00:15:19.600
+Meaning that massive 14% devaluation of labor from 2027 gets completely baked into
+
+00:15:19.600 --> 00:15:21.000
+the math for 2028.
+
+00:15:21.000 --> 00:15:22.000
+Exactly.
+
+00:15:22.000 --> 00:15:23.760
+The thunder clap hits in 2028.
+
+00:15:23.760 --> 00:15:26.880
+The cuts aren't just some theoretical future possibility.
+
+00:15:26.880 --> 00:15:28.960
+The arithmetic is already processed and done.
+
+00:15:28.960 --> 00:15:29.960
+Wow.
+
+00:15:29.960 --> 00:15:34.560
+CMS admitted in their 2027 announcement that these wage index policies, quote, will
+
+00:15:34.560 --> 00:15:38.320
+contribute to declines in the MA rates for Puerto Rico.
+
+00:15:38.320 --> 00:15:42.600
+So the 14 lawmakers are desperately trying to get the administration to establish the
+
+00:15:42.600 --> 00:15:47.360
+70% floor before the 2028 rates lock in those devastating cuts.
+
+00:15:47.360 --> 00:15:51.040
+It sounds like we are looking at a system in absolute gridlock.
+
+00:15:51.040 --> 00:15:53.560
+Let's pull all these threads together for you listening.
+
+00:15:53.560 --> 00:15:58.760
+We've got over 670,000 seniors living in a territory that is already missing
+
+00:15:58.760 --> 00:16:01.000
+vital federal safety nets.
+
+00:16:01.000 --> 00:16:05.000
+96% of them have chosen Medicare Advantage, making it the highest
+
+00:16:05.000 --> 00:16:08.840
+participating, highest performing market of its kind in the entire nation.
+
+00:16:08.840 --> 00:16:09.840
+Absolutely.
+
+00:16:09.840 --> 00:16:13.360
+Yet their funding is trapped by this totally warped formula, relying on the
+
+00:16:13.360 --> 00:16:16.240
+medical bills of just 29,000 people.
+
+00:16:16.240 --> 00:16:20.960
+They are facing a locked in decade-long series of wage cuts that actively
+
+00:16:20.960 --> 00:16:23.120
+devalue their healthcare workers.
+
+00:16:23.120 --> 00:16:26.840
+And when lawmakers demand a permanent floor based on a nearby territory,
+
+00:16:26.840 --> 00:16:30.280
+the government defends its use of temporary administrative band-aids.
+
+00:16:30.280 --> 00:16:33.920
+It is a scenario where the internal logic of the funding model has entirely
+
+00:16:33.920 --> 00:16:36.920
+divorced itself from the reality of the healthcare environment it's actually
+
+00:16:36.920 --> 00:16:38.120
+supposed to support.
+
+00:16:38.120 --> 00:16:42.600
+Which leaves us with a really profound final thought to mull over.
+
+00:16:42.600 --> 00:16:46.120
+We've spent a lot of time today on the math and the history, but step
+
+00:16:46.120 --> 00:16:49.520
+back and consider the principles of our republic.
+
+00:16:49.520 --> 00:16:52.520
+In our system of government, we operate on the belief that we are
+
+00:16:52.520 --> 00:16:55.400
+all measured by results and merit.
+
+00:16:55.400 --> 00:16:59.680
+We design systems to reward efficiency, quality, and high adoption.
+
+00:16:59.680 --> 00:17:00.680
+That's the ideal.
+
+00:17:00.680 --> 00:17:01.680
+Right.
+
+00:17:01.680 --> 00:17:02.680
+Right.
+
+00:17:02.680 --> 00:17:05.480
+So imagine a scenario in a system supposedly built on merit, where the
+
+00:17:05.480 --> 00:17:09.000
+single market that overwhelmingly embraces that system, achieving an
+
+00:17:09.000 --> 00:17:14.320
+astonishing 96% participation rate, is systematically penalized with the
+
+00:17:14.320 --> 00:17:17.600
+lowest funding in the nation simply because it's an outlier.
+
+00:17:17.600 --> 00:17:20.120
+The math actively punishes their success.
+
+00:17:20.120 --> 00:17:21.120
+Exactly.
+
+00:17:21.120 --> 00:17:23.400
+The lawmakers and our sources are making a really strong
+
+00:17:23.400 --> 00:17:27.440
+recommendation to the administration to start penalizing the best
+
+00:17:27.440 --> 00:17:29.640
+performing market in the whole nation.
+
+00:17:29.640 --> 00:17:32.160
+They're urging Secretary Kennedy to use his administrative
+
+00:17:32.160 --> 00:17:34.880
+authority to fix a rigged formula.
+
+00:17:34.880 --> 00:17:37.960
+Because if the absolute best, most outstanding market is being rewarded
+
+00:17:37.960 --> 00:17:41.440
+as the worst, doesn't that make us pause and think that there is
+
+00:17:41.440 --> 00:17:44.760
+something completely wrong in the way we measure healthcare?
+
+00:17:44.760 --> 00:17:45.760
+It absolutely should.
+
+00:17:45.760 --> 00:17:48.600
+If the best results are being reimbursed the worst, how can we
+
+00:17:48.600 --> 00:17:53.080
+expect the worst, which is being reimbursed the best, to ever excel?
+
+00:17:53.080 --> 00:17:55.800
+This is the ultimate healthcare paradox.
+
+00:17:55.800 --> 00:17:59.400
+When strict adherence to a broken formula overrides common sense, it is no
+
+00:17:59.400 --> 00:18:01.360
+longer just a data error.
+
+00:18:01.360 --> 00:18:02.840
+It's a failure of government.
+
+00:18:02.840 --> 00:18:15.400
+Thanks for joining us on this deep dive.
+
