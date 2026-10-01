@@ -1,0 +1,351 @@
+Usually, when you look at a corporate balance sheet, you expect the math to tell a coherent
+story.
+Right.
+Like a single version of the truth.
+Exactly.
+It functions almost like a blueprint for the business.
+The money comes in, the money goes out, and if there's a fundamental flaw in the
+operation, it's just sitting right there in black and white.
+I mean, it's supposed to be an objective accounting of reality.
+You know, a ledger shouldn't have hidden agendas.
+But then you step into the world of healthcare financing, specifically in Puerto Rico,
+and suddenly that balance sheet turns into a total Rorschach test.
+Oh, absolutely.
+It's wild.
+We're looking at a financial landscape today that is full of massive glaring contradictions.
+Like two opposing sides are looking at the exact same numbers and drawing wildly different
+conclusions.
+It represents the absolute definition of a fiscal paradox.
+Welcome to today's deep dive.
+Our mission today is to unpack this really fascinating 2026 study published in Health
+Affair Scholar.
+Yeah.
+It looks at the financial realities of Medicare Advantage, which we'll call MA, down in Puerto
+Rico.
+The hook here, the thing that makes us so compelling for you listening, is this massive
+contradiction playing out right now.
+Right.
+Because on one hand you have insurance companies in Puerto Rico sounding the alarm.
+They claim they are severely underfunded by the federal government operating on razor
+thin margins and that they desperately need more money just to survive.
+But then on the other hand, you have this study and critics looking at the system trying
+to argue that these companies are operating as a highly profitable oligopoly.
+Yeah.
+They claim it's sustained by public funds while constantly demanding more.
+But I think we really need to question the premise of this study today.
+Oh, we definitely do.
+Because when you actually look at the facts, and we will, the narrative this study
+pushes gets a little shaky.
+To understand the stakes here, we have to set the table with just how unique
+the healthcare landscape in Puerto Rico actually is.
+The structure of the market is entirely different than the mainland.
+Right.
+Just for context, if you look at the U.S. mainland in 2024, about 54% of Medicare beneficiaries
+are enrolled in a Medicare Advantage plan.
+Which is private managed care.
+You know, where the government pays a private company to manage a patient's health.
+As opposed to traditional Medicare, which is run directly by the government.
+So on the mainland, 54% is a slight majority.
+But in Puerto Rico, a staggering 95% of Medicare beneficiaries are enrolled in MA plans.
+95%.
+It's not just an alternative option.
+It is the de facto healthcare system for older adults on the archipelago.
+It is total market dominance.
+And if you pay a monthly premium, you probably assume that money sits in a vault waiting
+for the day you get sick.
+Right.
+But when private companies control 95% of an entire demographic's healthcare, that
+premium becomes part of a completely different game.
+You're going to want to hear how the math of your health actually works behind closed doors.
+Because what happens in a market with that level of penetration acts as a crystal ball
+for the rest of the country.
+Okay.
+Let's unpack this.
+To figure out who is right in this debate, we first have to understand the specific
+funding gap that these insurers are complaining about.
+The insurers aren't just making up numbers out of thin air, are they?
+No.
+Not at all.
+The gap is a documented reality.
+Because of Puerto Rico's status as a U.S. territory rather than a state, the federal
+funding formulas work differently.
+Right.
+Specifically, the federal risk standardized benchmark payments, which is basically the
+baseline amount the government pays a plan to cover a person, those payments to MA plans
+in Puerto Rico are approximately 38% lower than they are in the U.S. states.
+38% lower is a massive haircut.
+It's huge.
+It's exactly the argument from the Medicaid and Medicare Advantage Product Association
+of Puerto Rico.
+They represent the big health insurance companies down there.
+And they argue that this 38% underfunding creates intense financial instability.
+They've stated this disparity forces them into a corner where they have to consider
+reducing health care benefits for patients and they're demanding more federal funds.
+I mean, on its face, that argument follows a logical business progression.
+Less revenue should equal less stability.
+I have to push back here though.
+If any business is receiving 38% less revenue than its peers on the mainland to do the exact
+same job, it seems like it would naturally be struggling just to keep the lights on.
+So how are they staying afloat, let alone allegedly operating as this profitable oligopoly
+the study claims?
+Well, that brings us to the nuance of the data.
+The 38% number is real, but it is not the final math.
+Okay, explain that.
+The study highlights two crucial mitigating factors that act as a counterbalance.
+First, these insurance plans receive higher risk scores and quality bonus payments from
+the federal government.
+Wait, how does an insurer just get a higher risk score for a patient?
+Are people in Puerto Rico just fundamentally sicker or is this an accounting trick?
+It's a mix of demographics, but a significant portion comes down to what the industry calls
+coding intensity.
+Medicare pays these private insurers more money if a patient is deemed sicker and
+more complex to treat.
+So insurers are highly incentivized to comb through medical records, sometimes hiring massive
+teams to do so.
+Just to add diagnostic codes to a patient's file.
+Exactly.
+If they find an unrecorded minor condition and code it, the patient's risk score goes
+up and the federal government sends a bigger check.
+So they are maximizing the paper trail to maximize the revenue.
+They are very efficient at it.
+And when you factor in those elevated risk scores and quality bonuses, they partially
+offset that initial gap.
+It reduces the actual difference in federal payments to roughly 26%.
+26% is still a significant gap though.
+We are chipping away at the original 38%, but it's still a big hole.
+It is.
+But here's the second factor, and this is the vital piece of the puzzle.
+The cost of doing business in Puerto Rico is drastically different.
+Right.
+Specifically, Medicare reimbursement rates for the physicians actually providing
+the physical care in Puerto Rico are 40% lower than in the US states.
+Wait, let me make sure I have this straight.
+The federal government pays the insurers 26% less than they would state side.
+But the insurers turn around and pay the local doctors 40% less?
+You've hit on the exact buffer zone.
+The doctors are taking a much bigger relative pay cut than the insurance companies are
+taking a funding cut.
+That 14% differential creates a massive financial cushion.
+It leaves room for insurers to maintain profitability even under relative federal underfunding simply
+by passing the squeeze down to the actual healthcare providers.
+Okay, so the funding gap alone clearly doesn't tell the whole story.
+If we really want to know if these corporations are struggling or thriving, we have to actually
+open up their books and follow the money.
+That is exactly what the researchers of this health affairs scholar study did.
+They built a consolidated data set, analyzing financial statements from 2011 all the way to
+2022.
+A full 12 years of receipts.
+Yeah, and they focused on the three massive insurers that essentially run the board down
+there.
+MMM, SFS, and MCS.
+By 2022, these three companies controlled about 92% of all Medicare beneficiaries
+in Puerto Rico.
+With mean annual revenues of $4.92 billion.
+$4.92 billion a year is a staggering pool of money.
+Now the study breaks down those financials into three core metrics to track the flow of
+that cash.
+Let's walk through those.
+First, there is the medical loss ratio or MLR.
+This is the percentage of revenue actually spent on medical care, doctors, hospitals,
+prescriptions.
+Right.
+Second, there is the administrative loss ratio or ALR.
+This is the money spent on bureaucracy, marketing, executive salaries.
+And third, you have the profit margins.
+What is left over for the house?
+To understand the tension between these three, we have to talk about a crucial piece of federal
+legislation.
+The Affordable Care Act.
+Yes, the ACA.
+In 2014, the ACA implemented an 85% MLR floor for these Medicare Advantage plans.
+To put it simply by federal law, 85 cents of every single federal dollar these companies
+take in must go to actual patient care and provider payments.
+Exactly.
+They're really capped at using the remaining 15 cents for their administrative costs and
+profits.
+And that floor was designed to ensure that taxpayer money actually funds health care rather
+than just financing corporate bloat.
+But here is where we really have to pause and look at this study with a bit of a cynical
+eye.
+I agree completely.
+Because the study points out that the funding disparity wasn't significantly associated
+with the medical loss ratio.
+The researchers frame this as some sort of chaotic legality or market failure.
+They act like it's a huge scandal.
+But wait, state the true facts here.
+Out of every dollar these plans get, more than 85 cents is going directly to patient
+benefits and provider payments, right?
+Yes.
+They are complying with the statute.
+They are hitting the MLR floor.
+And on top of that, if you look at how CMS, the Centers for Medicare and Medicaid
+Services, if you look at how they rate these plans...
+Oh, this is the craziest part.
+99% of all Medicare Advantage recipients in Puerto Rico are on plans that are rated
+4.5 stars or more by CMS.
+99% on 4.5 star plans.
+So what exactly is the illegality or the chaos this study is trying to point out?
+That is the million dollar question.
+If you compare these health plans in Puerto Rico to the ones in the mainland U.S.,
+according to CMS, they are performing exceptionally well.
+They are providing the care.
+They are hitting the 85-cent rule.
+They are getting top tier star ratings.
+You really have to wonder if the study was just made to please someone in a bureaucratic
+office somewhere.
+Seriously.
+Like someone who wasn't aware of the actual facts and the statutes imposed by the federal
+government?
+It completely ignores the reality that MA in Puerto Rico is filling massive gaps
+that have been bypassed by Congress and the federal government for years.
+Exactly.
+The federal government under-funds the island by 38%.
+The private MA plans step in, manage to get 99% of people on highly rated plans, and legally
+spend the required 85% on care.
+And then this study acts like the insurers are the bad guys for figuring out how to
+survive that math.
+Let's look at what this study actually complains about.
+They say that when the funding gap widened, when Puerto Rico was getting less money
+compared to the states, profits didn't automatically drop.
+Right.
+And conversely, when the gap narrowed, profits didn't automatically rise.
+For example, between 2016 and 2017, the funding disparity widened, things supposedly got tighter,
+yet insurer profit margins actually increased.
+And the study frames this as deeply suspicious.
+What's fascinating here is that the only thing the funding gap did consistently track
+with was administrative spending.
+So when federal funding got tight, they didn't cut patient care because they legally couldn't
+and ethically shouldn't, they just shifted around their internal administrative spending.
+Which is just sound business management when you're underfunded.
+Right.
+But the study then pivots to this idea of disaster economics to explain the profit spikes.
+Yeah, this is where they look at external shocks.
+If you map out the 12 years of profit margins, you see these massive spikes that align with
+national emergencies.
+To understand why a disaster creates a profit spike for a health insurer, you
+have to understand capitated payments.
+Capitated meaning per head.
+The government pays the insurer a flat fee per patient per month, regardless of
+how much care that patient uses.
+It's like having a monthly gym membership.
+Oh, right.
+You keep paying your fee, auto drafted from your account.
+But suddenly a hurricane hits and the gym is closed for three months.
+The gym still gets your money, but they don't have to pay for electricity, water
+or towel service.
+Their costs vanish, but revenue stays the same.
+That perfectly captures the dynamic of Puerto Rico in 2017 with Hurricane Maria
+and 2020 with the COVID-19 pandemic.
+During Maria infrastructure was destroyed.
+Roads were blocked.
+The power grid collapsed.
+Patients physically could not access their doctors.
+And in 2020, you had lockdowns and quarantines.
+Healthcare utilization plummeted.
+Because M.A. operates on those capitated payments, the federal money
+kept flowing in while the medical payouts dropped.
+The study points out that in 2020, the medical loss ratio hit a study
+period low of 80.1 percent, while profit margins peaked at 3.32 percent.
+But again, let's be realistic here.
+Are we supposed to blame the health plans because a global pandemic kept people home?
+Exactly.
+They were fully prepared to pay for the care.
+The patients just literally couldn't go get it.
+And even then, they still maintained those 4.5 star ratings from CMS.
+They were doing everything they could under impossible conditions.
+Here's where it gets really interesting, though.
+Look at the final year of this study, 2022.
+Right.
+The pandemic lockdowns have subsided.
+Healthcare utilization is returning to normal.
+Crucially, this is also when these local Puerto Rican insurers
+were acquired by national corporate firms.
+What happened to the profits?
+In 2022, the profit margin actually plunged to negative 0.19 percent.
+The margins tighten up significantly
+when the system operates under normal conditions.
+So if we step back from the academic hand-ringing of the study,
+what does this all actually mean?
+What are the real policy recommendations here?
+Well, let's finish strong with recommendations,
+breaking it down for the federal government,
+the private sector, and the beneficiaries.
+Let's start with the federal government.
+The researchers warn that just throwing more money at the system
+without oversight might just inflate administrative costs.
+Right.
+If CMS is going to increase funding for equity,
+they need strict oversight.
+They suggest raising the MLR floor from 85% to 90%
+for any additional funds.
+I mean, that's fair if the feds finally step up
+and close that 38% gap.
+Ring fencing the new money to guarantee it goes to patients
+makes sense.
+But the federal government also needs
+to recognize the reality that these MA plans are currently
+holding the entire system together.
+Exactly.
+You can't regulate them into the ground
+when they are the ones filling the mass of health care
+gaps Congress has ignored.
+Now, for the private sector, the study
+recommends regulating vertical integration.
+Right, because a lot of these insurers
+own the provider networks and pharmacies they pay.
+The government needs to strictly regulate what
+counts as a medical expense when an insurer is essentially
+paying its own subsidiary.
+Keep the accounting transparent.
+Prove the money is reaching the front line of care.
+And finally, for the beneficiaries.
+The everyday people paying the premiums.
+The recommendation is to strengthen traditional Medicare
+to create actual competition.
+If the government reduces out-of-pocket costs
+for traditional Medicare, making it a viable alternative,
+seniors would actually have a choice
+outside of the private insurers.
+Competition forces everyone to be better.
+But if we connect this to the bigger picture,
+it reflects a vulnerability in capitated health care
+models nationwide.
+Right, Puerto Rico is just the extreme example
+because of that 95% market penetration.
+Whenever you pay a private entity a flat fee to manage care,
+the financial incentive is always
+going to be at a limit utilization.
+But to summarize our deep dive today,
+yes, Puerto Rico's MA system is undeniably
+underfunded by the federal government.
+Absolutely.
+That gap is real.
+But despite the study trying to paint
+the insurers as chaotic or illegal,
+the data shows they are legally hitting their 85-cent mandates
+and providing 4.5-star care according to CMS.
+The profit spikes during disasters
+were a mechanical result of the capitated system
+during a crisis, not some malicious plot.
+It really highlights how we need to look critically
+at academic studies that might just be pushing
+a bureaucratic narrative rather than acknowledging
+the real work being done on the ground
+to fill the gaps left by Congress.
+And I'll leave you with a final thought to ponder
+as we wrap up.
+Let's hear it.
+If a health care financing system, like Capitation,
+is designed in such a way that it inherently achieves
+its highest profitability during a population's greatest
+periods of suffering, like a hurricane or a pandemic,
+is the system fundamentally broken,
+or is it working exactly as its financial incentives
+were mathematically designed to?
+Something to mull over next time you pay that premium.
+Thanks for joining us on this deep dive,
+and we'll catch you next time.
+Find us on Spotify, Apple Podcasts, Amazon Music,
+iHeart Radio, and YouTube.
+Wherever you get your podcasts,
+the health care paradox starts now.
