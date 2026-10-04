@@ -1,0 +1,176 @@
+{
+  "_comment": "Whisper glossary for The Healthcare Paradox. 'prompt' is passed to Whisper as initial_prompt (keep it under ~200 words); 'replacements' are regex fixes applied to every transcript line after transcription (flags: i = ignore case).",
+  "prompt": "The Healthcare Paradox, a podcast about Puerto Rico's health system. Medicare Advantage (MA), Medicaid, the Medicaid cliff, CMS, HHS, ASES, MMAPA, FEMA, FOMB, PRHIA, Health Affairs Scholar, MedPAC. The insurers MMM, Triple-S and MCS. Vieques, Culebra, Guaynabo, San Juan, Centro Médico, the Susana Centeno Hospital. Secretary Robert F. Kennedy Jr., Governor Jenniffer González-Colón, Dr. Greg Murphy, Dr. Mehmet Oz, Rep. Pablo José Hernández, Jaideliz Moreno Ventura, David Sanes Rodríguez, Judge Héctor Laffitte. Capitation, medical loss ratio (MLR), fee-for-service, benchmark, star ratings, risk scores, coding intensity.",
+  "replacements": [
+    [
+      "\\bSFS\\b",
+      "Triple-S",
+      ""
+    ],
+    [
+      "\\bTriple S\\b",
+      "Triple-S",
+      ""
+    ],
+    [
+      "\\btriple S\\b",
+      "Triple-S",
+      ""
+    ],
+    [
+      "\\bHealth Affairs? Scholar\\b",
+      "Health Affairs Scholar",
+      "i"
+    ],
+    [
+      "\\bM\\.A\\.(?=[\\s,;:)]|$)",
+      "MA",
+      ""
+    ],
+    [
+      "\\bGonzalez-Colon\\b",
+      "González-Colón",
+      ""
+    ],
+    [
+      "\\bPablo Jose\\b",
+      "Pablo José",
+      ""
+    ],
+    [
+      "\\bBieques\\b",
+      "Vieques",
+      "i"
+    ],
+    [
+      "\\bmedicare advantage\\b",
+      "Medicare Advantage",
+      "i"
+    ],
+    [
+      "\\bmedicaid\\b",
+      "Medicaid",
+      "i"
+    ],
+    [
+      "\\bmedicare\\b",
+      "Medicare",
+      "i"
+    ],
+    [
+      "\\bcms\\b",
+      "CMS",
+      ""
+    ],
+    [
+      "\\bhhs\\b",
+      "HHS",
+      ""
+    ],
+    [
+      "\\bMedic aid\\b",
+      "Medicaid",
+      "i"
+    ],
+    [
+      "\\bCentro Medico\\b",
+      "Centro Médico",
+      ""
+    ],
+    [
+      "\\bGuaynabo\\b",
+      "Guaynabo",
+      "i"
+    ],
+    [
+      "\\bviex\\b",
+      "Vieques",
+      "i"
+    ],
+    [
+      "\\bportorico\\b",
+      "Puerto Rico",
+      "i"
+    ],
+    [
+      "\\bpuerto rico\\b",
+      "Puerto Rico",
+      "i"
+    ],
+    [
+      "\\bnantucket\\b",
+      "Nantucket",
+      "i"
+    ],
+    [
+      "\\bu\\.s\\. virgin islands\\b",
+      "U.S. Virgin Islands",
+      "i"
+    ],
+    [
+      "\\bvirgin islands\\b",
+      "Virgin Islands",
+      "i"
+    ],
+    [
+      "\\bpart d\\b",
+      "Part D",
+      "i"
+    ],
+    [
+      "\\bpart b\\b",
+      "Part B",
+      "i"
+    ],
+    [
+      "\\bpart a\\b(?= premium| hospital| coverage| benefit)",
+      "Part A",
+      "i"
+    ],
+    [
+      "\\blis\\b(?= funding| subsid| benefic)",
+      "LIS",
+      "i"
+    ],
+    [
+      "\\bfema\\b",
+      "FEMA",
+      "i"
+    ],
+    [
+      "\\bfomb\\b",
+      "FOMB",
+      "i"
+    ],
+    [
+      "\\bmmapa\\b",
+      "MMAPA",
+      "i"
+    ],
+    [
+      "\\bmedpac\\b",
+      "MedPAC",
+      "i"
+    ],
+    [
+      "\\bprfaa\\b",
+      "PRFAA",
+      "i"
+    ],
+    [
+      "\\bcongress\\b",
+      "Congress",
+      "i"
+    ],
+    [
+      "\\bwashington\\b",
+      "Washington",
+      "i"
+    ],
+    [
+      "\\bsan juan\\b",
+      "San Juan",
+      "i"
+    ]
+  ]
+}

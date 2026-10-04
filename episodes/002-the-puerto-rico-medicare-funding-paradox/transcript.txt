@@ -141,13 +141,13 @@ I'm putting the pieces together here if 95.8% of people in Puerto Rico are in Me
 There is almost nobody left in the traditional system bingo
 So who is the algorithm even measuring to get the benchmark?
 It's measuring a ghost town the fee-for-service measurement base in Puerto Rico has just completely collapsed the entire island has only about
-27,275 people left in traditional Medicare with both part a and part b hold on let's pause there part a part b
+27,275 people left in traditional Medicare with both part a and Part B hold on let's pause there part a Part B
 Can you walk me through what does actually mean in plain English before we completely lose the plot?
 Yeah, of course. So broadly speaking part a covers hospital stays, okay?
-When you turn 65 you generally get part a automatically part b
+When you turn 65 you generally get part a automatically Part B
 however covers doctor visits and outpatient care and
-You have to actively pay a premium for part b. That's a so to get a complete picture of a patient's health care costs
-The algorithm needs to look at patients who have both part a and part b
+You have to actively pay a premium for Part B. That's a so to get a complete picture of a patient's health care costs
+The algorithm needs to look at patients who have both part a and Part B
 Okay, so the algorithm needs a complete picture and in Puerto Rico
 It's only looking at a tiny sliver of about 27,000 people. Yeah, and it gets so much worse. Oh boy
 Puerto Rico is divided into 78 municipalities which act like counties for this formula
@@ -159,10 +159,10 @@ To dictate the multimillion dollar budget for tens of thousands of people and th
 That is exactly the law the benchmark for roughly
 674,000 advantage enrollees is dictated by a four percent sliver of the population
 But here is the real kicker that four percent is highly atypical
-Unlike on the mainland where you're automatically enrolled in part b in Puerto Rico
+Unlike on the mainland where you're automatically enrolled in Part B in Puerto Rico
 You actually have to proactively opt in because of that roughly 73% of the people in that tiny fee-for-service remnant
-Don't even have part b coverage. So they don't have an outpatient coverage. Right. They don't go to doctors in the traditional system
-Therefore they mechanically contribute zero dollars in part b spending to the data pool
+Don't even have Part B coverage. So they don't have an outpatient coverage. Right. They don't go to doctors in the traditional system
+Therefore they mechanically contribute zero dollars in Part B spending to the data pool
 Okay, so the algorithm looks at a tiny sample size
 Sees a massive pile of zeros because these people don't even have the coverage to begin with and the computer just concludes
 Wow health care in Puerto Rico is incredibly cheap
@@ -176,7 +176,7 @@ Are we sure Puerto Rican hospitals aren't just horribly mismanaged?
 How do we actually know it's the formula starving them and not just local economics?
 Well, we know it's the formula by looking at unit prices versus volume
 If Puerto Rico were simply getting a discount on health care, you would expect Medicare to pay significantly less for individual basic services, right?
-But cms's own claims files show that for common doctor visits the government pays Puerto Rico physicians almost exactly the national rate
+But CMS's own claims files show that for common doctor visits the government pays Puerto Rico physicians almost exactly the national rate
 Really like just a standard physical cost the same very close. Yeah
 The medical billing world uses these things called evaluation and management codes
 So think of a mid-level office visit, which is code 99213
@@ -187,7 +187,7 @@ So a 25 cent difference. Exactly
 The unit price
 The cost of the actual interaction isn't deeply discounted at all. What collapsed wasn't the cost of care
 What collapsed was the volume of visible fee for service claims because everybody moved to advantage, right between 2009 and 2024
-Traditional part b payments in Puerto Rico fell by 76
+Traditional Part B payments in Puerto Rico fell by 76
 Not because things got cheaper, but because everyone moved to advantage plans
 The algorithm is literally punishing them for doing exactly what the government wanted them to do
 Man, so if the data is fundamentally flawed and the budgets are artificially crushed
@@ -234,62 +234,62 @@ The geography of this rigidity creates absurd disparities
 If we look at the data from a different angle, we find this fascinating case study and how arbitrary these geographic rules really are
 We need to talk about the tale of two islands
 Nantucket and vx. Okay Nantucket, Massachusetts like the island where billionaires vacation and buy mega yachts
-What does nantucket have to do with federal Medicare formula?
+What does Nantucket have to do with federal Medicare formula?
 Everything actually because of a well intention rule established back in 1997 called the rural floor
 The rule states that no urban hospital in a given state can be paid a wage index
 Lower than the rural hospitals in that same state
 The whole idea was to protect small rural hospitals in America from being drastically underfunded compared to their big city counterparts
 Okay, I mean on paper that sounds like a decent protection for rural health care
 It is until you look at how the algorithm actually applies it
-So in 2008 nantucket cottage hospital, which is the only hospital on the island
-Converted its status to become an ordinary medicare hospital
-Okay, and because nantucket is an island geographically located outside of a metropolitan area
+So in 2008 Nantucket cottage hospital, which is the only hospital on the island
+Converted its status to become an ordinary Medicare hospital
+Okay, and because Nantucket is an island geographically located outside of a metropolitan area
 It officially became the only rural hospital in the entire state of massachusetts
-Wait, so billionaires on nantucket are setting the baseline for the whole state of massachusetts
-Yes, because the cost of living in nantucket is astronomical the average hospital wage there is extremely high
+Wait, so billionaires on Nantucket are setting the baseline for the whole state of massachusetts
+Yes, because the cost of living in Nantucket is astronomical the average hospital wage there is extremely high
 Currently it's calculated at 78.99 an hour by law
 That 78.99 an hour instantly became the rural floor wage index for the entire state
 This meant that every single urban hospital in massachusetts including all those massive
-multi-billion dollar research hospitals in boston was suddenly legally mandated to receive a wage index at or above nantucket's level
-You've got to be kidding me one tiny island of immense wealth artificially inflated the medicare payments for the entire state
+multi-billion dollar research hospitals in boston was suddenly legally mandated to receive a wage index at or above Nantucket's level
+You've got to be kidding me one tiny island of immense wealth artificially inflated the Medicare payments for the entire state
 Oh, yeah, it lifted the state's rural floor so high that massachusetts hospitals are paid roughly 30 above the national average
 That's wild. It's estimated that this one formula quirk transfers roughly 256 to
 367 million dollars per year to massachusetts hospitals
 And because the federal budget must remain neutral, you know
 That windfall is paid for by slight reductions to every other hospital in the country and it is perfectly legal
-That is the literal definition of algorithmic certainty. So how does this nantucket loophole connect back to portorico?
-It connects through viec viex is a tiny rural island municipality off the coast of portorico
+That is the literal definition of algorithmic certainty. So how does this Nantucket loophole connect back to Puerto Rico?
+It connects through viec Vieques is a tiny rural island municipality off the coast of Puerto Rico
 And it currently has no hospital actually the old one was destroyed by hurricane maria in 2017 right terrible tragedy
 Yeah, so they're in the process of building a new 85 million dollar facility
 But right now it is awaiting formal licensure as a hospital
-Okay, I think I see where this is going if viex gets this new facility licenses a hospital
+Okay, I think I see where this is going if Vieques gets this new facility licenses a hospital
 What happens to the algorithm?
-Well, if viex licenses that facility and gets it medicare certified it automatically becomes a rural hospital by geographic definition
-Just like nantucket. Okay, and the exact same law that has transferred hundreds of millions of dollars to massachusetts for 15 years
-Would instantly trigger for portorico viex real wages
+Well, if Vieques licenses that facility and gets it Medicare certified it automatically becomes a rural hospital by geographic definition
+Just like Nantucket. Okay, and the exact same law that has transferred hundreds of millions of dollars to massachusetts for 15 years
+Would instantly trigger for Puerto Rico Vieques real wages
 Which are actually higher than the suppressed mainland wages because it's expensive to get staff to a small island
 Right hazard pay basically exactly
-Those wages would instantly raise the wage index floor for every single hospital on the main island of portorico
-So to be clear portorico isn't begging for a special handout or some newly invented loophole
+Those wages would instantly raise the wage index floor for every single hospital on the main island of Puerto Rico
+So to be clear Puerto Rico isn't begging for a special handout or some newly invented loophole
 They are literally just waiting for a building to be licensed so they can apply the exact
 Same federal law that massachusetts has been capitalizing on for a decade and a half
-Exactly that no petitions no acts of congress needed. Just a licensure decision triggers the algorithm in their favor
+Exactly that no petitions no acts of Congress needed. Just a licensure decision triggers the algorithm in their favor
 I have to imagine though
-The economic realities of nantucket and viex are a bit different entire universe is apart
-The poverty rate in viex is 19.8 times higher than in nantucket
+The economic realities of Nantucket and Vieques are a bit different entire universe is apart
+The poverty rate in Vieques is 19.8 times higher than in Nantucket
 Nantucket's median household income is nearly seven times higher unbelievable yet because of these geographic formulas
-Medicare advantage pays one thousand four hundred and twenty three dollars per member per month in nantucket and only
-$840 in viex
+Medicare Advantage pays one thousand four hundred and twenty three dollars per member per month in Nantucket and only
+$840 in Vieques
 The poorest island gets the smaller check simply because of an arbitrary geographic construct. It's infuriating
 But i want to pivot here because despite these massive financial headwinds
 Despite the missing duels the wage index traps and the geographic absurdities
-I really want to look at what portorico is actually delivering to patients
+I really want to look at what Puerto Rico is actually delivering to patients
 Especially regarding prescription drugs because if you're listening to this and you've recently picked up a prescription state side
 Think about how much it cost. Let's look at the pharmacy tab in the console
-How is portorico handling medication on such a starved budget?
+How is Puerto Rico handling medication on such a starved budget?
 So this is what we call the pharmacy paradox and it is a real testament to their operational excellence
 Despite having the lowest benchmarks in the nation
-portorico's medicare advantage members fill about 19 percent more prescriptions per year than the national average
+Puerto Rico's Medicare Advantage members fill about 19 percent more prescriptions per year than the national average
 Wait 19 percent more so they are actually getting more medication into the hands of their patients. Yes
 They average 68.4 prescription fills per enrollee compared to 57.4 nationally
 But here is the truly astonishing part
@@ -297,33 +297,33 @@ They do this at a roughly 15 lower gross drug costs per enrollee wait
 They are providing 19 percent more medication
 But spending 15 less money per person the math is hurting my head today
 How is that even possible because their cost per prescription is roughly 63 dollars nationally?
-It's about 89 dollars portorico is dispensing medication at 71 cents on the national dollar
-If you rank all 56 u.s states and territories portorico is number one in prescriptions filled per person and number one for the lowest cost per prescription
+It's about 89 dollars Puerto Rico is dispensing medication at 71 cents on the national dollar
+If you rank all 56 u.s states and territories Puerto Rico is number one in prescriptions filled per person and number one for the lowest cost per prescription
 That is insane efficiency
 But i have to ask are they achieving that efficiency just by denying people
 expensive life-saving treatments
 Like are they just saying no to cancer drugs?
 No, it's not that it's driven by phenomenal chronic disease management and really aggressive generic utilization
 Oh, right
-If you look at the data 11 of the top 12 drugs prescribed in portorico are low-cost chronic disease generics
+If you look at the data 11 of the top 12 drugs prescribed in Puerto Rico are low-cost chronic disease generics
 We're talking about thyroid medications
 statins for cholesterol
 anti-hypertensives for blood pressure
 Diabetes meds the basics right it is the pharmacology of adherence
 They're keeping their population out of the expensive hospital beds by making absolutely sure they take their daily maintenance medications
 Which is exactly what we want the health care system to do like preventative care
-Managing chronic conditions efficiently before they become catastrophic emergencies precisely the limited funds in portorico are genuinely converting into patient care
+Managing chronic conditions efficiently before they become catastrophic emergencies precisely the limited funds in Puerto Rico are genuinely converting into patient care
 And medication adherence the dollars go to the pharmacy counter not to administrative bloat
 That's incredible
 But this success is completely overshadowed by another statutory injustice
 If you look at the pharmacy data, you'll see a glaring anomaly called the zero dollar column the zero dollar column
-Yeah, I was reading through the part d rules on this in the sources
+Yeah, I was reading through the Part D rules on this in the sources
 And I I kept looking for a footnote or a typo because I assumed I was misreading the law
-Doesn't the law actually say what I think it says it does in the medicare part d program
+Doesn't the law actually say what I think it says it does in the Medicare Part D program
 There is a federal low income subsidy known as lis and it is specifically designed to help poor seniors afford their medication copays
-Okay, nationally about 90 of medicare plan rows show some level of lis funding
-But if you look at the federal payment files for portorico
-70 out of 85 plan rows show exactly zero dollars and zero cents for the part d low income subsidy zero dollars
+Okay, nationally about 90 of Medicare plan rows show some level of LIS funding
+But if you look at the federal payment files for Puerto Rico
+70 out of 85 plan rows show exactly zero dollars and zero cents for the Part D low income subsidy zero dollars
 For the jurisdiction with a 40 percent poverty rate
 Yes, and again, it's a statutory blind spot
 The law literally reads that the subsidy applies to a resident of the 50 states or the district of columbia
@@ -338,22 +338,22 @@ They're basically stretching every penny to make up for a massive legislated hol
 Okay, so we've outlined a deeply broken algorithm today a system that punishes efficiency
 ignores hundreds of thousands of vulnerable patients and traps an entire island's health care economy in a slow motion collapse
 Is there a way to fix it?
-And please tell me it doesn't require waiting for a deadlocked congress to pass a new law
-There is a way to fix it actually and it does not require an act of congress
+And please tell me it doesn't require waiting for a deadlocked Congress to pass a new law
+There is a way to fix it actually and it does not require an act of Congress
 Thank goodness the tool to fix this is already sitting in the federal toolkit
-The policy ask from puerto Rico is highly specific. It's called territory stabilization at a point seven zero cost index
+The policy ask from Puerto Rico is highly specific. It's called territory stabilization at a point seven zero cost index
 territory stabilization at point
 Seven zero. Okay. Let's slow down and translate that. What does a point seven zero cost index actually mean in practice?
-It means puerto rico isn't asking to be paid mainland rates
+It means Puerto Rico isn't asking to be paid mainland rates
 They aren't asking for the $1,300 a month that florida gets
-They are simply asking for parity with the u.s. Virgin islands because virgin islands is at a point seven zero
-Right the u.s. Virgin islands already sits at a cost index of roughly point seven zero
-puerto rico just wants the federal government to apply that same administrative index to them
-Why the virgin islands though is that a fair comparison mathematically?
-It is the most logical comparison in the system puerto rico and the u.s. Virgin islands share identical medicare statutes
+They are simply asking for parity with the U.S. Virgin Islands because Virgin Islands is at a point seven zero
+Right the U.S. Virgin Islands already sits at a cost index of roughly point seven zero
+Puerto Rico just wants the federal government to apply that same administrative index to them
+Why the Virgin Islands though is that a fair comparison mathematically?
+It is the most logical comparison in the system Puerto Rico and the U.S. Virgin Islands share identical Medicare statutes
 They are adjacent geographically in the caribbean and critically their raw unadjusted per capita health care costs are nearly identical
 Wait, if their raw health care costs are identical, why is there a 24 payment gap between them?
-Why is puerto rico stuck down at a point five zero index? Well, the virgin islands is at point seven zero
+Why is Puerto Rico stuck down at a point five zero index? Well, the Virgin Islands is at point seven zero
 This gets into the deepest weeds of the formula
 Specifically a step called standardizing the risk scores
 Which is driven by a piece of the algorithm called engine a let me try to explain it simply whoa back up
@@ -361,19 +361,19 @@ Engine a the division step. What is that actually doing in plain english?
 Okay, think of it like grading on a curve, but the curve is broken
 Okay
 The algorithm tries to standardize costs by dividing the raw cost of care by the health risk score of the fee for service population
-Because the u.s. Virgin islands has a tiny fee for service population that is likely undercoded
+Because the U.S. Virgin Islands has a tiny fee for service population that is likely undercoded
 Their risk score looks very low around point seven two right if you divide a raw cost by a small decimal like point seven two
 It mathematically inflates the final answer that inflation pushes their cost index up to around point seven zero
-Puerto rico on the other hand has a slightly more accurately coded but still tiny fee for service population
+Puerto Rico on the other hand has a slightly more accurately coded but still tiny fee for service population
 With a higher risk score of about point nine six
 Uh, I see when you divide by that larger decimal it keeps their final index depressed at around point five zero
 So the entire 24 payment gap which represents hundreds of millions of dollars in real world health care funding
 Is manufactured by a quirk in the division step of an obscure standardization formula
 Exactly engine a manufactures the gap and there is another algorithm engine c
-Which is a complicated cap that protects the virgin islands and guam from having their rates dropped too fast
+Which is a complicated cap that protects the Virgin Islands and guam from having their rates dropped too fast
 Puerto Rico doesn't benefit from that protection either naturally. So the proposed fix is simple
 The government just needs to acknowledge that the fee for service data in Puerto Rico is statistically meaningless
-And use the u.s. Virgin islands as a proxy
+And use the U.S. Virgin Islands as a proxy
 But does the federal agency actually have the legal authority to just say, you know
 This data is bad. We are going to swap in a proxy rate. Can they just do that on their own?
 They absolutely have the authority under the social security act specifically section 1876 a
@@ -387,13 +387,13 @@ They realized that an unusually high number of Puerto Rican fee for service bene
 Had zero claims on their record, which was artificially dragging down the average costs
 That makes sense
 So the agency used its discretion to mathematically adjust the Puerto Rico data to match the national proportion of zero claimants
-They also changed the methodology to only look at beneficiaries who actually had both part a and part b
+They also changed the methodology to only look at beneficiaries who actually had both part a and Part B
 They have a proven documented track record of adjusting the data
 Administratively when they recognize the algorithm is producing an absurd result. So let me get this straight
 The agency has the steering wheel in their hands
 They've used it before to swerve around potholes in the data
 But right now they're throwing their hands up and saying the car is driving itself
-If a bipartisan group of congress members the local governor the entire healthcare community are all asking for this 0.70 fix
+If a bipartisan group of Congress members the local governor the entire healthcare community are all asking for this 0.70 fix
 What is the agency's stated reason for refusing to use the similar area clause?
 This is where the bureaucratic doublespeak gets intense over the last 12 rate cycles
 Their reasoning has constantly shifted at first. They said the Puerto Rico data was sufficient despite the tiny sample size
@@ -418,7 +418,7 @@ We've talked about algorithmic blind spots missing duels fee-for-service ghosts 
 Pulling back from the console data. How should we ultimately understand the Puerto Rican Medicare Advantage Market?
 The core takeaway is really a reframing of the narrative
 Puerto Rico is not a distressed failing market needing a federal bailout the data proves
-It is actually the strongest real world demonstration of high quality high efficiency Medicare advantage in the entire country
+It is actually the strongest real world demonstration of high quality high efficiency Medicare Advantage in the entire country
 Right, they have achieved near universal participation
 They dominate the five star quality ratings nationally and they deliver more medication at a lower unit cost than anyone else
 But they cannot survive indefinitely on 59 cents on the dollar
