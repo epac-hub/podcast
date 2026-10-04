@@ -430,7 +430,7 @@ So who is the algorithm even measuring to get the benchmark?
 It's measuring a ghost town the fee-for-service measurement base in Puerto Rico has just completely collapsed the entire island has only about
 
 00:12:16.826 --> 00:12:24.386
-27,275 people left in traditional Medicare with both part a and part b hold on let's pause there part a part b
+27,275 people left in traditional Medicare with both part a and Part B hold on let's pause there part a Part B
 
 00:12:24.546 --> 00:12:28.786
 Can you walk me through what does actually mean in plain English before we completely lose the plot?
@@ -439,16 +439,16 @@ Can you walk me through what does actually mean in plain English before we compl
 Yeah, of course. So broadly speaking part a covers hospital stays, okay?
 
 00:12:33.466 --> 00:12:37.666
-When you turn 65 you generally get part a automatically part b
+When you turn 65 you generally get part a automatically Part B
 
 00:12:37.666 --> 00:12:40.386
 however covers doctor visits and outpatient care and
 
 00:12:40.746 --> 00:12:47.866
-You have to actively pay a premium for part b. That's a so to get a complete picture of a patient's health care costs
+You have to actively pay a premium for Part B. That's a so to get a complete picture of a patient's health care costs
 
 00:12:47.866 --> 00:12:51.826
-The algorithm needs to look at patients who have both part a and part b
+The algorithm needs to look at patients who have both part a and Part B
 
 00:12:51.906 --> 00:12:54.866
 Okay, so the algorithm needs a complete picture and in Puerto Rico
@@ -484,16 +484,16 @@ That is exactly the law the benchmark for roughly
 But here is the real kicker that four percent is highly atypical
 
 00:13:41.026 --> 00:13:45.106
-Unlike on the mainland where you're automatically enrolled in part b in Puerto Rico
+Unlike on the mainland where you're automatically enrolled in Part B in Puerto Rico
 
 00:13:45.106 --> 00:13:52.146
 You actually have to proactively opt in because of that roughly 73% of the people in that tiny fee-for-service remnant
 
 00:13:52.226 --> 00:13:57.666
-Don't even have part b coverage. So they don't have an outpatient coverage. Right. They don't go to doctors in the traditional system
+Don't even have Part B coverage. So they don't have an outpatient coverage. Right. They don't go to doctors in the traditional system
 
 00:13:57.746 --> 00:14:03.346
-Therefore they mechanically contribute zero dollars in part b spending to the data pool
+Therefore they mechanically contribute zero dollars in Part B spending to the data pool
 
 00:14:03.666 --> 00:14:06.386
 Okay, so the algorithm looks at a tiny sample size
@@ -535,7 +535,7 @@ Well, we know it's the formula by looking at unit prices versus volume
 If Puerto Rico were simply getting a discount on health care, you would expect Medicare to pay significantly less for individual basic services, right?
 
 00:15:11.426 --> 00:15:18.626
-But cms's own claims files show that for common doctor visits the government pays Puerto Rico physicians almost exactly the national rate
+But CMS's own claims files show that for common doctor visits the government pays Puerto Rico physicians almost exactly the national rate
 
 00:15:18.866 --> 00:15:22.546
 Really like just a standard physical cost the same very close. Yeah
@@ -568,7 +568,7 @@ The cost of the actual interaction isn't deeply discounted at all. What collapse
 What collapsed was the volume of visible fee for service claims because everybody moved to advantage, right between 2009 and 2024
 
 00:16:08.146 --> 00:16:11.506
-Traditional part b payments in Puerto Rico fell by 76
+Traditional Part B payments in Puerto Rico fell by 76
 
 00:16:12.466 --> 00:16:16.066
 Not because things got cheaper, but because everyone moved to advantage plans
@@ -709,7 +709,7 @@ We need to talk about the tale of two islands
 Nantucket and vx. Okay Nantucket, Massachusetts like the island where billionaires vacation and buy mega yachts
 
 00:19:38.466 --> 00:19:41.106
-What does nantucket have to do with federal Medicare formula?
+What does Nantucket have to do with federal Medicare formula?
 
 00:19:41.186 --> 00:19:45.666
 Everything actually because of a well intention rule established back in 1997 called the rural floor
@@ -730,22 +730,22 @@ Okay, I mean on paper that sounds like a decent protection for rural health care
 It is until you look at how the algorithm actually applies it
 
 00:20:11.586 --> 00:20:16.226
-So in 2008 nantucket cottage hospital, which is the only hospital on the island
+So in 2008 Nantucket cottage hospital, which is the only hospital on the island
 
 00:20:16.626 --> 00:20:19.586
-Converted its status to become an ordinary medicare hospital
+Converted its status to become an ordinary Medicare hospital
 
 00:20:19.746 --> 00:20:24.866
-Okay, and because nantucket is an island geographically located outside of a metropolitan area
+Okay, and because Nantucket is an island geographically located outside of a metropolitan area
 
 00:20:25.186 --> 00:20:29.586
 It officially became the only rural hospital in the entire state of massachusetts
 
 00:20:29.826 --> 00:20:34.066
-Wait, so billionaires on nantucket are setting the baseline for the whole state of massachusetts
+Wait, so billionaires on Nantucket are setting the baseline for the whole state of massachusetts
 
 00:20:34.226 --> 00:20:40.306
-Yes, because the cost of living in nantucket is astronomical the average hospital wage there is extremely high
+Yes, because the cost of living in Nantucket is astronomical the average hospital wage there is extremely high
 
 00:20:40.466 --> 00:20:44.466
 Currently it's calculated at 78.99 an hour by law
@@ -757,10 +757,10 @@ That 78.99 an hour instantly became the rural floor wage index for the entire st
 This meant that every single urban hospital in massachusetts including all those massive
 
 00:20:56.306 --> 00:21:04.306
-multi-billion dollar research hospitals in boston was suddenly legally mandated to receive a wage index at or above nantucket's level
+multi-billion dollar research hospitals in boston was suddenly legally mandated to receive a wage index at or above Nantucket's level
 
 00:21:04.306 --> 00:21:10.706
-You've got to be kidding me one tiny island of immense wealth artificially inflated the medicare payments for the entire state
+You've got to be kidding me one tiny island of immense wealth artificially inflated the Medicare payments for the entire state
 
 00:21:10.786 --> 00:21:17.666
 Oh, yeah, it lifted the state's rural floor so high that massachusetts hospitals are paid roughly 30 above the national average
@@ -778,10 +778,10 @@ And because the federal budget must remain neutral, you know
 That windfall is paid for by slight reductions to every other hospital in the country and it is perfectly legal
 
 00:21:35.266 --> 00:21:41.266
-That is the literal definition of algorithmic certainty. So how does this nantucket loophole connect back to portorico?
+That is the literal definition of algorithmic certainty. So how does this Nantucket loophole connect back to Puerto Rico?
 
 00:21:41.266 --> 00:21:45.986
-It connects through viec viex is a tiny rural island municipality off the coast of portorico
+It connects through viec Vieques is a tiny rural island municipality off the coast of Puerto Rico
 
 00:21:46.066 --> 00:21:52.546
 And it currently has no hospital actually the old one was destroyed by hurricane maria in 2017 right terrible tragedy
@@ -793,19 +793,19 @@ Yeah, so they're in the process of building a new 85 million dollar facility
 But right now it is awaiting formal licensure as a hospital
 
 00:22:02.466 --> 00:22:07.746
-Okay, I think I see where this is going if viex gets this new facility licenses a hospital
+Okay, I think I see where this is going if Vieques gets this new facility licenses a hospital
 
 00:22:08.466 --> 00:22:10.146
 What happens to the algorithm?
 
 00:22:10.146 --> 00:22:17.666
-Well, if viex licenses that facility and gets it medicare certified it automatically becomes a rural hospital by geographic definition
+Well, if Vieques licenses that facility and gets it Medicare certified it automatically becomes a rural hospital by geographic definition
 
 00:22:18.066 --> 00:22:25.186
-Just like nantucket. Okay, and the exact same law that has transferred hundreds of millions of dollars to massachusetts for 15 years
+Just like Nantucket. Okay, and the exact same law that has transferred hundreds of millions of dollars to massachusetts for 15 years
 
 00:22:25.506 --> 00:22:29.026
-Would instantly trigger for portorico viex real wages
+Would instantly trigger for Puerto Rico Vieques real wages
 
 00:22:29.106 --> 00:22:34.626
 Which are actually higher than the suppressed mainland wages because it's expensive to get staff to a small island
@@ -814,10 +814,10 @@ Which are actually higher than the suppressed mainland wages because it's expens
 Right hazard pay basically exactly
 
 00:22:37.106 --> 00:22:43.106
-Those wages would instantly raise the wage index floor for every single hospital on the main island of portorico
+Those wages would instantly raise the wage index floor for every single hospital on the main island of Puerto Rico
 
 00:22:43.186 --> 00:22:47.666
-So to be clear portorico isn't begging for a special handout or some newly invented loophole
+So to be clear Puerto Rico isn't begging for a special handout or some newly invented loophole
 
 00:22:48.226 --> 00:22:51.906
 They are literally just waiting for a building to be licensed so they can apply the exact
@@ -826,25 +826,25 @@ They are literally just waiting for a building to be licensed so they can apply 
 Same federal law that massachusetts has been capitalizing on for a decade and a half
 
 00:22:57.506 --> 00:23:05.026
-Exactly that no petitions no acts of congress needed. Just a licensure decision triggers the algorithm in their favor
+Exactly that no petitions no acts of Congress needed. Just a licensure decision triggers the algorithm in their favor
 
 00:23:05.186 --> 00:23:06.706
 I have to imagine though
 
 00:23:06.706 --> 00:23:11.906
-The economic realities of nantucket and viex are a bit different entire universe is apart
+The economic realities of Nantucket and Vieques are a bit different entire universe is apart
 
 00:23:12.466 --> 00:23:17.106
-The poverty rate in viex is 19.8 times higher than in nantucket
+The poverty rate in Vieques is 19.8 times higher than in Nantucket
 
 00:23:17.826 --> 00:23:24.226
 Nantucket's median household income is nearly seven times higher unbelievable yet because of these geographic formulas
 
 00:23:24.626 --> 00:23:31.106
-Medicare advantage pays one thousand four hundred and twenty three dollars per member per month in nantucket and only
+Medicare Advantage pays one thousand four hundred and twenty three dollars per member per month in Nantucket and only
 
 00:23:32.146 --> 00:23:33.986
-$840 in viex
+$840 in Vieques
 
 00:23:33.986 --> 00:23:40.306
 The poorest island gets the smaller check simply because of an arbitrary geographic construct. It's infuriating
@@ -856,7 +856,7 @@ But i want to pivot here because despite these massive financial headwinds
 Despite the missing duels the wage index traps and the geographic absurdities
 
 00:23:49.186 --> 00:23:52.226
-I really want to look at what portorico is actually delivering to patients
+I really want to look at what Puerto Rico is actually delivering to patients
 
 00:23:52.866 --> 00:23:57.826
 Especially regarding prescription drugs because if you're listening to this and you've recently picked up a prescription state side
@@ -865,7 +865,7 @@ Especially regarding prescription drugs because if you're listening to this and 
 Think about how much it cost. Let's look at the pharmacy tab in the console
 
 00:24:02.066 --> 00:24:05.106
-How is portorico handling medication on such a starved budget?
+How is Puerto Rico handling medication on such a starved budget?
 
 00:24:05.346 --> 00:24:09.986
 So this is what we call the pharmacy paradox and it is a real testament to their operational excellence
@@ -874,7 +874,7 @@ So this is what we call the pharmacy paradox and it is a real testament to their
 Despite having the lowest benchmarks in the nation
 
 00:24:13.106 --> 00:24:18.786
-portorico's medicare advantage members fill about 19 percent more prescriptions per year than the national average
+Puerto Rico's Medicare Advantage members fill about 19 percent more prescriptions per year than the national average
 
 00:24:18.786 --> 00:24:23.586
 Wait 19 percent more so they are actually getting more medication into the hands of their patients. Yes
@@ -898,10 +898,10 @@ But spending 15 less money per person the math is hurting my head today
 How is that even possible because their cost per prescription is roughly 63 dollars nationally?
 
 00:24:49.106 --> 00:24:54.306
-It's about 89 dollars portorico is dispensing medication at 71 cents on the national dollar
+It's about 89 dollars Puerto Rico is dispensing medication at 71 cents on the national dollar
 
 00:24:54.626 --> 00:25:02.466
-If you rank all 56 u.s states and territories portorico is number one in prescriptions filled per person and number one for the lowest cost per prescription
+If you rank all 56 u.s states and territories Puerto Rico is number one in prescriptions filled per person and number one for the lowest cost per prescription
 
 00:25:02.786 --> 00:25:04.786
 That is insane efficiency
@@ -922,7 +922,7 @@ No, it's not that it's driven by phenomenal chronic disease management and reall
 Oh, right
 
 00:25:22.786 --> 00:25:29.106
-If you look at the data 11 of the top 12 drugs prescribed in portorico are low-cost chronic disease generics
+If you look at the data 11 of the top 12 drugs prescribed in Puerto Rico are low-cost chronic disease generics
 
 00:25:29.266 --> 00:25:31.266
 We're talking about thyroid medications
@@ -943,7 +943,7 @@ They're keeping their population out of the expensive hospital beds by making ab
 Which is exactly what we want the health care system to do like preventative care
 
 00:25:51.346 --> 00:25:59.746
-Managing chronic conditions efficiently before they become catastrophic emergencies precisely the limited funds in portorico are genuinely converting into patient care
+Managing chronic conditions efficiently before they become catastrophic emergencies precisely the limited funds in Puerto Rico are genuinely converting into patient care
 
 00:25:59.826 --> 00:26:04.546
 And medication adherence the dollars go to the pharmacy counter not to administrative bloat
@@ -958,25 +958,25 @@ But this success is completely overshadowed by another statutory injustice
 If you look at the pharmacy data, you'll see a glaring anomaly called the zero dollar column the zero dollar column
 
 00:26:17.106 --> 00:26:19.986
-Yeah, I was reading through the part d rules on this in the sources
+Yeah, I was reading through the Part D rules on this in the sources
 
 00:26:20.226 --> 00:26:24.306
 And I I kept looking for a footnote or a typo because I assumed I was misreading the law
 
 00:26:24.626 --> 00:26:28.946
-Doesn't the law actually say what I think it says it does in the medicare part d program
+Doesn't the law actually say what I think it says it does in the Medicare Part D program
 
 00:26:29.026 --> 00:26:36.946
 There is a federal low income subsidy known as lis and it is specifically designed to help poor seniors afford their medication copays
 
 00:26:37.106 --> 00:26:42.546
-Okay, nationally about 90 of medicare plan rows show some level of lis funding
+Okay, nationally about 90 of Medicare plan rows show some level of LIS funding
 
 00:26:42.866 --> 00:26:45.586
-But if you look at the federal payment files for portorico
+But if you look at the federal payment files for Puerto Rico
 
 00:26:46.226 --> 00:26:53.266
-70 out of 85 plan rows show exactly zero dollars and zero cents for the part d low income subsidy zero dollars
+70 out of 85 plan rows show exactly zero dollars and zero cents for the Part D low income subsidy zero dollars
 
 00:26:53.506 --> 00:26:55.986
 For the jurisdiction with a 40 percent poverty rate
@@ -1021,16 +1021,16 @@ ignores hundreds of thousands of vulnerable patients and traps an entire island'
 Is there a way to fix it?
 
 00:27:56.626 --> 00:28:00.306
-And please tell me it doesn't require waiting for a deadlocked congress to pass a new law
+And please tell me it doesn't require waiting for a deadlocked Congress to pass a new law
 
 00:28:00.626 --> 00:28:03.826
-There is a way to fix it actually and it does not require an act of congress
+There is a way to fix it actually and it does not require an act of Congress
 
 00:28:03.906 --> 00:28:07.426
 Thank goodness the tool to fix this is already sitting in the federal toolkit
 
 00:28:07.746 --> 00:28:14.706
-The policy ask from puerto Rico is highly specific. It's called territory stabilization at a point seven zero cost index
+The policy ask from Puerto Rico is highly specific. It's called territory stabilization at a point seven zero cost index
 
 00:28:15.026 --> 00:28:17.026
 territory stabilization at point
@@ -1039,25 +1039,25 @@ territory stabilization at point
 Seven zero. Okay. Let's slow down and translate that. What does a point seven zero cost index actually mean in practice?
 
 00:28:23.746 --> 00:28:27.026
-It means puerto rico isn't asking to be paid mainland rates
+It means Puerto Rico isn't asking to be paid mainland rates
 
 00:28:27.426 --> 00:28:30.546
 They aren't asking for the $1,300 a month that florida gets
 
 00:28:30.946 --> 00:28:36.146
-They are simply asking for parity with the u.s. Virgin islands because virgin islands is at a point seven zero
+They are simply asking for parity with the U.S. Virgin Islands because Virgin Islands is at a point seven zero
 
 00:28:36.306 --> 00:28:40.866
-Right the u.s. Virgin islands already sits at a cost index of roughly point seven zero
+Right the U.S. Virgin Islands already sits at a cost index of roughly point seven zero
 
 00:28:41.186 --> 00:28:45.426
-puerto rico just wants the federal government to apply that same administrative index to them
+Puerto Rico just wants the federal government to apply that same administrative index to them
 
 00:28:45.906 --> 00:28:49.266
-Why the virgin islands though is that a fair comparison mathematically?
+Why the Virgin Islands though is that a fair comparison mathematically?
 
 00:28:49.586 --> 00:28:55.986
-It is the most logical comparison in the system puerto rico and the u.s. Virgin islands share identical medicare statutes
+It is the most logical comparison in the system Puerto Rico and the U.S. Virgin Islands share identical Medicare statutes
 
 00:28:56.226 --> 00:29:03.026
 They are adjacent geographically in the caribbean and critically their raw unadjusted per capita health care costs are nearly identical
@@ -1066,7 +1066,7 @@ They are adjacent geographically in the caribbean and critically their raw unadj
 Wait, if their raw health care costs are identical, why is there a 24 payment gap between them?
 
 00:29:07.826 --> 00:29:12.946
-Why is puerto rico stuck down at a point five zero index? Well, the virgin islands is at point seven zero
+Why is Puerto Rico stuck down at a point five zero index? Well, the Virgin Islands is at point seven zero
 
 00:29:13.186 --> 00:29:15.586
 This gets into the deepest weeds of the formula
@@ -1090,7 +1090,7 @@ Okay
 The algorithm tries to standardize costs by dividing the raw cost of care by the health risk score of the fee for service population
 
 00:29:41.826 --> 00:29:46.306
-Because the u.s. Virgin islands has a tiny fee for service population that is likely undercoded
+Because the U.S. Virgin Islands has a tiny fee for service population that is likely undercoded
 
 00:29:46.626 --> 00:29:53.586
 Their risk score looks very low around point seven two right if you divide a raw cost by a small decimal like point seven two
@@ -1099,7 +1099,7 @@ Their risk score looks very low around point seven two right if you divide a raw
 It mathematically inflates the final answer that inflation pushes their cost index up to around point seven zero
 
 00:29:59.906 --> 00:30:05.026
-Puerto rico on the other hand has a slightly more accurately coded but still tiny fee for service population
+Puerto Rico on the other hand has a slightly more accurately coded but still tiny fee for service population
 
 00:30:05.266 --> 00:30:07.426
 With a higher risk score of about point nine six
@@ -1117,7 +1117,7 @@ Is manufactured by a quirk in the division step of an obscure standardization fo
 Exactly engine a manufactures the gap and there is another algorithm engine c
 
 00:30:30.226 --> 00:30:35.906
-Which is a complicated cap that protects the virgin islands and guam from having their rates dropped too fast
+Which is a complicated cap that protects the Virgin Islands and guam from having their rates dropped too fast
 
 00:30:36.546 --> 00:30:41.106
 Puerto Rico doesn't benefit from that protection either naturally. So the proposed fix is simple
@@ -1126,7 +1126,7 @@ Puerto Rico doesn't benefit from that protection either naturally. So the propos
 The government just needs to acknowledge that the fee for service data in Puerto Rico is statistically meaningless
 
 00:30:47.986 --> 00:30:50.546
-And use the u.s. Virgin islands as a proxy
+And use the U.S. Virgin Islands as a proxy
 
 00:30:50.786 --> 00:30:54.546
 But does the federal agency actually have the legal authority to just say, you know
@@ -1168,7 +1168,7 @@ That makes sense
 So the agency used its discretion to mathematically adjust the Puerto Rico data to match the national proportion of zero claimants
 
 00:31:51.826 --> 00:31:57.586
-They also changed the methodology to only look at beneficiaries who actually had both part a and part b
+They also changed the methodology to only look at beneficiaries who actually had both part a and Part B
 
 00:31:58.146 --> 00:32:01.506
 They have a proven documented track record of adjusting the data
@@ -1186,7 +1186,7 @@ They've used it before to swerve around potholes in the data
 But right now they're throwing their hands up and saying the car is driving itself
 
 00:32:17.106 --> 00:32:25.506
-If a bipartisan group of congress members the local governor the entire healthcare community are all asking for this 0.70 fix
+If a bipartisan group of Congress members the local governor the entire healthcare community are all asking for this 0.70 fix
 
 00:32:26.466 --> 00:32:31.906
 What is the agency's stated reason for refusing to use the similar area clause?
@@ -1261,7 +1261,7 @@ The core takeaway is really a reframing of the narrative
 Puerto Rico is not a distressed failing market needing a federal bailout the data proves
 
 00:34:22.786 --> 00:34:29.906
-It is actually the strongest real world demonstration of high quality high efficiency Medicare advantage in the entire country
+It is actually the strongest real world demonstration of high quality high efficiency Medicare Advantage in the entire country
 
 00:34:30.146 --> 00:34:32.786
 Right, they have achieved near universal participation

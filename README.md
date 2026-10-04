@@ -28,24 +28,24 @@ On every push to `main`, the GitHub Actions workflow
 
 ## Adding an episode
 
-```bash
-pip install jinja2 markdown mutagen faster-whisper   # once
-# ffmpeg must be installed
+One command does the whole pipeline (normalize, intro/outro bumpers, transcript with the
+glossary, metadata, YouTube video + thumbnail, YouTube metadata, site build):
 
-# 1. Ingest the audio (converts to normalized MP3, creates the episode folder)
-python3 scripts/new_episode.py recording.m4a --title "My episode title" \
-    --description "One-paragraph episode description."
-
-# 2. Transcribe (optional but recommended)
-python3 scripts/transcribe.py episodes/001-my-episode-title
-
-# 3. Edit episodes/001-.../notes.md with the show notes
-
-# 4. Rebuild the site and feed
-python3 scripts/build.py
-
-# 5. Commit and push — GitHub Pages redeploys automatically
 ```
+python3 scripts/publish_episode.py inbox/recording.m4a \
+    --title "Episode title" --date 2026-09-30 --number 14 \
+    [--short-title "YouTube title (<=100 chars)"] [--description "Feed description"]
+```
+
+Then write `episodes/NNN-slug/notes.md`, regenerate the YouTube metadata and the site
+with `python3 scripts/publish_episode.py --episode episodes/NNN-slug --steps yt-meta,build`,
+commit, and merge to `main`. Upload `promo/epNN-full.mp4` with `promo/epNN-youtube.json`
+(`scripts/youtube_upload.py upload promo/epNN-youtube.json` with the show's own Google
+OAuth client; see `CLAUDE.md` for the fallback paths).
+
+The individual steps still exist: `scripts/new_episode.py` (ingest only),
+`scripts/transcribe.py` (Whisper with `scripts/glossary.json`; `--fix-only` re-applies the
+glossary to an existing transcript), `scripts/build.py` (site + feed).
 
 ## Configuring the show
 

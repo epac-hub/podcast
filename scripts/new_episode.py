@@ -54,7 +54,7 @@ def convert_audio(src: Path, dest: Path, bitrate: str, normalize: bool) -> None:
             shutil.copy2(src, dest)
             return
         sys.exit("error: ffmpeg is required to convert non-mp3 audio")
-    cmd = ["ffmpeg", "-y", "-i", str(src), "-vn", "-ar", "44100", "-ac", "2"]
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vn", "-ar", "44100", "-ac", "2"]
     if normalize:
         # Apple Podcasts recommends about -16 LUFS for stereo.
         cmd += ["-af", "loudnorm=I=-16:TP=-1.5:LRA=11"]

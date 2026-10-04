@@ -2,26 +2,26 @@ Welcome to today's deep dive. I mean imagine you build this pristine like five-s
 But when you go to sell it the dealership insists on paying you the price of a rusted used bicycle
 That is exactly what is happening to Puerto Rico's health care system right now
 Yeah, it really is a massive contradiction when you dig into the CMS data consoles and enrollment research
-You see this glaring anomaly. I mean Puerto Rico has the highest medicare advantage penetration in the entire US
+You see this glaring anomaly. I mean Puerto Rico has the highest Medicare Advantage penetration in the entire US
 Right over 96% exactly 96.2% and they are getting top tier clinical quality yet
 They receive the absolute lowest federal health care funding in the nation and for you listening
 This isn't just some you know boring policy quirk
 This is a masterclass in how massive gaps in federal funding actually force a local market to innovate just to survive
-So true and to understand why practically everyone chooses medicare advantage or MA over traditional medicare
+So true and to understand why practically everyone chooses Medicare Advantage or MA over traditional Medicare
 We really have to look at what they aren't getting
 Let's compare say Elena in Puerto Rico to Rosa in Florida, okay?
-So both are paying the exact same medicare payroll taxes their whole lives, right?
+So both are paying the exact same Medicare payroll taxes their whole lives, right?
 But Rosa in Florida has access to this whole federal safety net. She gets
-supplemental security income medicare savings programs
+supplemental security income Medicare savings programs
 Part D extra help for prescriptions and long-term care Medicaid and Elena in Puerto Rico
 She gets none of that right none of it. She is completely excluded
 So that creates a federal support gap of roughly three thousand four hundred dollars a month Wow three fee four hundred dollars every single month
-That is huge it is and it makes standard traditional medicare basically useless for Elena
-If she wanted full coverage like standard medicare plus a medigap policy and a drug plan
+That is huge it is and it makes standard traditional Medicare basically useless for Elena
+If she wanted full coverage like standard Medicare plus a medigap policy and a drug plan
 She'd be paying around four hundred fifty dollars a month out of pocket which on a fixed income in Puerto Rico is literally impossible
-So she chooses medicare advantage because it steps in and offers a zero dollar premium
-Yeah, and they bundle in vital supplemental benefits to stuff traditional medicare ignores like dental vision and transportation
-It's kind of like traditional medicare is a smartphone
+So she chooses Medicare Advantage because it steps in and offers a zero dollar premium
+Yeah, and they bundle in vital supplemental benefits to stuff traditional Medicare ignores like dental vision and transportation
+It's kind of like traditional Medicare is a smartphone
 But for someone in Puerto Rico the battery in the screen are sold separately
 Yeah, so MA plans essentially manufacture their own batteries and give away a fully working phone for free
 Just to patch those holes in the safety net
@@ -36,7 +36,7 @@ $778 a month right well the US average is over $1300
 Yeah, $1313 to be exact
 It makes no sense until you look at the historical roots from the 1930s through the 1980s
 Puerto Rico had a government-run healthcare model
-So doctors weren't really billing medicare like they did on the mainland
+So doctors weren't really billing Medicare like they did on the mainland
 Exactly, they didn't do standard fee-for-service billing so that artificially and permanently
 Depressed the historical data used to calculate today's MA rates
 So CMS is financially starving a five-star market today

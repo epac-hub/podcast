@@ -253,7 +253,7 @@ significant changes without needing an act of Congress.
 So they can do it when they want to.
 Clearly.
 For instance, in 2012, CMS restricted the baseline calculation to only include beneficiaries
-who had both part A and part B of Medicare.
+who had both part A and Part B of Medicare.
 They recognized that Puerto Rico's auto-enrollment rules were skewing the data, so they administratively
 chose to filter it.
 They just filtered the data on their own.

@@ -131,13 +131,13 @@ by passing the squeeze down to the actual healthcare providers.
 Okay, so the funding gap alone clearly doesn't tell the whole story.
 If we really want to know if these corporations are struggling or thriving, we have to actually
 open up their books and follow the money.
-That is exactly what the researchers of this health affairs scholar study did.
+That is exactly what the researchers of this Health Affairs Scholar study did.
 They built a consolidated data set, analyzing financial statements from 2011 all the way to
 2022.
 A full 12 years of receipts.
 Yeah, and they focused on the three massive insurers that essentially run the board down
 there.
-MMM, SFS, and MCS.
+MMM, Triple-S, and MCS.
 By 2022, these three companies controlled about 92% of all Medicare beneficiaries
 in Puerto Rico.
 With mean annual revenues of $4.92 billion.
@@ -242,7 +242,7 @@ The power grid collapsed.
 Patients physically could not access their doctors.
 And in 2020, you had lockdowns and quarantines.
 Healthcare utilization plummeted.
-Because M.A. operates on those capitated payments, the federal money
+Because MA operates on those capitated payments, the federal money
 kept flowing in while the medical payouts dropped.
 The study points out that in 2020, the medical loss ratio hit a study
 period low of 80.1 percent, while profit margins peaked at 3.32 percent.
