@@ -34,6 +34,7 @@ table{border-collapse:collapse; width:100%; min-width:640px}
 th,td{padding:10px 12px; text-align:left; border-bottom:1px solid var(--line2); vertical-align:top}
 th{font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--mut); font-weight:600}
 td.num{text-align:right; white-space:nowrap; font-weight:500}
+td.num .small{white-space:normal; font-weight:400}
 th.num{text-align:right}
 tr:last-child td{border-bottom:0}
 .plat{display:flex; align-items:center; gap:10px; font-weight:600}
