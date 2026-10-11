@@ -1,6 +1,6 @@
 {
   "_comment": "Whisper glossary for The Healthcare Paradox. 'prompt' is passed to Whisper as initial_prompt (keep it under ~200 words); 'replacements' are regex fixes applied to every transcript line after transcription (flags: i = ignore case).",
-  "prompt": "The Healthcare Paradox, a podcast about Puerto Rico's health system. Medicare Advantage (MA), Medicaid, the Medicaid cliff, CMS, HHS, ASES, MMAPA, FEMA, FOMB, PRHIA, Health Affairs Scholar, MedPAC. The insurers MMM, Triple-S and MCS. Vieques, Culebra, Guaynabo, San Juan, Centro Médico, the Susana Centeno Hospital. Secretary Robert F. Kennedy Jr., Governor Jenniffer González-Colón, Dr. Greg Murphy, Dr. Mehmet Oz, Rep. Pablo José Hernández, Jaideliz Moreno Ventura, David Sanes Rodríguez, Judge Héctor Laffitte. Capitation, medical loss ratio (MLR), fee-for-service, benchmark, star ratings, risk scores, coding intensity.",
+  "prompt": "The Healthcare Paradox, a podcast about Puerto Rico's health system. Medicare Advantage (MA), Medicaid, the Medicaid cliff, CMS, HHS, ASES, MMAPA, FEMA, FOMB, PRHIA, Health Affairs Scholar, MedPAC. The insurers MMM, Triple-S and MCS. Vieques, Culebra, Guaynabo, San Juan, Centro Médico, the Susana Centeno Hospital. Secretary Robert F. Kennedy Jr., Governor Jenniffer González-Colón, Dr. Greg Murphy, Dr. Mehmet Oz, Rep. Pablo José Hernández, Jaideliz Moreno Ventura, David Sanes Rodríguez, Judge Héctor Laffitte. Capitation, medical loss ratio (MLR), fee-for-service, benchmark, star ratings, risk scores, coding intensity. Sin Comillas, El Nuevo Día, Becker's Payer Issues, MCS Classicare, Triple-S Advantage, GuideWell, anticholinergics, Jim O'Drobinak, Dr. Inés Hernández.",
   "replacements": [
     [
       "\\bSFS\\b",
@@ -171,6 +171,51 @@
       "\\bsan juan\\b",
       "San Juan",
       "i"
+    ],
+    [
+      "\\b(?:Sincom[ií]as|Syncomias|Cinecomias|Sin ?Comias)\\b",
+      "Sin Comillas",
+      "i"
+    ],
+    [
+      "\\bSSS\\b",
+      "Triple-S",
+      ""
+    ],
+    [
+      "\\bPeek Health\\b",
+      "Peak Health",
+      ""
+    ],
+    [
+      "\\bGuidewell\\b",
+      "GuideWell",
+      ""
+    ],
+    [
+      "\\bBecker's payer issues\\b",
+      "Becker's Payer Issues",
+      "i"
+    ],
+    [
+      "\\bJim O'Drubinack\\b",
+      "Jim O'Drobinak",
+      ""
+    ],
+    [
+      "\\bInes Hernandez\\b",
+      "Inés Hernández",
+      ""
+    ],
+    [
+      "\\bMCS Classic Care\\b",
+      "MCS Classicare",
+      ""
+    ],
+    [
+      "\\b[Aa]nti-?colonergic",
+      "anticholinergic",
+      ""
     ]
   ]
 }

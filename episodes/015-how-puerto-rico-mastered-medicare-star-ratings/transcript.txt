@@ -1,0 +1,440 @@
+Achieving a perfect score on your federal Medicare ratings used to be a bit like taking your car
+in for a standard annual inspection, you know?
+Right, like the mechanic checks the oil, kicks the tires.
+Yeah, exactly. They make sure the brake lights work, and I mean, as long as nothing is actively
+on fire, you get your sticker and you're good for another year.
+Pretty low bar, all things considered.
+Right, but imagine pulling into that exact same inspection bay today,
+and the mechanic tells you the rules have completely changed.
+Now they require your car to have this, like, real-time digital dashboard,
+tracking tire pressure, transmission fluid, and brake pad wear, all simultaneously.
+Oh, and they are absolutely going to penalize you if a warning light flashes for even a second
+while you're out on the highway.
+Exactly. And that sudden, just uncompromising shift in difficulty?
+Well, that is exactly what the United States government just did to the Medicare
+Advantage grading system.
+Yeah, the metrics for success didn't just inch upward.
+The whole underlying philosophy of what constitutes good healthcare was just completely rewritten.
+Welcome to today's Deep Dive.
+Our mission today is to cut through the incredibly dense, often overwhelming
+bureaucracy of the U.S. healthcare system.
+Which is no small task.
+No kidding.
+But we want to find out exactly what it takes to be considered a perfect
+health plan right now in the year 2027.
+We're going to explore why so many massive organizations are suddenly
+failing this test. And more importantly, who is actually passing it?
+We are so glad you're joining us for this one.
+To map out this shifting landscape, we're drawing from a really specific stack of sources today.
+We are looking at the official 2027 Medicare Advantage and Part D Star Ratings fact sheet,
+which is published directly by CMS, the Centers for Medicare and Medicaid Services.
+Right, the actual grading rubric.
+Exactly. And we're cross-referencing that with an industry data breakdown
+from Becker's Payer Issues.
+And to figure out how to actually survive this crazy new regulatory environment,
+we're diving into some incredible local reporting out of Puerto Rico from El Nuevo
+Día and Sin Comillas.
+Because when you put all of those sources together, you uncover this like central mystery.
+Right. In a year where Medicare Advantage ratings are just plummeting all across the
+mainland United States, how is Puerto Rico managing to crack the code?
+I mean, how are they delivering top-tier five-star care to hundreds of thousands of patients
+under some of the toughest economic conditions in the entire country?
+It's a massive statistical anomaly, and it's forcing the entire industry to pay attention.
+But to truly understand how unprecedented their success is,
+we first need to establish the baseline, right?
+Yeah, we have to look at the national battlefield that CMS just created for 2027.
+Like, what do these star ratings actually measure?
+And why did the test just get so much harder?
+Okay, let's unpack this.
+For anyone who, you know, doesn't spend their days reading federal health care policy,
+Medicare evaluates over 500 plans every year.
+Specifically, I think it was 508 contracts that got rated this cycle.
+Right. And they aren't just sending out a survey asking if you liked the
+magazines in your doctor's waiting room.
+They use up to 43 unique performance measures
+for these Medicare Advantage prescription drug contracts.
+Wow, 43. That's a lot of metrics.
+It's up to 43 distinct, highly rigorous metrics.
+I mean, they are evaluating everything from how effectively a plan manages chronic conditions,
+like diabetes and hypertension, to the quality and frequency of preventive screenings.
+Oh, and I saw they even measure customer service efficiency.
+Appeal win rates, wait times for appointments, and wait,
+the availability of foreign language interpreters at call centers?
+Yeah, even that.
+Wow.
+It's an exhaustive audit of how these organizations operate on a literal daily basis.
+And based on all of that data, CMS establishes cut points to determine
+if a plan gets one, two, three, four, or the highly coveted five stars.
+But when the 2027 ratings dropped, it wasn't just a slight adjustment, was it?
+No, not at all.
+The industry broadly referred to it as a bloodbath.
+A bloodbath.
+Yeah.
+Wow.
+Yeah.
+The data definitely reflects a massive downward trend.
+A key metric to look at here is the enrollment weighted average rating.
+Okay, let's define that for the listener real quick.
+The enrollment weighted average isn't just like taking the scores of all 508 plans
+and dividing them by 508.
+Right.
+That would skew the data.
+Exactly.
+It factors in how many actual human beings are enrolled in those plans.
+So a massive plan with 2 million people carries way more weight in this average
+than some tiny plan with 5,000 people.
+It basically tells us the average experience of the actual patient population.
+That's exactly the distinction we need.
+And when you look at that enrollment weighted average for Medicare Advantage this year,
+it dropped to 3.99.
+Which, okay, that might not sound like a huge fall from 4.01 in 2026 or 4.07 back in 2024.
+Right, but in the aggregate of millions of patients,
+it represents a massive downgrade in federal scoring.
+I mean, overall, only about 37% of plans earned 4 stars or higher this year.
+Oh, wow.
+Yeah, that is a really steep drop from about 44% in 2026.
+But the real shocker, and honestly the main reason we're doing this deep dive,
+is what happened at the absolute top of the mountain.
+Nationwide, only 15 Medicare Advantage plans earned a perfect 5-star rating for 2027.
+Down from 22 the previous year.
+So the obvious question is, you know, did the health plans just
+suddenly get way worse at doing their jobs?
+The plans didn't necessarily change their behavior at all.
+CMS changed the math.
+They introduced new, like, highly strict clinical measures.
+For instance, they added a measure to track the concurrent use of opioids and benzodiazepines.
+So making sure a patient isn't being prescribed a heavy pain killer
+and a heavy anti-anxiety medication at the exact same time.
+Because I mean, that combination could dangerously suppress breathing, right?
+Correct.
+That's a huge safety issue.
+Another major addition is a measure tracking the use of multiple anticholinergic medications
+in older adults.
+Okay, honestly, I consider myself pretty well read.
+But I totally had to look that one up in our notes.
+What are we actually talking about when we say anticholinergic medications?
+And why is CMS suddenly so laser focused on them?
+It's a perfect example of how CMS is raising the bar,
+moving from simple administrative checks to intense clinical oversight.
+Anticholinergics are a class of drugs that basically blocks certain neurotransmitters
+in the nervous system.
+Are these, like, rare drugs?
+Not at all.
+We are talking about incredibly common medications,
+certain over-the-counter antihistamines, specific antidepressants,
+or medications for overactive bladders.
+The danger is that when older adults take multiple medications in this class simultaneously,
+it can cause severe confusion, dizziness, and cognitive impairment that actually
+mimics dementia.
+Wait, really?
+So a patient might end up in a neurologist's office being evaluated for dementia
+when, in reality, they're just suffering from a toxic overlap of totally routine prescriptions?
+Yes.
+That is the hidden danger CMS is trying to spotlight.
+And catching this requires a massive level of coordination,
+because a patient might see, you know, a cardiologist for one issue,
+a psychiatrist for another, and their primary care doctor for a third.
+And those doctors aren't always looking at the exact same digital charts.
+Exactly.
+But the health plan sits above all of them.
+CMS is basically telling the health plans,
+hey, you process all the pharmacy claims.
+It's your job to see the overlap, flag it, and intervene before the patient gets hurt.
+Okay, this totally goes back to that digital dashboard analogy.
+CMS isn't just checking the oil anymore.
+They are demanding a real-time system that tracks all these moving parts
+across entirely different doctors' offices.
+And they penalize the health plan if a dangerous drug combination slips through.
+Right.
+And they didn't just add new measures either.
+They completely changed the grading weight of the existing ones.
+Yeah, that weighting shift is arguably the biggest hurdle of all.
+I saw that CMS tripled the weight of metrics that measure the improvement
+or maintenance of physical and mental health outcomes.
+Tripled it.
+So it went from a weight of one to a weight of three in the overall grading formula.
+That is massive.
+It is.
+Which means CMS is shifting the entire focus of the star ratings away from the process
+and heavily toward long-term preventative outcomes.
+It's no longer enough to prove you have a polite call center or short wait times.
+You can't just prove you scheduled a screening.
+The plan has to prove, mathematically,
+that its members are actually staying physically and mentally healthier
+over a long period of time.
+Exactly.
+Knowing that the test got substantially harder
+and that it now requires this intense real-time data monitoring,
+you would naturally expect the traditionally highest performing types of organizations
+to dominate those top spots.
+But the CMS fact sheet reveals a massive anomaly here.
+Let's look at the split between non-profit and for-profit health plans.
+What's fascinating here is historically,
+and even in this new strict 2027 environment,
+non-profit organizations generally score much better across the broad average.
+The CMS data explicitly points this out.
+Approximately 44% of non-profit contracts received four or more stars this year.
+Right. Compared to the for-profit plans,
+where only 34% managed to hit that four-star mark.
+So if you're just playing the odds and you pick a non-profit plan out of a hat,
+it is statistically more likely to be a higher rated plan.
+That holds true for the middle of the pack, absolutely.
+But when we look at the absolute peak of the mountain,
+those elite 15 plans that managed to secure the perfect five-star rating,
+a completely different narrative emerges.
+Out of those 15 plans nationwide, 14 of them are for-profit carriers.
+14 out of 15.
+Yes.
+The broad average is totally dominated by non-profits,
+but the absolute peak of performance is almost exclusively for-profit.
+Let me throw a theory at you, because when I read that,
+my first thought went straight to resources.
+Are we seeing a scenario where it now takes massive for-profit corporate bank accounts
+to buy the sophisticated data analytics required
+to track these complex new CMS metrics?
+Like they're just buying their way to the top.
+Exactly.
+Are the non-profits just getting stuck at four-stars
+because they simply can't afford the multi-million-dollar software suites
+needed to monitor, say,
+anticholinergic overlaps in real time?
+I'm going to push back on that, actually.
+Because while that is a really common assumption,
+it kind of misses the structural reality of these organizations.
+It's not just about the size of the bank account.
+Some of the largest non-profit health systems in the country
+sit on massive multi-billion-dollar endowments.
+Oh, right.
+Good point.
+The real issue dividing the four-star plans from the five-star plans is bureaucratic agility.
+Agility.
+Explain that.
+Okay.
+So achieving a four-star rating requires delivering consistently good care,
+but achieving a five-star rating under the new 2027 rules
+requires flawless data capture and the ability to pivot your entire operational structure
+incredibly rapidly.
+Ah, I see where you're going with this.
+Right.
+A massive for-profit entity can often make a unilateral executive decision to
+scrap their old tech stack, hire a new vendor,
+and completely rebuild their population health analytics in a single fiscal year
+just to meet a new CMS metric.
+Whereas a traditional non-profit might require three years of committee reviews
+board approvals and pilot programs just to change how they text patients about flu shots.
+Exactly.
+It's about how fast they can adapt to the new math.
+Okay.
+That makes a lot of sense.
+The for-profits have the structural agility to pivot the entire machine
+when CMS suddenly changes the grading rubric.
+But even with that agility, as we saw, only 14 for-profit plans in the entire country
+actually pulled it off.
+Which brings us to the most fascinating geographical data in this entire deep dive.
+So if limitless corporate wealth isn't the guaranteed silver bullet to a five-star rating,
+what actually is?
+To answer that, we have to look at the map of these 15 elite winners
+because there is a massive cluster in a place you might least expect.
+Here's where it gets really interesting.
+When you look at the Becker's Payer Issues breakdown,
+you see a scattering of winners across the mainland.
+You have plans in New York, Florida, Michigan, Nevada.
+But then you look at Puerto Rico.
+Out of the 15 elite five-star plans nationwide,
+two of them are based in Puerto Rico.
+Yeah, let's establish exactly who these standout organizations are.
+First, we have MCS Classicare.
+This is a for-profit plan under MHH Healthcare.
+And according to the local reporting in El Nuevo Día,
+they just achieved five stars for the fourth consecutive year.
+Four years in a row.
+Right.
+They are the only plan on the island to maintain this maximum score year after year,
+which, given everything we just discussed about how much harder CMS made the test,
+is just a staggering logistical achievement.
+Then we have Triple-S Advantage,
+which is a for-profit plan operating under GuideWell.
+According to Sin Comillas, they hit five stars for their HMO contract
+and 4.5 stars for their PPO contract this year.
+Let's quickly differentiate those for the listener just in case.
+An HMO or Health Maintenance Organization generally requires patients to use a strict,
+localized network of doctors and get referrals from a primary care physician.
+It's highly controlled and highly coordinated.
+Right.
+A PPO, or preferred provider organization,
+offers more flexibility to see out-of-network specialists without a referral,
+but that flexibility makes it much harder for the health plan to track
+every single thing the patient is doing.
+Which perfectly explains why Triple-S scored the flawless five stars
+on their highly coordinated HMO,
+but slightly lower on their more flexible PPO.
+But to truly grasp the weight of what Puerto Rico has achieved here,
+we have to look beyond just the star ratings
+and look at the sheer scale of the success.
+The volume of patients.
+Exactly.
+The enrollment numbers are where this story stops
+being just an interesting regional footnote
+and becomes a complete disruption of the national health care narrative.
+Let's do the math on this because when I laid out the Becker's data side by side,
+it is almost unbelievable.
+We are looking at a list of the 15 best plans in America.
+Let's look at the mainland United States plans first.
+You have United Health Care with a few contracts that add up to about 60,000 enrollees.
+You have Longevity Health Plan with several contracts totaling maybe 5,000 enrollees.
+Right. Anthem has about 9,600. Kaiser, Nevada has 22,000.
+Leon Health in Florida has about 40,000. Peak Health has 12,000.
+Clover Health is the biggest mainland winner with about 155,000 enrollees.
+And if you aggregate all of those mainland five-star enrollees together,
+you get roughly 305,000 patients across the entire continental United States receiving
+five-star care.
+Okay, now let's look at Puerto Rico.
+MCS Classicare alone has an astronomical 360,519 enrollees.
+Triple-S Advantage has 120,943 on their five-star contract.
+That is over 481,000 patients in Puerto Rico receiving the absolute highest
+federally rated care available.
+The contrast is just staggering.
+It is.
+The two plans in Puerto Rico have more patients enrolled in five-star Medicare Advantage Care
+than the entire rest of the United States combined.
+That blew my mind.
+The vast majority of all five-star patients in America right now are living on one island.
+And when you factor in the broader 4.5-star ratings,
+nearly 100% of Medicare Advantage patients in Puerto Rico are receiving top-tier care.
+If we connect this to the bigger picture,
+it creates what the industry views as a profound healthcare paradox.
+Puerto Rico is operating under some of the most challenging economic conditions in the
+entire U.S. healthcare system.
+They historically face lower federal reimbursement rates than mainland states.
+And complex infrastructure challenges, right?
+Absolutely.
+They are operating in an environment of severe economic stress,
+dealing with hurdles that wealthy mainland jurisdictions simply do not have to manage.
+Which completely destroys the excuse that you need a wealthy zip code to deliver
+perfect healthcare.
+I mean, if Puerto Rico is hitting 100% on a harder test
+while operating with fewer resources,
+then mainland plans don't really have an excuse for their dropping scores, do they?
+They really don't.
+And this is exactly why healthcare administrators across the country
+are studying what MCS and Triple-S are doing.
+Because their success is clearly not just a product
+of having unlimited cash to throw at software vendors.
+It is a fundamental structural difference in how they deliver care.
+In the local reporting, we actually have quotes from the leadership
+of both organizations pointing directly to their strategy.
+Dr. Inés Hernández, the chief medical officer at MCS,
+told El Nuevo Día that this sustained excellence proves they can offer the
+highest levels of execution, quote,
+even under the most challenging economic conditions in the United States.
+Yeah.
+And Jim O'Drobinak, the CEO of MCS,
+emphasized establishing the best alliances with providers on the island.
+Over triple-S, CEO Michael A. Muchniki told Sin Comillas
+that their five-star rating comes down to the strength of their
+relationships with physicians and community organizations,
+basically making care more coordinated and responsive.
+Now, at first glance, that might sound like standard corporate PR,
+you know, every health plan claims to have great relationships
+with their doctors and communities.
+Oh, absolutely.
+We love our community as plastered on every corporate brochure.
+But a friendly relationship doesn't automatically fulfill a complex CMS
+metric about opioid usage.
+How does an alliance actually translate into a perfect federal math score?
+The mechanism here is what we call the vertical integration of community resources.
+Mainland plans often rely on top-down software approaches.
+They buy an expensive analytics program that flags a missed screening,
+and the software automatically sends a text message or an email to the patient.
+But a text message is so easy to ignore,
+especially for older, vulnerable populations.
+Exactly.
+The dashboard flashes a warning light,
+but nobody is actually fixing the engine.
+Ah, right.
+What Puerto Rico has mastered is using human infrastructure
+as their primary data capture and intervention tool.
+An integrated alliance means the health plan might fund local community health workers.
+When a patient misses an appointment,
+or when a high-risk medication is prescribed,
+it isn't just an automated email.
+A local, culturally competent community worker
+might physically go to the patient's home.
+Wait, like physically knock on their door?
+Yes.
+They sit at the kitchen table, look at the pill bottles,
+and realize, oh, the patient is taking an opioid from their surgeon,
+and a benzodiazepine from their psychiatrist.
+Wow.
+So they are bypassing the entirely fragmented digital systems
+by putting actual eyes directly on the patient.
+They intervene right there.
+The community worker coordinates directly with the primary care doctor
+and the pharmacist to fix the prescription overlap.
+They ensure the patient actually attends the preventative screening
+by, you know, arranging transportation.
+They are physically forcing the outcomes that CMS is demanding.
+When CMS triples the weight of improving physical and mental health,
+you cannot fake that with good paperwork or a fancy software algorithm.
+The patient actually has to be healthier.
+It's active, localized engagement.
+The CEO of MCS even stated that their goal is to go beyond being a plan
+that simply pays for your care,
+to being a plan that actively occupies itself
+with keeping Puerto Rico healthy.
+They are taking direct on-the-ground ownership
+of the population's daily outcomes.
+And the results validate the model.
+You have to remember the baseline here.
+71% of all MA enrollees nationwide are in contracts with four or more stars.
+But in Puerto Rico, you have this massive concentration
+of nearly half a million people sitting at the absolute pinnacle,
+the five-star level.
+It's incredible.
+By deeply aligning the health plan's goals
+with the primary care doctors and local community groups,
+they have built a system that is far more efficient at capturing data
+and driving healthy behavior
+than a disconnected mainland system relying purely on technology.
+So what does this all mean for you, the listener?
+Let's bring this all together.
+The big takeaway is that the CMS ratings are getting much stricter,
+and the grading curve is brutal.
+But ultimately, that is a really positive development.
+They are acting as a strict auditor to protect you as a patient.
+Yeah, they're cracking down on dangerous drug combinations
+and demanding actual measurable improvements
+in your physical and mental well-being over time.
+And while the national averages are dropping
+and major organizations are losing their top tier status,
+this deep dive proves that achieving perfection
+under these new rules is entirely possible.
+But the roadmap to that perfection
+isn't where the industry expected it to be.
+Right.
+The roadmap isn't sitting in a massive corporate server farm
+in New York or Los Angeles.
+It's in Puerto Rico.
+Highly coordinated, community-focused models are proving
+that top-tier care can scale to hundreds of thousands of people,
+even against immense economic headwinds
+and systemic funding challenges.
+Which leads us with the ultimate healthcare paradox to consider.
+If a jurisdiction facing immense financial hurdles
+and lower federal reimbursement rates
+can construct a network where nearly half a million people
+receive the absolute highest standard of Medicare Advantage care,
+well, maybe the secret to five-star healthcare
+is less about having limitless funding
+and more about having genuine boots on the ground community integration.
+Exactly.
+What could the rest of the United States learn
+by treating Puerto Rico not as a regional outlier
+but as the fundamental blueprint
+for the future of American healthcare?
+It really makes you rethink the whole system.
+If Puerto Rico can sprint on that 45-degree treadmill incline
+with sandbags strapped to their backs
+and still pass the test flawlessly,
+maybe the mainland plans just need to learn how to run all over again.
+Thanks for joining us for this deep dive and keep asking the right questions.
