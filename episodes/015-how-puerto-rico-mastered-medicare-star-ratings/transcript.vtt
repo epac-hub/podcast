@@ -1,0 +1,1322 @@
+WEBVTT
+
+00:00:04.780 --> 00:00:10.380
+Achieving a perfect score on your federal Medicare ratings used to be a bit like taking your car
+
+00:00:10.380 --> 00:00:13.580
+in for a standard annual inspection, you know?
+
+00:00:13.580 --> 00:00:16.780
+Right, like the mechanic checks the oil, kicks the tires.
+
+00:00:16.780 --> 00:00:21.500
+Yeah, exactly. They make sure the brake lights work, and I mean, as long as nothing is actively
+
+00:00:21.500 --> 00:00:24.140
+on fire, you get your sticker and you're good for another year.
+
+00:00:24.140 --> 00:00:25.900
+Pretty low bar, all things considered.
+
+00:00:25.900 --> 00:00:30.060
+Right, but imagine pulling into that exact same inspection bay today,
+
+00:00:30.060 --> 00:00:32.540
+and the mechanic tells you the rules have completely changed.
+
+00:00:32.540 --> 00:00:36.380
+Now they require your car to have this, like, real-time digital dashboard,
+
+00:00:36.380 --> 00:00:41.260
+tracking tire pressure, transmission fluid, and brake pad wear, all simultaneously.
+
+00:00:41.260 --> 00:00:45.980
+Oh, and they are absolutely going to penalize you if a warning light flashes for even a second
+
+00:00:45.980 --> 00:00:47.420
+while you're out on the highway.
+
+00:00:47.420 --> 00:00:51.820
+Exactly. And that sudden, just uncompromising shift in difficulty?
+
+00:00:51.820 --> 00:00:55.020
+Well, that is exactly what the United States government just did to the Medicare
+
+00:00:55.020 --> 00:00:56.620
+Advantage grading system.
+
+00:00:56.620 --> 00:01:00.140
+Yeah, the metrics for success didn't just inch upward.
+
+00:01:00.220 --> 00:01:06.060
+The whole underlying philosophy of what constitutes good healthcare was just completely rewritten.
+
+00:01:06.620 --> 00:01:08.460
+Welcome to today's Deep Dive.
+
+00:01:08.460 --> 00:01:12.620
+Our mission today is to cut through the incredibly dense, often overwhelming
+
+00:01:12.620 --> 00:01:14.860
+bureaucracy of the U.S. healthcare system.
+
+00:01:14.860 --> 00:01:16.380
+Which is no small task.
+
+00:01:16.380 --> 00:01:17.180
+No kidding.
+
+00:01:17.180 --> 00:01:20.700
+But we want to find out exactly what it takes to be considered a perfect
+
+00:01:20.700 --> 00:01:23.020
+health plan right now in the year 2027.
+
+00:01:23.660 --> 00:01:26.620
+We're going to explore why so many massive organizations are suddenly
+
+00:01:26.620 --> 00:01:31.660
+failing this test. And more importantly, who is actually passing it?
+
+00:01:31.660 --> 00:01:33.900
+We are so glad you're joining us for this one.
+
+00:01:33.900 --> 00:01:39.580
+To map out this shifting landscape, we're drawing from a really specific stack of sources today.
+
+00:01:39.580 --> 00:01:44.860
+We are looking at the official 2027 Medicare Advantage and Part D Star Ratings fact sheet,
+
+00:01:44.860 --> 00:01:49.340
+which is published directly by CMS, the Centers for Medicare and Medicaid Services.
+
+00:01:49.340 --> 00:01:51.260
+Right, the actual grading rubric.
+
+00:01:51.260 --> 00:01:55.020
+Exactly. And we're cross-referencing that with an industry data breakdown
+
+00:01:55.020 --> 00:01:56.620
+from Becker's Payer Issues.
+
+00:01:56.620 --> 00:02:00.860
+And to figure out how to actually survive this crazy new regulatory environment,
+
+00:02:00.860 --> 00:02:04.780
+we're diving into some incredible local reporting out of Puerto Rico from El Nuevo
+
+00:02:04.780 --> 00:02:06.380
+Día and Sin Comillas.
+
+00:02:07.100 --> 00:02:11.740
+Because when you put all of those sources together, you uncover this like central mystery.
+
+00:02:11.740 --> 00:02:15.660
+Right. In a year where Medicare Advantage ratings are just plummeting all across the
+
+00:02:15.660 --> 00:02:19.900
+mainland United States, how is Puerto Rico managing to crack the code?
+
+00:02:20.700 --> 00:02:26.140
+I mean, how are they delivering top-tier five-star care to hundreds of thousands of patients
+
+00:02:26.140 --> 00:02:29.260
+under some of the toughest economic conditions in the entire country?
+
+00:02:29.260 --> 00:02:33.900
+It's a massive statistical anomaly, and it's forcing the entire industry to pay attention.
+
+00:02:34.460 --> 00:02:38.380
+But to truly understand how unprecedented their success is,
+
+00:02:38.380 --> 00:02:41.260
+we first need to establish the baseline, right?
+
+00:02:41.260 --> 00:02:45.500
+Yeah, we have to look at the national battlefield that CMS just created for 2027.
+
+00:02:46.060 --> 00:02:48.380
+Like, what do these star ratings actually measure?
+
+00:02:49.100 --> 00:02:51.500
+And why did the test just get so much harder?
+
+00:02:52.140 --> 00:02:53.340
+Okay, let's unpack this.
+
+00:02:53.980 --> 00:02:58.140
+For anyone who, you know, doesn't spend their days reading federal health care policy,
+
+00:02:58.700 --> 00:03:01.100
+Medicare evaluates over 500 plans every year.
+
+00:03:01.740 --> 00:03:05.980
+Specifically, I think it was 508 contracts that got rated this cycle.
+
+00:03:05.980 --> 00:03:09.820
+Right. And they aren't just sending out a survey asking if you liked the
+
+00:03:09.820 --> 00:03:11.500
+magazines in your doctor's waiting room.
+
+00:03:12.060 --> 00:03:15.180
+They use up to 43 unique performance measures
+
+00:03:15.180 --> 00:03:17.820
+for these Medicare Advantage prescription drug contracts.
+
+00:03:18.540 --> 00:03:22.220
+Wow, 43. That's a lot of metrics.
+
+00:03:22.780 --> 00:03:26.780
+It's up to 43 distinct, highly rigorous metrics.
+
+00:03:26.780 --> 00:03:31.420
+I mean, they are evaluating everything from how effectively a plan manages chronic conditions,
+
+00:03:31.420 --> 00:03:36.780
+like diabetes and hypertension, to the quality and frequency of preventive screenings.
+
+00:03:36.780 --> 00:03:39.980
+Oh, and I saw they even measure customer service efficiency.
+
+00:03:39.980 --> 00:03:43.900
+Appeal win rates, wait times for appointments, and wait,
+
+00:03:43.900 --> 00:03:47.260
+the availability of foreign language interpreters at call centers?
+
+00:03:47.260 --> 00:03:48.540
+Yeah, even that.
+
+00:03:48.540 --> 00:03:48.860
+Wow.
+
+00:03:48.860 --> 00:03:53.500
+It's an exhaustive audit of how these organizations operate on a literal daily basis.
+
+00:03:54.060 --> 00:03:58.860
+And based on all of that data, CMS establishes cut points to determine
+
+00:03:58.860 --> 00:04:03.900
+if a plan gets one, two, three, four, or the highly coveted five stars.
+
+00:04:04.860 --> 00:04:09.980
+But when the 2027 ratings dropped, it wasn't just a slight adjustment, was it?
+
+00:04:09.980 --> 00:04:11.020
+No, not at all.
+
+00:04:11.580 --> 00:04:14.540
+The industry broadly referred to it as a bloodbath.
+
+00:04:14.540 --> 00:04:15.340
+A bloodbath.
+
+00:04:15.340 --> 00:04:15.740
+Yeah.
+
+00:04:15.740 --> 00:04:16.220
+Wow.
+
+00:04:16.220 --> 00:04:16.940
+Yeah.
+
+00:04:16.940 --> 00:04:19.980
+The data definitely reflects a massive downward trend.
+
+00:04:19.980 --> 00:04:23.820
+A key metric to look at here is the enrollment weighted average rating.
+
+00:04:23.820 --> 00:04:26.300
+Okay, let's define that for the listener real quick.
+
+00:04:26.300 --> 00:04:30.940
+The enrollment weighted average isn't just like taking the scores of all 508 plans
+
+00:04:30.940 --> 00:04:32.620
+and dividing them by 508.
+
+00:04:32.620 --> 00:04:32.860
+Right.
+
+00:04:32.860 --> 00:04:33.900
+That would skew the data.
+
+00:04:33.900 --> 00:04:34.620
+Exactly.
+
+00:04:34.620 --> 00:04:39.420
+It factors in how many actual human beings are enrolled in those plans.
+
+00:04:39.420 --> 00:04:43.740
+So a massive plan with 2 million people carries way more weight in this average
+
+00:04:43.740 --> 00:04:46.540
+than some tiny plan with 5,000 people.
+
+00:04:46.540 --> 00:04:51.100
+It basically tells us the average experience of the actual patient population.
+
+00:04:51.100 --> 00:04:53.180
+That's exactly the distinction we need.
+
+00:04:53.180 --> 00:04:57.500
+And when you look at that enrollment weighted average for Medicare Advantage this year,
+
+00:04:57.500 --> 00:04:59.740
+it dropped to 3.99.
+
+00:04:59.740 --> 00:05:07.580
+Which, okay, that might not sound like a huge fall from 4.01 in 2026 or 4.07 back in 2024.
+
+00:05:08.140 --> 00:05:11.260
+Right, but in the aggregate of millions of patients,
+
+00:05:11.260 --> 00:05:14.300
+it represents a massive downgrade in federal scoring.
+
+00:05:14.300 --> 00:05:19.100
+I mean, overall, only about 37% of plans earned 4 stars or higher this year.
+
+00:05:19.100 --> 00:05:19.740
+Oh, wow.
+
+00:05:19.740 --> 00:05:24.860
+Yeah, that is a really steep drop from about 44% in 2026.
+
+00:05:24.860 --> 00:05:28.860
+But the real shocker, and honestly the main reason we're doing this deep dive,
+
+00:05:28.860 --> 00:05:31.100
+is what happened at the absolute top of the mountain.
+
+00:05:31.820 --> 00:05:38.060
+Nationwide, only 15 Medicare Advantage plans earned a perfect 5-star rating for 2027.
+
+00:05:38.060 --> 00:05:40.140
+Down from 22 the previous year.
+
+00:05:40.140 --> 00:05:42.860
+So the obvious question is, you know, did the health plans just
+
+00:05:42.860 --> 00:05:45.100
+suddenly get way worse at doing their jobs?
+
+00:05:45.100 --> 00:05:47.980
+The plans didn't necessarily change their behavior at all.
+
+00:05:47.980 --> 00:05:49.580
+CMS changed the math.
+
+00:05:49.580 --> 00:05:53.420
+They introduced new, like, highly strict clinical measures.
+
+00:05:53.420 --> 00:05:58.460
+For instance, they added a measure to track the concurrent use of opioids and benzodiazepines.
+
+00:05:58.460 --> 00:06:01.980
+So making sure a patient isn't being prescribed a heavy pain killer
+
+00:06:01.980 --> 00:06:05.180
+and a heavy anti-anxiety medication at the exact same time.
+
+00:06:05.180 --> 00:06:08.060
+Because I mean, that combination could dangerously suppress breathing, right?
+
+00:06:08.060 --> 00:06:08.780
+Correct.
+
+00:06:08.780 --> 00:06:10.220
+That's a huge safety issue.
+
+00:06:10.780 --> 00:06:15.660
+Another major addition is a measure tracking the use of multiple anticholinergic medications
+
+00:06:15.660 --> 00:06:16.460
+in older adults.
+
+00:06:17.100 --> 00:06:19.740
+Okay, honestly, I consider myself pretty well read.
+
+00:06:19.740 --> 00:06:22.460
+But I totally had to look that one up in our notes.
+
+00:06:22.460 --> 00:06:26.940
+What are we actually talking about when we say anticholinergic medications?
+
+00:06:26.940 --> 00:06:29.980
+And why is CMS suddenly so laser focused on them?
+
+00:06:29.980 --> 00:06:33.260
+It's a perfect example of how CMS is raising the bar,
+
+00:06:33.900 --> 00:06:37.420
+moving from simple administrative checks to intense clinical oversight.
+
+00:06:38.060 --> 00:06:42.380
+Anticholinergics are a class of drugs that basically blocks certain neurotransmitters
+
+00:06:42.380 --> 00:06:43.180
+in the nervous system.
+
+00:06:43.740 --> 00:06:45.420
+Are these, like, rare drugs?
+
+00:06:46.140 --> 00:06:47.020
+Not at all.
+
+00:06:47.020 --> 00:06:49.900
+We are talking about incredibly common medications,
+
+00:06:49.900 --> 00:06:53.740
+certain over-the-counter antihistamines, specific antidepressants,
+
+00:06:53.740 --> 00:06:55.580
+or medications for overactive bladders.
+
+00:06:56.220 --> 00:07:01.580
+The danger is that when older adults take multiple medications in this class simultaneously,
+
+00:07:01.580 --> 00:07:05.660
+it can cause severe confusion, dizziness, and cognitive impairment that actually
+
+00:07:05.660 --> 00:07:06.780
+mimics dementia.
+
+00:07:06.780 --> 00:07:07.980
+Wait, really?
+
+00:07:07.980 --> 00:07:12.540
+So a patient might end up in a neurologist's office being evaluated for dementia
+
+00:07:12.540 --> 00:07:17.180
+when, in reality, they're just suffering from a toxic overlap of totally routine prescriptions?
+
+00:07:17.820 --> 00:07:18.140
+Yes.
+
+00:07:18.780 --> 00:07:21.340
+That is the hidden danger CMS is trying to spotlight.
+
+00:07:21.900 --> 00:07:25.660
+And catching this requires a massive level of coordination,
+
+00:07:25.660 --> 00:07:28.700
+because a patient might see, you know, a cardiologist for one issue,
+
+00:07:28.700 --> 00:07:31.900
+a psychiatrist for another, and their primary care doctor for a third.
+
+00:07:32.460 --> 00:07:35.820
+And those doctors aren't always looking at the exact same digital charts.
+
+00:07:35.820 --> 00:07:36.460
+Exactly.
+
+00:07:36.860 --> 00:07:39.180
+But the health plan sits above all of them.
+
+00:07:39.820 --> 00:07:41.420
+CMS is basically telling the health plans,
+
+00:07:41.420 --> 00:07:43.740
+hey, you process all the pharmacy claims.
+
+00:07:43.740 --> 00:07:48.140
+It's your job to see the overlap, flag it, and intervene before the patient gets hurt.
+
+00:07:48.140 --> 00:07:51.660
+Okay, this totally goes back to that digital dashboard analogy.
+
+00:07:51.660 --> 00:07:53.820
+CMS isn't just checking the oil anymore.
+
+00:07:53.820 --> 00:07:57.420
+They are demanding a real-time system that tracks all these moving parts
+
+00:07:57.420 --> 00:07:59.900
+across entirely different doctors' offices.
+
+00:07:59.900 --> 00:08:03.420
+And they penalize the health plan if a dangerous drug combination slips through.
+
+00:08:03.420 --> 00:08:03.660
+Right.
+
+00:08:04.300 --> 00:08:06.220
+And they didn't just add new measures either.
+
+00:08:06.220 --> 00:08:08.860
+They completely changed the grading weight of the existing ones.
+
+00:08:09.500 --> 00:08:12.780
+Yeah, that weighting shift is arguably the biggest hurdle of all.
+
+00:08:12.780 --> 00:08:15.980
+I saw that CMS tripled the weight of metrics that measure the improvement
+
+00:08:15.980 --> 00:08:18.860
+or maintenance of physical and mental health outcomes.
+
+00:08:18.860 --> 00:08:19.420
+Tripled it.
+
+00:08:19.980 --> 00:08:24.700
+So it went from a weight of one to a weight of three in the overall grading formula.
+
+00:08:25.340 --> 00:08:26.780
+That is massive.
+
+00:08:26.780 --> 00:08:27.660
+It is.
+
+00:08:27.660 --> 00:08:32.620
+Which means CMS is shifting the entire focus of the star ratings away from the process
+
+00:08:32.620 --> 00:08:35.820
+and heavily toward long-term preventative outcomes.
+
+00:08:35.820 --> 00:08:39.820
+It's no longer enough to prove you have a polite call center or short wait times.
+
+00:08:39.820 --> 00:08:42.140
+You can't just prove you scheduled a screening.
+
+00:08:42.140 --> 00:08:44.620
+The plan has to prove, mathematically,
+
+00:08:44.620 --> 00:08:47.900
+that its members are actually staying physically and mentally healthier
+
+00:08:47.900 --> 00:08:49.100
+over a long period of time.
+
+00:08:49.100 --> 00:08:49.580
+Exactly.
+
+00:08:50.140 --> 00:08:52.780
+Knowing that the test got substantially harder
+
+00:08:52.780 --> 00:08:56.140
+and that it now requires this intense real-time data monitoring,
+
+00:08:56.700 --> 00:09:00.780
+you would naturally expect the traditionally highest performing types of organizations
+
+00:09:00.780 --> 00:09:02.140
+to dominate those top spots.
+
+00:09:02.700 --> 00:09:05.980
+But the CMS fact sheet reveals a massive anomaly here.
+
+00:09:06.700 --> 00:09:10.700
+Let's look at the split between non-profit and for-profit health plans.
+
+00:09:10.700 --> 00:09:12.940
+What's fascinating here is historically,
+
+00:09:12.940 --> 00:09:16.540
+and even in this new strict 2027 environment,
+
+00:09:16.540 --> 00:09:21.820
+non-profit organizations generally score much better across the broad average.
+
+00:09:21.820 --> 00:09:24.540
+The CMS data explicitly points this out.
+
+00:09:24.540 --> 00:09:30.380
+Approximately 44% of non-profit contracts received four or more stars this year.
+
+00:09:30.380 --> 00:09:32.540
+Right. Compared to the for-profit plans,
+
+00:09:32.540 --> 00:09:35.820
+where only 34% managed to hit that four-star mark.
+
+00:09:36.540 --> 00:09:40.700
+So if you're just playing the odds and you pick a non-profit plan out of a hat,
+
+00:09:40.700 --> 00:09:44.140
+it is statistically more likely to be a higher rated plan.
+
+00:09:44.140 --> 00:09:46.780
+That holds true for the middle of the pack, absolutely.
+
+00:09:46.780 --> 00:09:50.060
+But when we look at the absolute peak of the mountain,
+
+00:09:50.060 --> 00:09:54.700
+those elite 15 plans that managed to secure the perfect five-star rating,
+
+00:09:54.700 --> 00:09:57.420
+a completely different narrative emerges.
+
+00:09:57.420 --> 00:10:02.620
+Out of those 15 plans nationwide, 14 of them are for-profit carriers.
+
+00:10:02.620 --> 00:10:04.460
+14 out of 15.
+
+00:10:04.460 --> 00:10:05.340
+Yes.
+
+00:10:05.340 --> 00:10:09.100
+The broad average is totally dominated by non-profits,
+
+00:10:09.100 --> 00:10:13.740
+but the absolute peak of performance is almost exclusively for-profit.
+
+00:10:14.780 --> 00:10:17.500
+Let me throw a theory at you, because when I read that,
+
+00:10:18.140 --> 00:10:20.140
+my first thought went straight to resources.
+
+00:10:21.180 --> 00:10:26.060
+Are we seeing a scenario where it now takes massive for-profit corporate bank accounts
+
+00:10:26.060 --> 00:10:29.260
+to buy the sophisticated data analytics required
+
+00:10:29.260 --> 00:10:32.220
+to track these complex new CMS metrics?
+
+00:10:32.220 --> 00:10:34.460
+Like they're just buying their way to the top.
+
+00:10:34.460 --> 00:10:34.860
+Exactly.
+
+00:10:35.580 --> 00:10:38.460
+Are the non-profits just getting stuck at four-stars
+
+00:10:38.460 --> 00:10:42.300
+because they simply can't afford the multi-million-dollar software suites
+
+00:10:42.300 --> 00:10:43.340
+needed to monitor, say,
+
+00:10:44.220 --> 00:10:46.780
+anticholinergic overlaps in real time?
+
+00:10:46.780 --> 00:10:48.620
+I'm going to push back on that, actually.
+
+00:10:49.420 --> 00:10:51.660
+Because while that is a really common assumption,
+
+00:10:51.660 --> 00:10:55.980
+it kind of misses the structural reality of these organizations.
+
+00:10:56.060 --> 00:10:58.620
+It's not just about the size of the bank account.
+
+00:10:59.260 --> 00:11:01.900
+Some of the largest non-profit health systems in the country
+
+00:11:01.900 --> 00:11:05.340
+sit on massive multi-billion-dollar endowments.
+
+00:11:05.340 --> 00:11:05.820
+Oh, right.
+
+00:11:06.540 --> 00:11:07.580
+Good point.
+
+00:11:07.580 --> 00:11:13.980
+The real issue dividing the four-star plans from the five-star plans is bureaucratic agility.
+
+00:11:13.980 --> 00:11:14.540
+Agility.
+
+00:11:15.100 --> 00:11:15.820
+Explain that.
+
+00:11:15.820 --> 00:11:16.140
+Okay.
+
+00:11:16.140 --> 00:11:20.700
+So achieving a four-star rating requires delivering consistently good care,
+
+00:11:21.500 --> 00:11:25.340
+but achieving a five-star rating under the new 2027 rules
+
+00:11:25.980 --> 00:11:31.340
+requires flawless data capture and the ability to pivot your entire operational structure
+
+00:11:31.340 --> 00:11:32.780
+incredibly rapidly.
+
+00:11:33.420 --> 00:11:35.020
+Ah, I see where you're going with this.
+
+00:11:35.660 --> 00:11:35.980
+Right.
+
+00:11:35.980 --> 00:11:41.020
+A massive for-profit entity can often make a unilateral executive decision to
+
+00:11:41.020 --> 00:11:43.580
+scrap their old tech stack, hire a new vendor,
+
+00:11:43.580 --> 00:11:47.900
+and completely rebuild their population health analytics in a single fiscal year
+
+00:11:47.900 --> 00:11:49.580
+just to meet a new CMS metric.
+
+00:11:50.220 --> 00:11:55.900
+Whereas a traditional non-profit might require three years of committee reviews
+
+00:11:55.900 --> 00:12:00.060
+board approvals and pilot programs just to change how they text patients about flu shots.
+
+00:12:00.940 --> 00:12:01.420
+Exactly.
+
+00:12:01.420 --> 00:12:03.660
+It's about how fast they can adapt to the new math.
+
+00:12:04.380 --> 00:12:04.620
+Okay.
+
+00:12:04.620 --> 00:12:05.500
+That makes a lot of sense.
+
+00:12:06.140 --> 00:12:10.460
+The for-profits have the structural agility to pivot the entire machine
+
+00:12:10.460 --> 00:12:12.700
+when CMS suddenly changes the grading rubric.
+
+00:12:13.580 --> 00:12:19.180
+But even with that agility, as we saw, only 14 for-profit plans in the entire country
+
+00:12:19.180 --> 00:12:20.380
+actually pulled it off.
+
+00:12:20.380 --> 00:12:24.460
+Which brings us to the most fascinating geographical data in this entire deep dive.
+
+00:12:24.460 --> 00:12:28.700
+So if limitless corporate wealth isn't the guaranteed silver bullet to a five-star rating,
+
+00:12:28.700 --> 00:12:30.220
+what actually is?
+
+00:12:30.220 --> 00:12:33.820
+To answer that, we have to look at the map of these 15 elite winners
+
+00:12:33.820 --> 00:12:37.980
+because there is a massive cluster in a place you might least expect.
+
+00:12:37.980 --> 00:12:40.540
+Here's where it gets really interesting.
+
+00:12:40.540 --> 00:12:43.100
+When you look at the Becker's Payer Issues breakdown,
+
+00:12:43.100 --> 00:12:45.500
+you see a scattering of winners across the mainland.
+
+00:12:45.500 --> 00:12:49.340
+You have plans in New York, Florida, Michigan, Nevada.
+
+00:12:49.340 --> 00:12:51.500
+But then you look at Puerto Rico.
+
+00:12:51.500 --> 00:12:54.380
+Out of the 15 elite five-star plans nationwide,
+
+00:12:54.700 --> 00:12:57.020
+two of them are based in Puerto Rico.
+
+00:12:57.020 --> 00:13:00.300
+Yeah, let's establish exactly who these standout organizations are.
+
+00:13:00.300 --> 00:13:02.380
+First, we have MCS Classicare.
+
+00:13:02.380 --> 00:13:05.420
+This is a for-profit plan under MHH Healthcare.
+
+00:13:05.420 --> 00:13:08.540
+And according to the local reporting in El Nuevo Día,
+
+00:13:08.540 --> 00:13:12.060
+they just achieved five stars for the fourth consecutive year.
+
+00:13:12.060 --> 00:13:13.260
+Four years in a row.
+
+00:13:13.260 --> 00:13:13.740
+Right.
+
+00:13:13.740 --> 00:13:17.740
+They are the only plan on the island to maintain this maximum score year after year,
+
+00:13:17.740 --> 00:13:22.460
+which, given everything we just discussed about how much harder CMS made the test,
+
+00:13:22.460 --> 00:13:25.420
+is just a staggering logistical achievement.
+
+00:13:25.420 --> 00:13:27.020
+Then we have Triple-S Advantage,
+
+00:13:27.020 --> 00:13:30.300
+which is a for-profit plan operating under GuideWell.
+
+00:13:30.300 --> 00:13:34.060
+According to Sin Comillas, they hit five stars for their HMO contract
+
+00:13:34.060 --> 00:13:37.500
+and 4.5 stars for their PPO contract this year.
+
+00:13:37.500 --> 00:13:40.540
+Let's quickly differentiate those for the listener just in case.
+
+00:13:40.540 --> 00:13:45.900
+An HMO or Health Maintenance Organization generally requires patients to use a strict,
+
+00:13:45.900 --> 00:13:50.380
+localized network of doctors and get referrals from a primary care physician.
+
+00:13:50.380 --> 00:13:53.100
+It's highly controlled and highly coordinated.
+
+00:13:53.100 --> 00:13:53.900
+Right.
+
+00:13:53.900 --> 00:13:56.620
+A PPO, or preferred provider organization,
+
+00:13:56.620 --> 00:14:00.700
+offers more flexibility to see out-of-network specialists without a referral,
+
+00:14:00.700 --> 00:14:03.580
+but that flexibility makes it much harder for the health plan to track
+
+00:14:03.580 --> 00:14:05.420
+every single thing the patient is doing.
+
+00:14:05.420 --> 00:14:09.340
+Which perfectly explains why Triple-S scored the flawless five stars
+
+00:14:09.340 --> 00:14:11.260
+on their highly coordinated HMO,
+
+00:14:11.260 --> 00:14:13.900
+but slightly lower on their more flexible PPO.
+
+00:14:13.900 --> 00:14:18.220
+But to truly grasp the weight of what Puerto Rico has achieved here,
+
+00:14:18.220 --> 00:14:20.220
+we have to look beyond just the star ratings
+
+00:14:20.220 --> 00:14:23.100
+and look at the sheer scale of the success.
+
+00:14:23.100 --> 00:14:24.220
+The volume of patients.
+
+00:14:24.220 --> 00:14:25.180
+Exactly.
+
+00:14:25.180 --> 00:14:27.660
+The enrollment numbers are where this story stops
+
+00:14:27.660 --> 00:14:30.060
+being just an interesting regional footnote
+
+00:14:30.060 --> 00:14:33.260
+and becomes a complete disruption of the national health care narrative.
+
+00:14:33.900 --> 00:14:37.660
+Let's do the math on this because when I laid out the Becker's data side by side,
+
+00:14:37.660 --> 00:14:39.340
+it is almost unbelievable.
+
+00:14:40.060 --> 00:14:42.620
+We are looking at a list of the 15 best plans in America.
+
+00:14:43.260 --> 00:14:45.580
+Let's look at the mainland United States plans first.
+
+00:14:46.300 --> 00:14:51.180
+You have United Health Care with a few contracts that add up to about 60,000 enrollees.
+
+00:14:51.900 --> 00:14:57.180
+You have Longevity Health Plan with several contracts totaling maybe 5,000 enrollees.
+
+00:14:57.180 --> 00:15:03.420
+Right. Anthem has about 9,600. Kaiser, Nevada has 22,000.
+
+00:15:03.420 --> 00:15:07.660
+Leon Health in Florida has about 40,000. Peak Health has 12,000.
+
+00:15:08.220 --> 00:15:12.460
+Clover Health is the biggest mainland winner with about 155,000 enrollees.
+
+00:15:13.020 --> 00:15:17.180
+And if you aggregate all of those mainland five-star enrollees together,
+
+00:15:17.180 --> 00:15:24.540
+you get roughly 305,000 patients across the entire continental United States receiving
+
+00:15:24.540 --> 00:15:25.740
+five-star care.
+
+00:15:25.740 --> 00:15:27.900
+Okay, now let's look at Puerto Rico.
+
+00:15:27.900 --> 00:15:33.980
+MCS Classicare alone has an astronomical 360,519 enrollees.
+
+00:15:34.540 --> 00:15:40.060
+Triple-S Advantage has 120,943 on their five-star contract.
+
+00:15:40.060 --> 00:15:45.820
+That is over 481,000 patients in Puerto Rico receiving the absolute highest
+
+00:15:45.820 --> 00:15:47.420
+federally rated care available.
+
+00:15:47.980 --> 00:15:50.460
+The contrast is just staggering.
+
+00:15:50.460 --> 00:15:51.100
+It is.
+
+00:15:51.100 --> 00:15:56.700
+The two plans in Puerto Rico have more patients enrolled in five-star Medicare Advantage Care
+
+00:15:56.700 --> 00:16:00.140
+than the entire rest of the United States combined.
+
+00:16:00.140 --> 00:16:01.500
+That blew my mind.
+
+00:16:01.500 --> 00:16:06.700
+The vast majority of all five-star patients in America right now are living on one island.
+
+00:16:07.340 --> 00:16:10.380
+And when you factor in the broader 4.5-star ratings,
+
+00:16:10.380 --> 00:16:15.740
+nearly 100% of Medicare Advantage patients in Puerto Rico are receiving top-tier care.
+
+00:16:15.740 --> 00:16:17.740
+If we connect this to the bigger picture,
+
+00:16:17.740 --> 00:16:21.580
+it creates what the industry views as a profound healthcare paradox.
+
+00:16:22.140 --> 00:16:26.700
+Puerto Rico is operating under some of the most challenging economic conditions in the
+
+00:16:26.700 --> 00:16:28.620
+entire U.S. healthcare system.
+
+00:16:28.620 --> 00:16:32.860
+They historically face lower federal reimbursement rates than mainland states.
+
+00:16:32.860 --> 00:16:34.860
+And complex infrastructure challenges, right?
+
+00:16:34.860 --> 00:16:35.580
+Absolutely.
+
+00:16:35.580 --> 00:16:39.180
+They are operating in an environment of severe economic stress,
+
+00:16:39.180 --> 00:16:43.660
+dealing with hurdles that wealthy mainland jurisdictions simply do not have to manage.
+
+00:16:43.660 --> 00:16:47.340
+Which completely destroys the excuse that you need a wealthy zip code to deliver
+
+00:16:47.340 --> 00:16:48.540
+perfect healthcare.
+
+00:16:48.540 --> 00:16:51.900
+I mean, if Puerto Rico is hitting 100% on a harder test
+
+00:16:51.900 --> 00:16:53.820
+while operating with fewer resources,
+
+00:16:54.460 --> 00:16:58.380
+then mainland plans don't really have an excuse for their dropping scores, do they?
+
+00:16:58.380 --> 00:16:59.100
+They really don't.
+
+00:16:59.660 --> 00:17:03.020
+And this is exactly why healthcare administrators across the country
+
+00:17:03.020 --> 00:17:05.900
+are studying what MCS and Triple-S are doing.
+
+00:17:05.900 --> 00:17:08.540
+Because their success is clearly not just a product
+
+00:17:08.540 --> 00:17:11.740
+of having unlimited cash to throw at software vendors.
+
+00:17:11.740 --> 00:17:15.580
+It is a fundamental structural difference in how they deliver care.
+
+00:17:15.580 --> 00:17:18.300
+In the local reporting, we actually have quotes from the leadership
+
+00:17:18.300 --> 00:17:21.340
+of both organizations pointing directly to their strategy.
+
+00:17:21.420 --> 00:17:24.780
+Dr. Inés Hernández, the chief medical officer at MCS,
+
+00:17:24.780 --> 00:17:29.180
+told El Nuevo Día that this sustained excellence proves they can offer the
+
+00:17:29.180 --> 00:17:31.580
+highest levels of execution, quote,
+
+00:17:31.580 --> 00:17:35.100
+even under the most challenging economic conditions in the United States.
+
+00:17:35.820 --> 00:17:36.300
+Yeah.
+
+00:17:36.300 --> 00:17:38.700
+And Jim O'Drobinak, the CEO of MCS,
+
+00:17:38.700 --> 00:17:42.300
+emphasized establishing the best alliances with providers on the island.
+
+00:17:43.180 --> 00:17:47.660
+Over triple-S, CEO Michael A. Muchniki told Sin Comillas
+
+00:17:47.660 --> 00:17:49.980
+that their five-star rating comes down to the strength of their
+
+00:17:49.980 --> 00:17:53.100
+relationships with physicians and community organizations,
+
+00:17:53.100 --> 00:17:56.060
+basically making care more coordinated and responsive.
+
+00:17:56.060 --> 00:17:59.420
+Now, at first glance, that might sound like standard corporate PR,
+
+00:17:59.420 --> 00:18:02.380
+you know, every health plan claims to have great relationships
+
+00:18:02.380 --> 00:18:03.820
+with their doctors and communities.
+
+00:18:03.820 --> 00:18:04.700
+Oh, absolutely.
+
+00:18:04.700 --> 00:18:07.580
+We love our community as plastered on every corporate brochure.
+
+00:18:08.220 --> 00:18:11.740
+But a friendly relationship doesn't automatically fulfill a complex CMS
+
+00:18:11.740 --> 00:18:13.260
+metric about opioid usage.
+
+00:18:13.900 --> 00:18:17.900
+How does an alliance actually translate into a perfect federal math score?
+
+00:18:18.540 --> 00:18:22.780
+The mechanism here is what we call the vertical integration of community resources.
+
+00:18:23.420 --> 00:18:26.780
+Mainland plans often rely on top-down software approaches.
+
+00:18:26.780 --> 00:18:31.020
+They buy an expensive analytics program that flags a missed screening,
+
+00:18:31.020 --> 00:18:34.620
+and the software automatically sends a text message or an email to the patient.
+
+00:18:34.620 --> 00:18:36.860
+But a text message is so easy to ignore,
+
+00:18:36.860 --> 00:18:39.020
+especially for older, vulnerable populations.
+
+00:18:39.020 --> 00:18:39.900
+Exactly.
+
+00:18:39.900 --> 00:18:41.500
+The dashboard flashes a warning light,
+
+00:18:41.500 --> 00:18:43.740
+but nobody is actually fixing the engine.
+
+00:18:43.740 --> 00:18:44.940
+Ah, right.
+
+00:18:44.940 --> 00:18:48.220
+What Puerto Rico has mastered is using human infrastructure
+
+00:18:48.220 --> 00:18:51.340
+as their primary data capture and intervention tool.
+
+00:18:51.340 --> 00:18:55.980
+An integrated alliance means the health plan might fund local community health workers.
+
+00:18:55.980 --> 00:18:57.580
+When a patient misses an appointment,
+
+00:18:57.580 --> 00:19:00.220
+or when a high-risk medication is prescribed,
+
+00:19:00.220 --> 00:19:02.140
+it isn't just an automated email.
+
+00:19:02.140 --> 00:19:04.540
+A local, culturally competent community worker
+
+00:19:04.540 --> 00:19:06.620
+might physically go to the patient's home.
+
+00:19:06.620 --> 00:19:08.620
+Wait, like physically knock on their door?
+
+00:19:08.620 --> 00:19:09.420
+Yes.
+
+00:19:09.420 --> 00:19:11.820
+They sit at the kitchen table, look at the pill bottles,
+
+00:19:11.820 --> 00:19:15.660
+and realize, oh, the patient is taking an opioid from their surgeon,
+
+00:19:15.660 --> 00:19:18.140
+and a benzodiazepine from their psychiatrist.
+
+00:19:18.140 --> 00:19:18.860
+Wow.
+
+00:19:18.860 --> 00:19:22.060
+So they are bypassing the entirely fragmented digital systems
+
+00:19:22.060 --> 00:19:24.220
+by putting actual eyes directly on the patient.
+
+00:19:24.220 --> 00:19:25.660
+They intervene right there.
+
+00:19:25.660 --> 00:19:29.260
+The community worker coordinates directly with the primary care doctor
+
+00:19:29.260 --> 00:19:32.220
+and the pharmacist to fix the prescription overlap.
+
+00:19:32.220 --> 00:19:35.180
+They ensure the patient actually attends the preventative screening
+
+00:19:35.180 --> 00:19:37.260
+by, you know, arranging transportation.
+
+00:19:37.260 --> 00:19:41.180
+They are physically forcing the outcomes that CMS is demanding.
+
+00:19:41.180 --> 00:19:44.540
+When CMS triples the weight of improving physical and mental health,
+
+00:19:44.540 --> 00:19:48.540
+you cannot fake that with good paperwork or a fancy software algorithm.
+
+00:19:48.540 --> 00:19:50.380
+The patient actually has to be healthier.
+
+00:19:51.180 --> 00:19:53.980
+It's active, localized engagement.
+
+00:19:54.780 --> 00:19:59.180
+The CEO of MCS even stated that their goal is to go beyond being a plan
+
+00:19:59.180 --> 00:20:00.700
+that simply pays for your care,
+
+00:20:01.420 --> 00:20:03.740
+to being a plan that actively occupies itself
+
+00:20:03.740 --> 00:20:05.340
+with keeping Puerto Rico healthy.
+
+00:20:05.900 --> 00:20:08.300
+They are taking direct on-the-ground ownership
+
+00:20:08.300 --> 00:20:09.980
+of the population's daily outcomes.
+
+00:20:10.780 --> 00:20:12.540
+And the results validate the model.
+
+00:20:12.540 --> 00:20:14.140
+You have to remember the baseline here.
+
+00:20:14.700 --> 00:20:19.980
+71% of all MA enrollees nationwide are in contracts with four or more stars.
+
+00:20:20.540 --> 00:20:23.260
+But in Puerto Rico, you have this massive concentration
+
+00:20:23.260 --> 00:20:26.620
+of nearly half a million people sitting at the absolute pinnacle,
+
+00:20:26.620 --> 00:20:27.900
+the five-star level.
+
+00:20:27.900 --> 00:20:28.540
+It's incredible.
+
+00:20:29.100 --> 00:20:31.100
+By deeply aligning the health plan's goals
+
+00:20:31.100 --> 00:20:33.980
+with the primary care doctors and local community groups,
+
+00:20:33.980 --> 00:20:37.260
+they have built a system that is far more efficient at capturing data
+
+00:20:37.260 --> 00:20:39.100
+and driving healthy behavior
+
+00:20:39.100 --> 00:20:42.620
+than a disconnected mainland system relying purely on technology.
+
+00:20:42.620 --> 00:20:45.420
+So what does this all mean for you, the listener?
+
+00:20:45.420 --> 00:20:46.780
+Let's bring this all together.
+
+00:20:47.420 --> 00:20:50.940
+The big takeaway is that the CMS ratings are getting much stricter,
+
+00:20:50.940 --> 00:20:52.940
+and the grading curve is brutal.
+
+00:20:52.940 --> 00:20:56.140
+But ultimately, that is a really positive development.
+
+00:20:56.140 --> 00:20:59.580
+They are acting as a strict auditor to protect you as a patient.
+
+00:20:59.580 --> 00:21:03.020
+Yeah, they're cracking down on dangerous drug combinations
+
+00:21:03.100 --> 00:21:05.900
+and demanding actual measurable improvements
+
+00:21:05.900 --> 00:21:08.220
+in your physical and mental well-being over time.
+
+00:21:08.780 --> 00:21:11.260
+And while the national averages are dropping
+
+00:21:11.260 --> 00:21:14.060
+and major organizations are losing their top tier status,
+
+00:21:14.780 --> 00:21:17.820
+this deep dive proves that achieving perfection
+
+00:21:17.820 --> 00:21:20.700
+under these new rules is entirely possible.
+
+00:21:20.700 --> 00:21:23.180
+But the roadmap to that perfection
+
+00:21:23.180 --> 00:21:25.420
+isn't where the industry expected it to be.
+
+00:21:25.420 --> 00:21:25.740
+Right.
+
+00:21:26.700 --> 00:21:29.660
+The roadmap isn't sitting in a massive corporate server farm
+
+00:21:29.660 --> 00:21:31.500
+in New York or Los Angeles.
+
+00:21:31.500 --> 00:21:32.460
+It's in Puerto Rico.
+
+00:21:33.100 --> 00:21:35.900
+Highly coordinated, community-focused models are proving
+
+00:21:35.900 --> 00:21:39.740
+that top-tier care can scale to hundreds of thousands of people,
+
+00:21:39.740 --> 00:21:42.140
+even against immense economic headwinds
+
+00:21:42.140 --> 00:21:43.580
+and systemic funding challenges.
+
+00:21:44.220 --> 00:21:47.580
+Which leads us with the ultimate healthcare paradox to consider.
+
+00:21:48.220 --> 00:21:51.500
+If a jurisdiction facing immense financial hurdles
+
+00:21:51.500 --> 00:21:53.660
+and lower federal reimbursement rates
+
+00:21:53.660 --> 00:21:56.380
+can construct a network where nearly half a million people
+
+00:21:56.380 --> 00:21:59.820
+receive the absolute highest standard of Medicare Advantage care,
+
+00:22:00.460 --> 00:22:03.260
+well, maybe the secret to five-star healthcare
+
+00:22:03.260 --> 00:22:05.340
+is less about having limitless funding
+
+00:22:05.900 --> 00:22:09.660
+and more about having genuine boots on the ground community integration.
+
+00:22:09.660 --> 00:22:10.620
+Exactly.
+
+00:22:10.620 --> 00:22:12.540
+What could the rest of the United States learn
+
+00:22:12.540 --> 00:22:15.580
+by treating Puerto Rico not as a regional outlier
+
+00:22:15.580 --> 00:22:17.100
+but as the fundamental blueprint
+
+00:22:17.100 --> 00:22:19.100
+for the future of American healthcare?
+
+00:22:19.100 --> 00:22:20.700
+It really makes you rethink the whole system.
+
+00:22:21.260 --> 00:22:25.420
+If Puerto Rico can sprint on that 45-degree treadmill incline
+
+00:22:25.420 --> 00:22:27.580
+with sandbags strapped to their backs
+
+00:22:27.580 --> 00:22:29.420
+and still pass the test flawlessly,
+
+00:22:30.140 --> 00:22:33.500
+maybe the mainland plans just need to learn how to run all over again.
+
+00:22:34.300 --> 00:22:37.500
+Thanks for joining us for this deep dive and keep asking the right questions.
+
