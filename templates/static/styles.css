@@ -82,7 +82,9 @@ a:hover { text-decoration: underline; }
 .description { margin: 0.25rem 0; }
 .byline { color: var(--text-muted); font-size: 0.9rem; }
 
-.listen-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.9rem 0 0; }
+.listen-block { margin: 1rem 0 0; }
+.listen-label { margin: 0.6rem 0 0.35rem; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); }
+.listen-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0; }
 .listen-btn {
   font-size: 0.85rem;
   font-weight: 600;

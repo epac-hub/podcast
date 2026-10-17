@@ -12,6 +12,7 @@
   <h1>{{ ep.title }}</h1>
   <audio controls preload="metadata" src="{{ ep.audio_url }}"></audio>
   <p class="episode-links"><a href="{{ ep.audio_url }}">Download MP3</a></p>
+  {% include "_listen.html" %}
 
   {% if ep.notes_html %}
   <section class="notes">
