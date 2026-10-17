@@ -1,0 +1,19 @@
+<div class="listen-block">
+  <p class="listen-label">Listen on</p>
+  <p class="listen-row">
+    {% if config.spotify_url %}<a class="listen-btn" href="{{ config.spotify_url }}">Spotify</a>{% endif %}
+    {% if config.apple_url %}<a class="listen-btn" href="{{ config.apple_url }}">Apple Podcasts</a>{% endif %}
+    {% if config.amazon_url %}<a class="listen-btn" href="{{ config.amazon_url }}">Amazon Music</a>{% endif %}
+    {% if config.iheart_url %}<a class="listen-btn" href="{{ config.iheart_url }}">iHeartRadio</a>{% endif %}
+    {% if config.pandora_url %}<a class="listen-btn" href="{{ config.pandora_url }}">Pandora</a>{% endif %}
+    {% if config.youtube_url %}<a class="listen-btn" href="{{ config.youtube_url }}">YouTube</a>{% endif %}
+    <a class="listen-btn" href="{{ root }}feed.xml">RSS</a>
+  </p>
+  {% if config.console_url or config.observatory_url %}
+  <p class="listen-label">Explore the data</p>
+  <p class="listen-row">
+    {% if config.console_url %}<a class="listen-btn" href="{{ config.console_url }}">{{ config.console_label or 'Console' }}</a>{% endif %}
+    {% if config.observatory_url %}<a class="listen-btn" href="{{ config.observatory_url }}">{{ config.observatory_label or 'Observatory' }}</a>{% endif %}
+  </p>
+  {% endif %}
+</div>
