@@ -35,7 +35,7 @@ Numbers that need a logged-in read go in a small JSON. Every key is optional; th
     "new_followers_7d": 0,
     "country": {"Puerto Rico": 94.9, "United States": 5.1},
     "gender": "Men 70% · Women 22.5% · Not specified 7.5%",
-    "episodes": [["Ep 1 · The Island That Broke the Spreadsheet", 15, "3 listeners"], ["Ep 4 · Roadmap to the Republican Letter", 11]],
+    "episodes": [["Ep 1 · The Island That Broke the Spreadsheet", 15, "3 listeners"], ["Ep 4 · Roadmap to the Republican House Letter", 11]],
     "comments": [{"who": "name · date", "text": "...", "ctx": "on which episode"}],
     "note": "episodes 9 and 10 still at 0"
   },
