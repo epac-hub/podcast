@@ -1,0 +1,1670 @@
+WEBVTT
+
+00:00:05.010 --> 00:00:11.010
+Welcome to The Deep Dive. Today we have our hands on a pretty massive, highly detailed document.
+
+00:00:11.010 --> 00:00:12.010
+Yeah, it's definitely a thick one.
+
+00:00:12.010 --> 00:00:18.010
+Right. It's the October 2026 multi-sectoral advisory board report on Puerto Rico's Medicaid program.
+
+00:00:18.010 --> 00:00:23.010
+And look, I know, a government financial report sounds like the kind of thing you read when you're trying to fall asleep.
+
+00:00:23.010 --> 00:00:24.010
+It really does.
+
+00:00:24.010 --> 00:00:25.010
+Exactly.
+
+00:00:25.010 --> 00:00:26.010
+But I promise it's not.
+
+00:00:26.010 --> 00:00:33.010
+Exactly. Our mission today for you listening is to uncover this really dramatic story hidden inside all these pages
+
+00:00:33.010 --> 00:00:41.010
+because it's about a looming 2027 funding cliff that threatens to strip healthcare from up to a million people.
+
+00:00:41.010 --> 00:00:43.010
+Which is just a massive number.
+
+00:00:43.010 --> 00:00:49.010
+It is. And oddly enough, we're going to explore how the United States government underfunding this program
+
+00:00:49.010 --> 00:00:53.010
+might actually be costing American taxpayers more money overall.
+
+00:00:53.010 --> 00:00:55.010
+Yeah, the paradox there is wild.
+
+00:00:55.010 --> 00:00:56.010
+It really is.
+
+00:00:56.010 --> 00:01:03.010
+So for anyone interested in economics or healthcare policy or even just, you know, systemic problem solving, this report is an absolute goldmine.
+
+00:01:03.010 --> 00:01:10.010
+To set a quick baseline for you, we are talking about a system that literally holds the lives of a huge portion of the island in its hands.
+
+00:01:10.010 --> 00:01:11.010
+Right.
+
+00:01:11.010 --> 00:01:15.010
+Right. Right now, roughly 40% of Puerto Rico's population relies on Medicaid.
+
+00:01:15.010 --> 00:01:16.010
+Wow, 40%.
+
+00:01:16.010 --> 00:01:24.010
+Yeah. And if you compare that to the U.S. average across the 50 states, which sits around 21%, you have almost double the reliance.
+
+00:01:24.010 --> 00:01:25.010
+Double the reliance, yeah.
+
+00:01:25.010 --> 00:01:29.010
+So this report is basically the definitive data-driven baseline.
+
+00:01:29.010 --> 00:01:36.010
+They are trying to get federal policymakers to understand the unique structural cracks in how this care is funded.
+
+00:01:36.010 --> 00:01:37.010
+Because they're running out of time, right?
+
+00:01:37.010 --> 00:01:42.010
+Exactly. They are desperately trying to sound the alarm before the clock runs out next year.
+
+00:01:42.010 --> 00:01:51.010
+Okay, let's unpack this because before we can even look at the crisis itself or this impending cliff, we really have to understand the fundamental difference in how the rules are written.
+
+00:01:51.010 --> 00:01:54.010
+Right. The rules for Puerto Rico versus the 50 states.
+
+00:01:54.010 --> 00:01:58.010
+Yeah, I mean it feels like they are playing two completely different games here.
+
+00:01:58.010 --> 00:01:59.010
+They really are.
+
+00:01:59.010 --> 00:02:05.010
+And the core issue here comes down to a mechanism called the Federal Medical Assistance Percentage, or FMAP for short.
+
+00:02:05.010 --> 00:02:07.010
+FMAP, okay.
+
+00:02:07.010 --> 00:02:08.010
+Yeah, FMAP.
+
+00:02:08.010 --> 00:02:13.010
+This is the formula the federal government uses to determine how much it chips in for a state's Medicaid program.
+
+00:02:13.010 --> 00:02:14.010
+Okay.
+
+00:02:14.010 --> 00:02:17.010
+For the 50 states, federal funding for Medicaid is open-ended.
+
+00:02:17.010 --> 00:02:19.010
+Meaning there's no limit?
+
+00:02:19.010 --> 00:02:20.010
+Exactly.
+
+00:02:20.010 --> 00:02:28.010
+If a state needs to cover allowable Medicaid costs, say, you know, there's an unexpected spike in a virus or some new expensive treatment hits the market,
+
+00:02:28.010 --> 00:02:31.010
+the federal government matches the state's spending without a cap.
+
+00:02:31.010 --> 00:02:33.010
+Okay, that makes sense.
+
+00:02:33.010 --> 00:02:38.010
+And depending on the state's economic situation, that federal match can sometimes go up to 83%.
+
+00:02:38.010 --> 00:02:40.010
+Wow, 83% is huge.
+
+00:02:40.010 --> 00:02:41.010
+It is.
+
+00:02:41.010 --> 00:02:44.010
+But Puerto Rico operates under a completely different framework.
+
+00:02:44.010 --> 00:02:47.010
+Specifically, they fall under a section 1108 capped allotment.
+
+00:02:47.010 --> 00:02:50.010
+Okay, I want to make sure we visualize this properly for everyone listening.
+
+00:02:50.010 --> 00:02:53.010
+It's like the states have an open tab at a restaurant, right?
+
+00:02:53.010 --> 00:02:55.010
+Yeah, that's a good way to think about it.
+
+00:02:55.010 --> 00:03:02.010
+Like if Florida or Texas orders $100 of health care, the federal government covers a strict percentage of that bill no matter what.
+
+00:03:02.010 --> 00:03:06.010
+Whether the final tab is $10,000 or $10 billion.
+
+00:03:06.010 --> 00:03:08.010
+Right, the percentage stays the same.
+
+00:03:08.010 --> 00:03:10.010
+But Puerto Rico isn't given an open tab.
+
+00:03:10.010 --> 00:03:12.010
+They are handed a fixed-value gift card.
+
+00:03:12.010 --> 00:03:14.010
+That is the perfect analogy.
+
+00:03:14.010 --> 00:03:19.010
+Because once Puerto Rico hits the limit on that gift card, the federal dollars just stop.
+
+00:03:19.010 --> 00:03:20.010
+Just completely stop.
+
+00:03:20.010 --> 00:03:21.010
+Completely.
+
+00:03:21.010 --> 00:03:26.010
+The territory then has to use its own local general funds to cover every single penny of care after that.
+
+00:03:26.010 --> 00:03:28.010
+Which has to be incredibly difficult.
+
+00:03:28.010 --> 00:03:29.010
+Oh, it is.
+
+00:03:29.010 --> 00:03:34.010
+Furthermore, their historical base F map, that underlying matching rate before they even hit the cap,
+
+00:03:34.010 --> 00:03:38.010
+is statutorily locked at a very low 55%.
+
+00:03:38.010 --> 00:03:46.010
+So wait, not only is the total amount capped, but the federal government is only paying 55 cents on the dollar leading up to that cap.
+
+00:03:46.010 --> 00:03:47.010
+That's right.
+
+00:03:47.010 --> 00:03:51.010
+I mean, that seems like a structure built to fail considering the economic challenges on the island.
+
+00:03:51.010 --> 00:03:54.010
+Well, there was a temporary bandage applied recently.
+
+00:03:54.010 --> 00:04:01.010
+The Consolidated Appropriations Act of 2023, which people often just call a CAA 2023,
+
+00:04:01.010 --> 00:04:05.010
+temporarily bumped Puerto Rico's matching rate up to 76%.
+
+00:04:05.010 --> 00:04:06.010
+Okay, that's a bit better.
+
+00:04:06.010 --> 00:04:07.010
+It was a big help.
+
+00:04:07.010 --> 00:04:12.010
+It also gave them a larger allotment ceiling, a bigger gift card using your analogy,
+
+00:04:12.010 --> 00:04:17.010
+which gradually steps up to $3.825 billion by fiscal year 2027.
+
+00:04:17.010 --> 00:04:20.010
+Okay, so a temporary boost.
+
+00:04:20.010 --> 00:04:21.010
+Right.
+
+00:04:21.010 --> 00:04:23.010
+And this temporary injection was huge.
+
+00:04:23.010 --> 00:04:28.010
+It allowed Puerto Rico to finally raise their eligibility threshold to 100% of the federal poverty level.
+
+00:04:28.010 --> 00:04:30.010
+Wait, what was it before?
+
+00:04:30.010 --> 00:04:36.010
+Prior to this, because funds were so tight, Puerto Rico had to use a local artificially low poverty level.
+
+00:04:36.010 --> 00:04:37.010
+Oh, wow.
+
+00:04:37.010 --> 00:04:41.010
+Yeah, which meant residents had to be significantly poorer than their counterparts on the mainland,
+
+00:04:41.010 --> 00:04:44.010
+just to qualify for the exact same basic medical care.
+
+00:04:44.010 --> 00:04:48.010
+Which fundamentally changes who actually gets to see a doctor.
+
+00:04:48.010 --> 00:04:49.010
+Exactly.
+
+00:04:49.010 --> 00:04:53.010
+But I mean, even with that temporary fix, a cap is still a cap, right?
+
+00:04:53.010 --> 00:04:58.010
+Like if inflation drives up the cost of medicine or if more people get sick, the cap doesn't care.
+
+00:04:58.010 --> 00:04:59.010
+It doesn't care at all.
+
+00:04:59.010 --> 00:05:04.010
+And what's fascinating here is that even with this temporary CAA 2023 boost,
+
+00:05:04.010 --> 00:05:13.010
+Puerto Rico estimates its expenditures for 2026 and 2027 will still exceed that new higher federal capped allotment.
+
+00:05:13.010 --> 00:05:15.010
+So they're still going to run out of money?
+
+00:05:15.010 --> 00:05:16.010
+Yes.
+
+00:05:16.010 --> 00:05:22.010
+The raw cost of providing basic modern medical care is simply outpacing the arbitrary statutory ceiling.
+
+00:05:22.010 --> 00:05:26.010
+And a rigid capped funding structure is dangerous on its own,
+
+00:05:26.010 --> 00:05:32.010
+but it becomes catastrophic when it collides with the reality of the people actually living in the system.
+
+00:05:32.010 --> 00:05:33.010
+Oh, absolutely.
+
+00:05:33.010 --> 00:05:37.010
+Because the demographic reality in Puerto Rico is shifting drastically,
+
+00:05:37.010 --> 00:05:40.010
+and that changes the entire mathematical equation for this funding.
+
+00:05:40.010 --> 00:05:41.010
+Yeah.
+
+00:05:41.010 --> 00:05:44.010
+We are basically looking at a demographic perfect storm.
+
+00:05:44.010 --> 00:05:48.010
+Puerto Rico has one of the most rapidly aging populations in the entire world.
+
+00:05:48.010 --> 00:05:49.010
+The entire world.
+
+00:05:49.010 --> 00:05:50.010
+Yes.
+
+00:05:50.010 --> 00:05:56.010
+Between 2010 and 2020, the population under 18 plummeted by nearly 38%.
+
+00:05:56.010 --> 00:05:59.010
+That is a staggering drop in youth.
+
+00:05:59.010 --> 00:06:00.010
+It really is.
+
+00:06:00.010 --> 00:06:04.010
+24.6% of the population is 65 or older.
+
+00:06:04.010 --> 00:06:07.010
+We compare that to just 18% in the 50 states.
+
+00:06:07.010 --> 00:06:08.010
+It's a huge difference.
+
+00:06:08.010 --> 00:06:09.010
+Right.
+
+00:06:09.010 --> 00:06:14.010
+And the health burden layered on top of that age curve is incredibly heavy.
+
+00:06:14.010 --> 00:06:18.010
+We have to look past the spreadsheets for a second and imagine the daily reality.
+
+00:06:18.010 --> 00:06:20.010
+What does that look like on the ground?
+
+00:06:20.010 --> 00:06:26.010
+Well, poverty in Puerto Rico sits at 40.5% compared to a U.S. average of 12.5%.
+
+00:06:26.010 --> 00:06:27.010
+Wow.
+
+00:06:27.010 --> 00:06:28.010
+That's massive.
+
+00:06:28.010 --> 00:06:32.010
+Coupled with that poverty is a massive chronic disease burden.
+
+00:06:32.010 --> 00:06:37.010
+If you were to walk down a street in San Juan, statistically 60 to 70% of the adults you pass
+
+00:06:37.010 --> 00:06:40.010
+have at least one chronic medical condition.
+
+00:06:40.010 --> 00:06:42.010
+60 to 70%?
+
+00:06:42.010 --> 00:06:43.010
+Yeah.
+
+00:06:43.010 --> 00:06:46.010
+Hypertension rates are between 40 and 45%.
+
+00:06:46.010 --> 00:06:48.010
+Diabetes is at 17.8%.
+
+00:06:48.010 --> 00:06:53.010
+Nearly a third of the population reports their overall health as fair or poor,
+
+00:06:53.010 --> 00:06:55.010
+which is almost double the national average.
+
+00:06:55.010 --> 00:06:56.010
+Okay, wait.
+
+00:06:56.010 --> 00:07:00.010
+Let me push back on this a bit because I want to make sure I'm following the logic
+
+00:07:00.010 --> 00:07:03.010
+and I know people listening might be wondering this too.
+
+00:07:03.010 --> 00:07:04.010
+Sure, go ahead.
+
+00:07:04.010 --> 00:07:07.010
+I'm looking at the broader census data mentioned in the report.
+
+00:07:07.010 --> 00:07:13.010
+The overall population of Puerto Rico decreased by almost 12% in that same decade.
+
+00:07:13.010 --> 00:07:14.010
+Right.
+
+00:07:14.010 --> 00:07:15.010
+Outmigration is huge.
+
+00:07:15.010 --> 00:07:20.010
+So if you have a mass exodus and fewer people overall living on the island
+
+00:07:20.010 --> 00:07:23.010
+shouldn't the burden on the health care system be shrinking too?
+
+00:07:23.010 --> 00:07:26.010
+Like fewer people should technically mean fewer patients and less strain on that
+
+00:07:26.010 --> 00:07:28.010
+cap to budget, shouldn't it?
+
+00:07:28.010 --> 00:07:32.010
+It is a logical assumption, but it misses the qualitative shift
+
+00:07:32.010 --> 00:07:35.010
+or hollowing out of the population.
+
+00:07:35.010 --> 00:07:36.010
+Hollowing out?
+
+00:07:36.010 --> 00:07:37.010
+What do you mean?
+
+00:07:37.010 --> 00:07:40.010
+Well, the absolute number of people is dropping, yes.
+
+00:07:40.010 --> 00:07:44.010
+But the concentration of high need, medically complex and elderly individuals
+
+00:07:44.010 --> 00:07:46.010
+is increasing dramatically.
+
+00:07:46.010 --> 00:07:47.010
+Oh, I see.
+
+00:07:47.010 --> 00:07:51.010
+You are losing the healthy working age professionals who migrate away to build careers.
+
+00:07:51.010 --> 00:07:54.010
+Those are the very people who generate local tax revenue
+
+00:07:54.010 --> 00:07:57.010
+and don't actually use many health care services.
+
+00:07:57.010 --> 00:07:59.010
+Right, they aren't going to the doctor much.
+
+00:07:59.010 --> 00:08:00.010
+Exactly.
+
+00:08:00.010 --> 00:08:03.010
+Meanwhile, you are retaining the populations that have a soaring demand
+
+00:08:03.010 --> 00:08:07.010
+for intensive, expensive, long-term health care.
+
+00:08:07.010 --> 00:08:08.010
+Ah, okay.
+
+00:08:08.010 --> 00:08:11.010
+So you have a smaller pie, but the people who remain
+
+00:08:11.010 --> 00:08:14.010
+need a much, much bigger slice of it just to survive.
+
+00:08:14.010 --> 00:08:16.010
+That's a great way to put it.
+
+00:08:16.010 --> 00:08:20.010
+Because a younger population might just need, you know, annual checkups
+
+00:08:20.010 --> 00:08:24.010
+and maybe the occasional set of stitches, but an aging population
+
+00:08:24.010 --> 00:08:28.010
+needs entirely different, vastly more expensive interventions.
+
+00:08:28.010 --> 00:08:29.010
+Exactly.
+
+00:08:29.010 --> 00:08:32.010
+Let's look at the cancer data from the Puerto Rico Central Cancer Registry
+
+00:08:32.010 --> 00:08:33.010
+to illustrate this.
+
+00:08:33.010 --> 00:08:34.010
+Okay.
+
+00:08:34.010 --> 00:08:39.010
+Between 2019 and 2023, over 81,000 individuals were diagnosed with
+
+00:08:39.010 --> 00:08:43.010
+invasive cancers, prostate, breast, colorectal, lung.
+
+00:08:43.010 --> 00:08:44.010
+That's a lot of cases.
+
+00:08:44.010 --> 00:08:48.010
+And the report highlights that 42% of those newly diagnosed cancer patients
+
+00:08:48.010 --> 00:08:50.010
+relied on Medicaid in their first year of treatment.
+
+00:08:50.010 --> 00:08:52.010
+42%.
+
+00:08:52.010 --> 00:08:53.010
+Yeah.
+
+00:08:53.010 --> 00:08:55.010
+And cancer care isn't a one-time prescription, right?
+
+00:08:55.010 --> 00:08:59.010
+It requires ongoing infusions, radiation therapy, surgeries,
+
+00:08:59.010 --> 00:09:01.010
+and recurring specialists.
+
+00:09:01.010 --> 00:09:02.010
+It's incredibly expensive.
+
+00:09:02.010 --> 00:09:06.010
+Having 42% of a complex, highly expensive disease category
+
+00:09:06.010 --> 00:09:09.010
+fall entirely on a capped Medicaid system
+
+00:09:09.010 --> 00:09:11.010
+is just a mathematical nightmare.
+
+00:09:11.010 --> 00:09:15.010
+So this collision of high medical needs and capped funds
+
+00:09:15.010 --> 00:09:17.010
+basically means that certain safety nets,
+
+00:09:17.010 --> 00:09:20.010
+things Americans on the mainland just take for granted
+
+00:09:20.010 --> 00:09:23.010
+as part of the social contract simply do not exist in Puerto Rico.
+
+00:09:23.010 --> 00:09:24.010
+They really do?
+
+00:09:24.010 --> 00:09:28.010
+The financial structure basically dictates the medical reality on the ground.
+
+00:09:28.010 --> 00:09:29.010
+Yeah.
+
+00:09:29.010 --> 00:09:32.010
+And the disability crisis perfectly highlights this disparity.
+
+00:09:32.010 --> 00:09:37.010
+Almost half, 46.1% of Puerto Ricans with a disability
+
+00:09:37.010 --> 00:09:39.010
+live below the poverty line.
+
+00:09:39.010 --> 00:09:42.010
+Stateside, that number is 20.1%.
+
+00:09:42.010 --> 00:09:45.010
+That is over double the poverty rate for disabled individuals.
+
+00:09:45.010 --> 00:09:46.010
+It is.
+
+00:09:46.010 --> 00:09:48.010
+And this isn't just about jobs, right?
+
+00:09:48.010 --> 00:09:51.010
+It's about a gaping hole in federal support programs.
+
+00:09:51.010 --> 00:09:55.010
+There is a massive statutory exclusion at play here.
+
+00:09:55.010 --> 00:09:57.010
+U.S. citizens living in Puerto Rico
+
+00:09:57.010 --> 00:10:00.010
+do not have access to supplemental security income or SSI.
+
+00:10:00.010 --> 00:10:02.010
+Like, they just don't get it?
+
+00:10:02.010 --> 00:10:05.010
+By law, they are completely excluded from the program.
+
+00:10:05.010 --> 00:10:08.010
+Instead, they have to rely on a different capped block grant
+
+00:10:08.010 --> 00:10:12.010
+called Aid to the Aged Blind and Disabled, or AABD.
+
+00:10:12.010 --> 00:10:14.010
+Okay, so it's a different program.
+
+00:10:14.010 --> 00:10:15.010
+Right.
+
+00:10:15.010 --> 00:10:18.010
+And unlike SSI, which is fully federally funded,
+
+00:10:18.010 --> 00:10:23.010
+Puerto Rico actually has to match 25% of the funds it receives for AABD
+
+00:10:23.010 --> 00:10:25.010
+out of its own depleted coffers.
+
+00:10:25.010 --> 00:10:28.010
+Which means the actual cash hitting the pockets of a disabled citizen
+
+00:10:28.010 --> 00:10:30.010
+is completely different.
+
+00:10:30.010 --> 00:10:32.010
+The financial reality is jarring.
+
+00:10:32.010 --> 00:10:35.010
+Under AABD, a beneficiary in Puerto Rico
+
+00:10:35.010 --> 00:10:38.010
+receives an average of about $74 a month.
+
+00:10:38.010 --> 00:10:40.010
+$74 a month.
+
+00:10:40.010 --> 00:10:41.010
+Yeah.
+
+00:10:41.010 --> 00:10:44.010
+If that exact same U.S. citizen lived on the mainland
+
+00:10:44.010 --> 00:10:46.010
+and enrolled in SSI,
+
+00:10:46.010 --> 00:10:49.010
+they could receive up to $994 a month.
+
+00:10:49.010 --> 00:10:51.010
+Think about that for a second.
+
+00:10:51.010 --> 00:10:53.010
+We talk about safety nets in public policy,
+
+00:10:53.010 --> 00:10:56.010
+but $74 barely covers a week of specialized groceries
+
+00:10:56.010 --> 00:10:58.010
+for a severe diabetic,
+
+00:10:58.010 --> 00:11:02.010
+let alone rent or utilities or, you know, transportation to a clinic.
+
+00:11:02.010 --> 00:11:03.010
+It really doesn't go far.
+
+00:11:03.010 --> 00:11:07.010
+Building a healthcare system with a $74 a month disability payout
+
+00:11:07.010 --> 00:11:08.010
+isn't a safety net.
+
+00:11:08.010 --> 00:11:12.010
+It's like trying to catch people falling from a building with a fishing line.
+
+00:11:12.010 --> 00:11:15.010
+This raises an important question, right?
+
+00:11:15.010 --> 00:11:19.010
+What happens to these patients when the baseline support is that thin?
+
+00:11:19.010 --> 00:11:21.010
+They must just slip through the cracks.
+
+00:11:21.010 --> 00:11:23.010
+Well, the strain doesn't just vanish.
+
+00:11:23.010 --> 00:11:25.010
+It shifts.
+
+00:11:25.010 --> 00:11:28.010
+Because of the Medicaid funding limits we discussed earlier,
+
+00:11:28.010 --> 00:11:31.010
+Puerto Rico's Medicaid currently cannot cover long-term services
+
+00:11:31.010 --> 00:11:35.010
+in supports or LTSS in home and community-based settings.
+
+00:11:35.010 --> 00:11:38.010
+Let's clarify LTSS for a moment for everyone listening,
+
+00:11:38.010 --> 00:11:41.010
+because this isn't just about nursing homes, right?
+
+00:11:41.010 --> 00:11:42.010
+Right.
+
+00:11:42.010 --> 00:11:45.010
+We are talking about personal care aides coming to a house
+
+00:11:45.010 --> 00:11:48.010
+to help an elderly person bathe safely so they don't fall
+
+00:11:48.010 --> 00:11:52.010
+or residential services for adults with intellectual disabilities.
+
+00:11:52.010 --> 00:11:54.010
+Exactly those types of services.
+
+00:11:54.010 --> 00:11:57.010
+And because LTSS is practically non-existent,
+
+00:11:57.010 --> 00:12:00.010
+families are forced into impossible situations.
+
+00:12:00.010 --> 00:12:02.010
+I can only imagine.
+
+00:12:02.010 --> 00:12:06.010
+Often a working-age family member has to literally quit their job
+
+00:12:06.010 --> 00:12:08.010
+to provide full-time care,
+
+00:12:08.010 --> 00:12:11.010
+which of course further damages the local economy.
+
+00:12:11.010 --> 00:12:13.010
+Right, because now they aren't working.
+
+00:12:13.010 --> 00:12:16.010
+Or more dangerously, the patient goes without care
+
+00:12:16.010 --> 00:12:19.010
+until a manageable chronic condition becomes an acute emergency.
+
+00:12:19.010 --> 00:12:23.010
+A lack of LTSS forces patients into acute hospital settings.
+
+00:12:23.010 --> 00:12:26.010
+They end up in the emergency room for issues
+
+00:12:26.010 --> 00:12:28.010
+that absolutely should have been managed at home.
+
+00:12:28.010 --> 00:12:30.010
+Which turns the island's hospitals
+
+00:12:30.010 --> 00:12:33.010
+into these incredibly expensive, high-stress triage centers
+
+00:12:33.010 --> 00:12:35.010
+for chronic poverty.
+
+00:12:35.010 --> 00:12:36.010
+Exactly.
+
+00:12:36.010 --> 00:12:39.010
+And this severely strains facilities across the island.
+
+00:12:39.010 --> 00:12:41.010
+For instance, Puerto Rico's only trauma hospital
+
+00:12:41.010 --> 00:12:45.010
+currently operates at a negative 3.7% net profit margin.
+
+00:12:45.010 --> 00:12:47.010
+Negative 3.7%.
+
+00:12:47.010 --> 00:12:48.010
+Yes.
+
+00:12:48.010 --> 00:12:50.010
+Every single day they are losing money,
+
+00:12:50.010 --> 00:12:54.010
+providing uncompensated, deeply complex care.
+
+00:12:54.010 --> 00:12:56.010
+Meanwhile, average U.S. hospitals on the mainland
+
+00:12:56.010 --> 00:12:59.010
+enjoy a 6.7% positive profit margin.
+
+00:12:59.010 --> 00:13:00.010
+Wow.
+
+00:13:00.010 --> 00:13:03.010
+The system in Puerto Rico is quite literally bleeding out
+
+00:13:03.010 --> 00:13:06.010
+because they cannot fund the preventative community-based care
+
+00:13:06.010 --> 00:13:09.010
+that keeps people out of the trauma bay in the first place.
+
+00:13:09.010 --> 00:13:12.010
+So if the local system cannot provide essential care,
+
+00:13:12.010 --> 00:13:14.010
+like long-term support,
+
+00:13:14.010 --> 00:13:17.010
+and patients are receiving just $74 a month
+
+00:13:17.010 --> 00:13:20.010
+to survive on with a severe disability,
+
+00:13:20.010 --> 00:13:22.010
+they are forced to make a drastic choice.
+
+00:13:22.010 --> 00:13:23.010
+Yeah, they leave.
+
+00:13:23.010 --> 00:13:24.010
+They leave.
+
+00:13:24.010 --> 00:13:26.010
+And that choice triggers a wild,
+
+00:13:26.010 --> 00:13:29.010
+unexpected financial paradox for the federal government.
+
+00:13:29.010 --> 00:13:31.010
+It really does.
+
+00:13:31.010 --> 00:13:34.010
+We are seeing a massive migration domino effect.
+
+00:13:34.010 --> 00:13:37.010
+The outmigration from Puerto Rico to the States is profound.
+
+00:13:37.010 --> 00:13:40.010
+And health is a primary driver.
+
+00:13:40.010 --> 00:13:43.010
+The report mentioned some survey data on this, right?
+
+00:13:43.010 --> 00:13:44.010
+Yes.
+
+00:13:44.010 --> 00:13:47.010
+A 2023 survey by Ipsos of 400 adults
+
+00:13:47.010 --> 00:13:49.010
+who had recently relocated to the mainland
+
+00:13:49.010 --> 00:13:52.010
+revealed that 19% cited health services
+
+00:13:52.010 --> 00:13:54.010
+as a top five reason for moving.
+
+00:13:54.010 --> 00:13:57.010
+And 14% moved specifically to, quote,
+
+00:13:57.010 --> 00:13:58.010
+treat a health condition.
+
+00:13:58.010 --> 00:14:01.010
+They aren't just moving for better jobs or lower taxes.
+
+00:14:01.010 --> 00:14:04.010
+They are packing up their lives and moving across an ocean
+
+00:14:04.010 --> 00:14:06.010
+just to get the care they need to stay alive.
+
+00:14:06.010 --> 00:14:09.010
+And here is the financial irony for the federal government.
+
+00:14:09.010 --> 00:14:10.010
+Okay, let's hear it.
+
+00:14:10.010 --> 00:14:12.010
+Even though things like groceries, utilities,
+
+00:14:12.010 --> 00:14:15.010
+and consumer goods are notoriously expensive in Puerto Rico
+
+00:14:15.010 --> 00:14:17.010
+due to import laws,
+
+00:14:17.010 --> 00:14:20.010
+health care services themselves are actually much cheaper
+
+00:14:20.010 --> 00:14:22.010
+on the island than on the mainland.
+
+00:14:22.010 --> 00:14:24.010
+Really? How much cheaper?
+
+00:14:24.010 --> 00:14:27.010
+Well, in 2024, the total Medicaid benefit spending
+
+00:14:27.010 --> 00:14:29.010
+per enrollee in Puerto Rico
+
+00:14:29.010 --> 00:14:32.010
+was about $3,293 for the year.
+
+00:14:32.010 --> 00:14:34.010
+Okay, so about $3,300.
+
+00:14:34.010 --> 00:14:36.010
+What does that same patient cost
+
+00:14:36.010 --> 00:14:38.010
+if they move to the mainland?
+
+00:14:38.010 --> 00:14:43.010
+The median state on the mainland costs $10,377 per enrollee.
+
+00:14:43.010 --> 00:14:44.010
+Wow.
+
+00:14:44.010 --> 00:14:46.010
+It is over three times as expensive.
+
+00:14:46.010 --> 00:14:50.010
+So when an estimated 15,303 Medicaid-eligible individuals
+
+00:14:50.010 --> 00:14:53.010
+relocated from Puerto Rico to states like Florida,
+
+00:14:53.010 --> 00:14:56.010
+Texas, and Pennsylvania in 2024,
+
+00:14:56.010 --> 00:14:59.010
+they automatically qualified for state Medicaid.
+
+00:14:59.010 --> 00:15:00.010
+Because they are U.S. citizens.
+
+00:15:00.010 --> 00:15:01.010
+Exactly.
+
+00:15:01.010 --> 00:15:04.010
+Here's where it gets really interesting.
+
+00:15:04.010 --> 00:15:06.010
+If the federal government is paying three times as much
+
+00:15:06.010 --> 00:15:09.010
+for a patient in Florida compared to Puerto Rico,
+
+00:15:09.010 --> 00:15:11.010
+is it actually mathematically cheaper
+
+00:15:11.010 --> 00:15:14.010
+for the federal government to just give Puerto Rico
+
+00:15:14.010 --> 00:15:15.010
+the funding it's asking for
+
+00:15:15.010 --> 00:15:17.010
+rather than underfunding them
+
+00:15:17.010 --> 00:15:20.010
+and forcing this medical migration?
+
+00:15:20.010 --> 00:15:22.010
+The report actually crunched the numbers on this,
+
+00:15:22.010 --> 00:15:24.010
+and the math is undeniable.
+
+00:15:24.010 --> 00:15:27.010
+Covering those 15,000-plus relocated individuals
+
+00:15:27.010 --> 00:15:29.010
+on the mainland cost the federal government
+
+00:15:29.010 --> 00:15:32.010
+an estimated $96.8 million in a single year.
+
+00:15:32.010 --> 00:15:33.010
+Okay.
+
+00:15:33.010 --> 00:15:35.010
+If those exact same individuals had been able
+
+00:15:35.010 --> 00:15:38.010
+to stay in Puerto Rico and receive care there,
+
+00:15:38.010 --> 00:15:41.010
+the federal cost would have been $41.8 million.
+
+00:15:41.010 --> 00:15:42.010
+That is wild.
+
+00:15:42.010 --> 00:15:44.010
+I mean, the federal government is paying
+
+00:15:44.010 --> 00:15:46.010
+a massive arbitrage premium
+
+00:15:46.010 --> 00:15:49.010
+just because a citizen changed their zip code.
+
+00:15:49.010 --> 00:15:50.010
+Exactly.
+
+00:15:50.010 --> 00:15:53.010
+By actively underfunding the island's health care system,
+
+00:15:53.010 --> 00:15:54.010
+the federal government actually spent
+
+00:15:54.010 --> 00:15:57.010
+an additional $55 million in a single year.
+
+00:15:57.010 --> 00:15:59.010
+Just wasted money.
+
+00:15:59.010 --> 00:16:01.010
+They paid a 2.3 times higher premium
+
+00:16:01.010 --> 00:16:03.010
+for the exact same citizens.
+
+00:16:03.010 --> 00:16:05.010
+It's a staggering inefficiency.
+
+00:16:05.010 --> 00:16:08.010
+And remember, that is just a one-year snapshot
+
+00:16:08.010 --> 00:16:09.010
+of new migrants.
+
+00:16:09.010 --> 00:16:12.010
+It doesn't account for the compounding cumulative costs
+
+00:16:12.010 --> 00:16:14.010
+of the tens of thousands of people
+
+00:16:14.010 --> 00:16:16.010
+who migrated for health reasons in all the prior years.
+
+00:16:16.010 --> 00:16:18.010
+So knowing that underfunding Puerto Rico
+
+00:16:18.010 --> 00:16:21.010
+causes this incredibly costly ripple effect
+
+00:16:21.010 --> 00:16:22.010
+across the 50 states,
+
+00:16:22.010 --> 00:16:24.010
+we must look at what happens
+
+00:16:24.010 --> 00:16:27.010
+when the current temporary funding expires next year.
+
+00:16:27.010 --> 00:16:28.010
+This is the really scary part.
+
+00:16:28.010 --> 00:16:30.010
+The report calls it the 2027 cliff,
+
+00:16:30.010 --> 00:16:32.010
+and it just sounds apocalyptic
+
+00:16:32.010 --> 00:16:34.010
+for the health care infrastructure.
+
+00:16:34.010 --> 00:16:36.010
+The impending disaster is very real.
+
+00:16:36.010 --> 00:16:38.010
+In fiscal year 2028,
+
+00:16:38.010 --> 00:16:40.010
+Puerto Rico's FMAP, that federal matching rate
+
+00:16:40.010 --> 00:16:43.010
+we talked about, will legally revert to 55%.
+
+00:16:44.010 --> 00:16:45.010
+Ouch.
+
+00:16:45.010 --> 00:16:47.010
+Furthermore, the allotment ceiling will plummet
+
+00:16:47.010 --> 00:16:50.010
+back down to a baseline tied to 2019 levels.
+
+00:16:50.010 --> 00:16:53.010
+In practical terms, this equates to an annual drop
+
+00:16:53.010 --> 00:16:57.010
+in federal funding of approximately $3.36 billion.
+
+00:16:57.010 --> 00:17:00.010
+Over $3 billion evaporating
+
+00:17:00.010 --> 00:17:02.010
+from the health care system overnight.
+
+00:17:02.010 --> 00:17:03.010
+Yes.
+
+00:17:03.010 --> 00:17:05.010
+I mean, you can't just trim the fat
+
+00:17:05.010 --> 00:17:06.010
+to survive a cut like that.
+
+00:17:06.010 --> 00:17:08.010
+You are amputating limbs at that point.
+
+00:17:08.010 --> 00:17:11.010
+The human toll of that drop is dire.
+
+00:17:11.010 --> 00:17:14.010
+The projections show that anywhere from 860,000
+
+00:17:14.010 --> 00:17:16.010
+to 1 million beneficiaries
+
+00:17:16.010 --> 00:17:18.010
+could lose their health care coverage entirely.
+
+00:17:18.010 --> 00:17:20.010
+A million people.
+
+00:17:20.010 --> 00:17:22.010
+That's essentially a quarter of the island's population
+
+00:17:22.010 --> 00:17:24.010
+suddenly without access to a doctor.
+
+00:17:24.010 --> 00:17:25.010
+Right.
+
+00:17:25.010 --> 00:17:27.010
+The island's uninsured rate would skyrocket
+
+00:17:27.010 --> 00:17:31.010
+from its current 5.7% to roughly 30%.
+
+00:17:31.010 --> 00:17:32.010
+That's devastating.
+
+00:17:32.010 --> 00:17:34.010
+Furthermore, those recent additions to coverage
+
+00:17:34.010 --> 00:17:36.010
+that were just added in 2024,
+
+00:17:36.010 --> 00:17:38.010
+critical things like home health,
+
+00:17:38.010 --> 00:17:40.010
+durable medical equipment, hospice care,
+
+00:17:41.010 --> 00:17:43.010
+and non-emergency transportation
+
+00:17:43.010 --> 00:17:45.010
+would all be in immediate jeopardy.
+
+00:17:45.010 --> 00:17:47.010
+Which are the exact specific services
+
+00:17:47.010 --> 00:17:50.010
+a rapidly aging, chronically ill population
+
+00:17:50.010 --> 00:17:52.010
+desperately needs to stay out of the ER.
+
+00:17:52.010 --> 00:17:53.010
+Exactly.
+
+00:17:53.010 --> 00:17:55.010
+Okay, I have to ask a skeptical question here
+
+00:17:55.010 --> 00:17:57.010
+because I know it's on your mind
+
+00:17:57.010 --> 00:17:58.010
+as you listen to this.
+
+00:17:58.010 --> 00:17:59.010
+Go for it.
+
+00:17:59.010 --> 00:18:01.010
+Whenever we talk about massive funding gaps
+
+00:18:01.010 --> 00:18:02.010
+in government programs,
+
+00:18:02.010 --> 00:18:04.010
+critics usually point to, you know,
+
+00:18:04.010 --> 00:18:06.010
+local mismanagement.
+
+00:18:06.010 --> 00:18:07.010
+People are going to wonder,
+
+00:18:07.010 --> 00:18:10.010
+is Puerto Rico actually managing these funds properly
+
+00:18:10.010 --> 00:18:13.010
+or is this just a leaky bucket situation?
+
+00:18:13.010 --> 00:18:14.010
+That's a very common question.
+
+00:18:14.010 --> 00:18:16.010
+Because if the system is fundamentally broken
+
+00:18:16.010 --> 00:18:17.010
+and inefficient,
+
+00:18:17.010 --> 00:18:19.010
+just throwing billions of dollars at it
+
+00:18:19.010 --> 00:18:20.010
+won't actually fix the care.
+
+00:18:20.010 --> 00:18:22.010
+It is a very fair critique,
+
+00:18:22.010 --> 00:18:23.010
+often leveled to territories.
+
+00:18:23.010 --> 00:18:25.010
+And the report actually dedicates
+
+00:18:25.010 --> 00:18:27.010
+an extensive, highly technical section
+
+00:18:27.010 --> 00:18:29.010
+to system modernization and compliance
+
+00:18:29.010 --> 00:18:31.010
+precisely to clear this up.
+
+00:18:31.010 --> 00:18:32.010
+Okay, what do they say?
+
+00:18:32.010 --> 00:18:34.010
+Puerto Rico has actually met all
+
+00:18:34.010 --> 00:18:36.010
+Centers for Medicare and Medicaid Services
+
+00:18:36.010 --> 00:18:39.010
+or CMS integrity requirements.
+
+00:18:39.010 --> 00:18:41.010
+They aren't just holding out their hands for cash.
+
+00:18:41.010 --> 00:18:42.010
+They are actively building
+
+00:18:42.010 --> 00:18:44.010
+the modern digital infrastructure
+
+00:18:44.010 --> 00:18:46.010
+required to manage these funds efficiently.
+
+00:18:46.010 --> 00:18:48.010
+So what kind of infrastructure are we talking about?
+
+00:18:48.010 --> 00:18:50.010
+Like how are they proving they aren't a leaky bucket?
+
+00:18:50.010 --> 00:18:52.010
+Well, they've completely overhauled
+
+00:18:52.010 --> 00:18:54.010
+how they track data and money.
+
+00:18:54.010 --> 00:18:55.010
+For one, they successfully launched
+
+00:18:55.010 --> 00:18:57.010
+an enterprise data warehouse
+
+00:18:57.010 --> 00:18:59.010
+in February 2026.
+
+00:18:59.010 --> 00:19:00.010
+An enterprise data warehouse.
+
+00:19:00.010 --> 00:19:01.010
+Yeah.
+
+00:19:01.010 --> 00:19:02.010
+Okay.
+
+00:19:02.010 --> 00:19:04.010
+Think of this as a massive,
+
+00:19:04.010 --> 00:19:06.010
+centralized digital nervous system
+
+00:19:06.010 --> 00:19:08.010
+that links all patient demographics
+
+00:19:08.010 --> 00:19:09.010
+and billing together.
+
+00:19:09.010 --> 00:19:11.010
+It makes it incredibly difficult
+
+00:19:11.010 --> 00:19:14.010
+to double bill or lose track of patient outcomes.
+
+00:19:14.010 --> 00:19:15.010
+Okay, that's a good step.
+
+00:19:15.010 --> 00:19:18.010
+They also implemented an asset verification system.
+
+00:19:18.010 --> 00:19:21.010
+This digitally pings financial institutions
+
+00:19:21.010 --> 00:19:23.010
+in real time to check bank accounts
+
+00:19:23.010 --> 00:19:25.010
+ensuring people aren't hiding wealth
+
+00:19:25.010 --> 00:19:26.010
+to get benefits,
+
+00:19:26.010 --> 00:19:28.010
+which instantly cuts down on fraud.
+
+00:19:28.010 --> 00:19:30.010
+So they are actively modernizing
+
+00:19:30.010 --> 00:19:33.010
+the guardrails to protect the federal dollars.
+
+00:19:33.010 --> 00:19:34.010
+Exactly.
+
+00:19:34.010 --> 00:19:35.010
+Okay.
+
+00:19:35.010 --> 00:19:36.010
+And on the hospital side,
+
+00:19:36.010 --> 00:19:38.010
+they are utilizing a new diagnosis-related
+
+00:19:38.010 --> 00:19:40.010
+group-based payment system, or DRG.
+
+00:19:40.010 --> 00:19:42.010
+How does that work?
+
+00:19:42.010 --> 00:19:44.010
+Instead of a hospital billing Medicaid
+
+00:19:44.010 --> 00:19:46.010
+for every individual bandage,
+
+00:19:46.010 --> 00:19:48.010
+aspirin, and hour of a nurse's time,
+
+00:19:48.010 --> 00:19:50.010
+they get a flat fixed rate
+
+00:19:50.010 --> 00:19:52.010
+based on the patient's diagnosis.
+
+00:19:52.010 --> 00:19:53.010
+Oh, I see.
+
+00:19:53.010 --> 00:19:55.010
+So if a patient comes in for a heart attack,
+
+00:19:55.010 --> 00:19:57.010
+the hospital gets a set amount
+
+00:19:57.010 --> 00:19:59.010
+to treat that heart attack.
+
+00:19:59.010 --> 00:20:00.010
+This forces the hospital
+
+00:20:00.010 --> 00:20:02.010
+to be incredibly efficient with their resources,
+
+00:20:02.010 --> 00:20:05.010
+rather than just running up and open in a tab.
+
+00:20:05.010 --> 00:20:07.010
+That makes total sense.
+
+00:20:07.010 --> 00:20:08.010
+And because of these rigorous,
+
+00:20:08.010 --> 00:20:10.010
+proven program integrity measures,
+
+00:20:10.010 --> 00:20:11.010
+they've actually been awarded
+
+00:20:11.010 --> 00:20:14.010
+an extra $375 million annually
+
+00:20:14.010 --> 00:20:16.010
+by the federal government purely
+
+00:20:16.010 --> 00:20:17.010
+for their high compliance.
+
+00:20:17.010 --> 00:20:18.010
+Wait, really?
+
+00:20:18.010 --> 00:20:19.010
+So they are actively being rewarded
+
+00:20:19.010 --> 00:20:20.010
+for good management
+
+00:20:20.010 --> 00:20:22.010
+by the exact same federal government
+
+00:20:22.010 --> 00:20:23.010
+that caps their funding.
+
+00:20:23.010 --> 00:20:24.010
+Precisely.
+
+00:20:24.010 --> 00:20:25.010
+Mm-hmm.
+
+00:20:25.010 --> 00:20:26.010
+It's a bit ironic.
+
+00:20:26.010 --> 00:20:28.010
+And they are using the funds they do have
+
+00:20:28.010 --> 00:20:29.010
+to take aggressive steps
+
+00:20:29.010 --> 00:20:31.010
+to stabilize their provider network.
+
+00:20:31.010 --> 00:20:32.010
+How so?
+
+00:20:32.010 --> 00:20:34.010
+They are now reimbursing local doctors
+
+00:20:34.010 --> 00:20:38.010
+at 100% of the Medicare Part B fee schedule.
+
+00:20:38.010 --> 00:20:41.010
+This is a direct, calculated move
+
+00:20:41.010 --> 00:20:43.010
+to stop the brain drain of physicians
+
+00:20:43.010 --> 00:20:44.010
+who are leaving the island
+
+00:20:44.010 --> 00:20:46.010
+because they simply couldn't make a living.
+
+00:20:46.010 --> 00:20:47.010
+Wow.
+
+00:20:47.010 --> 00:20:48.010
+The data clearly shows
+
+00:20:48.010 --> 00:20:50.010
+it is not a management issue.
+
+00:20:50.010 --> 00:20:52.010
+It is a mathematical impossibility
+
+00:20:52.010 --> 00:20:55.010
+to sustain care under the statutory cap.
+
+00:20:55.010 --> 00:20:57.010
+The bucket isn't leaky.
+
+00:20:57.010 --> 00:20:59.010
+The bucket just isn't big enough
+
+00:20:59.010 --> 00:21:01.010
+to hold the water they need.
+
+00:21:01.010 --> 00:21:03.010
+So what does this all mean?
+
+00:21:03.010 --> 00:21:05.010
+Wrapping up this deep dive for you,
+
+00:21:05.010 --> 00:21:07.010
+it becomes incredibly clear
+
+00:21:07.010 --> 00:21:09.010
+that the Puerto Rico Medicaid report
+
+00:21:09.010 --> 00:21:11.010
+isn't just a localized plea for cash.
+
+00:21:11.010 --> 00:21:12.010
+Not at all.
+
+00:21:12.010 --> 00:21:14.010
+It is a highly detailed,
+
+00:21:14.010 --> 00:21:17.010
+structural analysis of an uneven playing field.
+
+00:21:17.010 --> 00:21:19.010
+We have this perfect storm,
+
+00:21:19.010 --> 00:21:20.010
+a capped funding model
+
+00:21:20.010 --> 00:21:22.010
+combined with rapid aging,
+
+00:21:22.010 --> 00:21:23.010
+incredibly high poverty,
+
+00:21:23.010 --> 00:21:25.010
+and unequal disability benefits.
+
+00:21:25.010 --> 00:21:28.010
+And the storm is driving a medical exodus
+
+00:21:28.010 --> 00:21:29.010
+of patients to the mainland,
+
+00:21:29.010 --> 00:21:31.010
+which in a twisted bit of irony,
+
+00:21:31.010 --> 00:21:33.010
+ultimately costs American taxpayers
+
+00:21:33.010 --> 00:21:35.010
+significantly more money overall.
+
+00:21:35.010 --> 00:21:37.010
+It's just a cycle of inefficiency.
+
+00:21:37.010 --> 00:21:39.010
+So the multi-sectoral boards asked to Congress
+
+00:21:39.010 --> 00:21:41.010
+is straightforward, if ambitious.
+
+00:21:41.010 --> 00:21:43.010
+They want them to remove
+
+00:21:43.010 --> 00:21:46.010
+the section 1108 allotment ceiling entirely.
+
+00:21:46.010 --> 00:21:49.010
+They want to apply the standard state F-Map formula,
+
+00:21:49.010 --> 00:21:51.010
+so Puerto Rico gets the 83% match
+
+00:21:51.010 --> 00:21:53.010
+they mathematically qualify for.
+
+00:21:53.010 --> 00:21:55.010
+And they want to include them
+
+00:21:55.010 --> 00:21:57.010
+in disproportionate share hospital payments
+
+00:21:57.010 --> 00:21:59.010
+to stabilize their bleeding trauma centers.
+
+00:21:59.010 --> 00:22:01.010
+And if we connect this to the bigger picture,
+
+00:22:01.010 --> 00:22:03.010
+I want to leave you with a final thought
+
+00:22:03.010 --> 00:22:04.010
+to mull over today.
+
+00:22:04.010 --> 00:22:05.010
+Good.
+
+00:22:05.010 --> 00:22:07.010
+We often frame federal budget caps
+
+00:22:07.010 --> 00:22:09.010
+in political debates as a way to save money
+
+00:22:09.010 --> 00:22:11.010
+or enforce fiscal discipline.
+
+00:22:11.010 --> 00:22:13.010
+It sounds incredibly responsible on paper.
+
+00:22:13.010 --> 00:22:15.010
+Sure, it plays well on the news.
+
+00:22:15.010 --> 00:22:17.010
+But if setting an arbitrary ceiling
+
+00:22:17.010 --> 00:22:19.010
+on Puerto Rico's health care funding
+
+00:22:19.010 --> 00:22:21.010
+simply forces those exact same citizens
+
+00:22:21.010 --> 00:22:23.010
+to move to states where their health care costs
+
+00:22:23.010 --> 00:22:25.010
+the federal government two to three times as much,
+
+00:22:25.010 --> 00:22:27.010
+we have to ask ourselves a difficult question.
+
+00:22:27.010 --> 00:22:28.010
+What's that?
+
+00:22:28.010 --> 00:22:30.010
+Are territorial budget caps
+
+00:22:30.010 --> 00:22:32.010
+actually saving the government money?
+
+00:22:32.010 --> 00:22:34.010
+Or are they just a bureaucratic trick
+
+00:22:34.010 --> 00:22:37.010
+to hide the true cost of care on someone else's balance sheet?
+
+00:22:37.010 --> 00:22:39.010
+It is a phenomenal question.
+
+00:22:39.010 --> 00:22:41.010
+Because when you look closely
+
+00:22:41.010 --> 00:22:44.010
+at the mechanisms of health care policy,
+
+00:22:44.010 --> 00:22:46.010
+trying to cap the cost of keeping humans alive
+
+00:22:46.010 --> 00:22:48.010
+doesn't erase the expense.
+
+00:22:48.010 --> 00:22:50.010
+It just shifts the burden.
+
+00:22:50.010 --> 00:22:52.010
+And usually at a premium.
+
+00:22:52.010 --> 00:22:54.010
+Thank you for joining us on this deep dive.
+
+00:22:54.010 --> 00:22:57.010
+Keep questioning the structures behind the headlines.
+
+00:22:57.010 --> 00:22:59.010
+And we will catch you next time.
+

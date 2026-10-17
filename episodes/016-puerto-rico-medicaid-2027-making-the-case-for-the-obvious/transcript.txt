@@ -1,0 +1,556 @@
+Welcome to The Deep Dive. Today we have our hands on a pretty massive, highly detailed document.
+Yeah, it's definitely a thick one.
+Right. It's the October 2026 multi-sectoral advisory board report on Puerto Rico's Medicaid program.
+And look, I know, a government financial report sounds like the kind of thing you read when you're trying to fall asleep.
+It really does.
+Exactly.
+But I promise it's not.
+Exactly. Our mission today for you listening is to uncover this really dramatic story hidden inside all these pages
+because it's about a looming 2027 funding cliff that threatens to strip healthcare from up to a million people.
+Which is just a massive number.
+It is. And oddly enough, we're going to explore how the United States government underfunding this program
+might actually be costing American taxpayers more money overall.
+Yeah, the paradox there is wild.
+It really is.
+So for anyone interested in economics or healthcare policy or even just, you know, systemic problem solving, this report is an absolute goldmine.
+To set a quick baseline for you, we are talking about a system that literally holds the lives of a huge portion of the island in its hands.
+Right.
+Right. Right now, roughly 40% of Puerto Rico's population relies on Medicaid.
+Wow, 40%.
+Yeah. And if you compare that to the U.S. average across the 50 states, which sits around 21%, you have almost double the reliance.
+Double the reliance, yeah.
+So this report is basically the definitive data-driven baseline.
+They are trying to get federal policymakers to understand the unique structural cracks in how this care is funded.
+Because they're running out of time, right?
+Exactly. They are desperately trying to sound the alarm before the clock runs out next year.
+Okay, let's unpack this because before we can even look at the crisis itself or this impending cliff, we really have to understand the fundamental difference in how the rules are written.
+Right. The rules for Puerto Rico versus the 50 states.
+Yeah, I mean it feels like they are playing two completely different games here.
+They really are.
+And the core issue here comes down to a mechanism called the Federal Medical Assistance Percentage, or FMAP for short.
+FMAP, okay.
+Yeah, FMAP.
+This is the formula the federal government uses to determine how much it chips in for a state's Medicaid program.
+Okay.
+For the 50 states, federal funding for Medicaid is open-ended.
+Meaning there's no limit?
+Exactly.
+If a state needs to cover allowable Medicaid costs, say, you know, there's an unexpected spike in a virus or some new expensive treatment hits the market,
+the federal government matches the state's spending without a cap.
+Okay, that makes sense.
+And depending on the state's economic situation, that federal match can sometimes go up to 83%.
+Wow, 83% is huge.
+It is.
+But Puerto Rico operates under a completely different framework.
+Specifically, they fall under a section 1108 capped allotment.
+Okay, I want to make sure we visualize this properly for everyone listening.
+It's like the states have an open tab at a restaurant, right?
+Yeah, that's a good way to think about it.
+Like if Florida or Texas orders $100 of health care, the federal government covers a strict percentage of that bill no matter what.
+Whether the final tab is $10,000 or $10 billion.
+Right, the percentage stays the same.
+But Puerto Rico isn't given an open tab.
+They are handed a fixed-value gift card.
+That is the perfect analogy.
+Because once Puerto Rico hits the limit on that gift card, the federal dollars just stop.
+Just completely stop.
+Completely.
+The territory then has to use its own local general funds to cover every single penny of care after that.
+Which has to be incredibly difficult.
+Oh, it is.
+Furthermore, their historical base F map, that underlying matching rate before they even hit the cap,
+is statutorily locked at a very low 55%.
+So wait, not only is the total amount capped, but the federal government is only paying 55 cents on the dollar leading up to that cap.
+That's right.
+I mean, that seems like a structure built to fail considering the economic challenges on the island.
+Well, there was a temporary bandage applied recently.
+The Consolidated Appropriations Act of 2023, which people often just call a CAA 2023,
+temporarily bumped Puerto Rico's matching rate up to 76%.
+Okay, that's a bit better.
+It was a big help.
+It also gave them a larger allotment ceiling, a bigger gift card using your analogy,
+which gradually steps up to $3.825 billion by fiscal year 2027.
+Okay, so a temporary boost.
+Right.
+And this temporary injection was huge.
+It allowed Puerto Rico to finally raise their eligibility threshold to 100% of the federal poverty level.
+Wait, what was it before?
+Prior to this, because funds were so tight, Puerto Rico had to use a local artificially low poverty level.
+Oh, wow.
+Yeah, which meant residents had to be significantly poorer than their counterparts on the mainland,
+just to qualify for the exact same basic medical care.
+Which fundamentally changes who actually gets to see a doctor.
+Exactly.
+But I mean, even with that temporary fix, a cap is still a cap, right?
+Like if inflation drives up the cost of medicine or if more people get sick, the cap doesn't care.
+It doesn't care at all.
+And what's fascinating here is that even with this temporary CAA 2023 boost,
+Puerto Rico estimates its expenditures for 2026 and 2027 will still exceed that new higher federal capped allotment.
+So they're still going to run out of money?
+Yes.
+The raw cost of providing basic modern medical care is simply outpacing the arbitrary statutory ceiling.
+And a rigid capped funding structure is dangerous on its own,
+but it becomes catastrophic when it collides with the reality of the people actually living in the system.
+Oh, absolutely.
+Because the demographic reality in Puerto Rico is shifting drastically,
+and that changes the entire mathematical equation for this funding.
+Yeah.
+We are basically looking at a demographic perfect storm.
+Puerto Rico has one of the most rapidly aging populations in the entire world.
+The entire world.
+Yes.
+Between 2010 and 2020, the population under 18 plummeted by nearly 38%.
+That is a staggering drop in youth.
+It really is.
+24.6% of the population is 65 or older.
+We compare that to just 18% in the 50 states.
+It's a huge difference.
+Right.
+And the health burden layered on top of that age curve is incredibly heavy.
+We have to look past the spreadsheets for a second and imagine the daily reality.
+What does that look like on the ground?
+Well, poverty in Puerto Rico sits at 40.5% compared to a U.S. average of 12.5%.
+Wow.
+That's massive.
+Coupled with that poverty is a massive chronic disease burden.
+If you were to walk down a street in San Juan, statistically 60 to 70% of the adults you pass
+have at least one chronic medical condition.
+60 to 70%?
+Yeah.
+Hypertension rates are between 40 and 45%.
+Diabetes is at 17.8%.
+Nearly a third of the population reports their overall health as fair or poor,
+which is almost double the national average.
+Okay, wait.
+Let me push back on this a bit because I want to make sure I'm following the logic
+and I know people listening might be wondering this too.
+Sure, go ahead.
+I'm looking at the broader census data mentioned in the report.
+The overall population of Puerto Rico decreased by almost 12% in that same decade.
+Right.
+Outmigration is huge.
+So if you have a mass exodus and fewer people overall living on the island
+shouldn't the burden on the health care system be shrinking too?
+Like fewer people should technically mean fewer patients and less strain on that
+cap to budget, shouldn't it?
+It is a logical assumption, but it misses the qualitative shift
+or hollowing out of the population.
+Hollowing out?
+What do you mean?
+Well, the absolute number of people is dropping, yes.
+But the concentration of high need, medically complex and elderly individuals
+is increasing dramatically.
+Oh, I see.
+You are losing the healthy working age professionals who migrate away to build careers.
+Those are the very people who generate local tax revenue
+and don't actually use many health care services.
+Right, they aren't going to the doctor much.
+Exactly.
+Meanwhile, you are retaining the populations that have a soaring demand
+for intensive, expensive, long-term health care.
+Ah, okay.
+So you have a smaller pie, but the people who remain
+need a much, much bigger slice of it just to survive.
+That's a great way to put it.
+Because a younger population might just need, you know, annual checkups
+and maybe the occasional set of stitches, but an aging population
+needs entirely different, vastly more expensive interventions.
+Exactly.
+Let's look at the cancer data from the Puerto Rico Central Cancer Registry
+to illustrate this.
+Okay.
+Between 2019 and 2023, over 81,000 individuals were diagnosed with
+invasive cancers, prostate, breast, colorectal, lung.
+That's a lot of cases.
+And the report highlights that 42% of those newly diagnosed cancer patients
+relied on Medicaid in their first year of treatment.
+42%.
+Yeah.
+And cancer care isn't a one-time prescription, right?
+It requires ongoing infusions, radiation therapy, surgeries,
+and recurring specialists.
+It's incredibly expensive.
+Having 42% of a complex, highly expensive disease category
+fall entirely on a capped Medicaid system
+is just a mathematical nightmare.
+So this collision of high medical needs and capped funds
+basically means that certain safety nets,
+things Americans on the mainland just take for granted
+as part of the social contract simply do not exist in Puerto Rico.
+They really do?
+The financial structure basically dictates the medical reality on the ground.
+Yeah.
+And the disability crisis perfectly highlights this disparity.
+Almost half, 46.1% of Puerto Ricans with a disability
+live below the poverty line.
+Stateside, that number is 20.1%.
+That is over double the poverty rate for disabled individuals.
+It is.
+And this isn't just about jobs, right?
+It's about a gaping hole in federal support programs.
+There is a massive statutory exclusion at play here.
+U.S. citizens living in Puerto Rico
+do not have access to supplemental security income or SSI.
+Like, they just don't get it?
+By law, they are completely excluded from the program.
+Instead, they have to rely on a different capped block grant
+called Aid to the Aged Blind and Disabled, or AABD.
+Okay, so it's a different program.
+Right.
+And unlike SSI, which is fully federally funded,
+Puerto Rico actually has to match 25% of the funds it receives for AABD
+out of its own depleted coffers.
+Which means the actual cash hitting the pockets of a disabled citizen
+is completely different.
+The financial reality is jarring.
+Under AABD, a beneficiary in Puerto Rico
+receives an average of about $74 a month.
+$74 a month.
+Yeah.
+If that exact same U.S. citizen lived on the mainland
+and enrolled in SSI,
+they could receive up to $994 a month.
+Think about that for a second.
+We talk about safety nets in public policy,
+but $74 barely covers a week of specialized groceries
+for a severe diabetic,
+let alone rent or utilities or, you know, transportation to a clinic.
+It really doesn't go far.
+Building a healthcare system with a $74 a month disability payout
+isn't a safety net.
+It's like trying to catch people falling from a building with a fishing line.
+This raises an important question, right?
+What happens to these patients when the baseline support is that thin?
+They must just slip through the cracks.
+Well, the strain doesn't just vanish.
+It shifts.
+Because of the Medicaid funding limits we discussed earlier,
+Puerto Rico's Medicaid currently cannot cover long-term services
+in supports or LTSS in home and community-based settings.
+Let's clarify LTSS for a moment for everyone listening,
+because this isn't just about nursing homes, right?
+Right.
+We are talking about personal care aides coming to a house
+to help an elderly person bathe safely so they don't fall
+or residential services for adults with intellectual disabilities.
+Exactly those types of services.
+And because LTSS is practically non-existent,
+families are forced into impossible situations.
+I can only imagine.
+Often a working-age family member has to literally quit their job
+to provide full-time care,
+which of course further damages the local economy.
+Right, because now they aren't working.
+Or more dangerously, the patient goes without care
+until a manageable chronic condition becomes an acute emergency.
+A lack of LTSS forces patients into acute hospital settings.
+They end up in the emergency room for issues
+that absolutely should have been managed at home.
+Which turns the island's hospitals
+into these incredibly expensive, high-stress triage centers
+for chronic poverty.
+Exactly.
+And this severely strains facilities across the island.
+For instance, Puerto Rico's only trauma hospital
+currently operates at a negative 3.7% net profit margin.
+Negative 3.7%.
+Yes.
+Every single day they are losing money,
+providing uncompensated, deeply complex care.
+Meanwhile, average U.S. hospitals on the mainland
+enjoy a 6.7% positive profit margin.
+Wow.
+The system in Puerto Rico is quite literally bleeding out
+because they cannot fund the preventative community-based care
+that keeps people out of the trauma bay in the first place.
+So if the local system cannot provide essential care,
+like long-term support,
+and patients are receiving just $74 a month
+to survive on with a severe disability,
+they are forced to make a drastic choice.
+Yeah, they leave.
+They leave.
+And that choice triggers a wild,
+unexpected financial paradox for the federal government.
+It really does.
+We are seeing a massive migration domino effect.
+The outmigration from Puerto Rico to the States is profound.
+And health is a primary driver.
+The report mentioned some survey data on this, right?
+Yes.
+A 2023 survey by Ipsos of 400 adults
+who had recently relocated to the mainland
+revealed that 19% cited health services
+as a top five reason for moving.
+And 14% moved specifically to, quote,
+treat a health condition.
+They aren't just moving for better jobs or lower taxes.
+They are packing up their lives and moving across an ocean
+just to get the care they need to stay alive.
+And here is the financial irony for the federal government.
+Okay, let's hear it.
+Even though things like groceries, utilities,
+and consumer goods are notoriously expensive in Puerto Rico
+due to import laws,
+health care services themselves are actually much cheaper
+on the island than on the mainland.
+Really? How much cheaper?
+Well, in 2024, the total Medicaid benefit spending
+per enrollee in Puerto Rico
+was about $3,293 for the year.
+Okay, so about $3,300.
+What does that same patient cost
+if they move to the mainland?
+The median state on the mainland costs $10,377 per enrollee.
+Wow.
+It is over three times as expensive.
+So when an estimated 15,303 Medicaid-eligible individuals
+relocated from Puerto Rico to states like Florida,
+Texas, and Pennsylvania in 2024,
+they automatically qualified for state Medicaid.
+Because they are U.S. citizens.
+Exactly.
+Here's where it gets really interesting.
+If the federal government is paying three times as much
+for a patient in Florida compared to Puerto Rico,
+is it actually mathematically cheaper
+for the federal government to just give Puerto Rico
+the funding it's asking for
+rather than underfunding them
+and forcing this medical migration?
+The report actually crunched the numbers on this,
+and the math is undeniable.
+Covering those 15,000-plus relocated individuals
+on the mainland cost the federal government
+an estimated $96.8 million in a single year.
+Okay.
+If those exact same individuals had been able
+to stay in Puerto Rico and receive care there,
+the federal cost would have been $41.8 million.
+That is wild.
+I mean, the federal government is paying
+a massive arbitrage premium
+just because a citizen changed their zip code.
+Exactly.
+By actively underfunding the island's health care system,
+the federal government actually spent
+an additional $55 million in a single year.
+Just wasted money.
+They paid a 2.3 times higher premium
+for the exact same citizens.
+It's a staggering inefficiency.
+And remember, that is just a one-year snapshot
+of new migrants.
+It doesn't account for the compounding cumulative costs
+of the tens of thousands of people
+who migrated for health reasons in all the prior years.
+So knowing that underfunding Puerto Rico
+causes this incredibly costly ripple effect
+across the 50 states,
+we must look at what happens
+when the current temporary funding expires next year.
+This is the really scary part.
+The report calls it the 2027 cliff,
+and it just sounds apocalyptic
+for the health care infrastructure.
+The impending disaster is very real.
+In fiscal year 2028,
+Puerto Rico's FMAP, that federal matching rate
+we talked about, will legally revert to 55%.
+Ouch.
+Furthermore, the allotment ceiling will plummet
+back down to a baseline tied to 2019 levels.
+In practical terms, this equates to an annual drop
+in federal funding of approximately $3.36 billion.
+Over $3 billion evaporating
+from the health care system overnight.
+Yes.
+I mean, you can't just trim the fat
+to survive a cut like that.
+You are amputating limbs at that point.
+The human toll of that drop is dire.
+The projections show that anywhere from 860,000
+to 1 million beneficiaries
+could lose their health care coverage entirely.
+A million people.
+That's essentially a quarter of the island's population
+suddenly without access to a doctor.
+Right.
+The island's uninsured rate would skyrocket
+from its current 5.7% to roughly 30%.
+That's devastating.
+Furthermore, those recent additions to coverage
+that were just added in 2024,
+critical things like home health,
+durable medical equipment, hospice care,
+and non-emergency transportation
+would all be in immediate jeopardy.
+Which are the exact specific services
+a rapidly aging, chronically ill population
+desperately needs to stay out of the ER.
+Exactly.
+Okay, I have to ask a skeptical question here
+because I know it's on your mind
+as you listen to this.
+Go for it.
+Whenever we talk about massive funding gaps
+in government programs,
+critics usually point to, you know,
+local mismanagement.
+People are going to wonder,
+is Puerto Rico actually managing these funds properly
+or is this just a leaky bucket situation?
+That's a very common question.
+Because if the system is fundamentally broken
+and inefficient,
+just throwing billions of dollars at it
+won't actually fix the care.
+It is a very fair critique,
+often leveled to territories.
+And the report actually dedicates
+an extensive, highly technical section
+to system modernization and compliance
+precisely to clear this up.
+Okay, what do they say?
+Puerto Rico has actually met all
+Centers for Medicare and Medicaid Services
+or CMS integrity requirements.
+They aren't just holding out their hands for cash.
+They are actively building
+the modern digital infrastructure
+required to manage these funds efficiently.
+So what kind of infrastructure are we talking about?
+Like how are they proving they aren't a leaky bucket?
+Well, they've completely overhauled
+how they track data and money.
+For one, they successfully launched
+an enterprise data warehouse
+in February 2026.
+An enterprise data warehouse.
+Yeah.
+Okay.
+Think of this as a massive,
+centralized digital nervous system
+that links all patient demographics
+and billing together.
+It makes it incredibly difficult
+to double bill or lose track of patient outcomes.
+Okay, that's a good step.
+They also implemented an asset verification system.
+This digitally pings financial institutions
+in real time to check bank accounts
+ensuring people aren't hiding wealth
+to get benefits,
+which instantly cuts down on fraud.
+So they are actively modernizing
+the guardrails to protect the federal dollars.
+Exactly.
+Okay.
+And on the hospital side,
+they are utilizing a new diagnosis-related
+group-based payment system, or DRG.
+How does that work?
+Instead of a hospital billing Medicaid
+for every individual bandage,
+aspirin, and hour of a nurse's time,
+they get a flat fixed rate
+based on the patient's diagnosis.
+Oh, I see.
+So if a patient comes in for a heart attack,
+the hospital gets a set amount
+to treat that heart attack.
+This forces the hospital
+to be incredibly efficient with their resources,
+rather than just running up and open in a tab.
+That makes total sense.
+And because of these rigorous,
+proven program integrity measures,
+they've actually been awarded
+an extra $375 million annually
+by the federal government purely
+for their high compliance.
+Wait, really?
+So they are actively being rewarded
+for good management
+by the exact same federal government
+that caps their funding.
+Precisely.
+Mm-hmm.
+It's a bit ironic.
+And they are using the funds they do have
+to take aggressive steps
+to stabilize their provider network.
+How so?
+They are now reimbursing local doctors
+at 100% of the Medicare Part B fee schedule.
+This is a direct, calculated move
+to stop the brain drain of physicians
+who are leaving the island
+because they simply couldn't make a living.
+Wow.
+The data clearly shows
+it is not a management issue.
+It is a mathematical impossibility
+to sustain care under the statutory cap.
+The bucket isn't leaky.
+The bucket just isn't big enough
+to hold the water they need.
+So what does this all mean?
+Wrapping up this deep dive for you,
+it becomes incredibly clear
+that the Puerto Rico Medicaid report
+isn't just a localized plea for cash.
+Not at all.
+It is a highly detailed,
+structural analysis of an uneven playing field.
+We have this perfect storm,
+a capped funding model
+combined with rapid aging,
+incredibly high poverty,
+and unequal disability benefits.
+And the storm is driving a medical exodus
+of patients to the mainland,
+which in a twisted bit of irony,
+ultimately costs American taxpayers
+significantly more money overall.
+It's just a cycle of inefficiency.
+So the multi-sectoral boards asked to Congress
+is straightforward, if ambitious.
+They want them to remove
+the section 1108 allotment ceiling entirely.
+They want to apply the standard state F-Map formula,
+so Puerto Rico gets the 83% match
+they mathematically qualify for.
+And they want to include them
+in disproportionate share hospital payments
+to stabilize their bleeding trauma centers.
+And if we connect this to the bigger picture,
+I want to leave you with a final thought
+to mull over today.
+Good.
+We often frame federal budget caps
+in political debates as a way to save money
+or enforce fiscal discipline.
+It sounds incredibly responsible on paper.
+Sure, it plays well on the news.
+But if setting an arbitrary ceiling
+on Puerto Rico's health care funding
+simply forces those exact same citizens
+to move to states where their health care costs
+the federal government two to three times as much,
+we have to ask ourselves a difficult question.
+What's that?
+Are territorial budget caps
+actually saving the government money?
+Or are they just a bureaucratic trick
+to hide the true cost of care on someone else's balance sheet?
+It is a phenomenal question.
+Because when you look closely
+at the mechanisms of health care policy,
+trying to cap the cost of keeping humans alive
+doesn't erase the expense.
+It just shifts the burden.
+And usually at a premium.
+Thank you for joining us on this deep dive.
+Keep questioning the structures behind the headlines.
+And we will catch you next time.
