@@ -595,7 +595,7 @@ def build_html(data, extra, asof):
   <div class="bandtxt">
     <div class="bandeyebrow">The Healthcare Paradox · Audience report · week {asof.isocalendar()[1]}</div>
     <div class="bandtitle">Who listens, where, and what they've said</div>
-    <div class="bandsub">As of {long_date(asof)} · everything since launch ({long_date(launch)}, {days_live} days) · YouTube, Spotify and the feed (OP3) read today</div>
+    <div class="bandsub">As of {long_date(asof)} · everything since launch ({long_date(launch)}, {days_live} days) · {"YouTube, Spotify and the feed (OP3)" if sp else "YouTube and the feed (OP3)"} read today{"" if sp else " · Spotify not read this time"}</div>
     <div class="bandsub" style="margin-top:6px"><a href="https://thehealthcareparadox.com" style="color:#fff;font-weight:600;text-decoration:underline">thehealthcareparadox.com</a> · <a href="mailto:info@thehealthcareparadox.com" style="color:#fff;font-weight:600;text-decoration:underline">info@thehealthcareparadox.com</a></div>
     <div class="platrow">{chips}</div>
   </div>
@@ -611,7 +611,7 @@ def build_html(data, extra, asof):
 
 <section>
   <div class="kpis">
-    <div class="kpi"><div class="lab">Total followers</div><div class="val">{fmt(total_followers)}</div><div class="foot">{fmt(yt_subs)} YouTube + {fmt(sp.get('followers') or 0)} Spotify</div></div>
+    <div class="kpi"><div class="lab">Total followers</div><div class="val">{fmt(total_followers)}</div><div class="foot">{fmt(yt_subs)} YouTube + {fmt(sp['followers']) + ' Spotify' if sp.get('followers') is not None else 'Spotify not read'}</div></div>
     <div class="kpi"><div class="lab">Feed downloads</div><div class="val">{fmt(feed['total'])}</div><div class="foot">since launch · all apps and the web</div></div>
     <div class="kpi"><div class="lab">YouTube views</div><div class="val">{yt_kpi}</div><div class="foot">{esc(yt_kpi_foot)}</div></div>
     <div class="kpi"><div class="lab">Comments and reviews</div><div class="val">{total_comments}</div><div class="foot">{len(yt_comments)} YouTube · {len(sp_comments)} Spotify · {len(reviews)} Apple reviews</div></div>
@@ -709,7 +709,8 @@ def snapshot_from(data, extra, asof):
             "yt_views_source": "analytics" if yta.get("views_all") is not None else "public",
             "yt_public_views": yt_public, "yt_subs": yt_subs,
             "sp_plays": sp.get("plays_all"), "sp_followers": sp.get("followers"),
-            "followers": yt_subs + (sp.get("followers") or 0)}
+            # a week without a Spotify read leaves the combined count out instead of dropping it
+            "followers": yt_subs + sp["followers"] if sp.get("followers") is not None else None}
     return snap
 
 
