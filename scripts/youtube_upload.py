@@ -13,8 +13,10 @@ One-time setup (about ten minutes, in the Google account that owns the channel):
   5. Give the client id and secret to the environment as THP_YT_CLIENT_ID and
      THP_YT_CLIENT_SECRET (or write ~/.config/thp/youtube_client.json with those two keys).
   6. python3 scripts/youtube_upload.py auth   -> prints a URL and a code; approve it in a
-     browser. The refresh token is saved to ~/.config/thp/youtube_token.json; copy its
-     "refresh_token" into THP_YT_REFRESH_TOKEN so cloud sessions survive container resets.
+     browser. The refresh token is saved with owner-only permissions to
+     ~/.config/thp/youtube_token.json and is never printed. Configure
+     THP_YT_REFRESH_TOKEN from that file without placing the value in shell history or logs
+     so cloud sessions survive container resets.
 
 Then, per episode:
   python3 scripts/youtube_upload.py upload promo/ep14-youtube.json [--privacy public]
@@ -24,6 +26,7 @@ import argparse
 import json
 import os
 import sys
+import tempfile
 import time
 from pathlib import Path
 
@@ -51,8 +54,19 @@ def client_credentials() -> tuple[str, str]:
 
 def save_token(tok: dict) -> None:
     TOKEN_FILE.parent.mkdir(parents=True, exist_ok=True)
-    TOKEN_FILE.write_text(json.dumps(tok, indent=2))
-    os.chmod(TOKEN_FILE, 0o600)
+    fd, temp_name = tempfile.mkstemp(prefix=f".{TOKEN_FILE.name}.", dir=TOKEN_FILE.parent)
+    try:
+        with os.fdopen(fd, "w") as f:
+            json.dump(tok, f, indent=2)
+            f.write("\n")
+            f.flush()
+            os.fsync(f.fileno())
+        os.chmod(temp_name, 0o600)
+        os.replace(temp_name, TOKEN_FILE)
+        os.chmod(TOKEN_FILE, 0o600)
+    finally:
+        if os.path.exists(temp_name):
+            os.unlink(temp_name)
 
 
 def cmd_auth(_args) -> None:
@@ -73,8 +87,7 @@ def cmd_auth(_args) -> None:
         if "access_token" in t:
             t["expires_at"] = time.time() + t.get("expires_in", 3600) - 60
             save_token(t)
-            print(f"authorized. token saved to {TOKEN_FILE}\n"
-                  f"THP_YT_REFRESH_TOKEN={t['refresh_token']}")
+            print(f"authorized. token saved securely to {TOKEN_FILE}")
             return
         err = t.get("error")
         if err == "slow_down":
@@ -87,21 +100,25 @@ def cmd_auth(_args) -> None:
 def access_token() -> str:
     cid, sec = client_credentials()
     tok = json.loads(TOKEN_FILE.read_text()) if TOKEN_FILE.exists() else {}
-    refresh = os.environ.get("THP_YT_REFRESH_TOKEN") or tok.get("refresh_token")
+    environment_refresh = os.environ.get("THP_YT_REFRESH_TOKEN")
+    refresh = environment_refresh or tok.get("refresh_token")
     if not refresh:
         sys.exit("error: not authorized yet; run `youtube_upload.py auth`")
-    if tok.get("access_token") and tok.get("expires_at", 0) > time.time() and tok.get("refresh_token") == refresh:
+    if (not environment_refresh and tok.get("access_token")
+            and tok.get("expires_at", 0) > time.time()):
         return tok["access_token"]
     r = requests.post("https://oauth2.googleapis.com/token", data={
         "client_id": cid, "client_secret": sec, "refresh_token": refresh,
         "grant_type": "refresh_token"}, timeout=30)
     if r.status_code != 200:
-        sys.exit(f"error: token refresh failed: {r.text}")
+        sys.exit(f"error: token refresh failed (HTTP {r.status_code}); "
+                 "run `youtube_upload.py auth` if access was revoked")
     t = r.json()
-    tok.update({"access_token": t["access_token"], "refresh_token": refresh,
-                "expires_at": time.time() + t.get("expires_in", 3600) - 60})
-    save_token(tok)
-    return tok["access_token"]
+    if not environment_refresh:
+        tok.update({"access_token": t["access_token"], "refresh_token": refresh,
+                    "expires_at": time.time() + t.get("expires_in", 3600) - 60})
+        save_token(tok)
+    return t["access_token"]
 
 
 def api(method: str, url: str, token: str, **kw) -> requests.Response:
